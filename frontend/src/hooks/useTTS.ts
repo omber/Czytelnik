@@ -30,9 +30,12 @@ export interface QueueItem {
   sentence: Sentence
 }
 
-export function useTTS(bookId: string, chapter: number) {
+export function useTTS(bookId: string, chapter: number, speed = 1) {
   const [current, setCurrent] = useState<TTSState | null>(null)
   const [isPaused, setIsPaused] = useState(false)
+
+  const speedRef = useRef(speed)
+  useEffect(() => { speedRef.current = speed }, [speed])
 
   const audioRef = useRef<HTMLAudioElement | null>(null)
   const rafRef = useRef<number | null>(null)
@@ -174,7 +177,7 @@ export function useTTS(bookId: string, chapter: number) {
         .trim()
       const utterance = new SpeechSynthesisUtterance(text)
       utterance.lang = 'pl-PL'
-      utterance.rate = 0.85
+      utterance.rate = speedRef.current
       const plVoice = window.speechSynthesis.getVoices().find(v => v.lang.startsWith('pl'))
       if (plVoice) utterance.voice = plVoice
       utterance.onend = () => { if (session === sessionRef.current) onDone() }
@@ -199,6 +202,7 @@ export function useTTS(bookId: string, chapter: number) {
       if (session !== sessionRef.current) return
 
       const audio = new Audio(mp3Url)
+      audio.playbackRate = speedRef.current
       audioRef.current = audio
 
       function tick() {

@@ -4,6 +4,8 @@ import ProfilePage from './pages/ProfilePage'
 import LibraryPage from './pages/LibraryPage'
 import ReaderPageRoute from './pages/ReaderPageRoute'
 import VocabPage from './pages/VocabPage'
+import StatsPage from './pages/StatsPage'
+import SettingsPage from './pages/SettingsPage'
 
 export default function App() {
   return (
@@ -14,6 +16,8 @@ export default function App() {
           <Route path="/library" element={<LibraryPage />} />
           <Route path="/read/:bookId/:chapter" element={<ReaderPageRoute />} />
           <Route path="/vocab" element={<VocabPage />} />
+          <Route path="/stats" element={<StatsPage />} />
+          <Route path="/settings" element={<SettingsPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </HashRouter>

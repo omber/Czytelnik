@@ -3,6 +3,8 @@ import { useParams, useNavigate } from 'react-router-dom'
 import { useUser } from '../context/UserContext'
 import { useProgress } from '../hooks/useProgress'
 import { useTTS, QueueItem } from '../hooks/useTTS'
+import { useSettings } from '../hooks/useSettings'
+import { useStats } from '../hooks/useStats'
 import { paginate } from '../lib/pagination'
 import { ChapterData, ChapterMeta, Token, Sentence } from '../types/book'
 import Paragraph from '../components/reader/Paragraph'
@@ -31,12 +33,24 @@ export default function ReaderPageRoute() {
   const [sheetOpen, setSheetOpen] = useState(false)
 
   const { progress, savePosition } = useProgress(currentUser ?? '')
+  const { settings } = useSettings(currentUser ?? '')
+  const { logSession, addUniqueWords } = useStats(currentUser ?? '')
 
   const bookIdStr = bookId ?? ''
   const chapterNum = parseInt(chapterParam ?? '1', 10)
 
   // TTS
-  const tts = useTTS(bookIdStr, chapterNum)
+  const tts = useTTS(bookIdStr, chapterNum, settings.ttsSpeed)
+
+  // Track session reading time
+  const sessionStartRef = useRef(Date.now())
+  useEffect(() => {
+    sessionStartRef.current = Date.now()
+    return () => {
+      const seconds = Math.round((Date.now() - sessionStartRef.current) / 1000)
+      if (seconds >= 5) logSession(bookIdStr, seconds)
+    }
+  }, [bookIdStr]) // eslint-disable-line react-hooks/exhaustive-deps
 
   // Current page: use stored page only if we're on the same chapter
   const savedProgress = progress[bookIdStr]
@@ -120,6 +134,13 @@ export default function ReaderPageRoute() {
         if (!savedProgress || savedProgress.chapter !== chapterNum) {
           savePosition(bookIdStr, chapterNum, 0)
         }
+        // Record all lemmas encountered in this chapter
+        const lemmas = chData.paragraphs
+          .flatMap(p => p.sentences)
+          .flatMap(s => s.tokens)
+          .filter(t => !t.is_space && t.lemma)
+          .map(t => t.lemma)
+        addUniqueWords(lemmas)
       })
       .catch(e => {
         if (!cancelled) setError(String(e))
@@ -182,7 +203,12 @@ export default function ReaderPageRoute() {
         )}
 
         {!loading && chapterData && (
-          <div className="text-base leading-7 text-white">
+          <div className={`text-white ${{
+            sm: 'text-sm leading-6',
+            base: 'text-base leading-7',
+            lg: 'text-lg leading-8',
+            xl: 'text-xl leading-9',
+          }[settings.fontSize]}`}>
             {currentParas.map(para => (
               <Paragraph
                 key={para.index}
