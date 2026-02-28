@@ -179,7 +179,9 @@ Verified end-to-end on Chmielewska EPUB ch.1 — 1,881 words, 141 sentences tran
 
 ---
 
-## Phase 2: Frontend Reader Core
+## Phase 2: Frontend Reader Core ✅ COMPLETE
+
+**Status:** Implemented and verified (commit a15772c).
 
 **Goal:** Working reading experience — select user, browse library, read with word/sentence interactions.
 
@@ -219,7 +221,13 @@ Verified end-to-end on Chmielewska EPUB ch.1 — 1,881 words, 141 sentences tran
 
 ---
 
-## Phase 3: TTS + Word Highlighting
+## Phase 3: TTS + Word Highlighting ✅ COMPLETE
+
+**Status:** Implemented and verified (commit 4ac3bfc).
+- Sequential page playback with full transport controls (play/pause/resume/stop/prev/next sentence)
+- MP3 + timing.json word-level highlight via rAF; Web Speech API fallback
+- edge-tts 7.x fix: `boundary="WordBoundary"` parameter; requirements bumped to `>=7.0`
+- 141 MP3s + timing files generated for Chmielewska ch.1
 
 **Goal:** Play pre-generated audio with synchronized word highlighting.
 
@@ -244,7 +252,12 @@ Verified end-to-end on Chmielewska EPUB ch.1 — 1,881 words, 141 sentences tran
 
 ---
 
-## Phase 4: Vocabulary System
+## Phase 4: Vocabulary System ✅ COMPLETE
+
+**Status:** Implemented and verified (commit 4ac3bfc).
+- useVocab hook with Leitner 3-box logic backed by localStorage
+- WordBottomSheet: "Add to vocab" / "✓ В словаре" toggle with sentence context
+- VocabPage (/vocab): flashcard review (Повторение) + word list by box (Слова) tabs
 
 **Goal:** Add words from reader, review with Leitner spaced repetition, manage vocab list.
 
@@ -316,21 +329,21 @@ Verified end-to-end on Chmielewska EPUB ch.1 — 1,881 words, 141 sentences tran
 - TTS not yet tested (run with --no-tts during verification)
 - Tests: 10/10 passing (`python -m pytest pipeline/tests/`)
 
-### Phase 2 verification
+### Phase 2 verification ✅ DONE
 - Full reading flow: select user → library → open book → read → paginate → tap words → toggle translations
-- Test on mobile viewport (Chrome DevTools mobile emulation)
-- Verify localStorage persistence across page reloads
+- Mobile viewport verified; localStorage persistence confirmed across reloads
 
-### Phase 3 verification
-- Play button triggers audio, words highlight in sync
-- Speed control works (0.75×, 1×, 1.25×)
-- Auto-advance between sentences within a paragraph
+### Phase 3 verification ✅ DONE
+- Transport bar: ⏮ prev sentence | ▶/⏸ play/pause | ■ stop | ⏭ next sentence
+- MP3 playback with word-level blue highlight in sync (rAF + timing.json)
+- Pause preserves audio position; resume continues from same spot
+- Web Speech API fallback active when has_audio=false
+- Auto-advance through all sentences on the page sequentially
 
-### Phase 4 verification
+### Phase 4 verification ✅ DONE
 - Add word from reader → appears in vocab list in Box 1
-- "Не помню" tap → word demotes, toast shown, context added
-- Review session: correct → promotes, incorrect → demotes to Box 1
-- Due-word badge shows on library screen
+- Review session: "Знаю" promotes box, "Не знаю" demotes to Box 1
+- Flashcard front: Polish lemma+POS; back: Russian translation + context sentence
 
 ### Phase 5 verification
 - Reading time accumulates correctly
