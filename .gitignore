@@ -1,6 +1,7 @@
 # Python
 pipeline/.venv/
 pipeline/.env
+!pipeline/.env.example
 pipeline/cache/
 pipeline/__pycache__/
 pipeline/**/__pycache__/
