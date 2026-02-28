@@ -136,6 +136,10 @@ def update_dictionary(chapters: list[list[Paragraph]]) -> Dictionary:
         lemma, pos = missing[idx]
         if result.result.type == "succeeded":
             raw = result.result.message.content[0].text.strip()
+            # Strip markdown code fences if present (e.g. ```json\n...\n```)
+            if raw.startswith("```"):
+                lines = [l for l in raw.splitlines() if not l.startswith("```")]
+                raw = "\n".join(lines).strip()
             try:
                 entry = json.loads(raw)
                 ru = entry.get("ru", "")

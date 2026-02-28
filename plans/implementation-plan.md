@@ -291,7 +291,8 @@ Verified end-to-end on Chmielewska EPUB ch.1 — 1,881 words, 141 sentences tran
 - `src/components/stats/StatsPage.tsx`: unique words, vocab breakdown by box, reading time, books/chapters completed, streak
 
 ### Step 5.3 — Settings page
-- `src/components/settings/SettingsPage.tsx`: switch user, TTS speed, font size, export CSV, reset progress
+- `src/components/settings/SettingsPage.tsx`: switch user, TTS speed, font size, light/dark theme toggle, export CSV, reset progress
+- Theme stored in `UserSettings.theme: 'dark' | 'light'`; apply via `class="dark"` on `<html>` + Tailwind `darkMode: 'class'`; toggle button in reader header and library header
 
 ### Step 5.4 — CSV export
 - `src/lib/csv-export.ts`: export vocab as CSV (lemma, surface, POS, translation, box, dates)
