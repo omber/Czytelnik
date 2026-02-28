@@ -8,10 +8,16 @@ const OPENING_PUNCT = new Set(['(', '[', '{', '«'])
 interface Props {
   sentence: SentenceType
   highlightedTokenIndex?: number
+  isPlaying?: boolean
   onWordTap?: (token: Token) => void
 }
 
-export default function Sentence({ sentence, highlightedTokenIndex, onWordTap }: Props) {
+export default function Sentence({
+  sentence,
+  highlightedTokenIndex,
+  isPlaying,
+  onWordTap,
+}: Props) {
   const [showTranslation, setShowTranslation] = useState(false)
 
   // Filter out space tokens for rendering
@@ -23,7 +29,7 @@ export default function Sentence({ sentence, highlightedTokenIndex, onWordTap }:
   }
 
   return (
-    <span className="inline">
+    <span className={`inline ${isPlaying ? 'rounded bg-blue-950/30' : ''}`}>
       {tokens.map((token, i) => {
         const nextToken = tokens[i + 1]
 
@@ -47,11 +53,11 @@ export default function Sentence({ sentence, highlightedTokenIndex, onWordTap }:
         )
       })}
 
-      {/* Translation toggle button — inline after the last token */}
+      {/* Sentence translation toggle */}
       {sentence.translation && (
         <button
           onClick={toggleTranslation}
-          className={`inline-flex items-center align-middle ml-1.5 px-1.5 py-0.5 rounded text-xs font-medium transition-colors ${
+          className={`inline-flex items-center align-middle ml-1 px-1.5 py-0.5 rounded text-xs font-medium transition-colors ${
             showTranslation
               ? 'bg-blue-500/30 text-blue-300'
               : 'bg-slate-700/60 text-slate-500 hover:text-slate-300 hover:bg-slate-700'

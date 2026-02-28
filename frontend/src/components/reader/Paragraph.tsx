@@ -1,19 +1,19 @@
 import { Fragment } from 'react'
-import { Paragraph as ParagraphType, Token } from '../../types/book'
+import { Paragraph as ParagraphType, Sentence as SentenceType, Token } from '../../types/book'
 import Sentence from './Sentence'
 
 interface Props {
   paragraph: ParagraphType
-  highlightedSentence?: number
-  highlightedToken?: number
-  onWordTap?: (token: Token) => void
+  onWordTap?: (token: Token, sentence: SentenceType) => void
+  playingSentIdx?: number | null
+  playingTokenIdx?: number | null
 }
 
 export default function Paragraph({
   paragraph,
-  highlightedSentence,
-  highlightedToken,
   onWordTap,
+  playingSentIdx,
+  playingTokenIdx,
 }: Props) {
   return (
     <div className="mb-5">
@@ -23,9 +23,10 @@ export default function Paragraph({
           <Sentence
             sentence={sent}
             highlightedTokenIndex={
-              highlightedSentence === sent.index ? highlightedToken : undefined
+              playingSentIdx === sent.index ? (playingTokenIdx ?? undefined) : undefined
             }
-            onWordTap={onWordTap}
+            isPlaying={playingSentIdx === sent.index}
+            onWordTap={token => onWordTap?.(token, sent)}
           />
         </Fragment>
       ))}

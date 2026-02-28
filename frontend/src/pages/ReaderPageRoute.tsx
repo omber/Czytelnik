@@ -2,8 +2,9 @@ import { useState, useEffect, useRef } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { useUser } from '../context/UserContext'
 import { useProgress } from '../hooks/useProgress'
+import { useTTS, QueueItem } from '../hooks/useTTS'
 import { paginate } from '../lib/pagination'
-import { ChapterData, ChapterMeta, Token } from '../types/book'
+import { ChapterData, ChapterMeta, Token, Sentence } from '../types/book'
 import Paragraph from '../components/reader/Paragraph'
 import ReaderHeader from '../components/reader/ReaderHeader'
 import WordBottomSheet from '../components/reader/WordBottomSheet'
@@ -23,13 +24,19 @@ export default function ReaderPageRoute() {
   const [bookTitle, setBookTitle] = useState('')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+
+  // Word tap state — track token + sentence for vocab context
   const [selectedToken, setSelectedToken] = useState<Token | null>(null)
+  const [selectedSentence, setSelectedSentence] = useState<Sentence | null>(null)
   const [sheetOpen, setSheetOpen] = useState(false)
 
   const { progress, savePosition } = useProgress(currentUser ?? '')
 
   const bookIdStr = bookId ?? ''
   const chapterNum = parseInt(chapterParam ?? '1', 10)
+
+  // TTS
+  const tts = useTTS(bookIdStr, chapterNum)
 
   // Current page: use stored page only if we're on the same chapter
   const savedProgress = progress[bookIdStr]
@@ -40,7 +47,20 @@ export default function ReaderPageRoute() {
   const totalPages = Math.max(pages.length, 1)
 
   function setPage(page: number) {
+    tts.stop()
     savePosition(bookIdStr, chapterNum, page)
+  }
+
+  // Build a flat queue of all sentences on the current page
+  const currentParas = pages[currentPage] ?? []
+  function buildPageQueue(): QueueItem[] {
+    const items: QueueItem[] = []
+    for (const para of currentParas) {
+      for (const sent of para.sentences) {
+        items.push({ paraIdx: para.index, sentIdx: sent.index, sentence: sent })
+      }
+    }
+    return items
   }
 
   // Swipe navigation
@@ -163,19 +183,95 @@ export default function ReaderPageRoute() {
 
         {!loading && chapterData && (
           <div className="text-base leading-7 text-white">
-            {(pages[currentPage] ?? []).map(para => (
+            {currentParas.map(para => (
               <Paragraph
                 key={para.index}
                 paragraph={para}
-                onWordTap={token => {
+                onWordTap={(token, sentence) => {
                   setSelectedToken(token)
+                  setSelectedSentence(sentence)
                   setSheetOpen(true)
                 }}
+                playingSentIdx={
+                  tts.current?.paraIdx === para.index ? tts.current.sentIdx : null
+                }
+                playingTokenIdx={
+                  tts.current?.paraIdx === para.index
+                    ? tts.current.highlightedTokenIndex
+                    : null
+                }
               />
             ))}
 
-            {/* Bottom page navigation */}
-            <div className="flex justify-between mt-6 pb-8">
+            {/* TTS transport bar */}
+            <div className="flex items-center justify-center gap-2 mt-6">
+              {/* Prev sentence */}
+              <button
+                onClick={tts.prevSentence}
+                disabled={!tts.isActive}
+                className="p-3 rounded-xl bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
+                aria-label="Предыдущее предложение"
+              >
+                <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M6 6h2v12H6zm3.5 6 8.5 6V6z" />
+                </svg>
+              </button>
+
+              {/* Play / Pause / Resume */}
+              <button
+                onClick={() => {
+                  if (tts.isPlaying) tts.pause()
+                  else if (tts.isPaused) tts.resume()
+                  else tts.play(buildPageQueue())
+                }}
+                className={`flex items-center gap-2 py-3 px-6 rounded-xl text-sm font-medium transition-colors ${
+                  tts.isActive
+                    ? 'bg-blue-600 text-white hover:bg-blue-700'
+                    : 'bg-slate-700 text-slate-200 hover:bg-slate-600'
+                }`}
+                aria-label={tts.isPlaying ? 'Пауза' : tts.isPaused ? 'Продолжить' : 'Слушать'}
+              >
+                {tts.isPlaying ? (
+                  // Pause icon
+                  <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+                  </svg>
+                ) : (
+                  // Play icon
+                  <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M8 5v14l11-7z" />
+                  </svg>
+                )}
+                {tts.isPlaying ? 'Пауза' : tts.isPaused ? 'Продолжить' : 'Слушать'}
+              </button>
+
+              {/* Stop — only visible when active */}
+              <button
+                onClick={tts.stop}
+                disabled={!tts.isActive}
+                className="p-3 rounded-xl bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
+                aria-label="Стоп"
+              >
+                <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+                  <rect x="6" y="6" width="12" height="12" rx="1" />
+                </svg>
+              </button>
+
+              {/* Next sentence */}
+              <button
+                onClick={tts.nextSentence}
+                disabled={!tts.isActive}
+                className="p-3 rounded-xl bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
+                aria-label="Следующее предложение"
+              >
+                <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M6 18l8.5-6L6 6v12zm2-8.14 4.48 3.14L8 16.14V9.86zM16 6h2v12h-2z" />
+                </svg>
+              </button>
+            </div>
+
+            {/* Page navigation */}
+            <div className="flex items-center justify-between mt-3 pb-8">
               <button
                 onClick={() => currentPage > 0 && setPage(currentPage - 1)}
                 disabled={currentPage === 0}
@@ -199,6 +295,9 @@ export default function ReaderPageRoute() {
 
       <WordBottomSheet
         token={selectedToken}
+        sentence={selectedSentence}
+        bookId={bookIdStr}
+        chapter={chapterNum}
         open={sheetOpen}
         onClose={() => setSheetOpen(false)}
       />

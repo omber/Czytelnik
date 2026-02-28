@@ -20,6 +20,12 @@ export default function LibraryPage() {
       <header className="sticky top-0 z-10 bg-slate-900/95 backdrop-blur border-b border-slate-800 px-4 py-3 flex items-center justify-between">
         <h1 className="text-xl font-bold tracking-tight">Czytelnik</h1>
         <div className="flex items-center gap-3">
+          <button
+            onClick={() => navigate('/vocab')}
+            className="text-sm text-slate-400 hover:text-white transition-colors px-2 py-1 rounded-lg hover:bg-slate-800"
+          >
+            Слова
+          </button>
           <span className="text-slate-400 text-sm truncate max-w-[120px]">{currentUser}</span>
           <button
             onClick={() => {

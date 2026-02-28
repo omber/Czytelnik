@@ -8,7 +8,7 @@
         {
           "index": 0,
           "translation": "Я торжественно и с полной искренностью заявляю, что все лица и ситуации в данном произведении являются вымыслом, и любое совпадение с действительностью является исключительно случайным.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Uroczyście",
@@ -220,7 +220,7 @@
         {
           "index": 0,
           "translation": "Как я не писала романа",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jak",
@@ -264,7 +264,7 @@
         {
           "index": 0,
           "translation": "В одном из самых молодых, самых давних лет во мне горело страстное желание написать повесть.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Od",
@@ -375,7 +375,7 @@
         {
           "index": 1,
           "translation": "Это было столь давно, столь запущенно, столь глубоко укоренилось, что, быть может, родилось вместе со мной.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Było",
@@ -531,7 +531,7 @@
         {
           "index": 0,
           "translation": "Она не мечтала ни о карьере кинозвезды, ни о браке с принцем из сказки.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -666,7 +666,7 @@
         {
           "index": 1,
           "translation": "Нет, ничего такого.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -729,7 +729,7 @@
         {
           "index": 2,
           "translation": "Мне мечталось написать роман.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Marzyłam",
@@ -781,7 +781,7 @@
         {
           "index": 0,
           "translation": "В давние времена раннего детства я намеревалась написать потрясающий роман о любви.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -892,7 +892,7 @@
         {
           "index": 1,
           "translation": "В меру несчастья видела я интересное, ибо в счастье не замечала ничего примечательного.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -1003,7 +1003,7 @@
         {
           "index": 2,
           "translation": "Я должна была выступить в роли главной героини, молодой девушки чудесной красоты и неординарных достоинств, наделённой пылким чувством неким мне ближе неизвестным человеком.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sama",
@@ -1226,7 +1226,7 @@
         {
           "index": 3,
           "translation": "Лицо было огненно-темным, смуглым, с темными, горящими глазами и такими же черными усами.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Facet",
@@ -1345,7 +1345,7 @@
         {
           "index": 4,
           "translation": "Первый поцелуй нас объединил в самых необычных обстоятельствах: на мчащихся конях, ночью, во время бушующей грозы, града и атмосферных разрядов, на краю вековечного леса.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Łączył",
@@ -1616,7 +1616,7 @@
         {
           "index": 5,
           "translation": "Боград понимал, почему всё было таким угольно-чёрным!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Bóg",
@@ -1708,7 +1708,7 @@
         {
           "index": 0,
           "translation": "Постепенно, продолжая намерение запечатлеть естественные чувства, я изменила некоторые реквизиты.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stopniowo",
@@ -1835,7 +1835,7 @@
         {
           "index": 1,
           "translation": "Бурную ночь я превратила в погожий, лунный вечер, сбрила мужику усы и ликвидировала коней.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Burzliwą",
@@ -1970,7 +1970,7 @@
         {
           "index": 2,
           "translation": "Впоследствии я вносил дальнейшие изменения как в поверхностность, так и в поведение обоих главных героев, но, несмотря на самые искренние усилия, никогда мне не удалось выйти за пределы сцены первого поцелуя.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Potem",
@@ -2262,7 +2262,7 @@
         {
           "index": 0,
           "translation": "Zczasami jednak drobny na pozór fakt wybił mnie z tematu.\n\nВремя от времени, однако, какой-нибудь мелкий на вид факт сбивал меня с толку.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -2370,7 +2370,7 @@
         {
           "index": 0,
           "translation": "У меня было тогда уже наверное лет двенадцать.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Miałam",
@@ -2441,7 +2441,7 @@
         {
           "index": 1,
           "translation": "Поздним вечером я сидела дома, у стола, при свете горящей лампы, в обществе матери и её сестры, моей тётки.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Późnym",
@@ -2648,7 +2648,7 @@
         {
           "index": 2,
           "translation": "Я читала чудесный, морозящий кровь криминальный роман под названием «Страшный горб».",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czytałam",
@@ -2775,7 +2775,7 @@
         {
           "index": 3,
           "translation": "Преступник был настолько напуган, что вскочил на стул с ногами, прижался к нему в очень неудобной позе и старался занимать как можно меньше места.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kryminał",
@@ -2990,7 +2990,7 @@
         {
           "index": 4,
           "translation": "Боялась я смертельно и не хотела ни в какую сторону не выставлять конечностей, особенно не рисковать таинственной безопасностью подвергаемых опасности членов тела.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Bałam",
@@ -3141,7 +3141,7 @@
         {
           "index": 5,
           "translation": "Я, должно быть, имела испуганное и встревоженное выражение лица, потому что тётя, взглянув на меня однажды, отвлеклась от раскладываемого пасьянса и больше не спускала с меня глаз.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Musiałam",
@@ -3388,7 +3388,7 @@
         {
           "index": 6,
           "translation": "Поднеся жест к рту, я указала матери и сказала спокойным, обычным голосом, как будто говорила о погоде:",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Potem",
@@ -3544,7 +3544,7 @@
         {
           "index": 0,
           "translation": "— О, стойте, я с вами.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3612,7 +3612,7 @@
         {
           "index": 0,
           "translation": "Я пронзительно вскрикнула и упала со стула.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wrzasnęłam",
@@ -3675,7 +3675,7 @@
         {
           "index": 1,
           "translation": "За следующие тринадцать суток никакая сила на свете не смогла бы заставить меня войти в тёмную комнату.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przez",
@@ -3823,7 +3823,7 @@
         {
           "index": 0,
           "translation": "Очнувшись немного и выбравшись из-под влияния чтения о Горбусе, я какое-то время размышляла, пока не пришла к выводу, что преступление всё же является элементом куда более увлекательным, чем любовь, даже земная.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oprzytomniawszy",
@@ -4094,7 +4094,7 @@
         {
           "index": 1,
           "translation": "С того момента я стала мечтать о том, чтобы написать детектив.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Od",
@@ -4162,7 +4162,7 @@
         {
           "index": 0,
           "translation": "Плыли годы, время летело, я вышла замуж, закончила образование, но что бы ни случилось, я всё ещё хотела написать роман.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Płynęły",
@@ -4353,7 +4353,7 @@
         {
           "index": 1,
           "translation": "К сожалению, с течением времени нежелание не стало препятствием для его преодоления.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niestety",
@@ -4464,7 +4464,7 @@
         {
           "index": 2,
           "translation": "Подлый Сосбдарзыл наделил меня чрезмерной фантазией, которая затрудняла мне не только возможное творчество, но и саму жизнь.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Podły",
@@ -4636,7 +4636,7 @@
         {
           "index": 0,
           "translation": "В жизни вызвала осложнения брака.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -4691,7 +4691,7 @@
         {
           "index": 1,
           "translation": "Однажды я вдруг осознала, что должна пробудить в муже немного ревности.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pewnego",
@@ -4818,7 +4818,7 @@
         {
           "index": 2,
           "translation": "Я не имела времени на какие-либо реальные действия, но могла представить себе всё, что только приходило мне в голову.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -4993,7 +4993,7 @@
         {
           "index": 3,
           "translation": "Воображение начало действовать, и прежде чем я успела оглядеться, я уже увидела себя рядом с соблазнительным красивым блондином, который, пристально вглядываясь в меня ослепительным взглядом, прилагал усилия, чтобы меня соблазнить.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyobraźnia",
@@ -5272,7 +5272,7 @@
         {
           "index": 4,
           "translation": "Разумеется, все его старания были изначально обречены на неудачу, потому что речь шла не о романтике, а лишь о демонстрации.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oczywiście",
@@ -5471,7 +5471,7 @@
         {
           "index": 5,
           "translation": "Я притворялась сумасшедшей, проявляя интерес исключительно для того, чтобы муж наконец оставил меня в покое.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Udawałam",
@@ -5598,7 +5598,7 @@
         {
           "index": 6,
           "translation": "Долго это продолжалось, блондин нетерпеливился, муж словно загорелся чувством, поэтому в конце концов я решила, что пришла пора выйти на сцену, отпустить блондина с миром и всё объяснить.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Długo",
@@ -5882,7 +5882,7 @@
         {
           "index": 0,
           "translation": "Я стояла над письменным столом и гладила детские рубашки.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stałam",
@@ -5953,7 +5953,7 @@
         {
           "index": 1,
           "translation": "Мысленным взором я видела внутренность кафе \"Крокодил\", на втором этаже, зал в глубине, на ступеньках.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oczyma",
@@ -6112,7 +6112,7 @@
         {
           "index": 2,
           "translation": "Я сидела рядом с блондином у столика у стены и тонко объясняла ему, что служила ему лишь инструментом, а мои пылкие чувства к нему были исключительно продуманной выдумкой.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Siedziałam",
@@ -6351,7 +6351,7 @@
         {
           "index": 3,
           "translation": "Одновременно я выражала надежду, что мифический персонаж простит меня и что мы останемся в дружбе.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Równocześnie",
@@ -6470,7 +6470,7 @@
         {
           "index": 4,
           "translation": "Блондин оказался человеком культурным на должном уровне, не ввергся в чрезмерное отчаяние из-за меня, простил, и мы вели беседу в совершенном согласии и великолепном юморе.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Blondyn",
@@ -6701,7 +6701,7 @@
         {
           "index": 5,
           "translation": "Я намеревалась себе дальше представлять, как муж, шалеющий от отчаяния и возрожденного чувства, устраивает адскую сцену, как он падает мне в объятия, как всё объясняется и в идеальной гармонии мы играем с блондинкой в бридж.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zamierzałam",
@@ -7028,7 +7028,7 @@
         {
           "index": 6,
           "translation": "Четвёртым мог бы быть кто-то.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czwartym",
@@ -7088,7 +7088,7 @@
         {
           "index": 0,
           "translation": "Тем временем в ходе разговора со светловолосой женщиной я смотрела на вход и вдруг увидела, как в этом входе стоит мой муж в обществе другой блондинки...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -7316,7 +7316,7 @@
         {
           "index": 0,
           "translation": "Меня немного раздразнило, что эту сцену я не предусмотрел в программе.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zdenerwowało",
@@ -7427,7 +7427,7 @@
         {
           "index": 1,
           "translation": "Я взяла следующую детскую рубашку и отступила к началу объяснений с блондином.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sięgnęłam",
@@ -7546,7 +7546,7 @@
         {
           "index": 2,
           "translation": "Я доехала до того же момента разговора, посмотрела на вход и снова увидела мужчину с грустной блондинкой.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dojechałam",
@@ -7697,7 +7697,7 @@
         {
           "index": 3,
           "translation": "Я решила не бороться с образом, а просто смотреть, что будет дальше.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Postanowiłam",
@@ -7808,7 +7808,7 @@
         {
           "index": 4,
           "translation": "Муж с блондинкой вошли и сели за столик, муж в ланцугах, блондинка величественно и царственно.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mąż",
@@ -7959,7 +7959,7 @@
         {
           "index": 5,
           "translation": "Я пренебрегла своей блондинкой и молча наблюдала за ней.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zaniedbałam",
@@ -8051,7 +8051,7 @@
         {
           "index": 0,
           "translation": "Муж встал и пошёл в буфет.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mąż",
@@ -8114,7 +8114,7 @@
         {
           "index": 1,
           "translation": "Поднялась я, подошла к блондинке, села рядом и спросила:",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Podniosłam",
@@ -8222,7 +8222,7 @@
         {
           "index": 0,
           "translation": "—Позвольте вас очень просить, что вас связывает с этим господином, который вас сопровождает?",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8362,7 +8362,7 @@
         {
           "index": 0,
           "translation": "Блондинка посмотрела на нас с лёгким удивлением.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Blondynka",
@@ -8438,7 +8438,7 @@
         {
           "index": 0,
           "translation": "— Том — мой муж, — ответила она спокойно.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8514,7 +8514,7 @@
         {
           "index": 0,
           "translation": "Я не верила своим ушам.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -8561,7 +8561,7 @@
         {
           "index": 1,
           "translation": "Невероятно ошеломленная, я посмотрела на парня у буфета.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niesłychanie",
@@ -8640,7 +8640,7 @@
         {
           "index": 2,
           "translation": "Нет, мой собственный муж, словно козёл!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -8732,7 +8732,7 @@
         {
           "index": 0,
           "translation": "—Но ведь этот господин женат! —воскликнула я в ужасе.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8840,7 +8840,7 @@
         {
           "index": 0,
           "translation": "— Ах, пожалуйста, сударь, — ответила блондинка снисходительно.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8927,7 +8927,7 @@
         {
           "index": 1,
           "translation": "—Что значит бумага перед чувством...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9011,7 +9011,7 @@
         {
           "index": 0,
           "translation": "Это уже было слишком потрясающе!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -9066,7 +9066,7 @@
         {
           "index": 1,
           "translation": "Не знаю, что бы я сделала в ближайший момент в «Крокодиле», если бы не то, что под раковиной с шипением расплавилась пуговица из пластической массы.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -9305,7 +9305,7 @@
         {
           "index": 2,
           "translation": "Резко вырванная из рук мужчины блондинка, выведенная из равновесия, подняла утюг и некоторое время не знала, что с ним делать.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gwałtownie",
@@ -9504,7 +9504,7 @@
         {
           "index": 3,
           "translation": "Я старалась поставить его на маслёнку, потом положила в чашку с водой для замачивания рубашек, и наконец опомнилась, когда он со звуком упал на пол.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Usiłowałam",
@@ -9740,7 +9740,7 @@
         {
           "index": 0,
           "translation": "Образ блондинки был настолько назойлив, что я не могла от него избавиться, и в течение нескольких дней относилась к мужу подозрительно и недоверчиво, что в сочетании с напряженностью вызвало временное охлаждение в отношениях.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obraz",
@@ -10024,7 +10024,7 @@
         {
           "index": 0,
           "translation": "У меня была подруга, а у подруги был брат.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Miałam",
@@ -10095,7 +10095,7 @@
         {
           "index": 1,
           "translation": "Брат имел мотоцикл, жену и антиталант механический.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Brat",
@@ -10190,7 +10190,7 @@
         {
           "index": 2,
           "translation": "Жена была очаровательной женщиной, при которой его господство явственно набирало силу.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Żona",
@@ -10301,7 +10301,7 @@
         {
           "index": 3,
           "translation": "Еще мой муж держался как-то так, потому что, хотя она была красива, не была в его вкусе, но мужу друзей при одном виде разъяренной Данусь огнем из ноздрей пускала и искры крушила, и возможно, ему случалось даже прорваться смехом, когда никто не слышал.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jeszcze",
@@ -10713,7 +10713,7 @@
         {
           "index": 0,
           "translation": "Все три пары имели моторы и мы лелеяли планы совместного проведения туристического отпуска.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wszystkie",
@@ -10824,7 +10824,7 @@
         {
           "index": 1,
           "translation": "Учитывая, что брат моей подруги обладает поистине исключительным антиталантом в механике и полным неумением в этой области, мы с моим мужем заранее дали друг другу слово, что в случае поломки не будем ему помогать.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zważywszy",
@@ -11095,7 +11095,7 @@
         {
           "index": 2,
           "translation": "Мы уже много раз клялись при различных обстоятельствах и всегда нарушали клятву, ворча и сетуя, но на этот раз это должно было быть иначе.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zaprzysięgali",
@@ -11331,7 +11331,7 @@
         {
           "index": 0,
           "translation": "— Ты себе это представляешь? — мечтательно говорила жена моему другу.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11450,7 +11450,7 @@
         {
           "index": 1,
           "translation": "— Тадеуш раздобыл полтину, а мы ничего!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11529,7 +11529,7 @@
         {
           "index": 2,
           "translation": "Тадеуш колесо откручивает, покрышку снимает, а мы себе на травке, в коровнике... Ты понимаешь?",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tadeusz",
@@ -11709,7 +11709,7 @@
         {
           "index": 0,
           "translation": "— Накачивает... — добавил мой муж столь же мечтательно.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11812,7 +11812,7 @@
         {
           "index": 1,
           "translation": "— Амник!...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11888,7 +11888,7 @@
         {
           "index": 0,
           "translation": "Ехав в троллейбусе и глядя в окно на залитую солнцем улицу, я вдруг увидела знакомый мне вид: длинное серое шоссе, деревья по обеим сторонам, у края дороги стоят тракторы...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jadąc",
@@ -12191,7 +12191,7 @@
         {
           "index": 1,
           "translation": "При одном из nich opływających potęm nieszczęsny Tadeusz szarpie się z opornymkołem.\n\nПрошу прощения, но в предоставленном тексте отсутствуют пробелы и знаки препинания. Вот попытка интерпретации:\n\nПри одном из них опливающих потом несчастный Тадеуш рывками боролся с упорным колесом.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przy",
@@ -12310,7 +12310,7 @@
         {
           "index": 2,
           "translation": "На зелёном, травистом лугу два насмешливых мужчины, сияющие весельем, брызгающие юмором, шармантно обхаживают рассмешённую Данусю. И вот вам идиллия!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -12493,7 +12493,7 @@
         {
           "index": 3,
           "translation": "Я со своей подругой на краю, покинутые, забытые, одинокие...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -12633,7 +12633,7 @@
         {
           "index": 0,
           "translation": "Выразительный образ заслонил мне весь мир.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sugestywny",
@@ -12696,7 +12696,7 @@
         {
           "index": 1,
           "translation": "Я вошла в роль!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Weszłam",
@@ -12740,7 +12740,7 @@
         {
           "index": 0,
           "translation": "Я посмотрела с неудовольствием на веселившуюся в углу группу, а потом бросила взгляд на подругу.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -12875,7 +12875,7 @@
         {
           "index": 1,
           "translation": "Она смотрела на них, и на её лице сверкала едва сдерживаемая ярость.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Patrzyła",
@@ -12986,7 +12986,7 @@
         {
           "index": 2,
           "translation": "Я считала, что одинаковые чувства переполняют нас обоих, поэтому я могла ожидать от неё полного понимания.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Uznałam",
@@ -13129,7 +13129,7 @@
         {
           "index": 3,
           "translation": "Толкнув его локтем, жестом указала на наш мотоцикл, стоящий с ключом в замке зажигания.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Trąciłam",
@@ -13264,7 +13264,7 @@
         {
           "index": 4,
           "translation": "Подруга молча кивнула, в глазах её вспыхнул мстительный блеск.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyjaciółka",
@@ -13375,7 +13375,7 @@
         {
           "index": 5,
           "translation": "Мы подошли к мотору, я спустила его с подставки и пнула стартер.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Podeszłyśmy",
@@ -13478,7 +13478,7 @@
         {
           "index": 6,
           "translation": "Я воспламенил его мгновенно, как только это могло произойти разве что в моем воображении, так как в действительности он был исключительно упорен при зажигании, но у меня не было теперь времени учитывать глупые причуды механического средства передвижения.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zapalił",
@@ -13741,7 +13741,7 @@
         {
           "index": 7,
           "translation": "Не успело занимпроменное товарищество в ровнице обратить на нас внимание и среагировать, как уже силок рыкнул, уже подружка сидела позади нас, и великолепным рывком мы помчались в синь вдаль.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zanim",
@@ -13988,7 +13988,7 @@
         {
           "index": 8,
           "translation": "Я рассердилась на дядю и не было и речи о том, чтобы нас могли догнать, кроме того, наш мотор тащил больше всех.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ze",
@@ -14200,7 +14200,7 @@
         {
           "index": 0,
           "translation": "Через какое-то время мы приехали на турбазу PTTK, где уже раньше собирались остановиться.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -14351,7 +14351,7 @@
         {
           "index": 1,
           "translation": "Количество пройденных километров я не уточнила, как и время в пути, учитывая, что всё равно неизвестно было, когда Тадеуш закончит чинить колесо.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ilości",
@@ -14574,7 +14574,7 @@
         {
           "index": 2,
           "translation": "Довольные предприятием, удовлетворённые, мы оставили мотор, пообедали и ждали угнетённых господ и властелинов, сидя на ступенях здания и наблюдая видневшуюся вдали шоссе.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zadowolone",
@@ -14826,7 +14826,7 @@
         {
           "index": 0,
           "translation": "Я ясно видела перед собой полосу растущих вдоль дороги деревьев, ближе кусты, которые закрывали поворот, и ещё ближе снова дорогу.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyraźnie",
@@ -15017,7 +15017,7 @@
         {
           "index": 1,
           "translation": "Я услышала грохот моторов.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Usłyszałam",
@@ -15056,7 +15056,7 @@
         {
           "index": 2,
           "translation": "Приближалась, нарастала внезапно из-за кустов, из-за поворота, выехали два знакомых мотоцикла.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zbliżał",
@@ -15199,7 +15199,7 @@
         {
           "index": 3,
           "translation": "Однажды я ехала с подругой и её братом, а в другой раз...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -15326,7 +15326,7 @@
         {
           "index": 4,
           "translation": "мой муж с Данусей!!!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "mój",
@@ -15394,7 +15394,7 @@
         {
           "index": 0,
           "translation": "Ноние, я не намеревалась этого видеть.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "No",
@@ -15473,7 +15473,7 @@
         {
           "index": 1,
           "translation": "Они должны были приехать в надлежащем состоянии, сокрушены, встревожены, пристыжены своим предыдущим, совершенно идиотским поведением...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oni",
@@ -15656,7 +15656,7 @@
         {
           "index": 2,
           "translation": "Аниетак!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -15700,7 +15700,7 @@
         {
           "index": 0,
           "translation": "Я вернулась к исходной точке.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wróciłam",
@@ -15747,7 +15747,7 @@
         {
           "index": 1,
           "translation": "Снова мы сидели в ожидании, снова я услышала издалека гул.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Znów",
@@ -15842,7 +15842,7 @@
         {
           "index": 2,
           "translation": "Звоню закрутулетели два мотора и снова то же самое: мой муж с Данусей!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zza",
@@ -15974,7 +15974,7 @@
         {
           "index": 0,
           "translation": "Выстрел не попал в цель.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Szlag",
@@ -16013,7 +16013,7 @@
         {
           "index": 1,
           "translation": "Покоренная внушительным образом, я вскочила с места и бросилась к мотору.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Opanowana",
@@ -16129,7 +16129,7 @@
         {
           "index": 0,
           "translation": "Ты едешь?!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16168,7 +16168,7 @@
         {
           "index": 1,
           "translation": "— закричала я в ярости своей подруге.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16231,7 +16231,7 @@
         {
           "index": 2,
           "translation": "Подруга в знак солидарности поспешила вслед за мной.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyjaciółka",
@@ -16286,7 +16286,7 @@
         {
           "index": 3,
           "translation": "Бессознательно в приступе ярости я ринулась дальше по дороге.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nieprzytomna",
@@ -16362,7 +16362,7 @@
         {
           "index": 0,
           "translation": "Затем произошли странные осложнения.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dalej",
@@ -16409,7 +16409,7 @@
         {
           "index": 1,
           "translation": "Поскольку с самого начала я не предусмотрела запрета брать с собой рюкзак, уже в спешке не смогла поместить его в поле зрения и остались мы лишены самого необходимого.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -16608,7 +16608,7 @@
         {
           "index": 2,
           "translation": "На добре не было способу установить места по новому встречи, ибо слишком глубоко укоренилось во мне убеждение, что наши мужья лишены здравого рассудка и не потрафят нас найти.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -16863,7 +16863,7 @@
         {
           "index": 3,
           "translation": "Должны ли мы были их искать?",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Miałyśmy",
@@ -16902,7 +16902,7 @@
         {
           "index": 4,
           "translation": "Изгнанные, последний позор!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wykluczone",
@@ -16949,7 +16949,7 @@
         {
           "index": 5,
           "translation": "Нет, я не могу позволить такому беспорядку только потому, что этому снеговику понравилось ездить с Данусей, я должен ему наконец помешать!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -17161,7 +17161,7 @@
         {
           "index": 0,
           "translation": "Я вернулась в третий раз к той же сцене. Безуспешно!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -17272,7 +17272,7 @@
         {
           "index": 1,
           "translation": "По разе четвёртый, пятый, шестой...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -17359,7 +17359,7 @@
         {
           "index": 2,
           "translation": "Каждый раз, когда из кустов выскакивал мотоцикл, Дануся падала позади своего мужа!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Za",
@@ -17475,7 +17475,7 @@
         {
           "index": 0,
           "translation": "Как я намучилась, чтобы её с этого мотоцикла сбросить — это просто за пределами человеческого понимания!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ile",
@@ -17610,7 +17610,7 @@
         {
           "index": 1,
           "translation": "К сожалению, воображение было сильнее меня.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niestety",
@@ -17681,7 +17681,7 @@
         {
           "index": 2,
           "translation": "Я вышла из троллейбуса в беспамятстве, вне себя от ярости, два остановки дальше, и того же вечера без всякой причины устроила мужу ужасный скандал.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wysiadłam",
@@ -17880,7 +17880,7 @@
         {
           "index": 3,
           "translation": "Мое супружеское счастье было явно под угрозой.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Moje",
@@ -17948,7 +17948,7 @@
         {
           "index": 0,
           "translation": "Та же история повторялась в рассказах.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ta",
@@ -18019,7 +18019,7 @@
         {
           "index": 1,
           "translation": "Я не могу перевести этот текст, так как он не является корректным польским текстом. Это выглядит как набор символов без правильного написания и пробелов. \n\nПожалуйста, предоставьте корректный польский текст для перевода.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "O",
@@ -18098,7 +18098,7 @@
         {
           "index": 2,
           "translation": "Я видела, как они ходят, сидят, делают разные вещи, совершенно независимо от меня.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Widziałam",
@@ -18233,7 +18233,7 @@
         {
           "index": 3,
           "translation": "Жила собственной жизнью, а я мог только ей наблюдать.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Żyli",
@@ -18341,7 +18341,7 @@
         {
           "index": 0,
           "translation": "Полбеды было, когда их начинания имели какой-то смысл.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pół",
@@ -18436,7 +18436,7 @@
         {
           "index": 1,
           "translation": "К сожалению, это были непредсказуемые люди, полные глупых затей!...",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niestety",
@@ -18560,7 +18560,7 @@
         {
           "index": 0,
           "translation": "В чудесном криминале, действие которого начало разворачиваться передо мною, произошла ключевая сцена, в которой четверо героев сидят в комнате и ведут разговор, объясняющий коренные вопросы романа.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "We",
@@ -18847,7 +18847,7 @@
         {
           "index": 1,
           "translation": "Самый важный экземпляр, молодой, красивый блондин (опять блондин!",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Najważniejszy",
@@ -18942,7 +18942,7 @@
         {
           "index": 2,
           "translation": "Что касается, своей дорогой, этих блондинок! мне нужно включиться в дискуссию в драматический момент, когда всё запутано и никто ничего не понимает, вызывая тем самым взрывное решение.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Co",
@@ -19242,7 +19242,7 @@
         {
           "index": 0,
           "translation": "С интересом наблюдала я, как они сидят и разговаривают, раздраженные, озабоченные, полные беспокойства.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -19377,7 +19377,7 @@
         {
           "index": 1,
           "translation": "Наконец они молчат, растерянные, и смотрят на блондинку.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wreszcie",
@@ -19464,7 +19464,7 @@
         {
           "index": 2,
           "translation": "Я тоже посмотрела на блондинку.",
-          "has_audio": false,
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ja",

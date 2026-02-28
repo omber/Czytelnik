@@ -1,7 +1,7 @@
 spacy>=3.7,<4.0
 requests>=2.31
 anthropic>=0.25
-edge-tts>=6.1
+edge-tts>=7.0
 ebooklib>=0.18
 beautifulsoup4>=4.12
 lxml>=5.0

@@ -1,6 +1,24 @@
-import { Token } from '../../types/book'
+import { Token, Sentence } from '../../types/book'
 import BottomSheet from '../ui/BottomSheet'
 import { useDictionary } from '../../hooks/useDictionary'
+import { useVocab } from '../../hooks/useVocab'
+import { useUser } from '../../context/UserContext'
+
+const CLOSING_PUNCT = new Set([',', '.', '!', '?', ':', ';', ')', ']', '}', '»', '…', '—'])
+const OPENING_PUNCT = new Set(['(', '[', '{', '«'])
+
+function buildSentenceText(tokens: Token[]): string {
+  const visible = tokens.filter(t => !t.is_space)
+  let result = ''
+  visible.forEach((token, i) => {
+    result += token.surface
+    const next = visible[i + 1]
+    if (next && !CLOSING_PUNCT.has(next.surface) && !OPENING_PUNCT.has(token.surface)) {
+      result += ' '
+    }
+  })
+  return result.trim()
+}
 
 const POS_LABELS: Record<string, string> = {
   NOUN: 'сущ.',
@@ -49,12 +67,24 @@ function parseMorphTags(morph: string): string[] {
 
 interface Props {
   token: Token | null
+  sentence: Sentence | null
+  bookId: string
+  chapter: number
   open: boolean
   onClose: () => void
 }
 
-export default function WordBottomSheet({ token, open, onClose }: Props) {
+export default function WordBottomSheet({
+  token,
+  sentence,
+  bookId,
+  chapter,
+  open,
+  onClose,
+}: Props) {
   const { lookup } = useDictionary()
+  const { currentUser } = useUser()
+  const vocab = useVocab(currentUser ?? '')
 
   if (!token) return null
 
@@ -62,6 +92,22 @@ export default function WordBottomSheet({ token, open, onClose }: Props) {
   const morphTags = parseMorphTags(token.morph)
   const isDifferentForm = token.surface.toLowerCase() !== token.lemma.toLowerCase()
   const ruTranslation = lookup(token.lemma)
+  const inVocab = vocab.isInVocab(token.lemma)
+
+  function handleAddToVocab() {
+    if (!sentence) return
+    const sentenceText = buildSentenceText(sentence.tokens)
+    vocab.add(
+      { lemma: token!.lemma, surface: token!.surface, pos: token!.pos },
+      ruTranslation,
+      {
+        bookId,
+        chapter,
+        sentenceText,
+        sentenceTranslation: sentence.translation ?? '',
+      },
+    )
+  }
 
   return (
     <BottomSheet open={open} onClose={onClose}>
@@ -100,11 +146,21 @@ export default function WordBottomSheet({ token, open, onClose }: Props) {
           </div>
         )}
 
-        {/* Actions — stubs for Phase 4 */}
+        {/* Add to vocab button */}
         <div className="pt-2 border-t border-slate-800">
-          <button className="w-full py-3 rounded-xl bg-blue-600/20 text-blue-400 text-sm font-medium hover:bg-blue-600/30 active:scale-[0.98] transition-all">
-            + Добавить в словарь
-          </button>
+          {inVocab ? (
+            <div className="w-full py-3 rounded-xl bg-green-600/15 text-green-400 text-sm font-medium text-center border border-green-900/40">
+              ✓ В словаре
+            </div>
+          ) : (
+            <button
+              onClick={handleAddToVocab}
+              disabled={!sentence}
+              className="w-full py-3 rounded-xl bg-blue-600/20 text-blue-400 text-sm font-medium hover:bg-blue-600/30 active:scale-[0.98] transition-all disabled:opacity-40 disabled:cursor-not-allowed"
+            >
+              + Добавить в словарь
+            </button>
+          )}
         </div>
       </div>
     </BottomSheet>

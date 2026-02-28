@@ -80,7 +80,7 @@ async def _generate_sentence_audio(
     Generate MP3 + collect WordBoundary events for *text*.
     Writes MP3 to *mp3_path*; returns the raw word boundary list.
     """
-    communicate = edge_tts.Communicate(text, voice)
+    communicate = edge_tts.Communicate(text, voice, boundary="WordBoundary")
     word_boundaries: list[dict] = []
     audio_chunks: list[bytes] = []
 
@@ -121,7 +121,20 @@ def generate_sentence_tts(
 
     Returns True if audio was generated, False if skipped.
     """
-    text = "".join(t["surface"] for t in sent["tokens"]).strip()
+    # Build sentence text with proper spacing.
+    # Tokens have no explicit space tokens (spaCy whitespace is implicit),
+    # so we insert spaces between content tokens unless the next token is
+    # closing punctuation or the current token is opening punctuation.
+    _CLOSING = set(",. !?:;)]}»…—")
+    _OPENING = set("([{«")
+    tokens_for_text = [t for t in sent["tokens"] if not t["is_space"]]
+    parts: list[str] = []
+    for i, tok in enumerate(tokens_for_text):
+        parts.append(tok["surface"])
+        nxt = tokens_for_text[i + 1] if i + 1 < len(tokens_for_text) else None
+        if nxt and nxt["surface"][0] not in _CLOSING and tok["surface"][-1] not in _OPENING:
+            parts.append(" ")
+    text = "".join(parts).strip()
     if not text:
         return False
 
