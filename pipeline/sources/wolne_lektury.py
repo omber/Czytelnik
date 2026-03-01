@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import re
 import unicodedata
+from pathlib import Path
 from typing import TypedDict
 
 import requests
@@ -65,8 +66,12 @@ _HEADER_SEPARATOR = re.compile(r"^-{5,}\s*$", re.MULTILINE)
 
 
 def _strip_header(text: str) -> str:
-    """Remove Wolne Lektury metadata header (everything up to and including '-----')."""
-    m = _HEADER_SEPARATOR.search(text)
+    """Remove Wolne Lektury metadata header (everything up to and including '-----').
+
+    Only considers separators in the first 5 000 characters so that footer
+    separators at the end of the file are not mistaken for the header marker.
+    """
+    m = _HEADER_SEPARATOR.search(text[:5000])
     if m:
         return text[m.end():].lstrip()
     return text
