@@ -9,7 +9,7 @@ export function useProgress(username: string) {
     (bookId: string, chapter: number, page: number) => {
       setProgress(prev => ({
         ...prev,
-        [bookId]: { chapter, page },
+        [bookId]: { chapter, page, lastOpenedAt: new Date().toISOString() },
       }))
     },
     [setProgress],

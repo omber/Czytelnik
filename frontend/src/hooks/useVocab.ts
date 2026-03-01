@@ -21,11 +21,6 @@ export function useVocab(username: string) {
     setEntries(storageGet<VocabEntry[]>(username, KEY) ?? [])
   }, [username])
 
-  function _save(updated: VocabEntry[]) {
-    storageSet(username, KEY, updated)
-    setEntries(updated)
-  }
-
   function add(
     token: { lemma: string; surface: string; pos: string },
     translation: string,
@@ -36,48 +31,63 @@ export function useVocab(username: string) {
       sentenceTranslation: string
     },
   ) {
-    const all = storageGet<VocabEntry[]>(username, KEY) ?? []
-    const existing = all.find(
-      e => e.lemma.toLowerCase() === token.lemma.toLowerCase(),
-    )
-    if (existing) {
-      const hasCtx = existing.contexts.some(
-        c =>
-          c.bookId === context.bookId &&
-          c.sentenceText === context.sentenceText,
+    setEntries(prev => {
+      const existing = prev.find(
+        e => e.lemma.toLowerCase() === token.lemma.toLowerCase(),
       )
-      if (!hasCtx) {
-        existing.contexts = [...existing.contexts, context]
-        _save([...all])
+      if (existing) {
+        const hasCtx = existing.contexts.some(
+          c =>
+            c.bookId === context.bookId &&
+            c.sentenceText === context.sentenceText,
+        )
+        if (!hasCtx) {
+          const updated = prev.map(e =>
+            e === existing
+              ? { ...e, contexts: [...e.contexts, context] }
+              : e,
+          )
+          storageSet(username, KEY, updated)
+          return updated
+        }
+        return prev
       }
-      return
-    }
-    const entry: VocabEntry = {
-      lemma: token.lemma,
-      surface: token.surface,
-      pos: token.pos,
-      translation,
-      box: 1,
-      addedAt: new Date().toISOString(),
-      nextReview: new Date().toISOString().split('T')[0], // due immediately
-      contexts: [context],
-    }
-    _save([...all, entry])
+      const entry: VocabEntry = {
+        lemma: token.lemma,
+        surface: token.surface,
+        pos: token.pos,
+        translation,
+        box: 1,
+        addedAt: new Date().toISOString(),
+        nextReview: new Date().toISOString().split('T')[0],
+        contexts: [context],
+      }
+      const updated = [...prev, entry]
+      storageSet(username, KEY, updated)
+      return updated
+    })
   }
 
   function remove(lemma: string) {
-    const all = storageGet<VocabEntry[]>(username, KEY) ?? []
-    _save(all.filter(e => e.lemma.toLowerCase() !== lemma.toLowerCase()))
+    setEntries(prev => {
+      const updated = prev.filter(
+        e => e.lemma.toLowerCase() !== lemma.toLowerCase(),
+      )
+      storageSet(username, KEY, updated)
+      return updated
+    })
   }
 
   function review(lemma: string, correct: boolean) {
-    const all = storageGet<VocabEntry[]>(username, KEY) ?? []
-    const updated = all.map(e => {
-      if (e.lemma.toLowerCase() !== lemma.toLowerCase()) return e
-      const newBox = (correct ? Math.min(e.box + 1, 3) : 1) as 1 | 2 | 3
-      return { ...e, box: newBox, nextReview: nextReviewDate(newBox) }
+    setEntries(prev => {
+      const updated = prev.map(e => {
+        if (e.lemma.toLowerCase() !== lemma.toLowerCase()) return e
+        const newBox = (correct ? Math.min(e.box + 1, 3) : 1) as 1 | 2 | 3
+        return { ...e, box: newBox, nextReview: nextReviewDate(newBox) }
+      })
+      storageSet(username, KEY, updated)
+      return updated
     })
-    _save(updated)
   }
 
   function getDue(): VocabEntry[] {

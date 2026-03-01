@@ -1,19 +1,31 @@
-import { useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useUser } from '../context/UserContext'
 import { useBooks } from '../hooks/useBooks'
 import LibraryGrid from '../components/library/LibraryGrid'
 
+const BASE = import.meta.env.BASE_URL
+
 export default function LibraryPage() {
   const { currentUser } = useUser()
   const navigate = useNavigate()
-  const { books, loading, error } = useBooks(currentUser)
+  const { books, loading, error, retry } = useBooks(currentUser)
+  const [coverFailed, setCoverFailed] = useState(false)
 
   useEffect(() => {
     if (!currentUser) navigate('/', { replace: true })
   }, [currentUser, navigate])
 
   if (!currentUser) return null
+
+  // Find the most recently opened book with progress
+  const lastReadBook = books
+    .filter(b => b.progress?.lastOpenedAt)
+    .sort((a, b) => {
+      const ta = a.progress?.lastOpenedAt ?? ''
+      const tb = b.progress?.lastOpenedAt ?? ''
+      return tb > ta ? 1 : -1
+    })[0] ?? null
 
   return (
     <div className="min-h-screen bg-slate-900 text-white">
@@ -45,6 +57,51 @@ export default function LibraryPage() {
       </header>
 
       <main className="px-4 py-6 max-w-2xl mx-auto">
+        {/* Continue reading card */}
+        {!loading && lastReadBook && (
+          <section className="mb-6">
+            <h2 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">
+              Продолжить чтение
+            </h2>
+            <button
+              onClick={() => navigate(`/read/${lastReadBook.id}/${lastReadBook.progress!.chapter}`)}
+              className="w-full bg-slate-800 rounded-2xl p-4 flex items-center gap-4 text-left hover:bg-slate-700/80 active:scale-[0.98] transition-all"
+            >
+              <div className="w-12 h-16 rounded-lg overflow-hidden flex-shrink-0 bg-gradient-to-br from-blue-900 via-blue-800 to-slate-700">
+                {lastReadBook.cover && !coverFailed ? (
+                  <img
+                    src={`${BASE}books/${lastReadBook.id}/${lastReadBook.cover}`}
+                    alt={lastReadBook.title}
+                    className="w-full h-full object-cover"
+                    onError={() => setCoverFailed(true)}
+                  />
+                ) : (
+                  <div className="w-full h-full flex items-end p-1">
+                    <p className="text-white text-xs leading-tight font-medium line-clamp-3">
+                      {lastReadBook.title}
+                    </p>
+                  </div>
+                )}
+              </div>
+              <div className="flex-1 min-w-0">
+                <p className="text-white font-semibold text-sm leading-snug line-clamp-2">
+                  {lastReadBook.title}
+                </p>
+                <p className="text-slate-400 text-xs mt-0.5 truncate">{lastReadBook.author}</p>
+                <p className="text-slate-500 text-xs mt-1">
+                  Глава {lastReadBook.progress!.chapter}
+                  {lastReadBook.progress!.page
+                    ? ` · Стр. ${lastReadBook.progress!.page + 1}`
+                    : ''}
+                </p>
+              </div>
+              <svg className="w-5 h-5 text-slate-500 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+              </svg>
+            </button>
+          </section>
+        )}
+
         <h2 className="text-2xl font-bold mb-5">Библиотека</h2>
 
         {loading && (
@@ -56,6 +113,12 @@ export default function LibraryPage() {
         {error && (
           <div className="bg-red-900/20 border border-red-800 rounded-xl p-4">
             <p className="text-red-400 text-sm">{error}</p>
+            <button
+              onClick={retry}
+              className="mt-3 text-sm text-blue-400 hover:text-blue-300 transition-colors"
+            >
+              Попробовать снова
+            </button>
           </div>
         )}
 

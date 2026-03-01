@@ -1,8 +1,9 @@
-import { useEffect } from 'react'
+import { useEffect, useMemo } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useUser } from '../context/UserContext'
 import { useStats } from '../hooks/useStats'
 import { useVocab } from '../hooks/useVocab'
+import { useBooks } from '../hooks/useBooks'
 import { UserStats } from '../types/user'
 
 function formatTime(totalSeconds: number): string {
@@ -52,6 +53,23 @@ export default function StatsPage() {
   const navigate = useNavigate()
   const { stats } = useStats(currentUser ?? '')
   const { entries } = useVocab(currentUser ?? '')
+  const { books } = useBooks(currentUser)
+
+  // Build last 7 days activity (memoized)
+  const last7 = useMemo(() => {
+    const days = getLast7Days()
+    for (const session of stats.sessionsLog) {
+      const day = days.find(d => d.date === session.date)
+      if (day) day.seconds += session.seconds
+    }
+    return days
+  }, [stats.sessionsLog])
+
+  // Book title lookup map
+  const bookTitleMap = useMemo(
+    () => Object.fromEntries(books.map(b => [b.id, b.title])),
+    [books],
+  )
 
   useEffect(() => {
     if (!currentUser) navigate('/', { replace: true })
@@ -60,13 +78,6 @@ export default function StatsPage() {
   if (!currentUser) return null
 
   const streak = getStreak(stats.sessionsLog)
-
-  // Build last 7 days activity
-  const last7 = getLast7Days()
-  for (const session of stats.sessionsLog) {
-    const day = last7.find(d => d.date === session.date)
-    if (day) day.seconds += session.seconds
-  }
   const maxSeconds = Math.max(...last7.map(d => d.seconds), 1)
 
   // Vocab by box
@@ -187,9 +198,11 @@ export default function StatsPage() {
                 .slice(0, 10)
                 .map((session, i) => (
                   <div key={i} className="px-4 py-2.5 flex items-center justify-between">
-                    <div>
-                      <span className="text-sm text-white">{session.bookId}</span>
-                      <span className="text-xs text-slate-500 ml-2">{session.date}</span>
+                    <div className="min-w-0 flex-1 mr-3">
+                      <p className="text-sm text-white truncate">
+                        {bookTitleMap[session.bookId] ?? session.bookId}
+                      </p>
+                      <span className="text-xs text-slate-500">{session.date}</span>
                     </div>
                     <span className="text-sm text-slate-300 tabular-nums">
                       {formatTime(session.seconds)}

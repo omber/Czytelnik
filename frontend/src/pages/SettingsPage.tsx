@@ -1,8 +1,9 @@
-import { useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useUser } from '../context/UserContext'
 import { useSettings } from '../hooks/useSettings'
 import { UserSettings } from '../types/user'
+import { exportUserData, importUserData } from '../lib/storage'
 
 const FONT_OPTIONS: { value: UserSettings['fontSize']; label: string; example: string }[] = [
   { value: 'sm', label: 'А−', example: 'Маленький' },
@@ -15,6 +16,35 @@ export default function SettingsPage() {
   const { currentUser, logout } = useUser()
   const navigate = useNavigate()
   const { settings, updateTtsSpeed, updateFontSize } = useSettings(currentUser ?? '')
+  const [importError, setImportError] = useState<string | null>(null)
+  const [importSuccess, setImportSuccess] = useState(false)
+
+  function handleExport() {
+    exportUserData(currentUser!)
+  }
+
+  function handleImport(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0]
+    if (!file) return
+    const reader = new FileReader()
+    reader.onload = () => {
+      const json = reader.result as string
+      if (!window.confirm('Импорт перезапишет все ваши данные. Продолжить?')) {
+        e.target.value = ''
+        return
+      }
+      try {
+        importUserData(currentUser!, json)
+        setImportSuccess(true)
+        setImportError(null)
+        setTimeout(() => setImportSuccess(false), 3000)
+      } catch (err) {
+        setImportError(String(err))
+      }
+      e.target.value = ''
+    }
+    reader.readAsText(file)
+  }
 
   useEffect(() => {
     if (!currentUser) navigate('/', { replace: true })
@@ -112,6 +142,33 @@ export default function SettingsPage() {
               ))}
             </div>
           </div>
+        </section>
+
+        {/* Data export/import */}
+        <section>
+          <h2 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">
+            Данные
+          </h2>
+          <div className="bg-slate-800 rounded-xl divide-y divide-slate-700">
+            <button
+              onClick={handleExport}
+              className="w-full px-4 py-3 text-left hover:bg-slate-700 transition-colors rounded-t-xl"
+            >
+              <div className="text-white text-sm">Экспорт данных</div>
+              <div className="text-xs text-slate-500 mt-0.5">Скачать JSON с прогрессом и словарём</div>
+            </button>
+            <label className="block w-full px-4 py-3 hover:bg-slate-700 transition-colors cursor-pointer rounded-b-xl">
+              <div className="text-white text-sm">Импорт данных</div>
+              <div className="text-xs text-slate-500 mt-0.5">Загрузить JSON с другого устройства</div>
+              <input type="file" accept=".json" className="hidden" onChange={handleImport} />
+            </label>
+          </div>
+          {importError && (
+            <p className="mt-2 text-xs text-red-400 px-1">{importError}</p>
+          )}
+          {importSuccess && (
+            <p className="mt-2 text-xs text-green-400 px-1">Данные успешно импортированы</p>
+          )}
         </section>
 
         {/* Account */}

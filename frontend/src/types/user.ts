@@ -2,6 +2,7 @@ export interface UserProgress {
   [bookId: string]: {
     chapter: number
     page: number
+    lastOpenedAt?: string
   }
 }
 

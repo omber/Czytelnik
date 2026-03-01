@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ChapterMeta } from '../../types/book'
 
@@ -42,6 +43,7 @@ export default function ReaderHeader({
   onTtsNextSentence,
 }: Props) {
   const navigate = useNavigate()
+  const [tocOpen, setTocOpen] = useState(false)
   const chIdx = chapters.findIndex(c => c.number === chapter.number)
   const hasPrevPage = page > 0
   const hasNextPage = page < totalPages - 1
@@ -69,6 +71,7 @@ export default function ReaderHeader({
   const nextLabel = !hasNextPage && hasNextChapter ? 'След. гл. →' : 'Далее →'
 
   return (
+    <>
     <header className="sticky top-0 z-10 bg-slate-900/95 backdrop-blur border-b border-slate-800">
       {/* Title row */}
       <div className="flex items-center gap-2 px-3 pt-2 pb-1">
@@ -83,7 +86,12 @@ export default function ReaderHeader({
         </button>
         <div className="flex-1 min-w-0">
           <p className="text-white text-sm font-semibold truncate leading-tight">{bookTitle}</p>
-          <p className="text-slate-400 text-xs truncate">{chapter.title}</p>
+          <button
+            onClick={() => setTocOpen(true)}
+            className="text-slate-400 text-xs truncate hover:text-white transition-colors text-left w-full"
+          >
+            {chapter.title}
+          </button>
         </div>
         <span className="text-xs text-slate-500 shrink-0 tabular-nums">
           {page + 1}/{totalPages}
@@ -182,5 +190,51 @@ export default function ReaderHeader({
         </button>
       </div>
     </header>
+
+    {/* Chapter TOC overlay */}
+    {tocOpen && (
+      <div
+        className="fixed inset-0 z-50 bg-black/60"
+        onClick={() => setTocOpen(false)}
+      >
+        <div
+          className="absolute top-0 left-0 right-0 bg-slate-900 border-b border-slate-800 max-h-[70vh] overflow-y-auto"
+          onClick={e => e.stopPropagation()}
+        >
+          <div className="flex items-center justify-between px-4 py-3 border-b border-slate-800">
+            <h2 className="font-semibold text-white text-sm">Содержание</h2>
+            <button
+              onClick={() => setTocOpen(false)}
+              className="text-slate-400 hover:text-white p-1 transition-colors"
+              aria-label="Закрыть"
+            >
+              <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+          <div className="py-1">
+            {chapters.map(ch => (
+              <button
+                key={ch.number}
+                onClick={() => {
+                  setTocOpen(false)
+                  goChapter(ch.number)
+                }}
+                className={`w-full text-left px-4 py-3 text-sm transition-colors ${
+                  ch.number === chapter.number
+                    ? 'text-blue-400 bg-blue-500/10 font-medium'
+                    : 'text-slate-300 hover:bg-slate-800'
+                }`}
+              >
+                <span className="text-slate-500 mr-2 tabular-nums">{ch.number}.</span>
+                {ch.title}
+              </button>
+            ))}
+          </div>
+        </div>
+      </div>
+    )}
+  </>
   )
 }

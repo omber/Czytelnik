@@ -13,6 +13,13 @@ import WordBottomSheet from '../components/reader/WordBottomSheet'
 
 const BASE = import.meta.env.BASE_URL
 
+const FONT_SIZE_CLASSES: Record<string, string> = {
+  sm: 'text-sm leading-6',
+  base: 'text-base leading-7',
+  lg: 'text-lg leading-8',
+  xl: 'text-xl leading-9',
+}
+
 export default function ReaderPageRoute() {
   const { bookId, chapter: chapterParam } = useParams<{
     bookId: string
@@ -26,6 +33,7 @@ export default function ReaderPageRoute() {
   const [bookTitle, setBookTitle] = useState('')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [retryCount, setRetryCount] = useState(0)
 
   // Word tap state — track token + sentence for vocab context
   const [selectedToken, setSelectedToken] = useState<Token | null>(null)
@@ -46,21 +54,29 @@ export default function ReaderPageRoute() {
   // We save on both unmount AND visibilitychange (page hidden) because mobile
   // browsers suspend/kill pages without triggering React's unmount cleanup.
   const sessionStartRef = useRef(Date.now())
+  const savedRef = useRef(false)
   const logSessionRef = useRef(logSession)
   useEffect(() => { logSessionRef.current = logSession })
 
   useEffect(() => {
     sessionStartRef.current = Date.now()
+    savedRef.current = false
 
     function save() {
+      if (savedRef.current) return // prevent double-count if both visibilitychange + unmount fire
+      savedRef.current = true
       const seconds = Math.round((Date.now() - sessionStartRef.current) / 1000)
-      sessionStartRef.current = Date.now() // reset so unmount doesn't double-count
       if (seconds >= 5) logSessionRef.current(bookIdStr, seconds)
     }
 
     function handleVisibilityChange() {
-      if (document.visibilityState === 'hidden') save()
-      else sessionStartRef.current = Date.now() // resumed — start fresh
+      if (document.visibilityState === 'hidden') {
+        save()
+      } else {
+        // Page resumed — start a fresh session window
+        sessionStartRef.current = Date.now()
+        savedRef.current = false
+      }
     }
 
     document.addEventListener('visibilitychange', handleVisibilityChange)
@@ -160,10 +176,11 @@ export default function ReaderPageRoute() {
         setChapterData(chData)
         setChapters(chsList)
         setBookTitle(meta.title)
-        // Save that we opened this chapter (so library shows correct resume point)
-        if (!savedProgress || savedProgress.chapter !== chapterNum) {
-          savePosition(bookIdStr, chapterNum, 0)
-        }
+        // Always save position to update lastOpenedAt (used by "Continue reading" card).
+        // Preserve existing page when resuming the same chapter; reset to 0 for a new chapter.
+        const resumePage =
+          savedProgress?.chapter === chapterNum ? (savedProgress.page ?? 0) : 0
+        savePosition(bookIdStr, chapterNum, resumePage)
       })
       .catch(e => {
         if (!cancelled) setError(String(e))
@@ -175,7 +192,7 @@ export default function ReaderPageRoute() {
     return () => {
       cancelled = true
     }
-  }, [bookIdStr, chapterNum, currentUser]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [bookIdStr, chapterNum, currentUser, retryCount]) // eslint-disable-line react-hooks/exhaustive-deps
 
   if (!currentUser) {
     navigate('/', { replace: true })
@@ -225,22 +242,25 @@ export default function ReaderPageRoute() {
         {error && (
           <div className="bg-red-900/20 border border-red-800 rounded-xl p-4 mt-4">
             <p className="text-red-400 text-sm">{error}</p>
-            <button
-              onClick={() => navigate('/library')}
-              className="mt-3 text-sm text-slate-400 hover:text-white transition-colors"
-            >
-              ← Назад в библиотеку
-            </button>
+            <div className="flex gap-3 mt-3">
+              <button
+                onClick={() => setRetryCount(c => c + 1)}
+                className="text-sm text-blue-400 hover:text-blue-300 transition-colors"
+              >
+                Попробовать снова
+              </button>
+              <button
+                onClick={() => navigate('/library')}
+                className="text-sm text-slate-400 hover:text-white transition-colors"
+              >
+                ← Библиотека
+              </button>
+            </div>
           </div>
         )}
 
         {!loading && chapterData && (
-          <div className={`text-white ${{
-            sm: 'text-sm leading-6',
-            base: 'text-base leading-7',
-            lg: 'text-lg leading-8',
-            xl: 'text-xl leading-9',
-          }[settings.fontSize]}`}>
+          <div className={`text-white ${FONT_SIZE_CLASSES[settings.fontSize]}`}>
             {currentParas.map(para => (
               <Paragraph
                 key={para.index}

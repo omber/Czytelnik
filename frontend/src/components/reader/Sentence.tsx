@@ -1,9 +1,7 @@
 import { Fragment, useEffect, useRef, useState } from 'react'
 import { Sentence as SentenceType, Token } from '../../types/book'
 import Word from './Word'
-
-const CLOSING_PUNCT = new Set([',', '.', '!', '?', ':', ';', ')', ']', '}', '»', '…', '—'])
-const OPENING_PUNCT = new Set(['(', '[', '{', '«'])
+import { CLOSING_PUNCT, OPENING_PUNCT } from '../../lib/constants'
 
 interface Props {
   sentence: SentenceType

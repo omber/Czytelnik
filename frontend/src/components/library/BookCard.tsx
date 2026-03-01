@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { BookWithProgress } from '../../hooks/useBooks'
 
@@ -9,6 +10,7 @@ interface Props {
 
 export default function BookCard({ book }: Props) {
   const navigate = useNavigate()
+  const [imgFailed, setImgFailed] = useState(false)
   const chapter = book.progress?.chapter ?? 1
   const pct =
     book.chapterCount > 1 ? Math.round(((chapter - 1) / book.chapterCount) * 100) : 0
@@ -20,11 +22,12 @@ export default function BookCard({ book }: Props) {
     >
       {/* Book cover */}
       <div className="w-full aspect-[3/4] rounded-xl overflow-hidden relative bg-gradient-to-br from-blue-900 via-blue-800 to-slate-700">
-        {book.cover ? (
+        {book.cover && !imgFailed ? (
           <img
             src={`${BASE}books/${book.id}/${book.cover}`}
             alt={book.title}
             className="w-full h-full object-cover"
+            onError={() => setImgFailed(true)}
           />
         ) : (
           <div className="w-full h-full flex items-end p-2.5">

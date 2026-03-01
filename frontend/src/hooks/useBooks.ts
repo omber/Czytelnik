@@ -5,7 +5,7 @@ import { storageGet } from '../lib/storage'
 
 export interface BookWithProgress extends BookMeta {
   chapters: ChapterMeta[]
-  progress: { chapter: number; page: number } | null
+  progress: { chapter: number; page: number; lastOpenedAt?: string } | null
 }
 
 const BASE = import.meta.env.BASE_URL
@@ -20,6 +20,7 @@ export function useBooks(username: string | null) {
   const [books, setBooks] = useState<BookWithProgress[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [loadKey, setLoadKey] = useState(0)
 
   useEffect(() => {
     if (!username) {
@@ -62,7 +63,11 @@ export function useBooks(username: string | null) {
     return () => {
       cancelled = true
     }
-  }, [username])
+  }, [username, loadKey])
 
-  return { books, loading, error }
+  function retry() {
+    setLoadKey(k => k + 1)
+  }
+
+  return { books, loading, error, retry }
 }

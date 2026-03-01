@@ -1,26 +1,10 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useUser } from '../context/UserContext'
 import { useVocab } from '../hooks/useVocab'
 import { VocabEntry } from '../types/user'
 import BottomSheet from '../components/ui/BottomSheet'
-
-const POS_LABELS: Record<string, string> = {
-  NOUN: 'сущ.',
-  VERB: 'гл.',
-  ADJ: 'прил.',
-  ADV: 'нареч.',
-  PROPN: 'имя собств.',
-  ADP: 'предл.',
-  CCONJ: 'союз',
-  SCONJ: 'союз',
-  NUM: 'числ.',
-  PRON: 'мест.',
-  DET: 'мест.',
-  AUX: 'вспом. гл.',
-  PART: 'частица',
-  INTJ: 'межд.',
-}
+import { POS_LABELS } from '../lib/constants'
 
 const BOX_LABELS: Record<1 | 2 | 3, string> = {
   1: 'Ящик 1 · каждый день',
@@ -146,6 +130,8 @@ export default function VocabPage() {
   const { currentUser } = useUser()
   const vocab = useVocab(currentUser ?? '')
   const [tab, setTab] = useState<Tab>('review')
+  const [confirmDeleteLemma, setConfirmDeleteLemma] = useState<string | null>(null)
+  const [confirmDeleteEntry, setConfirmDeleteEntry] = useState(false)
 
   // Review state
   const [dueQueue, setDueQueue] = useState<VocabEntry[]>(() => vocab.getDue())
@@ -195,11 +181,14 @@ export default function VocabPage() {
     setReviewDone(false)
   }
 
-  // Group entries by box for list view
-  const byBox: Record<1 | 2 | 3, VocabEntry[]> = { 1: [], 2: [], 3: [] }
-  for (const e of vocab.entries) {
-    byBox[e.box].push(e)
-  }
+  // Group entries by box for list view (memoized)
+  const byBox = useMemo(() => {
+    const result: Record<1 | 2 | 3, VocabEntry[]> = { 1: [], 2: [], 3: [] }
+    for (const e of vocab.entries) {
+      result[e.box].push(e)
+    }
+    return result
+  }, [vocab.entries])
 
   return (
     <div className="min-h-screen bg-slate-900 text-white flex flex-col">
@@ -336,25 +325,46 @@ export default function VocabPage() {
                             </p>
                           )}
                         </div>
-                        <button
-                          onClick={e => { e.stopPropagation(); vocab.remove(entry.lemma) }}
-                          className="p-1.5 rounded-lg text-slate-600 hover:text-red-400 hover:bg-red-900/20 transition-colors shrink-0"
-                          aria-label="Удалить"
-                        >
-                          <svg
-                            className="w-4 h-4"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                            strokeWidth={2}
+                        {confirmDeleteLemma === entry.lemma ? (
+                          <div className="flex gap-1 shrink-0">
+                            <button
+                              onClick={e => {
+                                e.stopPropagation()
+                                vocab.remove(entry.lemma)
+                                setConfirmDeleteLemma(null)
+                              }}
+                              className="text-xs text-red-400 px-2 py-1 rounded-lg bg-red-900/30 border border-red-900 hover:bg-red-900/50 transition-colors"
+                            >
+                              Да
+                            </button>
+                            <button
+                              onClick={e => { e.stopPropagation(); setConfirmDeleteLemma(null) }}
+                              className="text-xs text-slate-400 px-2 py-1 rounded-lg bg-slate-700 hover:bg-slate-600 transition-colors"
+                            >
+                              Нет
+                            </button>
+                          </div>
+                        ) : (
+                          <button
+                            onClick={e => { e.stopPropagation(); setConfirmDeleteLemma(entry.lemma) }}
+                            className="p-1.5 rounded-lg text-slate-600 hover:text-red-400 hover:bg-red-900/20 transition-colors shrink-0"
+                            aria-label="Удалить"
                           >
-                            <path
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                              d="M6 18L18 6M6 6l12 12"
-                            />
-                          </svg>
-                        </button>
+                            <svg
+                              className="w-4 h-4"
+                              fill="none"
+                              viewBox="0 0 24 24"
+                              stroke="currentColor"
+                              strokeWidth={2}
+                            >
+                              <path
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                                d="M6 18L18 6M6 6l12 12"
+                              />
+                            </svg>
+                          </button>
+                        )}
                       </div>
                     ))}
                   </div>
@@ -366,7 +376,7 @@ export default function VocabPage() {
       </main>
 
       {/* Word detail sheet */}
-      <BottomSheet open={!!selectedEntry} onClose={() => setSelectedEntry(null)}>
+      <BottomSheet open={!!selectedEntry} onClose={() => { setSelectedEntry(null); setConfirmDeleteEntry(false) }}>
         {selectedEntry && (
           <div className="flex flex-col gap-4">
             {/* Word header */}
@@ -410,13 +420,34 @@ export default function VocabPage() {
               </div>
             )}
 
-            {/* Delete */}
-            <button
-              onClick={() => { vocab.remove(selectedEntry.lemma); setSelectedEntry(null) }}
-              className="mt-2 w-full py-3 rounded-xl bg-red-900/30 text-red-400 border border-red-900 hover:bg-red-900/50 text-sm font-medium transition-colors"
-            >
-              Удалить из словаря
-            </button>
+            {/* Delete with confirmation */}
+            {confirmDeleteEntry ? (
+              <div className="mt-2 flex gap-2">
+                <button
+                  onClick={() => {
+                    vocab.remove(selectedEntry.lemma)
+                    setSelectedEntry(null)
+                    setConfirmDeleteEntry(false)
+                  }}
+                  className="flex-1 py-3 rounded-xl bg-red-900/30 text-red-400 border border-red-900 hover:bg-red-900/50 text-sm font-medium transition-colors"
+                >
+                  Удалить
+                </button>
+                <button
+                  onClick={() => setConfirmDeleteEntry(false)}
+                  className="flex-1 py-3 rounded-xl bg-slate-700 text-slate-300 text-sm font-medium hover:bg-slate-600 transition-colors"
+                >
+                  Отмена
+                </button>
+              </div>
+            ) : (
+              <button
+                onClick={() => setConfirmDeleteEntry(true)}
+                className="mt-2 w-full py-3 rounded-xl bg-red-900/20 text-red-400 border border-red-900/50 hover:bg-red-900/30 text-sm font-medium transition-colors"
+              >
+                Удалить из словаря
+              </button>
+            )}
           </div>
         )}
       </BottomSheet>
