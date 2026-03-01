@@ -77,6 +77,17 @@ export default function ReaderPageRoute() {
     return items
   }
 
+  // Record unique words encountered on the current page
+  useEffect(() => {
+    if (!currentParas.length) return
+    const lemmas = currentParas
+      .flatMap(p => p.sentences)
+      .flatMap(s => s.tokens)
+      .filter(t => !t.is_space && t.lemma)
+      .map(t => t.lemma)
+    addUniqueWords(lemmas)
+  }, [currentPage, chapterData]) // eslint-disable-line react-hooks/exhaustive-deps
+
   // Swipe navigation
   const touchStartX = useRef<number | null>(null)
   const touchStartY = useRef<number | null>(null)
@@ -134,13 +145,6 @@ export default function ReaderPageRoute() {
         if (!savedProgress || savedProgress.chapter !== chapterNum) {
           savePosition(bookIdStr, chapterNum, 0)
         }
-        // Record all lemmas encountered in this chapter
-        const lemmas = chData.paragraphs
-          .flatMap(p => p.sentences)
-          .flatMap(s => s.tokens)
-          .filter(t => !t.is_space && t.lemma)
-          .map(t => t.lemma)
-        addUniqueWords(lemmas)
       })
       .catch(e => {
         if (!cancelled) setError(String(e))
