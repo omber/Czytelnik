@@ -63,6 +63,7 @@ export default function ReaderPageRoute() {
   function setPage(page: number) {
     tts.stop()
     savePosition(bookIdStr, chapterNum, page)
+    window.scrollTo({ top: 0, behavior: 'instant' })
   }
 
   // Build a flat queue of all sentences on the current page
