@@ -30,6 +30,7 @@ class Token(TypedDict):
 
 class Sentence(TypedDict):
     index: int
+    text: str          # original sentence text with proper whitespace
     tokens: list[Token]
     # translation filled later by translator.py
     translation: str
@@ -69,6 +70,7 @@ def enrich_paragraph(raw_para: RawParagraph, nlp: Language) -> Paragraph:
 
         enriched_sentences.append({
             "index": raw_sent["index"],
+            "text": sent_text,
             "tokens": tokens,
             "translation": "",  # filled by translator
         })

@@ -25,15 +25,35 @@ from config import ANTHROPIC_API_KEY, CACHE_DIR, CLAUDE_MODEL
 from processing.morphology import Paragraph
 
 
-# ── Prompt ─────────────────────────────────────────────────────────────────
+# ── Prompts ─────────────────────────────────────────────────────────────────
 
 SYSTEM_PROMPT = (
     "Ты — профессиональный литературный переводчик с польского на русский. "
     "Переводи точно, естественно, литературным языком. "
-    "Отвечай ТОЛЬКО переводом — без пояснений, без кавычек, без лишних слов."
+    "Отвечай ТОЛЬКО переводом на русском — без пояснений, без кавычек, "
+    "без повтора исходного текста, без лишних слов."
+)
+
+# Stronger prompt used only for retries after a bad response.
+RETRY_SYSTEM_PROMPT = (
+    "Ты — переводчик с польского на русский. "
+    "ВАЖНО: пробелы между словами отсутствуют — это технический артефакт (токены склеены). "
+    "Определи польские слова, восстанови смысл и переведи на русский. "
+    "Отвечай ТОЛЬКО русским переводом. "
+    "Никакого польского текста, никаких извинений, никаких пояснений."
 )
 
 USER_TEMPLATE = "Переведи на русский:\n{sentence}"
+
+# Phrases that indicate the model refused or complained instead of translating.
+_REFUSAL_PHRASES = (
+    "Я не могу перевести",
+    "не является корректным",
+    "Пожалуйста, предоставьте",
+    "отсутствуют пробелы",
+    "не содержит пробел",
+    "набор символов",
+)
 
 
 # ── Cache helpers ───────────────────────────────────────────────────────────
@@ -58,24 +78,29 @@ def _save_cache(book_id: str, cache: dict[str, str]) -> None:
 
 # ── Sentence collection ─────────────────────────────────────────────────────
 
-def _sentence_surface(para: Paragraph, sent_idx: int) -> str:
-    """Reconstruct sentence text from tokens."""
-    tokens = para["sentences"][sent_idx]["tokens"]
-    return "".join(t["surface"] for t in tokens)
+def _sentence_text(sent: dict) -> str:
+    """
+    Return the sentence text to use as translation key and prompt input.
+    Prefers the pre-stored `text` field (proper whitespace); falls back to
+    token concatenation for sentences processed before this field existed.
+    """
+    if sent.get("text"):
+        return sent["text"].strip()
+    return "".join(t["surface"] for t in sent["tokens"]).strip()
 
 
 def _collect_sentences(
     chapters: list[list[Paragraph]],
 ) -> list[tuple[int, int, int, str]]:
     """
-    Returns list of (chapter_idx, para_idx, sent_idx, surface_text) for
+    Returns list of (chapter_idx, para_idx, sent_idx, text) for
     every sentence across all chapters.
     """
     result = []
     for ch_idx, paragraphs in enumerate(chapters):
         for para in paragraphs:
             for sent in para["sentences"]:
-                text = "".join(t["surface"] for t in sent["tokens"]).strip()
+                text = _sentence_text(sent)
                 if text:
                     result.append((ch_idx, para["index"], sent["index"], text))
     return result
@@ -138,6 +163,71 @@ def _poll_batch(client: anthropic.Anthropic, batch_id: str) -> list[Any]:
     return results
 
 
+# ── Response cleanup & retry ────────────────────────────────────────────────
+
+def _clean_translation(text: str) -> tuple[str, bool]:
+    """
+    Sanitise a raw translation response.
+
+    Returns (cleaned_text, needs_retry).
+    needs_retry=True means the response was bad and the caller should retry
+    via the synchronous API.
+
+    Strategy when '\n\n' is present:
+      Iterate paragraphs in reverse and return the first one that looks like
+      Russian (contains Cyrillic) and is not a refusal.
+    """
+    def _has_cyrillic(s: str) -> bool:
+        return any("\u0400" <= c <= "\u04FF" for c in s)
+
+    def _is_refusal(s: str) -> bool:
+        return any(phrase in s for phrase in _REFUSAL_PHRASES)
+
+    if "\n\n" in text:
+        parts = [p.strip() for p in text.split("\n\n") if p.strip()]
+        for part in reversed(parts):
+            if _has_cyrillic(part) and not _is_refusal(part):
+                return part, False
+        return "", True
+
+    if _is_refusal(text):
+        return "", True
+
+    return text, False
+
+
+def _retry_translations(
+    client: anthropic.Anthropic,
+    bad_texts: list[str],
+) -> dict[str, str]:
+    """
+    Retry a small set of bad translations synchronously using RETRY_SYSTEM_PROMPT.
+    Returns a dict of {original_text: translation}.
+    """
+    results: dict[str, str] = {}
+    for text in bad_texts:
+        print(f"[translator]   Retrying: {text[:60]}…")
+        try:
+            response = client.messages.create(
+                model=CLAUDE_MODEL,
+                max_tokens=512,
+                system=RETRY_SYSTEM_PROMPT,
+                messages=[{"role": "user", "content": USER_TEMPLATE.format(sentence=text)}],
+            )
+            raw = response.content[0].text.strip()
+            cleaned, still_bad = _clean_translation(raw)
+            if still_bad:
+                print(f"[translator]   Retry still bad for: {text[:60]}")
+                results[text] = ""
+            else:
+                print(f"[translator]   Retry OK.")
+                results[text] = cleaned
+        except Exception as exc:
+            print(f"[translator]   Retry error: {exc}")
+            results[text] = ""
+    return results
+
+
 # ── Public API ──────────────────────────────────────────────────────────────
 
 def translate_chapters(
@@ -173,21 +263,40 @@ def translate_chapters(
             batch = client.messages.batches.create(requests=batch_requests)
             results = _poll_batch(client, batch.id)
 
-            # Map custom_id index → translation
+            # Map custom_id index → translation (cleaned)
             idx_to_translation: dict[int, str] = {}
+            needs_retry: list[int] = []
+
             for result in results:
                 idx = int(result.custom_id.split("-")[1])
                 if result.result.type == "succeeded":
-                    idx_to_translation[idx] = result.result.message.content[0].text.strip()
+                    raw = result.result.message.content[0].text.strip()
+                    cleaned, bad = _clean_translation(raw)
+                    idx_to_translation[idx] = cleaned
+                    if bad:
+                        # text resolved via uncached_items below
+                        needs_retry.append(idx)
                 else:
                     idx_to_translation[idx] = ""
 
             # Populate cache with unique texts (using the uncached list order)
             seen: set[str] = set()
+            retry_texts: list[str] = []
             for i, (_, _, _, text) in enumerate(uncached_items):
                 if text not in seen:
                     seen.add(text)
                     cache[text] = idx_to_translation.get(i, "")
+                    if i in needs_retry:
+                        retry_texts.append(text)
+
+            # Retry anything that came back garbled
+            if retry_texts:
+                print(
+                    f"[translator] {len(retry_texts)} response(s) need retry "
+                    f"(artifacts detected)."
+                )
+                retried = _retry_translations(client, retry_texts)
+                cache.update(retried)
 
             _save_cache(book_id, cache)
     else:
@@ -197,7 +306,6 @@ def translate_chapters(
     for ch_idx, paragraphs in enumerate(chapters):
         for para in paragraphs:
             for sent in para["sentences"]:
-                text = "".join(t["surface"] for t in sent["tokens"]).strip()
-                sent["translation"] = cache.get(text, "")
+                sent["translation"] = cache.get(_sentence_text(sent), "")
 
     return chapters
