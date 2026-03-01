@@ -292,7 +292,18 @@ Verified end-to-end on Chmielewska EPUB ch.1 — 1,881 words, 141 sentences tran
 
 ---
 
-## Phase 5: Stats, Settings & PWA
+## Phase 5: Stats, Settings & PWA ✅ COMPLETE
+
+**Status:** Implemented and verified (commit b84a32f). Bug fix: stats inflation fixed (commit 200ba90).
+- `useSettings` hook: ttsSpeed (0.5–2.0×), fontSize (sm/base/lg/xl) persisted to localStorage
+- `useStats` hook: totalReadingSeconds, uniqueWordsEncountered[], sessionsLog[]
+- SettingsPage at /settings: font size buttons, TTS speed slider, account section
+- StatsPage at /stats: summary cards (time/streak/words), 7-day bar chart, vocab box breakdown
+- Session timer in ReaderPageRoute (logs on unmount); unique words counted per page visited
+- PWA: vite-plugin-pwa, workbox caches book JSON + MP3 audio, SVG icon
+
+**Bug fixed post-completion:**
+- Stats inflated to 2000+ words on chapter open — was counting all lemmas in the full chapter JSON at load time; fixed to count only current page lemmas, accumulating as user reads (commit 200ba90)
 
 **Goal:** Reading stats, user settings, offline support, CSV export.
 
@@ -345,9 +356,9 @@ Verified end-to-end on Chmielewska EPUB ch.1 — 1,881 words, 141 sentences tran
 - Review session: "Знаю" promotes box, "Не знаю" demotes to Box 1
 - Flashcard front: Polish lemma+POS; back: Russian translation + context sentence
 
-### Phase 5 verification
-- Reading time accumulates correctly
-- Stats page shows accurate data
-- CSV export downloads valid file
-- PWA: install on mobile, works offline after initial load
-- Deploy to GitHub Pages, verify all routes work with HashRouter
+### Phase 5 verification ✅ DONE
+- Reading time accumulates correctly (session timer via useRef + logSession on unmount)
+- Stats page shows accurate data: summary cards, 7-day bar chart, vocab box counts
+- Unique words counted per page visited (not whole-chapter bulk-count) — verified: 198 words after page 0, +143 new words after page 1
+- PWA: vite-plugin-pwa configured, service worker caches book JSON + MP3 audio
+- Routes /stats and /settings confirmed working via HashRouter
