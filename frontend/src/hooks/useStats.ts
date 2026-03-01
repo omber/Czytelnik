@@ -1,4 +1,5 @@
 import { useLocalStorage } from './useLocalStorage'
+import { storageGet, storageSet } from '../lib/storage'
 import { UserStats } from '../types/user'
 
 const DEFAULT: UserStats = {
@@ -13,11 +14,16 @@ export function useStats(username: string) {
   function logSession(bookId: string, seconds: number) {
     if (seconds < 5) return
     const date = new Date().toISOString().slice(0, 10)
-    setStats(s => ({
-      ...s,
-      totalReadingSeconds: s.totalReadingSeconds + seconds,
-      sessionsLog: [...s.sessionsLog, { date, seconds, bookId }],
-    }))
+    // Read + write localStorage synchronously so the next page that mounts
+    // sees the updated value immediately (React setState updaters run lazily).
+    const current = storageGet<UserStats>(username, 'stats') ?? DEFAULT
+    const updated: UserStats = {
+      ...current,
+      totalReadingSeconds: current.totalReadingSeconds + seconds,
+      sessionsLog: [...current.sessionsLog, { date, seconds, bookId }],
+    }
+    storageSet(username, 'stats', updated)
+    setStats(updated)
   }
 
   function addUniqueWords(lemmas: string[]) {
