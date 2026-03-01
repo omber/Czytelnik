@@ -30,8 +30,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 import spacy
 
 from config import CACHE_DIR, SPACY_MODEL, TTS_VOICE
-from sources.wolne_lektury import load_book as wl_load_book
-from sources.epub_parser import parse_epub
+from sources.wolne_lektury import load_book as wl_load_book, fetch_wl_cover
+from sources.epub_parser import parse_epub, extract_epub_cover
 from processing.segmenter import segment_chapter
 from processing.morphology import enrich_chapter
 from processing.translator import translate_chapters
@@ -84,18 +84,32 @@ def run(args: argparse.Namespace) -> None:
     print("STEP 1: Loading book source")
     print("=" * 60)
 
+    cover_data: tuple[bytes, str] | None = None
+
     if args.source == "wolnelektury":
         if not args.slug:
             print("ERROR: --slug is required for --source wolnelektury", file=sys.stderr)
             sys.exit(1)
         book_raw = wl_load_book(args.slug)
         book_id = args.slug
+        print("[pipeline] Fetching cover image …")
+        cover_data = fetch_wl_cover(args.slug)
+        if cover_data:
+            print(f"[pipeline] Cover found ({len(cover_data[0])} bytes, .{cover_data[1]})")
+        else:
+            print("[pipeline] No cover image available.")
     elif args.source == "epub":
         if not args.file:
             print("ERROR: --file is required for --source epub", file=sys.stderr)
             sys.exit(1)
         book_raw = parse_epub(args.file)
         book_id = book_raw["slug"]
+        print("[pipeline] Extracting cover image from EPUB …")
+        cover_data = extract_epub_cover(args.file)
+        if cover_data:
+            print(f"[pipeline] Cover found ({len(cover_data[0])} bytes, .{cover_data[1]})")
+        else:
+            print("[pipeline] No cover image found in EPUB.")
     else:
         print(f"ERROR: Unknown source '{args.source}'", file=sys.stderr)
         sys.exit(1)
@@ -179,6 +193,8 @@ def run(args: argparse.Namespace) -> None:
         chapters_paragraphs=chapters_paragraphs,
         output_dir=output_dir,
         no_tts=args.no_tts,
+        cover_image=cover_data[0] if cover_data else None,
+        cover_ext=cover_data[1] if cover_data else "jpg",
     )
 
     print("\n✓ Pipeline complete.")

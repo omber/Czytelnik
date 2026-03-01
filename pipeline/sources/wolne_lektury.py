@@ -97,6 +97,38 @@ def split_into_chapters(raw_text: str) -> list[ChapterRaw]:
     return chapters
 
 
+def fetch_wl_cover(slug: str) -> tuple[bytes, str] | None:
+    """
+    Try to download the cover thumbnail for a Wolne Lektury book.
+
+    Returns (image_bytes, extension) or None if no cover is available.
+    """
+    try:
+        meta = fetch_book_metadata(slug)
+    except Exception:
+        return None
+
+    # Prefer simple_thumb (small), fall back to cover_thumb or cover
+    cover_url = (
+        meta.get("simple_thumb")
+        or meta.get("cover_thumb")
+        or meta.get("cover")
+    )
+    if not cover_url:
+        return None
+
+    try:
+        resp = requests.get(cover_url, timeout=30)
+        resp.raise_for_status()
+    except Exception:
+        return None
+
+    # Derive extension from URL path (ignore query strings)
+    url_path = cover_url.split("?")[0]
+    ext = Path(url_path).suffix.lstrip(".").lower() or "jpg"
+    return resp.content, ext
+
+
 def load_book(slug: str) -> BookRaw:
     """
     High-level helper: fetch metadata + text, split into chapters.

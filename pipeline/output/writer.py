@@ -90,6 +90,8 @@ def write_book(
     chapters_paragraphs: list[list[Paragraph]],
     output_dir: Path,
     no_tts: bool = False,
+    cover_image: bytes | None = None,
+    cover_ext: str = "jpg",
 ) -> None:
     """
     Write all output JSON files for a book.
@@ -102,20 +104,31 @@ def write_book(
     chapters_paragraphs  : enriched paragraph data per chapter
     output_dir           : root output directory (frontend/public/books/)
     no_tts               : if True, audio files won't exist — has_audio always False
+    cover_image          : raw image bytes for the book cover (optional)
+    cover_ext            : file extension for the cover image (default: "jpg")
     """
     book_dir = output_dir / book_id
     book_dir.mkdir(parents=True, exist_ok=True)
 
     word_count = _count_words(chapters_paragraphs)
 
+    # ── Cover image ───────────────────────────────────────────────────────────
+    cover_filename: str | None = None
+    if cover_image:
+        cover_filename = f"cover.{cover_ext}"
+        (book_dir / cover_filename).write_bytes(cover_image)
+        print(f"[writer] Cover saved → {cover_filename}")
+
     # ── meta.json ────────────────────────────────────────────────────────────
-    meta = {
+    meta: dict = {
         "id": book_id,
         "title": title,
         "author": author,
         "chapterCount": len(chapter_metas),
         "wordCount": word_count,
     }
+    if cover_filename:
+        meta["cover"] = cover_filename
     (book_dir / "meta.json").write_text(
         json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
     )

@@ -1,6 +1,8 @@
 import { useNavigate } from 'react-router-dom'
 import { BookWithProgress } from '../../hooks/useBooks'
 
+const BASE = import.meta.env.BASE_URL
+
 interface Props {
   book: BookWithProgress
 }
@@ -17,10 +19,20 @@ export default function BookCard({ book }: Props) {
       className="w-full text-left bg-slate-800 rounded-2xl p-3 flex flex-col gap-2 active:scale-[0.97] transition-all hover:bg-slate-700/80"
     >
       {/* Book cover */}
-      <div className="w-full aspect-[3/4] bg-gradient-to-br from-blue-900 via-blue-800 to-slate-700 rounded-xl flex items-end p-2.5 overflow-hidden">
-        <p className="text-white font-semibold text-xs leading-snug line-clamp-4 drop-shadow">
-          {book.title}
-        </p>
+      <div className="w-full aspect-[3/4] rounded-xl overflow-hidden relative bg-gradient-to-br from-blue-900 via-blue-800 to-slate-700">
+        {book.cover ? (
+          <img
+            src={`${BASE}books/${book.id}/${book.cover}`}
+            alt={book.title}
+            className="w-full h-full object-cover"
+          />
+        ) : (
+          <div className="w-full h-full flex items-end p-2.5">
+            <p className="text-white font-semibold text-xs leading-snug line-clamp-4 drop-shadow">
+              {book.title}
+            </p>
+          </div>
+        )}
       </div>
 
       <div className="flex flex-col gap-0.5">

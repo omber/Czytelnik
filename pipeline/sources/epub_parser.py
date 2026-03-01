@@ -171,3 +171,43 @@ def parse_epub(filepath: str | Path) -> BookRaw:
         "slug": filepath.stem.lower().replace(" ", "-"),
         "chapters": chapters,
     }
+
+
+def extract_epub_cover(filepath: str | Path) -> tuple[bytes, str] | None:
+    """
+    Try to extract the cover image from an EPUB.
+
+    Tries in order:
+    1. Items with ebooklib ITEM_COVER type
+    2. OPF <meta name="cover"> reference
+    3. Any image item with "cover" in its filename
+
+    Returns (image_bytes, extension) or None if no cover found.
+    """
+    filepath = Path(filepath)
+    book = epub.read_epub(str(filepath))
+
+    # Method 1: dedicated cover type
+    for item in book.get_items():
+        if item.get_type() == ebooklib.ITEM_COVER:
+            ext = Path(item.file_name).suffix.lstrip(".") or "jpg"
+            return item.get_content(), ext
+
+    # Method 2: OPF meta name="cover" pointing to an image item id
+    cover_id = None
+    for _, attrs in book.get_metadata("OPF", "cover"):
+        cover_id = attrs.get("content")
+        break
+    if cover_id:
+        item = book.get_item_with_id(cover_id)
+        if item:
+            ext = Path(item.file_name).suffix.lstrip(".") or "jpg"
+            return item.get_content(), ext
+
+    # Method 3: any image whose filename contains "cover"
+    for item in book.get_items_of_type(ebooklib.ITEM_IMAGE):
+        if "cover" in item.file_name.lower():
+            ext = Path(item.file_name).suffix.lstrip(".") or "jpg"
+            return item.get_content(), ext
+
+    return None

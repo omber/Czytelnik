@@ -36,4 +36,5 @@ export interface BookMeta {
   author: string
   chapterCount: number
   wordCount: number
+  cover?: string
 }
