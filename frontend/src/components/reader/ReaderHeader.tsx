@@ -10,6 +10,16 @@ interface Props {
   totalPages: number
   onPrevPage: () => void
   onNextPage: () => void
+  // TTS transport
+  ttsIsPlaying: boolean
+  ttsIsPaused: boolean
+  ttsIsActive: boolean
+  onTtsPlay: () => void
+  onTtsPause: () => void
+  onTtsResume: () => void
+  onTtsStop: () => void
+  onTtsPrevSentence: () => void
+  onTtsNextSentence: () => void
 }
 
 export default function ReaderHeader({
@@ -21,6 +31,15 @@ export default function ReaderHeader({
   totalPages,
   onPrevPage,
   onNextPage,
+  ttsIsPlaying,
+  ttsIsPaused,
+  ttsIsActive,
+  onTtsPlay,
+  onTtsPause,
+  onTtsResume,
+  onTtsStop,
+  onTtsPrevSentence,
+  onTtsNextSentence,
 }: Props) {
   const navigate = useNavigate()
   const chIdx = chapters.findIndex(c => c.number === chapter.number)
@@ -99,6 +118,67 @@ export default function ReaderHeader({
           className="text-xs text-slate-400 disabled:text-slate-700 hover:text-white transition-colors px-2 py-1.5 rounded-lg hover:bg-slate-800 disabled:hover:bg-transparent"
         >
           {nextLabel}
+        </button>
+      </div>
+
+      {/* TTS transport row */}
+      <div className="flex items-center justify-center gap-2 px-2 pb-2 border-t border-slate-800/60 pt-2">
+        <button
+          onClick={onTtsPrevSentence}
+          disabled={!ttsIsActive}
+          className="p-2 rounded-lg bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
+          aria-label="Предыдущее предложение"
+        >
+          <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M6 6h2v12H6zm3.5 6 8.5 6V6z" />
+          </svg>
+        </button>
+
+        <button
+          onClick={() => {
+            if (ttsIsPlaying) onTtsPause()
+            else if (ttsIsPaused) onTtsResume()
+            else onTtsPlay()
+          }}
+          className={`flex items-center gap-1.5 py-2 px-5 rounded-lg text-sm font-medium transition-colors ${
+            ttsIsActive
+              ? 'bg-blue-600 text-white hover:bg-blue-700'
+              : 'bg-slate-700 text-slate-200 hover:bg-slate-600'
+          }`}
+          aria-label={ttsIsPlaying ? 'Пауза' : ttsIsPaused ? 'Продолжить' : 'Слушать'}
+        >
+          {ttsIsPlaying ? (
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+            </svg>
+          ) : (
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M8 5v14l11-7z" />
+            </svg>
+          )}
+          {ttsIsPlaying ? 'Пауза' : ttsIsPaused ? 'Продолжить' : 'Слушать'}
+        </button>
+
+        <button
+          onClick={onTtsStop}
+          disabled={!ttsIsActive}
+          className="p-2 rounded-lg bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
+          aria-label="Стоп"
+        >
+          <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+            <rect x="6" y="6" width="12" height="12" rx="1" />
+          </svg>
+        </button>
+
+        <button
+          onClick={onTtsNextSentence}
+          disabled={!ttsIsActive}
+          className="p-2 rounded-lg bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
+          aria-label="Следующее предложение"
+        >
+          <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M6 18l8.5-6L6 6v12zm2-8.14 4.48 3.14L8 16.14V9.86zM16 6h2v12h-2z" />
+          </svg>
         </button>
       </div>
     </header>

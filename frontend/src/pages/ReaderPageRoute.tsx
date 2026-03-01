@@ -184,6 +184,15 @@ export default function ReaderPageRoute() {
           totalPages={totalPages}
           onPrevPage={() => setPage(Math.max(0, currentPage - 1))}
           onNextPage={() => setPage(Math.min(totalPages - 1, currentPage + 1))}
+          ttsIsPlaying={tts.isPlaying}
+          ttsIsPaused={tts.isPaused}
+          ttsIsActive={tts.isActive}
+          onTtsPlay={() => tts.play(buildPageQueue())}
+          onTtsPause={tts.pause}
+          onTtsResume={tts.resume}
+          onTtsStop={tts.stop}
+          onTtsPrevSentence={tts.prevSentence}
+          onTtsNextSentence={tts.nextSentence}
         />
       )}
 
@@ -232,73 +241,6 @@ export default function ReaderPageRoute() {
                 }
               />
             ))}
-
-            {/* TTS transport bar */}
-            <div className="flex items-center justify-center gap-2 mt-6">
-              {/* Prev sentence */}
-              <button
-                onClick={tts.prevSentence}
-                disabled={!tts.isActive}
-                className="p-3 rounded-xl bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
-                aria-label="Предыдущее предложение"
-              >
-                <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M6 6h2v12H6zm3.5 6 8.5 6V6z" />
-                </svg>
-              </button>
-
-              {/* Play / Pause / Resume */}
-              <button
-                onClick={() => {
-                  if (tts.isPlaying) tts.pause()
-                  else if (tts.isPaused) tts.resume()
-                  else tts.play(buildPageQueue())
-                }}
-                className={`flex items-center gap-2 py-3 px-6 rounded-xl text-sm font-medium transition-colors ${
-                  tts.isActive
-                    ? 'bg-blue-600 text-white hover:bg-blue-700'
-                    : 'bg-slate-700 text-slate-200 hover:bg-slate-600'
-                }`}
-                aria-label={tts.isPlaying ? 'Пауза' : tts.isPaused ? 'Продолжить' : 'Слушать'}
-              >
-                {tts.isPlaying ? (
-                  // Pause icon
-                  <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
-                  </svg>
-                ) : (
-                  // Play icon
-                  <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M8 5v14l11-7z" />
-                  </svg>
-                )}
-                {tts.isPlaying ? 'Пауза' : tts.isPaused ? 'Продолжить' : 'Слушать'}
-              </button>
-
-              {/* Stop — only visible when active */}
-              <button
-                onClick={tts.stop}
-                disabled={!tts.isActive}
-                className="p-3 rounded-xl bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
-                aria-label="Стоп"
-              >
-                <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
-                  <rect x="6" y="6" width="12" height="12" rx="1" />
-                </svg>
-              </button>
-
-              {/* Next sentence */}
-              <button
-                onClick={tts.nextSentence}
-                disabled={!tts.isActive}
-                className="p-3 rounded-xl bg-slate-800/80 text-slate-300 disabled:text-slate-700 disabled:bg-slate-800/30 hover:bg-slate-700 transition-colors"
-                aria-label="Следующее предложение"
-              >
-                <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M6 18l8.5-6L6 6v12zm2-8.14 4.48 3.14L8 16.14V9.86zM16 6h2v12h-2z" />
-                </svg>
-              </button>
-            </div>
 
             {/* Page navigation */}
             <div className="flex items-center justify-between mt-3 pb-8">
