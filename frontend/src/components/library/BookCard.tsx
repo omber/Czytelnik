@@ -36,6 +36,7 @@ export default function BookCard({ book }: Props) {
       </div>
 
       <div className="flex flex-col gap-0.5">
+        <p className="text-white text-sm font-medium leading-snug line-clamp-2">{book.title}</p>
         <p className="text-slate-400 text-xs truncate">{book.author}</p>
         <p className="text-slate-500 text-xs">
           {book.wordCount.toLocaleString()} слов · {book.chapterCount}{' '}

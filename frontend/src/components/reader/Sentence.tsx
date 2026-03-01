@@ -1,4 +1,4 @@
-import { Fragment, useState } from 'react'
+import { Fragment, useEffect, useRef, useState } from 'react'
 import { Sentence as SentenceType, Token } from '../../types/book'
 import Word from './Word'
 
@@ -19,6 +19,13 @@ export default function Sentence({
   onWordTap,
 }: Props) {
   const [showTranslation, setShowTranslation] = useState(false)
+  const spanRef = useRef<HTMLSpanElement>(null)
+
+  useEffect(() => {
+    if (isPlaying && spanRef.current) {
+      spanRef.current.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+    }
+  }, [isPlaying])
 
   // Filter out space tokens for rendering
   const tokens = sentence.tokens.filter(t => !t.is_space)
@@ -29,7 +36,7 @@ export default function Sentence({
   }
 
   return (
-    <span className={`inline ${isPlaying ? 'rounded bg-blue-950/30' : ''}`}>
+    <span ref={spanRef} className={`inline ${isPlaying ? 'rounded px-0.5 -mx-0.5 bg-blue-500/15' : ''}`}>
       {tokens.map((token, i) => {
         const nextToken = tokens[i + 1]
 
