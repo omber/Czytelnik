@@ -1,8 +1,9 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useUser } from '../context/UserContext'
 import { useVocab } from '../hooks/useVocab'
 import { VocabEntry } from '../types/user'
+import BottomSheet from '../components/ui/BottomSheet'
 
 const POS_LABELS: Record<string, string> = {
   NOUN: 'сущ.',
@@ -150,6 +151,16 @@ export default function VocabPage() {
   const [dueQueue, setDueQueue] = useState<VocabEntry[]>(() => vocab.getDue())
   const [reviewIdx, setReviewIdx] = useState(0)
   const [reviewDone, setReviewDone] = useState(false)
+
+  // Refresh queue when new words are added (e.g. navigating here after adding)
+  useEffect(() => {
+    if (!reviewDone) {
+      setDueQueue(vocab.getDue())
+    }
+  }, [vocab.entries.length])
+
+  // Word detail sheet
+  const [selectedEntry, setSelectedEntry] = useState<VocabEntry | null>(null)
 
   if (!currentUser) {
     navigate('/', { replace: true })
@@ -307,7 +318,8 @@ export default function VocabPage() {
                     {byBox[box].map(entry => (
                       <div
                         key={entry.lemma}
-                        className="flex items-center gap-3 px-4 py-3"
+                        className="flex items-center gap-3 px-4 py-3 cursor-pointer active:bg-slate-700/50"
+                        onClick={() => setSelectedEntry(entry)}
                       >
                         <div className="flex-1 min-w-0">
                           <div className="flex items-baseline gap-2">
@@ -325,7 +337,7 @@ export default function VocabPage() {
                           )}
                         </div>
                         <button
-                          onClick={() => vocab.remove(entry.lemma)}
+                          onClick={e => { e.stopPropagation(); vocab.remove(entry.lemma) }}
                           className="p-1.5 rounded-lg text-slate-600 hover:text-red-400 hover:bg-red-900/20 transition-colors shrink-0"
                           aria-label="Удалить"
                         >
@@ -352,6 +364,62 @@ export default function VocabPage() {
           </div>
         )}
       </main>
+
+      {/* Word detail sheet */}
+      <BottomSheet open={!!selectedEntry} onClose={() => setSelectedEntry(null)}>
+        {selectedEntry && (
+          <div className="flex flex-col gap-4">
+            {/* Word header */}
+            <div>
+              <div className="flex items-baseline gap-3 flex-wrap mb-1">
+                <span className="text-3xl font-bold text-white">{selectedEntry.lemma}</span>
+                {selectedEntry.surface.toLowerCase() !== selectedEntry.lemma.toLowerCase() && (
+                  <span className="text-slate-400 text-lg">{selectedEntry.surface}</span>
+                )}
+              </div>
+              <div className="flex items-center gap-3">
+                <span className="text-sm text-slate-500">
+                  {POS_LABELS[selectedEntry.pos] ?? selectedEntry.pos}
+                </span>
+                <span className={`text-xs font-medium px-2 py-0.5 rounded-full border ${BOX_COLORS[selectedEntry.box]}`}>
+                  {BOX_LABELS[selectedEntry.box]}
+                </span>
+              </div>
+            </div>
+
+            {/* Translation */}
+            <p className="text-2xl font-semibold text-blue-200">
+              {selectedEntry.translation || '—'}
+            </p>
+
+            {/* Contexts */}
+            {selectedEntry.contexts.length > 0 && (
+              <div className="flex flex-col gap-3">
+                {selectedEntry.contexts.map((ctx, i) => (
+                  <div key={i} className="border-l-2 border-slate-600 pl-3">
+                    <p className="text-sm text-slate-300 leading-relaxed italic">
+                      {ctx.sentenceText}
+                    </p>
+                    {ctx.sentenceTranslation && (
+                      <p className="text-xs text-slate-500 mt-1 leading-relaxed">
+                        {ctx.sentenceTranslation}
+                      </p>
+                    )}
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {/* Delete */}
+            <button
+              onClick={() => { vocab.remove(selectedEntry.lemma); setSelectedEntry(null) }}
+              className="mt-2 w-full py-3 rounded-xl bg-red-900/30 text-red-400 border border-red-900 hover:bg-red-900/50 text-sm font-medium transition-colors"
+            >
+              Удалить из словаря
+            </button>
+          </div>
+        )}
+      </BottomSheet>
     </div>
   )
 }

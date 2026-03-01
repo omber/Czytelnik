@@ -59,7 +59,7 @@ export function useVocab(username: string) {
       translation,
       box: 1,
       addedAt: new Date().toISOString(),
-      nextReview: nextReviewDate(1),
+      nextReview: new Date().toISOString().split('T')[0], // due immediately
       contexts: [context],
     }
     _save([...all, entry])
