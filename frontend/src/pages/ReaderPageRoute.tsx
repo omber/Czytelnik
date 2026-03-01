@@ -42,13 +42,31 @@ export default function ReaderPageRoute() {
   // TTS
   const tts = useTTS(bookIdStr, chapterNum, settings.ttsSpeed)
 
-  // Track session reading time
+  // Track session reading time.
+  // We save on both unmount AND visibilitychange (page hidden) because mobile
+  // browsers suspend/kill pages without triggering React's unmount cleanup.
   const sessionStartRef = useRef(Date.now())
+  const logSessionRef = useRef(logSession)
+  useEffect(() => { logSessionRef.current = logSession })
+
   useEffect(() => {
     sessionStartRef.current = Date.now()
-    return () => {
+
+    function save() {
       const seconds = Math.round((Date.now() - sessionStartRef.current) / 1000)
-      if (seconds >= 5) logSession(bookIdStr, seconds)
+      sessionStartRef.current = Date.now() // reset so unmount doesn't double-count
+      if (seconds >= 5) logSessionRef.current(bookIdStr, seconds)
+    }
+
+    function handleVisibilityChange() {
+      if (document.visibilityState === 'hidden') save()
+      else sessionStartRef.current = Date.now() // resumed — start fresh
+    }
+
+    document.addEventListener('visibilitychange', handleVisibilityChange)
+    return () => {
+      document.removeEventListener('visibilitychange', handleVisibilityChange)
+      save()
     }
   }, [bookIdStr]) // eslint-disable-line react-hooks/exhaustive-deps
 
