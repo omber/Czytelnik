@@ -1,0 +1,3470 @@
+{
+  "a": {
+    "pos": "PART",
+    "ru": "и"
+  },
+  "ach": {
+    "pos": "INTJ",
+    "ru": "ах"
+  },
+  "acz": {
+    "pos": "CCONJ",
+    "ru": "но, однако"
+  },
+  "akcja": {
+    "pos": "NOUN",
+    "ru": "акция"
+  },
+  "ale": {
+    "pos": "CCONJ",
+    "ru": "но"
+  },
+  "ani": {
+    "pos": "CCONJ",
+    "ru": "и"
+  },
+  "antytalent": {
+    "pos": "NOUN",
+    "ru": "антиталант"
+  },
+  "atmosferyczny": {
+    "pos": "ADJ",
+    "ru": "атмосферный"
+  },
+  "atramentowoczarny": {
+    "pos": "ADJ",
+    "ru": "чёрный как чернила"
+  },
+  "awantura": {
+    "pos": "NOUN",
+    "ru": "ссора"
+  },
+  "awaria": {
+    "pos": "NOUN",
+    "ru": "поломка"
+  },
+  "aż": {
+    "pos": "SCONJ",
+    "ru": "до, пока, даже, что"
+  },
+  "bajka": {
+    "pos": "NOUN",
+    "ru": "сказка"
+  },
+  "bardzo": {
+    "pos": "ADV",
+    "ru": "очень"
+  },
+  "bać być": {
+    "pos": "VERB",
+    "ru": "бояться"
+  },
+  "bałwan": {
+    "pos": "NOUN",
+    "ru": "снеговик"
+  },
+  "bez": {
+    "pos": "ADP",
+    "ru": "без"
+  },
+  "bezskutecznie": {
+    "pos": "ADV",
+    "ru": "безуспешно"
+  },
+  "bieda": {
+    "pos": "NOUN",
+    "ru": "беда"
+  },
+  "blask": {
+    "pos": "NOUN",
+    "ru": "блеск"
+  },
+  "blisko": {
+    "pos": "ADV",
+    "ru": "близко"
+  },
+  "blondyn": {
+    "pos": "PROPN",
+    "ru": "блондин"
+  },
+  "blondyna": {
+    "pos": "NOUN",
+    "ru": "блондинка"
+  },
+  "blondynka": {
+    "pos": "NOUN",
+    "ru": "блондинка"
+  },
+  "bo": {
+    "pos": "SCONJ",
+    "ru": "потому что"
+  },
+  "bohater": {
+    "pos": "NOUN",
+    "ru": "герой"
+  },
+  "bohaterka": {
+    "pos": "NOUN",
+    "ru": "героиня"
+  },
+  "bok": {
+    "pos": "NOUN",
+    "ru": "бок"
+  },
+  "bowiem": {
+    "pos": "SCONJ",
+    "ru": "потому что"
+  },
+  "brat": {
+    "pos": "NOUN",
+    "ru": "брат"
+  },
+  "brunet": {
+    "pos": "NOUN",
+    "ru": "брюнет"
+  },
+  "brydż": {
+    "pos": "NOUN",
+    "ru": "бридж"
+  },
+  "budynek": {
+    "pos": "NOUN",
+    "ru": "здание"
+  },
+  "bufet": {
+    "pos": "NOUN",
+    "ru": "буфет"
+  },
+  "burza": {
+    "pos": "NOUN",
+    "ru": "буря"
+  },
+  "burzliwą": {
+    "pos": "ADJ",
+    "ru": "бурный, бурлящий, бурный"
+  },
+  "byk": {
+    "pos": "NOUN",
+    "ru": "бык"
+  },
+  "byle": {
+    "pos": "SCONJ",
+    "ru": "лишь бы, только бы"
+  },
+  "być": {
+    "pos": "VERB",
+    "ru": "быть"
+  },
+  "być być": {
+    "pos": "AUX",
+    "ru": "быть"
+  },
+  "bóg": {
+    "pos": "PROPN",
+    "ru": "Бог"
+  },
+  "błędny": {
+    "pos": "ADJ",
+    "ru": "ошибочный"
+  },
+  "całkowicie": {
+    "pos": "ADV",
+    "ru": "полностью"
+  },
+  "cały": {
+    "pos": "ADJ",
+    "ru": "весь, целый"
+  },
+  "cel": {
+    "pos": "NOUN",
+    "ru": "цель"
+  },
+  "charakter": {
+    "pos": "NOUN",
+    "ru": "характер"
+  },
+  "chcieć być": {
+    "pos": "VERB",
+    "ru": "хотеть быть"
+  },
+  "chodzić": {
+    "pos": "VERB",
+    "ru": "ходить, ездить, гулять"
+  },
+  "chwila": {
+    "pos": "NOUN",
+    "ru": "момент"
+  },
+  "chyba": {
+    "pos": "PART",
+    "ru": "вероятно"
+  },
+  "ciemny": {
+    "pos": "ADJ",
+    "ru": "тёмный"
+  },
+  "ciotka": {
+    "pos": "NOUN",
+    "ru": "тетя"
+  },
+  "ciągle": {
+    "pos": "ADV",
+    "ru": "постоянно, непрерывно"
+  },
+  "ciągnąć": {
+    "pos": "VERB",
+    "ru": "тянуть"
+  },
+  "co": {
+    "pos": "PRON",
+    "ru": "что"
+  },
+  "cofnąć być": {
+    "pos": "VERB",
+    "ru": "отступить, отойти"
+  },
+  "cokolwiek": {
+    "pos": "PRON",
+    "ru": "что-либо, что-нибудь, кто-либо, кто-нибудь"
+  },
+  "cudny": {
+    "pos": "ADJ",
+    "ru": "чудесный"
+  },
+  "czarny": {
+    "pos": "ADJ",
+    "ru": "чёрный"
+  },
+  "czaruć": {
+    "pos": "ADJ",
+    "ru": "чаровничий"
+  },
+  "czas": {
+    "pos": "NOUN",
+    "ru": "время"
+  },
+  "czekałyśmy": {
+    "pos": "VERB",
+    "ru": "ждали (мы женщины)"
+  },
+  "cztery": {
+    "pos": "NUM",
+    "ru": "четыре"
+  },
+  "czwarty": {
+    "pos": "ADJ",
+    "ru": "четвёртый"
+  },
+  "czwartym": {
+    "pos": "ADJ",
+    "ru": "четвёртый"
+  },
+  "czynić": {
+    "pos": "VERB",
+    "ru": "делать"
+  },
+  "czytałam": {
+    "pos": "VERB",
+    "ru": "читала"
+  },
+  "człowiek": {
+    "pos": "NOUN",
+    "ru": "человек"
+  },
+  "cóż": {
+    "pos": "INTJ",
+    "ru": "что ж"
+  },
+  "dal": {
+    "pos": "NOUN",
+    "ru": "чечевица"
+  },
+  "daleki": {
+    "pos": "ADJ",
+    "ru": "далекий"
+  },
+  "daleko": {
+    "pos": "ADV",
+    "ru": "далеко"
+  },
+  "danusi": {
+    "pos": "NOUN",
+    "ru": "Данусь (уменьшительное имя, производное от Дана)"
+  },
+  "danusia": {
+    "pos": "PROPN",
+    "ru": "Дануся"
+  },
+  "dawny": {
+    "pos": "ADJ",
+    "ru": "древний, старый, прежний"
+  },
+  "dać": {
+    "pos": "NOUN",
+    "ru": "дача"
+  },
+  "demonstracja": {
+    "pos": "NOUN",
+    "ru": "демонстрация"
+  },
+  "deska": {
+    "pos": "NOUN",
+    "ru": "доска"
+  },
+  "dlaczego": {
+    "pos": "ADV",
+    "ru": "почему"
+  },
+  "dlatego": {
+    "pos": "ADV",
+    "ru": "поэтому"
+  },
+  "do": {
+    "pos": "ADP",
+    "ru": "к, до, в"
+  },
+  "doba": {
+    "pos": "NOUN",
+    "ru": "эпоха"
+  },
+  "dobitek": {
+    "pos": "NOUN",
+    "ru": "скот"
+  },
+  "dodawać": {
+    "pos": "VERB",
+    "ru": "добавлять"
+  },
+  "dogonić": {
+    "pos": "VERB",
+    "ru": "догнать"
+  },
+  "dojechałam": {
+    "pos": "VERB",
+    "ru": "доехала"
+  },
+  "dojechałyśmy": {
+    "pos": "VERB",
+    "ru": "доехали (мы женского рода)"
+  },
+  "dom": {
+    "pos": "NOUN",
+    "ru": "дом"
+  },
+  "doskonale": {
+    "pos": "ADV",
+    "ru": "отлично, прекрасно, совершенно"
+  },
+  "doskonały": {
+    "pos": "ADJ",
+    "ru": "совершенный"
+  },
+  "doszć być": {
+    "pos": "VERB",
+    "ru": "хватить"
+  },
+  "doszłam": {
+    "pos": "VERB",
+    "ru": "дошла"
+  },
+  "dramatyczny": {
+    "pos": "ADJ",
+    "ru": "драматический"
+  },
+  "drobny": {
+    "pos": "ADJ",
+    "ru": "мелкий"
+  },
+  "droga": {
+    "pos": "NOUN",
+    "ru": "дорога"
+  },
+  "drugi": {
+    "pos": "ADJ",
+    "ru": "второй"
+  },
+  "drzewo": {
+    "pos": "NOUN",
+    "ru": "дерево"
+  },
+  "dwa": {
+    "pos": "NUM",
+    "ru": "два"
+  },
+  "dwanaście": {
+    "pos": "NUM",
+    "ru": "двенадцать"
+  },
+  "dwojga": {
+    "pos": "DET",
+    "ru": "двух"
+  },
+  "dyskusja": {
+    "pos": "NOUN",
+    "ru": "дискуссия"
+  },
+  "dziać": {
+    "pos": "VERB",
+    "ru": "происходить"
+  },
+  "działanie": {
+    "pos": "NOUN",
+    "ru": "действие"
+  },
+  "działać": {
+    "pos": "VERB",
+    "ru": "действовать"
+  },
+  "dziecinny": {
+    "pos": "ADJ",
+    "ru": "детский"
+  },
+  "dzieciństwo": {
+    "pos": "NOUN",
+    "ru": "детство"
+  },
+  "dziedzina": {
+    "pos": "NOUN",
+    "ru": "область"
+  },
+  "dziewczyna": {
+    "pos": "NOUN",
+    "ru": "девушка"
+  },
+  "dzień": {
+    "pos": "NOUN",
+    "ru": "день"
+  },
+  "dętka": {
+    "pos": "NOUN",
+    "ru": "камера (велосипеда)"
+  },
+  "długi": {
+    "pos": "ADJ",
+    "ru": "длинный"
+  },
+  "długo": {
+    "pos": "ADV",
+    "ru": "долго"
+  },
+  "edukacja": {
+    "pos": "NOUN",
+    "ru": "образование"
+  },
+  "element": {
+    "pos": "NOUN",
+    "ru": "элемент"
+  },
+  "ewentualny": {
+    "pos": "ADJ",
+    "ru": "возможный, потенциальный"
+  },
+  "facet": {
+    "pos": "NOUN",
+    "ru": "парень"
+  },
+  "fakt": {
+    "pos": "NOUN",
+    "ru": "факт"
+  },
+  "fanaberia": {
+    "pos": "NOUN",
+    "ru": "спесь, кичливость"
+  },
+  "fantazja": {
+    "pos": "NOUN",
+    "ru": "фантазия"
+  },
+  "fikcja": {
+    "pos": "NOUN",
+    "ru": "вымысел"
+  },
+  "filiżanka": {
+    "pos": "NOUN",
+    "ru": "чашка"
+  },
+  "filmowy": {
+    "pos": "ADJ",
+    "ru": "киноматографический, фильмовый"
+  },
+  "frapujący": {
+    "pos": "ADJ",
+    "ru": "поразительный"
+  },
+  "furia": {
+    "pos": "NOUN",
+    "ru": "ярость"
+  },
+  "garbus": {
+    "pos": "NOUN",
+    "ru": "горб"
+  },
+  "gdyby": {
+    "pos": "SCONJ",
+    "ru": "если бы"
+  },
+  "gest": {
+    "pos": "NOUN",
+    "ru": "жест"
+  },
+  "gmatwy": {
+    "pos": "ADJ",
+    "ru": "запутанный"
+  },
+  "godny": {
+    "pos": "ADJ",
+    "ru": "достойный"
+  },
+  "gorejący": {
+    "pos": "ADJ",
+    "ru": "горящий"
+  },
+  "gorący": {
+    "pos": "ADJ",
+    "ru": "горячий"
+  },
+  "gradobicia": {
+    "pos": "NOUN",
+    "ru": "град-битва"
+  },
+  "grać": {
+    "pos": "VERB",
+    "ru": "играть"
+  },
+  "grupa": {
+    "pos": "NOUN",
+    "ru": "группа"
+  },
+  "guzik": {
+    "pos": "NOUN",
+    "ru": "пуговица"
+  },
+  "gwałtownie": {
+    "pos": "ADV",
+    "ru": "насильственно, бурно, стремительно"
+  },
+  "gwiazda": {
+    "pos": "NOUN",
+    "ru": "звезда"
+  },
+  "góra": {
+    "pos": "NOUN",
+    "ru": "гора"
+  },
+  "głos": {
+    "pos": "NOUN",
+    "ru": "голос"
+  },
+  "głowa": {
+    "pos": "NOUN",
+    "ru": "голова"
+  },
+  "głupi": {
+    "pos": "ADJ",
+    "ru": "глупый"
+  },
+  "główny": {
+    "pos": "ADJ",
+    "ru": "главный"
+  },
+  "głębia": {
+    "pos": "NOUN",
+    "ru": "глубина"
+  },
+  "głęboko": {
+    "pos": "ADV",
+    "ru": "глубоко"
+  },
+  "harmonia": {
+    "pos": "NOUN",
+    "ru": "гармония"
+  },
+  "hańba": {
+    "pos": "NOUN",
+    "ru": "позор"
+  },
+  "historia": {
+    "pos": "NOUN",
+    "ru": "история"
+  },
+  "huk": {
+    "pos": "NOUN",
+    "ru": "грохот, шум, громкий звук"
+  },
+  "humor": {
+    "pos": "NOUN",
+    "ru": "юмор"
+  },
+  "i": {
+    "pos": "PART",
+    "ru": "и"
+  },
+  "idealny": {
+    "pos": "ADJ",
+    "ru": "идеальный"
+  },
+  "idiotyczny": {
+    "pos": "ADJ",
+    "ru": "идиотский"
+  },
+  "ile": {
+    "pos": "DET",
+    "ru": "сколько"
+  },
+  "ilość": {
+    "pos": "NOUN",
+    "ru": "количество"
+  },
+  "inny": {
+    "pos": "ADJ",
+    "ru": "другой"
+  },
+  "interesując": {
+    "pos": "ADJ",
+    "ru": "интересующий"
+  },
+  "iskra": {
+    "pos": "NOUN",
+    "ru": "искра"
+  },
+  "istny": {
+    "pos": "ADJ",
+    "ru": "настоящий"
+  },
+  "istotnie": {
+    "pos": "ADV",
+    "ru": "существенно"
+  },
+  "ja": {
+    "pos": "PRON",
+    "ru": "я"
+  },
+  "jadąc": {
+    "pos": "VERB",
+    "ru": "ехав, проезжая"
+  },
+  "jak": {
+    "pos": "SCONJ",
+    "ru": "как, чтобы"
+  },
+  "jakakolwiek": {
+    "pos": "DET",
+    "ru": "какой-либо"
+  },
+  "jakby": {
+    "pos": "SCONJ",
+    "ru": "как будто"
+  },
+  "jakiś": {
+    "pos": "DET",
+    "ru": "какой-то"
+  },
+  "jako": {
+    "pos": "SCONJ",
+    "ru": "как"
+  },
+  "jazda": {
+    "pos": "NOUN",
+    "ru": "езда"
+  },
+  "jechać": {
+    "pos": "VERB",
+    "ru": "ехать"
+  },
+  "jeden": {
+    "pos": "ADJ",
+    "ru": "один"
+  },
+  "jednak": {
+    "pos": "PART",
+    "ru": "однако"
+  },
+  "jednakowy": {
+    "pos": "ADJ",
+    "ru": "одинаковый"
+  },
+  "jedziesz": {
+    "pos": "VERB",
+    "ru": "ты едишь"
+  },
+  "jeszcze": {
+    "pos": "PART",
+    "ru": "ещё"
+  },
+  "już": {
+    "pos": "PART",
+    "ru": "уже"
+  },
+  "kant": {
+    "pos": "NOUN",
+    "ru": "край"
+  },
+  "kariera": {
+    "pos": "NOUN",
+    "ru": "карьера"
+  },
+  "kary": {
+    "pos": "ADJ",
+    "ru": "штрафной"
+  },
+  "kawiarnia": {
+    "pos": "NOUN",
+    "ru": "кофейня"
+  },
+  "każdy": {
+    "pos": "DET",
+    "ru": "каждый"
+  },
+  "kiedy": {
+    "pos": "ADV",
+    "ru": "когда"
+  },
+  "kilka": {
+    "pos": "DET",
+    "ru": "несколько"
+  },
+  "kilometr": {
+    "pos": "NOUN",
+    "ru": "километр"
+  },
+  "kiwnąć": {
+    "pos": "VERB",
+    "ru": "кивнуть"
+  },
+  "kluczowy": {
+    "pos": "ADJ",
+    "ru": "ключевой"
+  },
+  "kluczyk": {
+    "pos": "NOUN",
+    "ru": "ключик"
+  },
+  "kobieta": {
+    "pos": "NOUN",
+    "ru": "женщина"
+  },
+  "kolej": {
+    "pos": "NOUN",
+    "ru": "железная дорога"
+  },
+  "komplikacja": {
+    "pos": "NOUN",
+    "ru": "осложнение"
+  },
+  "koniec": {
+    "pos": "NOUN",
+    "ru": "конец"
+  },
+  "konwersacja": {
+    "pos": "NOUN",
+    "ru": "беседа"
+  },
+  "kopnęć być": {
+    "pos": "VERB",
+    "ru": "пинать, ударить ногой"
+  },
+  "koszula": {
+    "pos": "NOUN",
+    "ru": "рубашка"
+  },
+  "koło": {
+    "pos": "NOUN",
+    "ru": "колесо"
+  },
+  "koń": {
+    "pos": "NOUN",
+    "ru": "лошадь"
+  },
+  "kończyna": {
+    "pos": "NOUN",
+    "ru": "конечность"
+  },
+  "krew": {
+    "pos": "NOUN",
+    "ru": "кровь"
+  },
+  "krokodyl": {
+    "pos": "PROPN",
+    "ru": "крокодил"
+  },
+  "krokodylu": {
+    "pos": "PROPN",
+    "ru": "крокодил"
+  },
+  "kryminał": {
+    "pos": "NOUN",
+    "ru": "детектив"
+  },
+  "krzesać": {
+    "pos": "VERB",
+    "ru": "сечь, высекать (огонь)"
+  },
+  "krzesło": {
+    "pos": "NOUN",
+    "ru": "стул"
+  },
+  "krzew": {
+    "pos": "NOUN",
+    "ru": "куст"
+  },
+  "krzyknęć być": {
+    "pos": "VERB",
+    "ru": "крикнуть"
+  },
+  "królewski": {
+    "pos": "ADJ",
+    "ru": "королевский"
+  },
+  "księc": {
+    "pos": "NOUN",
+    "ru": "князь"
+  },
+  "księżycowy": {
+    "pos": "ADJ",
+    "ru": "лунный"
+  },
+  "kto": {
+    "pos": "PRON",
+    "ru": "кто"
+  },
+  "który": {
+    "pos": "DET",
+    "ru": "который"
+  },
+  "kulturalny": {
+    "pos": "ADJ",
+    "ru": "культурный"
+  },
+  "lampa": {
+    "pos": "NOUN",
+    "ru": "лампа"
+  },
+  "lansada": {
+    "pos": "NOUN",
+    "ru": "выпад"
+  },
+  "las": {
+    "pos": "NOUN",
+    "ru": "лес"
+  },
+  "leciać być": {
+    "pos": "VERB",
+    "ru": "летать; спешить"
+  },
+  "lecieć": {
+    "pos": "VERB",
+    "ru": "летать"
+  },
+  "lekki": {
+    "pos": "ADJ",
+    "ru": "лёгкий"
+  },
+  "lektura": {
+    "pos": "NOUN",
+    "ru": "чтение"
+  },
+  "liczba": {
+    "pos": "NOUN",
+    "ru": "число"
+  },
+  "los": {
+    "pos": "NOUN",
+    "ru": "судьба"
+  },
+  "ludzki": {
+    "pos": "ADJ",
+    "ru": "человеческий"
+  },
+  "mariaż": {
+    "pos": "NOUN",
+    "ru": "брак"
+  },
+  "marzyć być": {
+    "pos": "VERB",
+    "ru": "мечтать быть"
+  },
+  "marzyłam": {
+    "pos": "VERB",
+    "ru": "мечтала"
+  },
+  "marząco": {
+    "pos": "ADV",
+    "ru": "мечтательно"
+  },
+  "masa": {
+    "pos": "NOUN",
+    "ru": "масса"
+  },
+  "maselniczce": {
+    "pos": "NOUN",
+    "ru": "маслёнка"
+  },
+  "matka": {
+    "pos": "NOUN",
+    "ru": "мать"
+  },
+  "mało": {
+    "pos": "DET",
+    "ru": "мало"
+  },
+  "małżeński": {
+    "pos": "ADJ",
+    "ru": "брачный"
+  },
+  "mechaniczny": {
+    "pos": "ADJ",
+    "ru": "механический"
+  },
+  "miara": {
+    "pos": "NOUN",
+    "ru": "мера"
+  },
+  "miałyśmy": {
+    "pos": "VERB",
+    "ru": "имели (мы женского рода, прошедшее время)"
+  },
+  "miejsce": {
+    "pos": "NOUN",
+    "ru": "место"
+  },
+  "mieć": {
+    "pos": "VERB",
+    "ru": "иметь"
+  },
+  "mieć być": {
+    "pos": "VERB",
+    "ru": "иметь быть, должен быть"
+  },
+  "milczenie": {
+    "pos": "NOUN",
+    "ru": "молчание"
+  },
+  "milknć": {
+    "pos": "VERB",
+    "ru": "мелькнуть, промелькнуть"
+  },
+  "miłość": {
+    "pos": "NOUN",
+    "ru": "любовь"
+  },
+  "moczć": {
+    "pos": "NOUN",
+    "ru": "мочь"
+  },
+  "moment": {
+    "pos": "NOUN",
+    "ru": "момент"
+  },
+  "motocykl": {
+    "pos": "NOUN",
+    "ru": "мотоцикл"
+  },
+  "motor": {
+    "pos": "NOUN",
+    "ru": "мотор"
+  },
+  "mowa": {
+    "pos": "NOUN",
+    "ru": "речь"
+  },
+  "możliwy": {
+    "pos": "ADJ",
+    "ru": "возможный"
+  },
+  "możność": {
+    "pos": "NOUN",
+    "ru": "возможность"
+  },
+  "mroczny": {
+    "pos": "ADJ",
+    "ru": "мрачный"
+  },
+  "mrożący": {
+    "pos": "ADJ",
+    "ru": "морозящий"
+  },
+  "musiałam": {
+    "pos": "VERB",
+    "ru": "должна была (я)"
+  },
+  "musieć": {
+    "pos": "VERB",
+    "ru": "должен, приходится"
+  },
+  "my": {
+    "pos": "PRON",
+    "ru": "мы"
+  },
+  "myśleć być": {
+    "pos": "VERB",
+    "ru": "думать"
+  },
+  "móc": {
+    "pos": "VERB",
+    "ru": "мочь"
+  },
+  "móc być": {
+    "pos": "VERB",
+    "ru": "мочь быть"
+  },
+  "mój": {
+    "pos": "DET",
+    "ru": "мой"
+  },
+  "mówić": {
+    "pos": "VERB",
+    "ru": "говорить"
+  },
+  "mąż": {
+    "pos": "NOUN",
+    "ru": "муж"
+  },
+  "męż": {
+    "pos": "NOUN",
+    "ru": "муж"
+  },
+  "młody": {
+    "pos": "ADJ",
+    "ru": "молодой"
+  },
+  "mściwy": {
+    "pos": "ADJ",
+    "ru": "мстительный"
+  },
+  "na": {
+    "pos": "ADP",
+    "ru": "на"
+  },
+  "nabierać": {
+    "pos": "VERB",
+    "ru": "набирать"
+  },
+  "nad": {
+    "pos": "ADP",
+    "ru": "над"
+  },
+  "nadal": {
+    "pos": "ADV",
+    "ru": "ещё, всё ещё, по-прежнему"
+  },
+  "nadmierny": {
+    "pos": "ADJ",
+    "ru": "чрезмерный"
+  },
+  "nadnaturalny": {
+    "pos": "ADJ",
+    "ru": "сверхъестественный"
+  },
+  "nadzieja": {
+    "pos": "NOUN",
+    "ru": "надежда"
+  },
+  "nadziemsky": {
+    "pos": "ADJ",
+    "ru": "надземный"
+  },
+  "nagle": {
+    "pos": "ADV",
+    "ru": "вдруг"
+  },
+  "najdawniejszy": {
+    "pos": "ADJ",
+    "ru": "древнейший"
+  },
+  "najmłodszych": {
+    "pos": "NOUN",
+    "ru": "младших"
+  },
+  "najszczerszych": {
+    "pos": "ADJ",
+    "ru": "самых искренних"
+  },
+  "najważniejszy": {
+    "pos": "ADJ",
+    "ru": "самый важный"
+  },
+  "najwięcej": {
+    "pos": "ADV",
+    "ru": "больше всего"
+  },
+  "namęczyć być": {
+    "pos": "VERB",
+    "ru": "измучить, утомить"
+  },
+  "napisać": {
+    "pos": "VERB",
+    "ru": "написать"
+  },
+  "napisać być": {
+    "pos": "VERB",
+    "ru": "написать"
+  },
+  "naprawa": {
+    "pos": "NOUN",
+    "ru": "ремонт"
+  },
+  "narastać": {
+    "pos": "VERB",
+    "ru": "нарастать"
+  },
+  "narażonych": {
+    "pos": "ADJ",
+    "ru": "подвергнутых, подвергаемых, подвергнутых риску"
+  },
+  "narzędzie": {
+    "pos": "NOUN",
+    "ru": "инструмент"
+  },
+  "nastąpić": {
+    "pos": "VERB",
+    "ru": "произойти"
+  },
+  "następny": {
+    "pos": "ADJ",
+    "ru": "следующий"
+  },
+  "następować": {
+    "pos": "VERB",
+    "ru": "следовать"
+  },
+  "nasz": {
+    "pos": "DET",
+    "ru": "наш"
+  },
+  "natrętny": {
+    "pos": "ADJ",
+    "ru": "назойливый"
+  },
+  "natychmiast": {
+    "pos": "ADV",
+    "ru": "немедленно"
+  },
+  "nawet": {
+    "pos": "PART",
+    "ru": "даже"
+  },
+  "nic": {
+    "pos": "PRON",
+    "ru": "ничто"
+  },
+  "nie": {
+    "pos": "CCONJ",
+    "ru": "не"
+  },
+  "niebezpieczeństwo": {
+    "pos": "NOUN",
+    "ru": "опасность"
+  },
+  "nieco": {
+    "pos": "ADV",
+    "ru": "немного"
+  },
+  "nieobliczalny": {
+    "pos": "ADJ",
+    "ru": "непредсказуемый"
+  },
+  "niepokój": {
+    "pos": "NOUN",
+    "ru": "беспокойство"
+  },
+  "niepowodzenie": {
+    "pos": "NOUN",
+    "ru": "неудача"
+  },
+  "nieprzeciętny": {
+    "pos": "ADJ",
+    "ru": "необычный"
+  },
+  "nieprzytomna": {
+    "pos": "ADJ",
+    "ru": "бессознательная"
+  },
+  "nieprzytomny": {
+    "pos": "ADJ",
+    "ru": "бессознательный"
+  },
+  "nieróbstwo": {
+    "pos": "NOUN",
+    "ru": "лень"
+  },
+  "niesmak": {
+    "pos": "NOUN",
+    "ru": "неприятный вкус, отвращение"
+  },
+  "niesnask": {
+    "pos": "NOUN",
+    "ru": "несоответствие"
+  },
+  "niestety": {
+    "pos": "PART",
+    "ru": "к сожалению"
+  },
+  "nieszczęsny": {
+    "pos": "ADJ",
+    "ru": "несчастный"
+  },
+  "nieszczęśliwy": {
+    "pos": "ADJ",
+    "ru": "несчастный"
+  },
+  "niesłychanie": {
+    "pos": "ADV",
+    "ru": "необычайно"
+  },
+  "nieufnie": {
+    "pos": "ADV",
+    "ru": "недоверчиво"
+  },
+  "niewygodny": {
+    "pos": "ADJ",
+    "ru": "неудобный"
+  },
+  "niezależnie": {
+    "pos": "ADV",
+    "ru": "независимо"
+  },
+  "niezwykły": {
+    "pos": "ADJ",
+    "ru": "необычный"
+  },
+  "nigdy": {
+    "pos": "ADV",
+    "ru": "никогда"
+  },
+  "nikt": {
+    "pos": "PRON",
+    "ru": "никто"
+  },
+  "niniejszy": {
+    "pos": "ADJ",
+    "ru": "настоящий"
+  },
+  "niż": {
+    "pos": "SCONJ",
+    "ru": "чем"
+  },
+  "no": {
+    "pos": "PART",
+    "ru": "ну"
+  },
+  "noc": {
+    "pos": "NOUN",
+    "ru": "ночь"
+  },
+  "noga": {
+    "pos": "NOUN",
+    "ru": "нога"
+  },
+  "normalny": {
+    "pos": "ADJ",
+    "ru": "нормальный"
+  },
+  "nowo": {
+    "pos": "ADV",
+    "ru": "заново"
+  },
+  "nozdrz": {
+    "pos": "NOUN",
+    "ru": "ноздря"
+  },
+  "o": {
+    "pos": "INTJ",
+    "ru": "о"
+  },
+  "oba": {
+    "pos": "NUM",
+    "ru": "оба"
+  },
+  "obdarzyć": {
+    "pos": "VERB",
+    "ru": "одарить"
+  },
+  "obejrzeć": {
+    "pos": "VERB",
+    "ru": "посмотреть"
+  },
+  "obejrzeć być": {
+    "pos": "VERB",
+    "ru": "посмотреть"
+  },
+  "obiad": {
+    "pos": "NOUN",
+    "ru": "обед"
+  },
+  "oblicze": {
+    "pos": "NOUN",
+    "ru": "лицо"
+  },
+  "obok": {
+    "pos": "ADV",
+    "ru": "рядом"
+  },
+  "obraz": {
+    "pos": "NOUN",
+    "ru": "образ"
+  },
+  "obserwować": {
+    "pos": "VERB",
+    "ru": "наблюдать"
+  },
+  "obskakywać": {
+    "pos": "VERB",
+    "ru": "обходить, объезжать, оббегать"
+  },
+  "obłudnie": {
+    "pos": "ADV",
+    "ru": "лицемерно, лживо"
+  },
+  "oczekiwanie": {
+    "pos": "NOUN",
+    "ru": "ожидание"
+  },
+  "oczekiwać": {
+    "pos": "VERB",
+    "ru": "ожидать"
+  },
+  "oczyma": {
+    "pos": "VERB",
+    "ru": "смотреть"
+  },
+  "oczywiście": {
+    "pos": "ADV",
+    "ru": "конечно"
+  },
+  "od": {
+    "pos": "ADP",
+    "ru": "от"
+  },
+  "odeprzeć": {
+    "pos": "VERB",
+    "ru": "отразить"
+  },
+  "oderwać": {
+    "pos": "ADJ",
+    "ru": "оторванный"
+  },
+  "odkręcać": {
+    "pos": "VERB",
+    "ru": "откручивать"
+  },
+  "odnosić być": {
+    "pos": "VERB",
+    "ru": "относиться, быть"
+  },
+  "odpowiedzieć": {
+    "pos": "VERB",
+    "ru": "ответить"
+  },
+  "odrodzoć": {
+    "pos": "ADJ",
+    "ru": "возрожденный"
+  },
+  "ogień": {
+    "pos": "NOUN",
+    "ru": "огонь"
+  },
+  "ognisty": {
+    "pos": "ADJ",
+    "ru": "огненный"
+  },
+  "okazać": {
+    "pos": "VERB",
+    "ru": "показать, проявить"
+  },
+  "okno": {
+    "pos": "NOUN",
+    "ru": "окно"
+  },
+  "oko": {
+    "pos": "NOUN",
+    "ru": "глаз"
+  },
+  "okoliczność": {
+    "pos": "NOUN",
+    "ru": "обстоятельство"
+  },
+  "okropnie": {
+    "pos": "ADV",
+    "ru": "ужасно"
+  },
+  "okropny": {
+    "pos": "ADJ",
+    "ru": "ужасный"
+  },
+  "olśniony": {
+    "pos": "ADJ",
+    "ru": "ослепленный"
+  },
+  "on": {
+    "pos": "PRON",
+    "ru": "он"
+  },
+  "opanowan": {
+    "pos": "PROPN",
+    "ru": "Опановань"
+  },
+  "opona": {
+    "pos": "NOUN",
+    "ru": "шина"
+  },
+  "oporny": {
+    "pos": "ADJ",
+    "ru": "упорный"
+  },
+  "oprzytomniawszy": {
+    "pos": "VERB",
+    "ru": "опомнившись"
+  },
+  "oprzytomniać być": {
+    "pos": "VERB",
+    "ru": "приходить в сознание, очнуться"
+  },
+  "opuszczyć": {
+    "pos": "ADJ",
+    "ru": "покинутый"
+  },
+  "opływać": {
+    "pos": "ADJ",
+    "ru": "обтекаемый"
+  },
+  "osoba": {
+    "pos": "NOUN",
+    "ru": "человек, личность"
+  },
+  "osobnik": {
+    "pos": "NOUN",
+    "ru": "особь"
+  },
+  "ostatni": {
+    "pos": "ADJ",
+    "ru": "последний"
+  },
+  "owy": {
+    "pos": "ADJ",
+    "ru": "новый"
+  },
+  "oświadczać": {
+    "pos": "VERB",
+    "ru": "объявлять, заявлять"
+  },
+  "padać": {
+    "pos": "VERB",
+    "ru": "падать"
+  },
+  "palącą": {
+    "pos": "ADJ",
+    "ru": "горящую"
+  },
+  "pan": {
+    "pos": "NOUN",
+    "ru": "господин"
+  },
+  "pani": {
+    "pos": "NOUN",
+    "ru": "госпожа"
+  },
+  "papierek": {
+    "pos": "NOUN",
+    "ru": "бумажка"
+  },
+  "para": {
+    "pos": "NOUN",
+    "ru": "пара"
+  },
+  "parskać": {
+    "pos": "VERB",
+    "ru": "фыркать, брызгать"
+  },
+  "pasjans": {
+    "pos": "PROPN",
+    "ru": "Пасьянс"
+  },
+  "patrzeć": {
+    "pos": "VERB",
+    "ru": "смотреть"
+  },
+  "patrzyć": {
+    "pos": "VERB",
+    "ru": "смотреть"
+  },
+  "patrzyć być": {
+    "pos": "VERB",
+    "ru": "смотреть"
+  },
+  "pewien": {
+    "pos": "DET",
+    "ru": "некий, определённый, уверенный"
+  },
+  "pewnie": {
+    "pos": "PART",
+    "ru": "конечно"
+  },
+  "pełnia": {
+    "pos": "VERB",
+    "ru": "полнота, полная луна"
+  },
+  "pełnić": {
+    "pos": "VERB",
+    "ru": "исполнять"
+  },
+  "pełny": {
+    "pos": "ADJ",
+    "ru": "полный"
+  },
+  "piekielny": {
+    "pos": "ADJ",
+    "ru": "адский"
+  },
+  "pierwszy": {
+    "pos": "ADJ",
+    "ru": "первый"
+  },
+  "piąty": {
+    "pos": "ADJ",
+    "ru": "пятый"
+  },
+  "piękny": {
+    "pos": "ADJ",
+    "ru": "красивый"
+  },
+  "piętro": {
+    "pos": "NOUN",
+    "ru": "этаж"
+  },
+  "plan": {
+    "pos": "NOUN",
+    "ru": "план"
+  },
+  "plastyczny": {
+    "pos": "ADJ",
+    "ru": "пластический"
+  },
+  "plecak": {
+    "pos": "NOUN",
+    "ru": "рюкзак"
+  },
+  "po": {
+    "pos": "ADP",
+    "ru": "по"
+  },
+  "pobłażliwie": {
+    "pos": "ADV",
+    "ru": "снисходительно, терпимо"
+  },
+  "pocałunek": {
+    "pos": "NOUN",
+    "ru": "поцелуй"
+  },
+  "poczynać": {
+    "pos": "NOUN",
+    "ru": "начинание"
+  },
+  "poczynić być": {
+    "pos": "VERB",
+    "ru": "начинать"
+  },
+  "początek": {
+    "pos": "NOUN",
+    "ru": "начало"
+  },
+  "pod": {
+    "pos": "ADP",
+    "ru": "под"
+  },
+  "podejrzliwie": {
+    "pos": "ADV",
+    "ru": "подозрительно"
+  },
+  "poderwać": {
+    "pos": "VERB",
+    "ru": "вырвать, оторвать, сорвать"
+  },
+  "podeszłam": {
+    "pos": "VERB",
+    "ru": "подошла"
+  },
+  "podeszłyśmy": {
+    "pos": "VERB",
+    "ru": "мы подошли"
+  },
+  "podniosć być": {
+    "pos": "VERB",
+    "ru": "поднять, возвышать"
+  },
+  "podnóżko": {
+    "pos": "NOUN",
+    "ru": "подножка"
+  },
+  "podstawowy": {
+    "pos": "ADJ",
+    "ru": "основной"
+  },
+  "podłoga": {
+    "pos": "NOUN",
+    "ru": "пол"
+  },
+  "podły": {
+    "pos": "PROPN",
+    "ru": "подлый"
+  },
+  "pognębiony": {
+    "pos": "ADJ",
+    "ru": "согнутый, скорченный, изогнутый"
+  },
+  "pogoda": {
+    "pos": "NOUN",
+    "ru": "погода"
+  },
+  "pogodny": {
+    "pos": "ADJ",
+    "ru": "погожий"
+  },
+  "pojazd": {
+    "pos": "NOUN",
+    "ru": "транспортное средство"
+  },
+  "pojęcie": {
+    "pos": "NOUN",
+    "ru": "понятие"
+  },
+  "pokutować": {
+    "pos": "VERB",
+    "ru": "каяться, искупать вину, делать покаяние"
+  },
+  "pokój": {
+    "pos": "NOUN",
+    "ru": "комната"
+  },
+  "pole": {
+    "pos": "NOUN",
+    "ru": "поле"
+  },
+  "pomagać": {
+    "pos": "VERB",
+    "ru": "помогать"
+  },
+  "pomimo": {
+    "pos": "ADP",
+    "ru": "несмотря на"
+  },
+  "pompuje": {
+    "pos": "VERB",
+    "ru": "насосит"
+  },
+  "pomysł": {
+    "pos": "NOUN",
+    "ru": "идея"
+  },
+  "ponieważ": {
+    "pos": "SCONJ",
+    "ru": "потому что"
+  },
+  "ponowny": {
+    "pos": "ADJ",
+    "ru": "повторный"
+  },
+  "ponury": {
+    "pos": "ADJ",
+    "ru": "мрачный"
+  },
+  "poprzedni": {
+    "pos": "ADJ",
+    "ru": "предыдущий"
+  },
+  "popędzić": {
+    "pos": "VERB",
+    "ru": "подгонять"
+  },
+  "popędzić być": {
+    "pos": "VERB",
+    "ru": "спешить, торопиться"
+  },
+  "postanowić być": {
+    "pos": "VERB",
+    "ru": "решить быть; постановить быть"
+  },
+  "postawić": {
+    "pos": "VERB",
+    "ru": "поставить"
+  },
+  "potem": {
+    "pos": "ADV",
+    "ru": "потом"
+  },
+  "potrafić": {
+    "pos": "VERB",
+    "ru": "мочь, уметь, суметь"
+  },
+  "powiedzieć": {
+    "pos": "VERB",
+    "ru": "сказать"
+  },
+  "powierzchowność": {
+    "pos": "NOUN",
+    "ru": "поверхностность"
+  },
+  "powieści": {
+    "pos": "NOUN",
+    "ru": "повести"
+  },
+  "powieść": {
+    "pos": "NOUN",
+    "ru": "повесть"
+  },
+  "powinien": {
+    "pos": "VERB",
+    "ru": "должен"
+  },
+  "powinien być": {
+    "pos": "VERB",
+    "ru": "должен быть"
+  },
+  "powodować": {
+    "pos": "VERB",
+    "ru": "вызывать"
+  },
+  "powtarzać": {
+    "pos": "VERB",
+    "ru": "повторять"
+  },
+  "powód": {
+    "pos": "NOUN",
+    "ru": "причина"
+  },
+  "poza": {
+    "pos": "ADP",
+    "ru": "кроме"
+  },
+  "pozbawieć": {
+    "pos": "ADJ",
+    "ru": "лишить"
+  },
+  "pozbawić": {
+    "pos": "ADJ",
+    "ru": "лишить"
+  },
+  "pozbyć": {
+    "pos": "VERB",
+    "ru": "избавиться"
+  },
+  "poziom": {
+    "pos": "NOUN",
+    "ru": "уровень"
+  },
+  "pozostaniemy": {
+    "pos": "VERB",
+    "ru": "останемся"
+  },
+  "pozwolić": {
+    "pos": "VERB",
+    "ru": "позволить"
+  },
+  "pozycja": {
+    "pos": "NOUN",
+    "ru": "позиция"
+  },
+  "pozór": {
+    "pos": "ADJ",
+    "ru": "видимый, кажущийся, мнимый"
+  },
+  "połączenie": {
+    "pos": "NOUN",
+    "ru": "соединение"
+  },
+  "pragnienie": {
+    "pos": "NOUN",
+    "ru": "желание"
+  },
+  "prasować być": {
+    "pos": "VERB",
+    "ru": "гладить"
+  },
+  "program": {
+    "pos": "NOUN",
+    "ru": "программа"
+  },
+  "promienny": {
+    "pos": "ADJ",
+    "ru": "лучистый"
+  },
+  "prosić": {
+    "pos": "VERB",
+    "ru": "просить"
+  },
+  "przechodzić": {
+    "pos": "VERB",
+    "ru": "переходить"
+  },
+  "przecież": {
+    "pos": "PART",
+    "ru": "ведь, же, всё-таки"
+  },
+  "przed": {
+    "pos": "ADP",
+    "ru": "перед"
+  },
+  "przedsięwzięcie": {
+    "pos": "NOUN",
+    "ru": "предприятие, предпринимательство, начинание"
+  },
+  "przedziwny": {
+    "pos": "ADJ",
+    "ru": "странный"
+  },
+  "przejechany": {
+    "pos": "ADJ",
+    "ru": "проезженный"
+  },
+  "przejęci": {
+    "pos": "ADJ",
+    "ru": "захваченный, овладевший"
+  },
+  "przejściowy": {
+    "pos": "ADJ",
+    "ru": "переходный"
+  },
+  "przekonanie": {
+    "pos": "NOUN",
+    "ru": "убеждение"
+  },
+  "przemyślać": {
+    "pos": "ADJ",
+    "ru": "обдуманный"
+  },
+  "przepełniać": {
+    "pos": "VERB",
+    "ru": "переполнять"
+  },
+  "przepraszać": {
+    "pos": "VERB",
+    "ru": "извинять, просить прощения"
+  },
+  "przerażać": {
+    "pos": "ADJ",
+    "ru": "пугать"
+  },
+  "przesadny": {
+    "pos": "ADJ",
+    "ru": "чрезмерный"
+  },
+  "przestrzeń": {
+    "pos": "NOUN",
+    "ru": "пространство"
+  },
+  "przeszkoda": {
+    "pos": "NOUN",
+    "ru": "препятствие"
+  },
+  "przeszkodzić": {
+    "pos": "VERB",
+    "ru": "помешать, препятствовать"
+  },
+  "przewidziać być": {
+    "pos": "VERB",
+    "ru": "предусмотреть"
+  },
+  "przez": {
+    "pos": "ADP",
+    "ru": "через"
+  },
+  "przezwyciężeć": {
+    "pos": "NOUN",
+    "ru": "преодоление"
+  },
+  "przy": {
+    "pos": "ADP",
+    "ru": "при, у, около, рядом"
+  },
+  "przyglądać": {
+    "pos": "VERB",
+    "ru": "смотреть, рассматривать"
+  },
+  "przyglądać być": {
+    "pos": "VERB",
+    "ru": "рассматривать, наблюдать"
+  },
+  "przyjaciółka": {
+    "pos": "NOUN",
+    "ru": "подруга"
+  },
+  "przyjaźń": {
+    "pos": "NOUN",
+    "ru": "дружба"
+  },
+  "przyjechać": {
+    "pos": "VERB",
+    "ru": "приехать"
+  },
+  "przyjrzać być": {
+    "pos": "VERB",
+    "ru": "рассмотреть, присмотреться"
+  },
+  "przypadkowy": {
+    "pos": "ADJ",
+    "ru": "случайный"
+  },
+  "przysięga": {
+    "pos": "NOUN",
+    "ru": "присяга"
+  },
+  "przystanek": {
+    "pos": "NOUN",
+    "ru": "остановка"
+  },
+  "przystojny": {
+    "pos": "ADJ",
+    "ru": "красивый, привлекательный"
+  },
+  "przystąpić": {
+    "pos": "VERB",
+    "ru": "приступить"
+  },
+  "pttk": {
+    "pos": "PROPN",
+    "ru": "{\"ru\": \"ПТТКЛ\"}\n\nили\n\n{\"ru\": \"Польский туристский союз\"}"
+  },
+  "punkt": {
+    "pos": "NOUN",
+    "ru": "точка"
+  },
+  "puszczeć": {
+    "pos": "NOUN",
+    "ru": "пустошь"
+  },
+  "pójść": {
+    "pos": "VERB",
+    "ru": "идти"
+  },
+  "pół": {
+    "pos": "VERB",
+    "ru": "половина"
+  },
+  "późny": {
+    "pos": "ADJ",
+    "ru": "поздний"
+  },
+  "płomienny": {
+    "pos": "ADJ",
+    "ru": "пламенный"
+  },
+  "płynęły": {
+    "pos": "ADJ",
+    "ru": "текли"
+  },
+  "raczyć": {
+    "pos": "VERB",
+    "ru": "потчевать, угощать"
+  },
+  "ramię": {
+    "pos": "NOUN",
+    "ru": "рука"
+  },
+  "raz": {
+    "pos": "NOUN",
+    "ru": "раз"
+  },
+  "razem": {
+    "pos": "ADV",
+    "ru": "вместе"
+  },
+  "rekwizyt": {
+    "pos": "NOUN",
+    "ru": "реквизит"
+  },
+  "robić": {
+    "pos": "VERB",
+    "ru": "делать"
+  },
+  "rok": {
+    "pos": "NOUN",
+    "ru": "год"
+  },
+  "rola": {
+    "pos": "NOUN",
+    "ru": "роль"
+  },
+  "romans": {
+    "pos": "NOUN",
+    "ru": "роман"
+  },
+  "rosnących": {
+    "pos": "ADJ",
+    "ru": "растущих"
+  },
+  "roześmiać": {
+    "pos": "ADJ",
+    "ru": "рассмешить"
+  },
+  "rozflirtowany": {
+    "pos": "ADJ",
+    "ru": "flirtatious, flirted with"
+  },
+  "rozmawiać": {
+    "pos": "VERB",
+    "ru": "разговаривать"
+  },
+  "rozmowa": {
+    "pos": "NOUN",
+    "ru": "разговор"
+  },
+  "rozmyśleć być": {
+    "pos": "VERB",
+    "ru": "раздумать, передумать"
+  },
+  "rozpacz": {
+    "pos": "NOUN",
+    "ru": "отчаяние"
+  },
+  "rozrusznik": {
+    "pos": "NOUN",
+    "ru": "стартер"
+  },
+  "rozsądek": {
+    "pos": "NOUN",
+    "ru": "здравый смысл"
+  },
+  "roztopić": {
+    "pos": "VERB",
+    "ru": "растопить"
+  },
+  "rozumieć": {
+    "pos": "VERB",
+    "ru": "понимать"
+  },
+  "rozwiązanie": {
+    "pos": "NOUN",
+    "ru": "решение"
+  },
+  "ruszyć być": {
+    "pos": "VERB",
+    "ru": "двигаться, трогаться"
+  },
+  "ruszyłyśmy": {
+    "pos": "VERB",
+    "ru": "мы двинулись, мы начали"
+  },
+  "ryknąć": {
+    "pos": "VERB",
+    "ru": "рыкнуть"
+  },
+  "rzecz": {
+    "pos": "NOUN",
+    "ru": "вещь"
+  },
+  "rzeczony": {
+    "pos": "ADJ",
+    "ru": "названный"
+  },
+  "rzeczywistość": {
+    "pos": "NOUN",
+    "ru": "действительность"
+  },
+  "rzeczywisty": {
+    "pos": "ADJ",
+    "ru": "действительный, реальный, фактический"
+  },
+  "rzucić być": {
+    "pos": "VERB",
+    "ru": "бросить"
+  },
+  "rów": {
+    "pos": "NOUN",
+    "ru": "канава"
+  },
+  "równie": {
+    "pos": "ADV",
+    "ru": "столь же, также, одинаково"
+  },
+  "również": {
+    "pos": "PART",
+    "ru": "также, тоже"
+  },
+  "równocześnie": {
+    "pos": "ADV",
+    "ru": "одновременно"
+  },
+  "równowaga": {
+    "pos": "NOUN",
+    "ru": "равновесие"
+  },
+  "różny": {
+    "pos": "ADJ",
+    "ru": "разный"
+  },
+  "sala": {
+    "pos": "NOUN",
+    "ru": "зал"
+  },
+  "sam": {
+    "pos": "ADJ",
+    "ru": "самый, один, сам"
+  },
+  "samotny": {
+    "pos": "ADJ",
+    "ru": "одинокий"
+  },
+  "scena": {
+    "pos": "NOUN",
+    "ru": "сцена"
+  },
+  "schodki": {
+    "pos": "NOUN",
+    "ru": "ступеньки"
+  },
+  "sens": {
+    "pos": "NOUN",
+    "ru": "смысл"
+  },
+  "siebie": {
+    "pos": "PRON",
+    "ru": "себя"
+  },
+  "siedziałyśmy": {
+    "pos": "VERB",
+    "ru": "сидели (мы, женский род)"
+  },
+  "siedzieć": {
+    "pos": "VERB",
+    "ru": "сидеть"
+  },
+  "siedzieć być": {
+    "pos": "VERB",
+    "ru": "сидеть"
+  },
+  "sielanka": {
+    "pos": "NOUN",
+    "ru": "идиллия"
+  },
+  "silnik": {
+    "pos": "NOUN",
+    "ru": "двигатель"
+  },
+  "silny": {
+    "pos": "ADJ",
+    "ru": "сильный"
+  },
+  "siną": {
+    "pos": "NOUN",
+    "ru": "синь"
+  },
+  "siostra": {
+    "pos": "NOUN",
+    "ru": "сестра"
+  },
+  "się": {
+    "pos": "PRON",
+    "ru": "себя, себе, себеном (возвратная частица)"
+  },
+  "sięgnęłam": {
+    "pos": "VERB",
+    "ru": "дотянулась"
+  },
+  "siła": {
+    "pos": "NOUN",
+    "ru": "сила"
+  },
+  "skazany": {
+    "pos": "ADJ",
+    "ru": "осуждённый"
+  },
+  "skończyć": {
+    "pos": "VERB",
+    "ru": "закончить"
+  },
+  "skraj": {
+    "pos": "NOUN",
+    "ru": "край"
+  },
+  "skruszony": {
+    "pos": "ADJ",
+    "ru": "раскаявшийся"
+  },
+  "snuć być": {
+    "pos": "VERB",
+    "ru": "пряслить, плести"
+  },
+  "solidarnie": {
+    "pos": "ADV",
+    "ru": "солидарно"
+  },
+  "spod": {
+    "pos": "ADP",
+    "ru": "из-под"
+  },
+  "spodobać": {
+    "pos": "VERB",
+    "ru": "понравиться"
+  },
+  "spoglądać": {
+    "pos": "VERB",
+    "ru": "смотреть"
+  },
+  "spojrzenie": {
+    "pos": "NOUN",
+    "ru": "взгляд"
+  },
+  "spojrzeć": {
+    "pos": "VERB",
+    "ru": "взглянуть"
+  },
+  "spojrzeć być": {
+    "pos": "VERB",
+    "ru": "посмотреть"
+  },
+  "spokojnie": {
+    "pos": "ADV",
+    "ru": "спокойно"
+  },
+  "spokojny": {
+    "pos": "ADJ",
+    "ru": "спокойный"
+  },
+  "sposób": {
+    "pos": "VERB",
+    "ru": "способ"
+  },
+  "spotkanie": {
+    "pos": "NOUN",
+    "ru": "встреча"
+  },
+  "spowodować": {
+    "pos": "VERB",
+    "ru": "вызвать"
+  },
+  "sprecyzować być": {
+    "pos": "VERB",
+    "ru": "уточнить"
+  },
+  "spuszczać": {
+    "pos": "VERB",
+    "ru": "спускать, опускать"
+  },
+  "spytać być": {
+    "pos": "VERB",
+    "ru": "спросить"
+  },
+  "spędzić": {
+    "pos": "NOUN",
+    "ru": "провести (время)"
+  },
+  "stacyjka": {
+    "pos": "NOUN",
+    "ru": "станция"
+  },
+  "starać": {
+    "pos": "NOUN",
+    "ru": "старание, усилие, забота"
+  },
+  "stawać": {
+    "pos": "VERB",
+    "ru": "становиться, вставать"
+  },
+  "stać": {
+    "pos": "ADJ",
+    "ru": "стоять"
+  },
+  "stałam": {
+    "pos": "VERB",
+    "ru": "стояла"
+  },
+  "stolik": {
+    "pos": "NOUN",
+    "ru": "столик"
+  },
+  "stopniowo": {
+    "pos": "ADV",
+    "ru": "постепенно"
+  },
+  "straszny": {
+    "pos": "ADJ",
+    "ru": "страшный"
+  },
+  "strona": {
+    "pos": "NOUN",
+    "ru": "страница, сторона, сторонник"
+  },
+  "strzelić": {
+    "pos": "VERB",
+    "ru": "стрелять"
+  },
+  "stówą": {
+    "pos": "ADV",
+    "ru": "стой"
+  },
+  "stół": {
+    "pos": "NOUN",
+    "ru": "стол"
+  },
+  "subtelnie": {
+    "pos": "ADV",
+    "ru": "тонко"
+  },
+  "sugestywny": {
+    "pos": "ADJ",
+    "ru": "внушительный, наводящий, суггестивный"
+  },
+  "swój": {
+    "pos": "DET",
+    "ru": "свой"
+  },
+  "syk": {
+    "pos": "NOUN",
+    "ru": "свист"
+  },
+  "sytuacja": {
+    "pos": "NOUN",
+    "ru": "ситуация"
+  },
+  "szalejący": {
+    "pos": "ADJ",
+    "ru": "бешеный, буйный"
+  },
+  "szalenie": {
+    "pos": "ADV",
+    "ru": "шумно, бешено, безумно"
+  },
+  "szaleć": {
+    "pos": "ADJ",
+    "ru": "бешеный"
+  },
+  "szalony": {
+    "pos": "ADJ",
+    "ru": "сумасшедший"
+  },
+  "szarmancko": {
+    "pos": "ADV",
+    "ru": "галантно"
+  },
+  "szarpać": {
+    "pos": "VERB",
+    "ru": "рвать, дергать"
+  },
+  "szary": {
+    "pos": "ADJ",
+    "ru": "серый"
+  },
+  "szałowy": {
+    "pos": "ADJ",
+    "ru": "шалый, бешеный, неистовый"
+  },
+  "szczęście": {
+    "pos": "NOUN",
+    "ru": "счастье"
+  },
+  "szczęśliwy": {
+    "pos": "ADJ",
+    "ru": "счастливый"
+  },
+  "szlag": {
+    "pos": "NOUN",
+    "ru": "удар"
+  },
+  "sznur": {
+    "pos": "NOUN",
+    "ru": "шнур"
+  },
+  "szosa": {
+    "pos": "NOUN",
+    "ru": "шоссе"
+  },
+  "szukać": {
+    "pos": "VERB",
+    "ru": "искать"
+  },
+  "szósty": {
+    "pos": "ADJ",
+    "ru": "шестой"
+  },
+  "słowo": {
+    "pos": "NOUN",
+    "ru": "слово"
+  },
+  "słońce": {
+    "pos": "NOUN",
+    "ru": "солнце"
+  },
+  "służyć": {
+    "pos": "VERB",
+    "ru": "служить"
+  },
+  "słyszeć": {
+    "pos": "VERB",
+    "ru": "слышать"
+  },
+  "tadeusz": {
+    "pos": "PROPN",
+    "ru": "Тадеуш"
+  },
+  "tajemniczy": {
+    "pos": "ADJ",
+    "ru": "таинственный"
+  },
+  "tak": {
+    "pos": "PART",
+    "ru": "да"
+  },
+  "taki": {
+    "pos": "DET",
+    "ru": "такой"
+  },
+  "tako": {
+    "pos": "ADV",
+    "ru": "так"
+  },
+  "także": {
+    "pos": "PART",
+    "ru": "также"
+  },
+  "temat": {
+    "pos": "NOUN",
+    "ru": "тема"
+  },
+  "ten": {
+    "pos": "PRON",
+    "ru": "этот, тот"
+  },
+  "teraz": {
+    "pos": "ADV",
+    "ru": "сейчас"
+  },
+  "też": {
+    "pos": "PART",
+    "ru": "тоже"
+  },
+  "tkwić": {
+    "pos": "VERB",
+    "ru": "застревать, торчать"
+  },
+  "to": {
+    "pos": "SCONJ",
+    "ru": "то"
+  },
+  "toczyć": {
+    "pos": "VERB",
+    "ru": "катить, катиться, вести (беседу)"
+  },
+  "toczyć być": {
+    "pos": "VERB",
+    "ru": "катить, вертеть"
+  },
+  "towarzystwo": {
+    "pos": "NOUN",
+    "ru": "общество"
+  },
+  "towarzyszyć": {
+    "pos": "VERB",
+    "ru": "сопровождать"
+  },
+  "trafić": {
+    "pos": "VERB",
+    "ru": "попасть"
+  },
+  "trakt": {
+    "pos": "NOUN",
+    "ru": "тракт"
+  },
+  "trawiasty": {
+    "pos": "ADJ",
+    "ru": "травянистый"
+  },
+  "trawka": {
+    "pos": "NOUN",
+    "ru": "травка"
+  },
+  "trolejbus": {
+    "pos": "NOUN",
+    "ru": "троллейбус"
+  },
+  "trwać": {
+    "pos": "VERB",
+    "ru": "длиться, продолжаться"
+  },
+  "tryskający": {
+    "pos": "ADJ",
+    "ru": "брызжущий, фонтанирующий"
+  },
+  "trzeci": {
+    "pos": "ADJ",
+    "ru": "третий"
+  },
+  "trzy": {
+    "pos": "NUM",
+    "ru": "три"
+  },
+  "trzymać": {
+    "pos": "VERB",
+    "ru": "держать"
+  },
+  "trąciłam": {
+    "pos": "VERB",
+    "ru": "трогала"
+  },
+  "twarz": {
+    "pos": "NOUN",
+    "ru": "лицо"
+  },
+  "twórczość": {
+    "pos": "NOUN",
+    "ru": "творчество"
+  },
+  "ty": {
+    "pos": "PRON",
+    "ru": "ты"
+  },
+  "tylko": {
+    "pos": "PART",
+    "ru": "только"
+  },
+  "tymczasem": {
+    "pos": "ADV",
+    "ru": "тем временем"
+  },
+  "typ": {
+    "pos": "NOUN",
+    "ru": "тип"
+  },
+  "tytuł": {
+    "pos": "NOUN",
+    "ru": "название, заголовок, титул"
+  },
+  "u": {
+    "pos": "PROPN",
+    "ru": "У"
+  },
+  "ubocze": {
+    "pos": "NOUN",
+    "ru": "обочина"
+  },
+  "uczucie": {
+    "pos": "NOUN",
+    "ru": "чувство"
+  },
+  "uczuć": {
+    "pos": "NOUN",
+    "ru": "чувство"
+  },
+  "uczyniłabym": {
+    "pos": "VERB",
+    "ru": "сделала бы"
+  },
+  "udawałam": {
+    "pos": "VERB",
+    "ru": "притворялась"
+  },
+  "udać": {
+    "pos": "VERB",
+    "ru": "удаться, направиться"
+  },
+  "ujrzeć być": {
+    "pos": "VERB",
+    "ru": "увидеть"
+  },
+  "układać": {
+    "pos": "ADJ",
+    "ru": "укладывать"
+  },
+  "ulica": {
+    "pos": "NOUN",
+    "ru": "улица"
+  },
+  "umieścić": {
+    "pos": "VERB",
+    "ru": "размещать"
+  },
+  "umieścić być": {
+    "pos": "VERB",
+    "ru": "разместить"
+  },
+  "uporo": {
+    "pos": "NOUN",
+    "ru": "упорство"
+  },
+  "uprzednio": {
+    "pos": "ADV",
+    "ru": "ранее"
+  },
+  "upływ": {
+    "pos": "NOUN",
+    "ru": "течение"
+  },
+  "urlop": {
+    "pos": "NOUN",
+    "ru": "отпуск"
+  },
+  "uroczyście": {
+    "pos": "ADV",
+    "ru": "торжественно"
+  },
+  "uroda": {
+    "pos": "NOUN",
+    "ru": "красота"
+  },
+  "urodzić": {
+    "pos": "VERB",
+    "ru": "родить"
+  },
+  "usatysfakcjonować": {
+    "pos": "ADJ",
+    "ru": "удовлетворённый"
+  },
+  "usiadłam": {
+    "pos": "VERB",
+    "ru": "я села"
+  },
+  "usieść": {
+    "pos": "VERB",
+    "ru": "сесть"
+  },
+  "usiłować": {
+    "pos": "VERB",
+    "ru": "пытаться, стараться, усилиться"
+  },
+  "usiłowałam": {
+    "pos": "VERB",
+    "ru": "пытался, старался (прошедшее время, женский род)"
+  },
+  "ustalić": {
+    "pos": "VERB",
+    "ru": "установить"
+  },
+  "usz": {
+    "pos": "NOUN",
+    "ru": "ухо"
+  },
+  "usłyszałam": {
+    "pos": "VERB",
+    "ru": "услышала"
+  },
+  "usłyszeć być": {
+    "pos": "VERB",
+    "ru": "услышать"
+  },
+  "utrudniać": {
+    "pos": "VERB",
+    "ru": "затруднять"
+  },
+  "utwór": {
+    "pos": "NOUN",
+    "ru": "произведение"
+  },
+  "uwaga": {
+    "pos": "NOUN",
+    "ru": "внимание"
+  },
+  "uwiecznić": {
+    "pos": "NOUN",
+    "ru": "увековечение"
+  },
+  "uwzględniać": {
+    "pos": "VERB",
+    "ru": "учитывать"
+  },
+  "uznać być": {
+    "pos": "VERB",
+    "ru": "признать, считать"
+  },
+  "w": {
+    "pos": "ADP",
+    "ru": "в"
+  },
+  "walczyć": {
+    "pos": "VERB",
+    "ru": "бороться, сражаться, бить"
+  },
+  "warczić": {
+    "pos": "VERB",
+    "ru": "рычать"
+  },
+  "warkot": {
+    "pos": "NOUN",
+    "ru": "урчание"
+  },
+  "wczesny": {
+    "pos": "ADJ",
+    "ru": "ранний"
+  },
+  "wejście": {
+    "pos": "NOUN",
+    "ru": "вход"
+  },
+  "wejść": {
+    "pos": "VERB",
+    "ru": "войти"
+  },
+  "weszłam": {
+    "pos": "VERB",
+    "ru": "вошла"
+  },
+  "wiadomo": {
+    "pos": "VERB",
+    "ru": "известно"
+  },
+  "widnieć": {
+    "pos": "VERB",
+    "ru": "виднеться, показываться"
+  },
+  "widoczny": {
+    "pos": "ADJ",
+    "ru": "видимый"
+  },
+  "widok": {
+    "pos": "NOUN",
+    "ru": "вид"
+  },
+  "widzenie": {
+    "pos": "NOUN",
+    "ru": "зрение"
+  },
+  "widzieć": {
+    "pos": "VERB",
+    "ru": "видеть"
+  },
+  "widzieć być": {
+    "pos": "VERB",
+    "ru": "видеть быть"
+  },
+  "wieczór": {
+    "pos": "NOUN",
+    "ru": "вечер"
+  },
+  "wiedzieć": {
+    "pos": "VERB",
+    "ru": "знать"
+  },
+  "wiedzieć być": {
+    "pos": "VERB",
+    "ru": "знать быть"
+  },
+  "wielokrotnie": {
+    "pos": "ADV",
+    "ru": "многократно"
+  },
+  "wierzyć być": {
+    "pos": "VERB",
+    "ru": "верить"
+  },
+  "wigór": {
+    "pos": "NOUN",
+    "ru": "бодрость"
+  },
+  "więc": {
+    "pos": "SCONJ",
+    "ru": "итак, следовательно, поэтому"
+  },
+  "wlazć być": {
+    "pos": "VERB",
+    "ru": "влезть"
+  },
+  "wniosek": {
+    "pos": "NOUN",
+    "ru": "заявление"
+  },
+  "wnętrze": {
+    "pos": "NOUN",
+    "ru": "интерьер"
+  },
+  "wobec": {
+    "pos": "ADP",
+    "ru": "перед, перемен, в отношении"
+  },
+  "woda": {
+    "pos": "NOUN",
+    "ru": "вода"
+  },
+  "woleć być": {
+    "pos": "VERB",
+    "ru": "предпочитать"
+  },
+  "wpatrzyć": {
+    "pos": "ADJ",
+    "ru": "устремленный"
+  },
+  "wpaść": {
+    "pos": "VERB",
+    "ru": "упасть, попасть"
+  },
+  "wpływ": {
+    "pos": "NOUN",
+    "ru": "влияние"
+  },
+  "wreszcie": {
+    "pos": "PART",
+    "ru": "наконец"
+  },
+  "wrzasnęłam": {
+    "pos": "VERB",
+    "ru": "я вскрикнула"
+  },
+  "wrócić być": {
+    "pos": "VERB",
+    "ru": "вернуться"
+  },
+  "wskazać": {
+    "pos": "VERB",
+    "ru": "указать"
+  },
+  "wskazeć być": {
+    "pos": "VERB",
+    "ru": "указать"
+  },
+  "wspaniały": {
+    "pos": "ADJ",
+    "ru": "великолепный"
+  },
+  "wspólny": {
+    "pos": "ADJ",
+    "ru": "общий"
+  },
+  "wstać": {
+    "pos": "VERB",
+    "ru": "встать"
+  },
+  "wstrząsający": {
+    "pos": "ADJ",
+    "ru": "потрясающий"
+  },
+  "wstrząsać": {
+    "pos": "ADJ",
+    "ru": "трясти, встряхивать"
+  },
+  "wszelki": {
+    "pos": "ADP",
+    "ru": "всякий, любой, каждый"
+  },
+  "wszyscy": {
+    "pos": "PRON",
+    "ru": "все"
+  },
+  "wszystek": {
+    "pos": "DET",
+    "ru": "весь"
+  },
+  "wszystko": {
+    "pos": "PRON",
+    "ru": "всё"
+  },
+  "wybaczyć": {
+    "pos": "VERB",
+    "ru": "простить"
+  },
+  "wybić": {
+    "pos": "VERB",
+    "ru": "выбить"
+  },
+  "wydobyć": {
+    "pos": "VERB",
+    "ru": "добыть, извлечь"
+  },
+  "wyjaśniać": {
+    "pos": "ADJ",
+    "ru": "объяснять"
+  },
+  "wyjaśniałam": {
+    "pos": "VERB",
+    "ru": "объясняла"
+  },
+  "wyjaśnienie": {
+    "pos": "NOUN",
+    "ru": "объяснение"
+  },
+  "wyjaśnić": {
+    "pos": "VERB",
+    "ru": "объяснить"
+  },
+  "wyjątkowo": {
+    "pos": "ADV",
+    "ru": "исключительно"
+  },
+  "wyjątkowy": {
+    "pos": "ADJ",
+    "ru": "исключительный"
+  },
+  "wyjście": {
+    "pos": "NOUN",
+    "ru": "выход"
+  },
+  "wyjść": {
+    "pos": "VERB",
+    "ru": "выйти"
+  },
+  "wykluczone": {
+    "pos": "ADJ",
+    "ru": "исключённый"
+  },
+  "wyleciać": {
+    "pos": "VERB",
+    "ru": "вылетать"
+  },
+  "wyobrazić": {
+    "pos": "VERB",
+    "ru": "представить, вообразить"
+  },
+  "wyobraźnia": {
+    "pos": "NOUN",
+    "ru": "воображение"
+  },
+  "wyobrażać": {
+    "pos": "VERB",
+    "ru": "представлять, воображать"
+  },
+  "wypadać": {
+    "pos": "VERB",
+    "ru": "выпадать, падать"
+  },
+  "wypaść": {
+    "pos": "VERB",
+    "ru": "выпасть"
+  },
+  "wyprowadzyć": {
+    "pos": "ADJ",
+    "ru": "вывести"
+  },
+  "wyraz": {
+    "pos": "NOUN",
+    "ru": "выражение"
+  },
+  "wyraźnie": {
+    "pos": "ADV",
+    "ru": "ясно"
+  },
+  "wyrażałam": {
+    "pos": "VERB",
+    "ru": "выражала"
+  },
+  "wyrosnąć": {
+    "pos": "VERB",
+    "ru": "вырасти, подрасти"
+  },
+  "wysiadłam": {
+    "pos": "VERB",
+    "ru": "вышла (из транспорта)"
+  },
+  "wysiłek": {
+    "pos": "NOUN",
+    "ru": "усилие"
+  },
+  "wystraszyć": {
+    "pos": "ADJ",
+    "ru": "испугать"
+  },
+  "wystrzałowy": {
+    "pos": "ADJ",
+    "ru": "выстрельный"
+  },
+  "wystąpić": {
+    "pos": "VERB",
+    "ru": "выступить"
+  },
+  "wysuwać": {
+    "pos": "VERB",
+    "ru": "выдвигать"
+  },
+  "wyszć być": {
+    "pos": "VERB",
+    "ru": "выходить"
+  },
+  "wyładowanie": {
+    "pos": "NOUN",
+    "ru": "разряд"
+  },
+  "wyłącznie": {
+    "pos": "ADV",
+    "ru": "исключительно"
+  },
+  "wzbudzić": {
+    "pos": "VERB",
+    "ru": "пробудить"
+  },
+  "wzdłuż": {
+    "pos": "ADP",
+    "ru": "вдоль"
+  },
+  "wzrok": {
+    "pos": "NOUN",
+    "ru": "зрение"
+  },
+  "wówczas": {
+    "pos": "ADV",
+    "ru": "тогда"
+  },
+  "wąs": {
+    "pos": "NOUN",
+    "ru": "усы"
+  },
+  "wąsa": {
+    "pos": "NOUN",
+    "ru": "ус"
+  },
+  "wędrowny": {
+    "pos": "ADJ",
+    "ru": "странствующий"
+  },
+  "władca": {
+    "pos": "NOUN",
+    "ru": "властитель"
+  },
+  "własny": {
+    "pos": "ADJ",
+    "ru": "собственный"
+  },
+  "właściwy": {
+    "pos": "ADJ",
+    "ru": "правильный, надлежащий, собственный"
+  },
+  "włączyć": {
+    "pos": "VERB",
+    "ru": "включить"
+  },
+  "wściekłość": {
+    "pos": "NOUN",
+    "ru": "бешенство"
+  },
+  "z": {
+    "pos": "ADP",
+    "ru": "с, из, от"
+  },
+  "za": {
+    "pos": "ADP",
+    "ru": "за"
+  },
+  "zabraniać": {
+    "pos": "VERB",
+    "ru": "запрещать"
+  },
+  "zachowanie": {
+    "pos": "NOUN",
+    "ru": "поведение"
+  },
+  "zacząć": {
+    "pos": "VERB",
+    "ru": "начать"
+  },
+  "zadowolone": {
+    "pos": "VERB",
+    "ru": "довольны"
+  },
+  "zagadnienie": {
+    "pos": "NOUN",
+    "ru": "проблема"
+  },
+  "zagrozić": {
+    "pos": "ADJ",
+    "ru": "угрожающий"
+  },
+  "zainteresowanie": {
+    "pos": "NOUN",
+    "ru": "интерес"
+  },
+  "zajmować": {
+    "pos": "VERB",
+    "ru": "занимать"
+  },
+  "zakorzenić": {
+    "pos": "ADJ",
+    "ru": "укоренённый"
+  },
+  "zakończyłam": {
+    "pos": "VERB",
+    "ru": "закончила"
+  },
+  "zakręt": {
+    "pos": "NOUN",
+    "ru": "поворот"
+  },
+  "zalać": {
+    "pos": "ADJ",
+    "ru": "залитый"
+  },
+  "zaleta": {
+    "pos": "NOUN",
+    "ru": "преимущество"
+  },
+  "zamiar": {
+    "pos": "NOUN",
+    "ru": "намерение"
+  },
+  "zamienić być": {
+    "pos": "VERB",
+    "ru": "заменить"
+  },
+  "zamierzać być": {
+    "pos": "VERB",
+    "ru": "собираться"
+  },
+  "zamierzchły": {
+    "pos": "ADJ",
+    "ru": "древний"
+  },
+  "zamieszanie": {
+    "pos": "NOUN",
+    "ru": "замешательство"
+  },
+  "zaniedbać być": {
+    "pos": "VERB",
+    "ru": "запустить, пренебречь, оставить без внимания"
+  },
+  "zaniepokoił": {
+    "pos": "VERB",
+    "ru": "встревожил"
+  },
+  "zaniepokojyć": {
+    "pos": "ADJ",
+    "ru": "беспокойный"
+  },
+  "zanim": {
+    "pos": "SCONJ",
+    "ru": "прежде чем"
+  },
+  "zapalać": {
+    "pos": "NOUN",
+    "ru": "зажигание"
+  },
+  "zapalić": {
+    "pos": "VERB",
+    "ru": "зажечь, воспламенить, включить"
+  },
+  "zapewne": {
+    "pos": "PART",
+    "ru": "вероятно, конечно, непременно"
+  },
+  "zapomnieć": {
+    "pos": "ADJ",
+    "ru": "забыть"
+  },
+  "zapragnęłam": {
+    "pos": "VERB",
+    "ru": "захотела"
+  },
+  "zaprzysięc": {
+    "pos": "VERB",
+    "ru": "поклясться"
+  },
+  "zaprzysięgać": {
+    "pos": "VERB",
+    "ru": "приносить присягу, присягать, клясться"
+  },
+  "zapłonąć": {
+    "pos": "VERB",
+    "ru": "загореться"
+  },
+  "zareagować": {
+    "pos": "VERB",
+    "ru": "реагировать"
+  },
+  "zarówno": {
+    "pos": "CCONJ",
+    "ru": "и...и, как...так и, одновременно"
+  },
+  "zarżeć": {
+    "pos": "VERB",
+    "ru": "раскалить"
+  },
+  "zasadniczy": {
+    "pos": "ADJ",
+    "ru": "основной"
+  },
+  "zastarzały": {
+    "pos": "ADJ",
+    "ru": "устаревший"
+  },
+  "zasłaniać": {
+    "pos": "VERB",
+    "ru": "закрывать, заслонять"
+  },
+  "zasłonić": {
+    "pos": "VERB",
+    "ru": "закрыть, загородить, прикрыть"
+  },
+  "zatrzymać": {
+    "pos": "VERB",
+    "ru": "остановить"
+  },
+  "zawołać być": {
+    "pos": "VERB",
+    "ru": "позвать, крикнуть"
+  },
+  "zawsze": {
+    "pos": "ADV",
+    "ru": "всегда"
+  },
+  "zazdrość": {
+    "pos": "NOUN",
+    "ru": "зависть"
+  },
+  "zażenować": {
+    "pos": "ADJ",
+    "ru": "смущенный"
+  },
+  "zbieżność": {
+    "pos": "NOUN",
+    "ru": "сходимость"
+  },
+  "zbliżał": {
+    "pos": "VERB",
+    "ru": "приближал"
+  },
+  "zbocze": {
+    "pos": "NOUN",
+    "ru": "склон"
+  },
+  "zbrodnia": {
+    "pos": "NOUN",
+    "ru": "преступление"
+  },
+  "zbyt": {
+    "pos": "ADV",
+    "ru": "слишком"
+  },
+  "zdarzać": {
+    "pos": "VERB",
+    "ru": "происходить"
+  },
+  "zdarzyć": {
+    "pos": "VERB",
+    "ru": "случиться"
+  },
+  "zdejmować": {
+    "pos": "VERB",
+    "ru": "снимать, раздеваться"
+  },
+  "zdenerwować": {
+    "pos": "ADJ",
+    "ru": "раздражить, нервировать"
+  },
+  "zdezorientować": {
+    "pos": "ADJ",
+    "ru": "дезориентированный"
+  },
+  "zdołać być": {
+    "pos": "VERB",
+    "ru": "суметь быть"
+  },
+  "zdrowy": {
+    "pos": "ADJ",
+    "ru": "здоровый"
+  },
+  "zdumiona": {
+    "pos": "ADJ",
+    "ru": "изумленная"
+  },
+  "zdziwienie": {
+    "pos": "NOUN",
+    "ru": "удивление"
+  },
+  "zdążyć": {
+    "pos": "VERB",
+    "ru": "успеть"
+  },
+  "zdążyć być": {
+    "pos": "VERB",
+    "ru": "успеть быть"
+  },
+  "zepchnęć być": {
+    "pos": "VERB",
+    "ru": "толкнуть"
+  },
+  "zerwać być": {
+    "pos": "VERB",
+    "ru": "порвать, разорвать; прервать"
+  },
+  "zestaw": {
+    "pos": "NOUN",
+    "ru": "набор"
+  },
+  "zgoda": {
+    "pos": "NOUN",
+    "ru": "согласие"
+  },
+  "zgolić być": {
+    "pos": "VERB",
+    "ru": "побриться"
+  },
+  "zgroza": {
+    "pos": "NOUN",
+    "ru": "ужас"
+  },
+  "zielony": {
+    "pos": "ADJ",
+    "ru": "зелёный"
+  },
+  "zjadłyśmy": {
+    "pos": "VERB",
+    "ru": "мы съели"
+  },
+  "zleciać": {
+    "pos": "VERB",
+    "ru": "слетать, спускаться, свалиться"
+  },
+  "zleciać być": {
+    "pos": "VERB",
+    "ru": "слетать, спускаться"
+  },
+  "zlikwidować być": {
+    "pos": "VERB",
+    "ru": "ликвидировать"
+  },
+  "zmiana": {
+    "pos": "NOUN",
+    "ru": "изменение"
+  },
+  "zmienić być": {
+    "pos": "VERB",
+    "ru": "{\"ru\": \"изменить быть\"}\n\nИли более естественный вариант:\n\n{\"ru\": \"измениться\"}"
+  },
+  "zmusić by": {
+    "pos": "VERB",
+    "ru": "заставить"
+  },
+  "znaczyć": {
+    "pos": "VERB",
+    "ru": "означать"
+  },
+  "znajomy": {
+    "pos": "ADJ",
+    "ru": "знакомый"
+  },
+  "znakomity": {
+    "pos": "ADJ",
+    "ru": "знаменитый, выдающийся"
+  },
+  "znaleźć": {
+    "pos": "VERB",
+    "ru": "найти"
+  },
+  "znany": {
+    "pos": "ADJ",
+    "ru": "известный"
+  },
+  "zniecierpliwić": {
+    "pos": "VERB",
+    "ru": "раздражить"
+  },
+  "znów": {
+    "pos": "ADV",
+    "ru": "снова"
+  },
+  "zobaczyć być": {
+    "pos": "VERB",
+    "ru": "увидеть быть"
+  },
+  "zostawiłyśmy": {
+    "pos": "VERB",
+    "ru": "оставили (мы, женский род)"
+  },
+  "zresztą": {
+    "pos": "PART",
+    "ru": "впрочем"
+  },
+  "zrobić": {
+    "pos": "VERB",
+    "ru": "сделать"
+  },
+  "zrobić być": {
+    "pos": "VERB",
+    "ru": "сделать"
+  },
+  "zrozumienie": {
+    "pos": "NOUN",
+    "ru": "понимание"
+  },
+  "zrywo": {
+    "pos": "NOUN",
+    "ru": "разрыв"
+  },
+  "zrzucić": {
+    "pos": "VERB",
+    "ru": "сбросить"
+  },
+  "zupełnie": {
+    "pos": "ADV",
+    "ru": "совсем"
+  },
+  "zważywszy": {
+    "pos": "VERB",
+    "ru": "учитывая, принимая во внимание"
+  },
+  "zważyć": {
+    "pos": "VERB",
+    "ru": "взвесить, учесть, обратить внимание"
+  },
+  "zwrócić": {
+    "pos": "VERB",
+    "ru": "вернуть, обратить"
+  },
+  "zza": {
+    "pos": "ADP",
+    "ru": "из-за"
+  },
+  "złość": {
+    "pos": "NOUN",
+    "ru": "гнев"
+  },
+  "łamać": {
+    "pos": "VERB",
+    "ru": "ломать"
+  },
+  "łokieć": {
+    "pos": "NOUN",
+    "ru": "локоть"
+  },
+  "łączyć": {
+    "pos": "VERB",
+    "ru": "соединять, связывать, объединять"
+  },
+  "łączył": {
+    "pos": "VERB",
+    "ru": "соединял"
+  },
+  "ściana": {
+    "pos": "NOUN",
+    "ru": "стена"
+  },
+  "śmiertelnie": {
+    "pos": "ADV",
+    "ru": "смертельно"
+  },
+  "świat": {
+    "pos": "NOUN",
+    "ru": "мир"
+  },
+  "żaden": {
+    "pos": "DET",
+    "ru": "никакой"
+  },
+  "że": {
+    "pos": "SCONJ",
+    "ru": "что"
+  },
+  "żeby": {
+    "pos": "SCONJ",
+    "ru": "чтобы"
+  },
+  "żelazk": {
+    "pos": "NOUN",
+    "ru": "утюг"
+  },
+  "żelazko": {
+    "pos": "NOUN",
+    "ru": "утюг"
+  },
+  "żona": {
+    "pos": "NOUN",
+    "ru": "жена"
+  },
+  "żonaty": {
+    "pos": "NOUN",
+    "ru": "женатый"
+  },
+  "życie": {
+    "pos": "NOUN",
+    "ru": "жизнь"
+  },
+  "żyli": {
+    "pos": "VERB",
+    "ru": "жили"
+  },
+  "żyła": {
+    "pos": "NOUN",
+    "ru": "вена"
+  }
+}
