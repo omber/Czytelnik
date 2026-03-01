@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Force UTF-8 output on Windows (avoids cp1251 encoding errors for Polish text)
 if hasattr(sys.stdout, "reconfigure"):
@@ -134,17 +135,18 @@ def run(args: argparse.Namespace) -> None:
             chapters_paragraphs.append(enriched)
         _save_checkpoint(book_id, stage_morph, chapters_paragraphs)
 
-    # ── Step 4: Translation ──────────────────────────────────────────────────
+    # ── Steps 4 + 5: Translation & Dictionary (run concurrently) ─────────────
     print("\n" + "=" * 60)
-    print("STEP 4: Sentence translation (Claude Haiku Batch API)")
+    print("STEPS 4+5: Sentence translation + per-lemma dictionary (parallel)")
     print("=" * 60)
-    translate_chapters(chapters_paragraphs, book_id)
 
-    # ── Step 5: Dictionary ───────────────────────────────────────────────────
-    print("\n" + "=" * 60)
-    print("STEP 5: Per-lemma dictionary")
-    print("=" * 60)
-    update_dictionary(chapters_paragraphs)
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        fut_translate = pool.submit(translate_chapters, chapters_paragraphs, book_id)
+        fut_dict = pool.submit(update_dictionary, chapters_paragraphs)
+        for fut in as_completed([fut_translate, fut_dict]):
+            exc = fut.exception()
+            if exc:
+                raise exc
 
     # ── Step 6: TTS ──────────────────────────────────────────────────────────
     print("\n" + "=" * 60)

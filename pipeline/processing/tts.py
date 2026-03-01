@@ -16,6 +16,12 @@ skipping punctuation/whitespace tokens.  The result is a list:
 
 The audio can be skipped globally via --no-tts, but the timing JSON will still
 be empty (has_audio: false) so the frontend knows to fall back to Web Speech API.
+
+Concurrency
+-----------
+All sentences in a chapter are submitted concurrently via asyncio.gather with a
+semaphore (TTS_CONCURRENCY, default 4) to avoid rate-limiting from Microsoft's
+TTS endpoint.  Each task retries up to TTS_RETRIES times on transient errors.
 """
 from __future__ import annotations
 
@@ -27,6 +33,9 @@ import edge_tts
 
 from config import TTS_VOICE
 from processing.morphology import Paragraph
+
+TTS_CONCURRENCY = 4   # max simultaneous edge-tts connections
+TTS_RETRIES = 3       # retry attempts per sentence on transient errors
 
 
 # ── Timing helpers ──────────────────────────────────────────────────────────
@@ -99,32 +108,8 @@ async def _generate_sentence_audio(
     return word_boundaries
 
 
-def generate_sentence_tts(
-    sent: dict,          # Sentence TypedDict
-    para_idx: int,
-    sent_idx: int,
-    audio_dir: Path,
-    voice: str = TTS_VOICE,
-    skip: bool = False,
-) -> bool:
-    """
-    Generate TTS for a single sentence and write files to *audio_dir*.
-
-    Parameters
-    ----------
-    sent      : Sentence dict (with tokens list)
-    para_idx  : paragraph index (for filename)
-    sent_idx  : sentence index within paragraph (for filename)
-    audio_dir : directory to write MP3 and timing JSON
-    voice     : edge-tts voice name
-    skip      : if True, skip audio generation entirely
-
-    Returns True if audio was generated, False if skipped.
-    """
-    # Build sentence text with proper spacing.
-    # Tokens have no explicit space tokens (spaCy whitespace is implicit),
-    # so we insert spaces between content tokens unless the next token is
-    # closing punctuation or the current token is opening punctuation.
+def _build_sentence_text(sent: dict) -> str:
+    """Reconstruct sentence surface text from tokens for TTS input."""
     _CLOSING = set(",. !?:;)]}»…—")
     _OPENING = set("([{«")
     tokens_for_text = [t for t in sent["tokens"] if not t["is_space"]]
@@ -134,7 +119,21 @@ def generate_sentence_tts(
         nxt = tokens_for_text[i + 1] if i + 1 < len(tokens_for_text) else None
         if nxt and nxt["surface"][0] not in _CLOSING and tok["surface"][-1] not in _OPENING:
             parts.append(" ")
-    text = "".join(parts).strip()
+    return "".join(parts).strip()
+
+
+async def _generate_sentence_tts_async(
+    sent: dict,
+    para_idx: int,
+    sent_idx: int,
+    audio_dir: Path,
+    voice: str,
+    sem: asyncio.Semaphore,
+    counter: list[int],
+    total: int,
+) -> bool:
+    """Async version: generate TTS for one sentence, respecting *sem*."""
+    text = _build_sentence_text(sent)
     if not text:
         return False
 
@@ -142,23 +141,54 @@ def generate_sentence_tts(
     mp3_path = audio_dir / f"{stem}.mp3"
     timing_path = audio_dir / f"{stem}.timing.json"
 
-    if skip:
-        return False
-
-    # Skip if both files already exist (checkpointing)
     if mp3_path.exists() and timing_path.exists():
+        counter[0] += 1
+        print(
+            f"\r[tts] {counter[0]}/{total}  (p={para_idx} s={sent_idx}) [cached] ",
+            end="",
+            flush=True,
+        )
         return True
 
-    word_boundaries = asyncio.run(
-        _generate_sentence_audio(text, mp3_path, timing_path, voice)
-    )
+    # Skip sentences with no alphabetic content (e.g. "***" scene breaks).
+    # Write an empty timing.json so the file is treated as cached on re-runs.
+    if not any(c.isalpha() for c in text):
+        timing_path.write_text("[]", encoding="utf-8")
+        counter[0] += 1
+        print(
+            f"\r[tts] {counter[0]}/{total}  (p={para_idx} s={sent_idx}) [skipped-nonalpha] ",
+            end="",
+            flush=True,
+        )
+        return True
 
-    aligned = _align_timing(word_boundaries, sent["tokens"])
-    timing_path.write_text(
-        json.dumps(aligned, ensure_ascii=False),
-        encoding="utf-8",
-    )
-    return True
+    for attempt in range(TTS_RETRIES):
+        async with sem:
+            try:
+                word_boundaries = await _generate_sentence_audio(text, mp3_path, timing_path, voice)
+                aligned = _align_timing(word_boundaries, sent["tokens"])
+                timing_path.write_text(
+                    json.dumps(aligned, ensure_ascii=False),
+                    encoding="utf-8",
+                )
+                counter[0] += 1
+                print(
+                    f"\r[tts] {counter[0]}/{total}  (p={para_idx} s={sent_idx}) [ok]     ",
+                    end="",
+                    flush=True,
+                )
+                return True
+            except Exception as exc:
+                if attempt < TTS_RETRIES - 1:
+                    await asyncio.sleep(0.4 * (attempt + 1))
+                else:
+                    counter[0] += 1
+                    print(
+                        f"\r[tts] {counter[0]}/{total}  (p={para_idx} s={sent_idx}) [FAILED: {exc}]",
+                        end="",
+                        flush=True,
+                    )
+    return False
 
 
 def generate_chapter_tts(
@@ -168,7 +198,7 @@ def generate_chapter_tts(
     skip: bool = False,
 ) -> None:
     """
-    Generate TTS for all sentences in a chapter.
+    Generate TTS for all sentences in a chapter concurrently.
 
     Parameters
     ----------
@@ -177,27 +207,30 @@ def generate_chapter_tts(
     voice             : edge-tts voice
     skip              : if True, skip all generation (--no-tts flag)
     """
-    total = sum(len(p["sentences"]) for p in paragraphs)
-    done = 0
+    if skip:
+        return
 
-    for para in paragraphs:
-        for sent in para["sentences"]:
-            generated = generate_sentence_tts(
+    total = sum(len(p["sentences"]) for p in paragraphs)
+    chapter_audio_dir.mkdir(parents=True, exist_ok=True)
+
+    async def _run_all() -> None:
+        sem = asyncio.Semaphore(TTS_CONCURRENCY)
+        counter = [0]  # mutable counter shared across coroutines
+        tasks = [
+            _generate_sentence_tts_async(
                 sent=sent,
                 para_idx=para["index"],
                 sent_idx=sent["index"],
                 audio_dir=chapter_audio_dir,
                 voice=voice,
-                skip=skip,
+                sem=sem,
+                counter=counter,
+                total=total,
             )
-            done += 1
-            if not skip:
-                status = "ok" if generated else "skipped"
-                print(
-                    f"\r[tts] {done}/{total} sentences  (p={para['index']} s={sent['index']}) [{status}]",
-                    end="",
-                    flush=True,
-                )
+            for para in paragraphs
+            for sent in para["sentences"]
+        ]
+        await asyncio.gather(*tasks)
 
-    if not skip:
-        print()  # newline after progress
+    asyncio.run(_run_all())
+    print()  # newline after progress line
