@@ -35,16 +35,34 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,ico}'],
         runtimeCaching: [
           {
-            // Cache book JSON files
-            urlPattern: /\/books\/.*\.json$/,
+            // Chapter content (large, stable once published) — serve from cache instantly
+            urlPattern: /\/books\/.*\/ch-\d+\.json$/,
             handler: 'CacheFirst',
             options: {
-              cacheName: 'book-json',
+              cacheName: 'chapter-json',
               expiration: { maxEntries: 200, maxAgeSeconds: 60 * 60 * 24 * 30 },
             },
           },
           {
-            // Cache TTS audio files
+            // Library metadata (index.json, meta.json, chapters.json) — always revalidate
+            urlPattern: /\/books\/.*\.json$/,
+            handler: 'StaleWhileRevalidate',
+            options: {
+              cacheName: 'book-meta',
+              expiration: { maxEntries: 50, maxAgeSeconds: 60 * 60 * 24 * 7 },
+            },
+          },
+          {
+            // Cover images — stable once a book is added
+            urlPattern: /\/books\/.*\.(jpg|jpeg|png|webp)$/i,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'book-covers',
+              expiration: { maxEntries: 50, maxAgeSeconds: 60 * 60 * 24 * 30 },
+            },
+          },
+          {
+            // TTS audio files
             urlPattern: /\/books\/.*\.mp3$/,
             handler: 'CacheFirst',
             options: {
