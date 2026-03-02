@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Караван тронулся на рассвете следующего дня.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Karawana",
@@ -70,8 +70,8 @@
         },
         {
           "index": 1,
-          "translation": "Молодой негр был весел, маленькая деспотка оставалась кроткой и послушной, а Стась полон был энергии и надежды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Młody",
@@ -245,8 +245,8 @@
         },
         {
           "index": 2,
-          "translation": "С ними шло сто Самбуров и сто Вахимов — сорок из этих последних вооружены были ремингтонами, из которых они более или менее умели стрелять.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Szło",
@@ -460,8 +460,8 @@
         },
         {
           "index": 3,
-          "translation": "Белый вождь, который три недели их этому обучал, хорошо знал, что в данном случае они наделают куда больше шума, чем вреда, но считал, что при встречах с дикарями шум играет не меньшую роль, чем пуля, и был доволен своей гвардией.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Biały",
@@ -859,8 +859,8 @@
         },
         {
           "index": 4,
-          "translation": "Взяли большие запасы маниока, лепёшки, испечённые из крупных и толстых белых муравьёв, тщательно высушенных и смолотых в муку, а также множество копчёного мяса.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wzięto",
@@ -1058,8 +1058,8 @@
         },
         {
           "index": 5,
-          "translation": "С караваном отправилось несколько женщин, несущих разнообразные полезные вещи для Нел и мешки из шкур антилоп с водой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -1233,8 +1233,8 @@
         },
         {
           "index": 6,
-          "translation": "Стась с высоты спины Кинга следил за порядком, отдавал приказы — может быть, не столько потому, что они были необходимы, сколько потому, что его упояла роль вождя — и с гордостью взирал на свою маленькую армию.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -1568,8 +1568,8 @@
         },
         {
           "index": 7,
-          "translation": "И ему в голову пришла мысль, не было ли бы хорошо вернуться сюда когда-нибудь, покорить обширные области страны, цивилизовать чёрных, основать в этих краях новую Польшу или даже когда-нибудь выступить во главе чёрных обученных дружин к старой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "„",
@@ -2103,8 +2103,8 @@
         },
         {
           "index": 8,
-          "translation": "Поскольку он всё же ощущал в этой мысли что-то смешное и поскольку сомневался, даст ли ему отец разрешение на исполнение роли Александра Македонского в Африке, то не поделился своими планами с Нелью, которая была, пожалуй, единственным на свете человеком, готовым им рукоплескать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -2510,8 +2510,8 @@
         },
         {
           "index": 9,
-          "translation": "И при том перед завоеванием тех краев Африки нужно было прежде всего из них выбраться; так что он занялся более неотложными делами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -2693,8 +2693,8 @@
         },
         {
           "index": 10,
-          "translation": "Караван протянулся длинной вереницей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Karawana",
@@ -2748,8 +2748,8 @@
         },
         {
           "index": 11,
-          "translation": "Стась, усевшись Кингу на спину, решил ехать на её крупе, чтобы видеть всё и всех перед собой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -2915,8 +2915,8 @@
         },
         {
           "index": 12,
-          "translation": "Когда люди проходили мимо него один за другим, он с некоторым удивлением заметил, что двое чародеев, М'Кунье и М'Пуа, те самые, что получили браслеты от Кале, входят в состав каравана и вместе с прочими, неся тюки на головах, отправляются в путь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Owóż",
@@ -3306,8 +3306,8 @@
         },
         {
           "index": 13,
-          "translation": "— Кто вам велел идти?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -3425,8 +3425,8 @@
         },
         {
           "index": 14,
-          "translation": "— Король, — ответили оба, покорно поклонившись.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3512,8 +3512,8 @@
         },
         {
           "index": 15,
-          "translation": "Но под маской смирения их глаза блеснули столь дико, а в лицах читалась такая ярость, что Стась сначала хотел их прогнать, и он этого не сделал только затем, чтобы не подорвать авторитет Кали.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -3879,8 +3879,8 @@
         },
         {
           "index": 16,
-          "translation": "Однако он тотчас его вызвал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jednakże",
@@ -3934,8 +3934,8 @@
         },
         {
           "index": 17,
-          "translation": "— Это ты, — спросил он, — велел чародеям идти с нами?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4053,8 +4053,8 @@
         },
         {
           "index": 18,
-          "translation": "— Кали велел, потому что Кали мудр.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4140,8 +4140,8 @@
         },
         {
           "index": 19,
-          "translation": "— Итак, спрашиваю еще раз, почему твоя мудрость не оставила их дома?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4275,8 +4275,8 @@
         },
         {
           "index": 20,
-          "translation": "— Если бы мы оставили М'Кунже и М'Пуа, они оба будут убеждать ва-химов убить Кали по возвращении, но если они пойдут с нами, Кали будет за ними следить и присматривать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4602,8 +4602,8 @@
         },
         {
           "index": 21,
-          "translation": "— Может быть, ты прав, однако наблюдай за ними день и ночь внимательно, ибо в их взгляде есть что-то дурное.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -4849,8 +4849,8 @@
         },
         {
           "index": 22,
-          "translation": "Караван тронулся.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4960,8 +4960,8 @@
         },
         {
           "index": 23,
-          "translation": "Стась в последний момент приказал, чтобы вооруженная ремингтонами гвардия замыкала процессию, так как это были люди, приглядённые им, избранные и наиболее надёжные.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -5175,8 +5175,8 @@
         },
         {
           "index": 24,
-          "translation": "Во время продолжительных военных учений они несколько привязались к своему молодому командиру, а кроме того, как люди, приближённые к его высокому положению, считали себя выше остальных.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Podczas",
@@ -5478,8 +5478,8 @@
         },
         {
           "index": 25,
-          "translation": "Сейчас они должны были присматривать за всем караваном и ловить тех, кому вздумается удрать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obecnie",
@@ -5613,8 +5613,8 @@
         },
         {
           "index": 26,
-          "translation": "Было ясно, что когда начнутся трудности и опасности, не будет недостатка и в беглецах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Było",
@@ -5772,8 +5772,8 @@
         },
         {
           "index": 27,
-          "translation": "Но в первый день всё шло как нельзя хорошо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -5843,8 +5843,8 @@
         },
         {
           "index": 28,
-          "translation": "Чернокожие носильщики с тяжестью на головах, каждый вооруженный копьем и несколькими меньшими метательными копьями — так называемыми ассегаями, протянулись длинной змеей сквозь дебри джунглей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Murzyni",
@@ -6066,8 +6066,8 @@
         },
         {
           "index": 29,
-          "translation": "Некоторое время они продвигались по южному берегу озера по равнине, но поскольку озеро со всех сторон окружали возвышенные вершины, то когда они повернули на восток, им пришлось подниматься в гору.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przez",
@@ -6345,8 +6345,8 @@
         },
         {
           "index": 30,
-          "translation": "Старые самбурийцы, которые знали эти края, утверждали, что караван должен будет пройти через высокие перевалы между горами, которые они называли Куллал и Инро, а затем войти в область Эбене, лежащую к югу от Боран.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Starzy",
@@ -6664,8 +6664,8 @@
         },
         {
           "index": 31,
-          "translation": "Стась понимал, что нельзя идти прямо на восток, помня о том, что Момбаса лежит в нескольких градусах за экватором, а значит, на юг от этого неизвестного озера на значительное расстояние.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -6935,8 +6935,8 @@
         },
         {
           "index": 32,
-          "translation": "Обладая несколькими компасами фирмы Линдем, он всё же не боялся сбиться с верного пути.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Posiadając",
@@ -7062,8 +7062,8 @@
         },
         {
           "index": 33,
-          "translation": "Первую ночь они провели на лесистой возвышенности.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pierwszy",
@@ -7133,8 +7133,8 @@
         },
         {
           "index": 34,
-          "translation": "С наступлением темноты загорелось несколько десятков костров, у которых чёрные люди жарили сушёное мясо и ели лепёшки из корней маниока, доставая их из сосудов пальцами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wraz",
@@ -7348,8 +7348,8 @@
         },
         {
           "index": 35,
-          "translation": "После того как они утолили голод и жажду, они рассказывали друг другу, куда их ведёт великий хозяин и что они за это получат от него.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -7523,8 +7523,8 @@
         },
         {
           "index": 36,
-          "translation": "Одни пели, сидя на корточках и ворошя огонь, а остальные болтали так долго и так громко, что Стасю пришлось наконец приказать молчание, чтобы Нель могла спать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niektórzy",
@@ -7794,8 +7794,8 @@
         },
         {
           "index": 37,
-          "translation": "Ночь была очень холодной, но на следующий день, когда первые солнечные лучи осветили округу, воздух тут же потеплел.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Noc",
@@ -7961,8 +7961,8 @@
         },
         {
           "index": 38,
-          "translation": "На восходе солнца маленькие путешественники увидели странное зрелище.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "O",
@@ -8040,8 +8040,8 @@
         },
         {
           "index": 39,
-          "translation": "— Смотри, Нель, слоны идут к воде.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zbliżali",
@@ -8479,8 +8479,8 @@
         },
         {
           "index": 40,
-          "translation": "На расстоянии полукилометра было видно стадо из пяти голов, медленно приближавшихся одна за другой к озерцу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakoż",
@@ -8670,8 +8670,8 @@
         },
         {
           "index": 41,
-          "translation": "— Это какие-то странные слоны, — сказал Стась, продолжая разглядывать их с большим вниманием.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8805,8 +8805,8 @@
         },
         {
           "index": 42,
-          "translation": "— Они меньше Кинга, уши у них тоже намного меньше, и я совсем не вижу клыков.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8956,8 +8956,8 @@
         },
         {
           "index": 43,
-          "translation": "Тем временем слоны вошли в воду, но не остановились у берега, как обычно делал Кинг, и не начали обливаться хоботами, а, продолжая идти всё дальше, погружались всё глубже, так что в конце концов над водой выступали только их чёрные спины, подобно обломкам скал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -9395,8 +9395,8 @@
         },
         {
           "index": 44,
-          "translation": "Что это?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9442,8 +9442,8 @@
         },
         {
           "index": 45,
-          "translation": "Они ныряют! — воскликнул Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nurkują",
@@ -9505,8 +9505,8 @@
         },
         {
           "index": 46,
-          "translation": "Караван подошёл намного ближе к берегу и наконец остановился прямо над ним.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Karawana",
@@ -9624,8 +9624,8 @@
         },
         {
           "index": 47,
-          "translation": "Стась задержал её и начал с необычайным удивлением смотреть то на Нель, то на озеро.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -9775,8 +9775,8 @@
         },
         {
           "index": 48,
-          "translation": "Слона уже почти невозможно было разглядеть, но на гладкой водной глади даже невооруженным глазом можно было различить пять словно круглых красных цветков, возвышавшихся над поверхностью и колебавшихся легким движением.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Słoni",
@@ -10046,8 +10046,8 @@
         },
         {
           "index": 49,
-          "translation": "— Одни стоят на дне, а это концы хоботов — произнёс Стась, не веря собственным глазам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10213,8 +10213,8 @@
         },
         {
           "index": 50,
-          "translation": "— Кали! ты видел?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -10324,8 +10324,8 @@
         },
         {
           "index": 51,
-          "translation": "— Водяные слоны?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10523,8 +10523,8 @@
         },
         {
           "index": 52,
-          "translation": "Я часто видел их не раз.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10586,8 +10586,8 @@
         },
         {
           "index": 53,
-          "translation": "— Они живут в воде?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10657,8 +10657,8 @@
         },
         {
           "index": 54,
-          "translation": "— По ночам выходить в джунгли и пастись, а днём жить в озере, как бегемоты.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10856,8 +10856,8 @@
         },
         {
           "index": 55,
-          "translation": "Ей можно было выходить только после захода солнца.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "One",
@@ -10927,8 +10927,8 @@
         },
         {
           "index": 56,
-          "translation": "Стась долго не мог прийти в себя от изумления и, если бы не спешка в дорогу, задержал бы караван до самого вечера, чтобы получше разглядеть этих необычайных животных.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -11198,8 +11198,8 @@
         },
         {
           "index": 57,
-          "translation": "Но ему пришло в голову, что слоны могут вынырнуть на противоположном берегу озера, а даже если выйдут где-то поближе, в темноте будет трудно разглядеть их хорошенько.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -11461,8 +11461,8 @@
         },
         {
           "index": 58,
-          "translation": "— Ну! Мы видели такое, чего никогда не видел ни один европейский глаз.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dał",
@@ -11700,8 +11700,8 @@
         },
         {
           "index": 59,
-          "translation": "И знаешь, что я думаю — что если нам удастся счастливо добраться до океана, то никто не поверит, когда я скажу, что в Африке есть водные слоны.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -11947,8 +11947,8 @@
         },
         {
           "index": 60,
-          "translation": "— А что если бы ты поймал одного из них и взял с собой в океан?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12066,8 +12066,8 @@
         },
         {
           "index": 61,
-          "translation": "— сказала Нел, как всегда убежденная, что Стась на всё способен.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",

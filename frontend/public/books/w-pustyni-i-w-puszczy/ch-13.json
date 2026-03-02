@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Днём они прятались в укромных и труднодоступных местах среди скал и расселин, а ночами мчались без передышки, пока не миновали первый порог.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "We",
@@ -230,8 +230,8 @@
         },
         {
           "index": 1,
-          "translation": "Лишь когда бедуины по расположению и очертаниям холмов распознали, что Асуан остался позади, с груди Идриса упал великий груз забот.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Aż",
@@ -453,8 +453,8 @@
         },
         {
           "index": 2,
-          "translation": "Так как они уже страдали от нехватки воды, они приблизились к реке на половину дневного пути.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -596,8 +596,8 @@
         },
         {
           "index": 3,
-          "translation": "В ту ночь Идрис спрятал караван и отправил с бедуинами всех верблюдов к Нилу, чтобы они хорошо напились и как можно дольше могли обходиться без воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tam",
@@ -787,8 +787,8 @@
         },
         {
           "index": 4,
-          "translation": "Плодородная долина вдоль Нила за Асуаном становилась уже.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pas",
@@ -882,8 +882,8 @@
         },
         {
           "index": 5,
-          "translation": "В некоторых местах пустыня подступала к реке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -953,8 +953,8 @@
         },
         {
           "index": 6,
-          "translation": "Деревни лежали на значительном расстоянии друг от друга.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wsie",
@@ -1024,8 +1024,8 @@
         },
         {
           "index": 7,
-          "translation": "Бедуины затем благополучно вернулись, никем не замеченные, со значительными запасами воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Beduini",
@@ -1151,8 +1151,8 @@
         },
         {
           "index": 8,
-          "translation": "Нужно было только думать о пище, так как животные, кормленные скудно, за неделю сильно исхудали.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Należało",
@@ -1294,8 +1294,8 @@
         },
         {
           "index": 9,
-          "translation": "Шеи их удлинились, горбы спали, а ноги стали слабыми.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Szyje",
@@ -1413,8 +1413,8 @@
         },
         {
           "index": 10,
-          "translation": "Припасов для людей с большим трудом хватило бы ещё на два дня.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Durry",
@@ -1540,8 +1540,8 @@
         },
         {
           "index": 11,
-          "translation": "Идрис, однако, думал, что через два дня можно будет, если не днём, то ночью, подойти к пастбищам у реки, а может быть, и закупить сухарей и фиников в какой-нибудь деревне.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -1851,8 +1851,8 @@
         },
         {
           "index": 12,
-          "translation": "Сабиэ уже вообще не давали ни есть, ни пить, и только дети прятали для него остатки пищи, но он как-то справлялся и на привалах часто прилетал с окровавленной пастью и со следами укусов на шее и груди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sabie",
@@ -2170,8 +2170,8 @@
         },
         {
           "index": 13,
-          "translation": "Неизвестно было никому, становились ли добычей этих боёв шакалы или гиены, может быть, лисицы пустыни или газели, но во всяком случае по нему не было видно сильного голода.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czy",
@@ -2441,8 +2441,8 @@
         },
         {
           "index": 14,
-          "translation": "Иногда его чёрные губы бывали влажными, как будто он пил.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czasem",
@@ -2536,8 +2536,8 @@
         },
         {
           "index": 15,
-          "translation": "Бедуины догадывались, что он должен был копать глубокие ямы на дне ущелий и таким образом доходить до воды, которую по запаху под землёй чувствовал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Beduini",
@@ -2759,8 +2759,8 @@
         },
         {
           "index": 16,
-          "translation": "Блуждающие путники иногда раскапывают дно расселин, и хотя они часто не находят воды, то почти всегда добираются до влажных песков и, высасывая их, таким образом утоляют мучительную жажду.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tak",
@@ -3030,8 +3030,8 @@
         },
         {
           "index": 17,
-          "translation": "И в Сабе, однако, произошли существенные перемены.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -3101,8 +3101,8 @@
         },
         {
           "index": 18,
-          "translation": "Грудь и шея у него всегда были мощные, но боки впали, отчего он казался ещё выше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Piersi",
@@ -3260,8 +3260,8 @@
         },
         {
           "index": 19,
-          "translation": "В его глазах с налитыми кровью белками сверкало что-то дикое и угрожающее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -3371,8 +3371,8 @@
         },
         {
           "index": 20,
-          "translation": "К Нелу и Стасю он был привязан, как прежде, и позволял делать с собой всё, что им угодно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Do",
@@ -3546,8 +3546,8 @@
         },
         {
           "index": 21,
-          "translation": "Шамизу он ещё иногда помахивал хвостом, но на бедуинов и суданцев рычал или щёлкал своими страшными клыками, которые при этом стучали друг о друга, как стальные кастаньеты.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chamisowi",
@@ -3769,8 +3769,8 @@
         },
         {
           "index": 22,
-          "translation": "Миновали Асуан!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -4208,8 +4208,8 @@
         },
         {
           "index": 23,
-          "translation": "Стась постоянно размышлял об этом, и в его душу постепенно закрадывалось сомнение, настигнет ли их погоня.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -4383,8 +4383,8 @@
         },
         {
           "index": 24,
-          "translation": "Он знал, конечно, что не только собственно Египет, который заканчивается за Вади-Халфой, то есть за вторым порогом, но и вся Нубия находятся до сих пор под властью египетского правительства, но понимал, что за Асуаном, а особенно за Вади-Халфой, преследование будет затруднено, а приказы правительства исполняться небрежно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wiedział",
@@ -4854,8 +4854,8 @@
         },
         {
           "index": 25,
-          "translation": "Он ещё надеялся только на то, что отец вместе с мистером Ролисоном после организации преследования из Файюма отправились сами в Вади-Халфу на пароходе и там, получив у правительства верблюжьих всадников, будут пытаться перехватить караван, идущий с юга.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Miał",
@@ -5205,8 +5205,8 @@
         },
         {
           "index": 26,
-          "translation": "Парень рассудил, что на их месте он поступил бы точно так же, и поэтому считал своё предположение весьма вероятным.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chłopak",
@@ -5396,8 +5396,8 @@
         },
         {
           "index": 27,
-          "translation": "Он не оставил мысли о самостоятельном спасении.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -5483,8 +5483,8 @@
         },
         {
           "index": 28,
-          "translation": "Суданцы хотели добыть порох для охотничьего ружья и с этой целью решили разобрать несколько винтовочных патронов, поэтому он сказал им, что только он один способен это сделать и что если кто-нибудь из них возьмётся за это неумело, то патрон взорвётся у него в руках и оторвёт пальцы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sudańczycy",
@@ -5890,8 +5890,8 @@
         },
         {
           "index": 29,
-          "translation": "Идрис, опасаясь вообще всего неведомого и английских изобретений, наконец решился доверить мальчику это дело.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -6033,8 +6033,8 @@
         },
         {
           "index": 30,
-          "translation": "Стась принялся за это охотно, во-первых, надеясь, что мощный английский порох разорвёт при первом выстреле старое арабское ружьё, а во-вторых, что сможет припрятать кое-что из патронов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -6312,8 +6312,8 @@
         },
         {
           "index": 31,
-          "translation": "Как это удалось ему легче, чем он предполагал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakoż",
@@ -6391,8 +6391,8 @@
         },
         {
           "index": 32,
-          "translation": "Хотя его якобы и надзирали во время работы, арабы вскоре начали разговаривать между собой и вскоре уделяли больше внимания беседе, чем надзору.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niby",
@@ -6582,8 +6582,8 @@
         },
         {
           "index": 33,
-          "translation": "В конце концов их болтливость и врожденная небрежность позволили Стасю спрятать в подкладке семь зарядов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ostatecznie",
@@ -6709,8 +6709,8 @@
         },
         {
           "index": 34,
-          "translation": "Теперь оставалось только добраться до штуцера.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Teraz",
@@ -6788,8 +6788,8 @@
         },
         {
           "index": 35,
-          "translation": "Мальчик полагал, что за Вади-Халфой, то есть за вторым порогом, это не будет слишком трудным делом, так как он предчувствовал, что бдительность арабов будет ослабевать по мере приближения к цели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chłopiec",
@@ -7099,8 +7099,8 @@
         },
         {
           "index": 36,
-          "translation": "Мысль о том, что ему придётся перебить суданцев и бедуинов, а то и самого Хамиса, всегда пробирала его дрожью, но после убийства, совершённого бедуинами, у него уже не осталось никаких колебаний.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Myśl",
@@ -7386,8 +7386,8 @@
         },
         {
           "index": 37,
-          "translation": "Он убеждал себя, что речь идёт об обороне, о свободе и жизни Нел, а стало быть, можно не считаться с жизнью противников, особенно если они не сдадутся и дело дойдёт до боя.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mówił",
@@ -7697,8 +7697,8 @@
         },
         {
           "index": 38,
-          "translation": "Но дело было в карабине.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -7744,8 +7744,8 @@
         },
         {
           "index": 39,
-          "translation": "Стась задумал завладеть им хитростью и при первой же возможности не ждать до Вади-Халфы, а совершить свой замысел как можно скорее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -7975,8 +7975,8 @@
         },
         {
           "index": 40,
-          "translation": "Он не дождался.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakoż",
@@ -8022,8 +8022,8 @@
         },
         {
           "index": 41,
-          "translation": "Прошло уже два дня с тех пор, как они миновали Ассуан — и Идрис наконец на рассвете третьего дня вынужден был отправить бедуинов за провизией, которая совсем иссякла.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przeszły",
@@ -8237,8 +8237,8 @@
         },
         {
           "index": 42,
-          "translation": "— Знаю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wobec",
@@ -8644,8 +8644,8 @@
         },
         {
           "index": 43,
-          "translation": "Мне было пятнадцать лет, а Геру восемь, когда отец привёз нас из Судана в Файум, и я помню, что мы проехали тогда на верблюдах всю Нубию.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Miałem",
@@ -8875,8 +8875,8 @@
         },
         {
           "index": 44,
-          "translation": "Но эта страна всё ещё принадлежит туркам (египтянам).",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -8978,8 +8978,8 @@
         },
         {
           "index": 45,
-          "translation": "— Да, Махди ещё только под Хартумом — и видишь, как глупо болтал Хамис, когда говорил вам, что войска дервишей уже доходят до Асуана.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9217,8 +9217,8 @@
         },
         {
           "index": 46,
-          "translation": "Но я всё же спрошу о чём-то другом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ja",
@@ -9288,8 +9288,8 @@
         },
         {
           "index": 47,
-          "translation": "Вот что я читал в книгах: в Нубии много диких зверей и много разбойников, которые никому не служат и нападают как на египтян, так и на приверженцев Махди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oto",
@@ -9535,8 +9535,8 @@
         },
         {
           "index": 48,
-          "translation": "Чем же будете вы защищаться, если на вас нападут дикие звери или разбойники?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czymże",
@@ -9654,8 +9654,8 @@
         },
         {
           "index": 49,
-          "translation": "Стась умышленно преувеличивал, говоря о диких зверях, зато грабежи в Нубии после войны случались довольно часто, особенно в южной части страны, граничащей с Суданом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -9917,8 +9917,8 @@
         },
         {
           "index": 50,
-          "translation": "— У нас есть ножи и ружьё.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -10188,8 +10188,8 @@
         },
         {
           "index": 51,
-          "translation": "— Я знаю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10283,8 +10283,8 @@
         },
         {
           "index": 52,
-          "translation": "Твоя лучше, но мы не умеем из неё стрелять, а тебе её не отдадим.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Twoja",
@@ -10450,8 +10450,8 @@
         },
         {
           "index": 53,
-          "translation": "— Даже незаряженной?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10505,8 +10505,8 @@
         },
         {
           "index": 54,
-          "translation": "— Так оно и есть, ибо она может быть заколдована.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10592,8 +10592,8 @@
         },
         {
           "index": 55,
-          "translation": "Стась пожал плечами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -10639,8 +10639,8 @@
         },
         {
           "index": 56,
-          "translation": "— Идрисе, если бы это говорил Гебр, я бы не удивился, но я думал, что у тебя больше ума.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10838,8 +10838,8 @@
         },
         {
           "index": 57,
-          "translation": "Из незаряженного ружья не выстрелит даже ваш Махди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -10941,8 +10941,8 @@
         },
         {
           "index": 58,
-          "translation": "— Молчи! — резко прервал Идрис.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11004,8 +11004,8 @@
         },
         {
           "index": 59,
-          "translation": "— Махди может стрелять даже пальцем.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11083,8 +11083,8 @@
         },
         {
           "index": 60,
-          "translation": "— Значит, и ты тоже стреляешь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11154,8 +11154,8 @@
         },
         {
           "index": 61,
-          "translation": "Суданьчик быстро посмотрел в глаза мальчику.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sudańczyk",
@@ -11225,8 +11225,8 @@
         },
         {
           "index": 62,
-          "translation": "— Зачем ты хочешь, чтобы я дал тебе ружьё?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11312,8 +11312,8 @@
         },
         {
           "index": 63,
-          "translation": "— Я хочу научить тебя стрелять из неё.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11391,8 +11391,8 @@
         },
         {
           "index": 64,
-          "translation": "— Какое тебе до этого дело?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11462,8 +11462,8 @@
         },
         {
           "index": 65,
-          "translation": "— Очень много, потому что если нападут на нас разбойники, то могут всех убить!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11589,8 +11589,8 @@
         },
         {
           "index": 66,
-          "translation": "Идрис замолчал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -11748,8 +11748,8 @@
         },
         {
           "index": 67,
-          "translation": "Он действительно боялся, но не хотел в этом признаться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Bał",
@@ -11851,8 +11851,8 @@
         },
         {
           "index": 68,
-          "translation": "Однако ему очень хотелось познакомиться с английским оружием, так как обладание им и умение пользоваться им подняли бы его авторитет в стане махдистов — не говоря уже о том, что в случае нападения ему было бы легче защищаться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zależało",
@@ -12218,8 +12218,8 @@
         },
         {
           "index": 69,
-          "translation": "— Хорошо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -12305,8 +12305,8 @@
         },
         {
           "index": 70,
-          "translation": "Пусть Хамис подаст ружьё, а ты его возьми.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niech",
@@ -12400,8 +12400,8 @@
         },
         {
           "index": 71,
-          "translation": "Хамис равнодушно повиновался приказу, которому Гебр не мог возразить, так как был занят неподалёку верблюдами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chamis",
@@ -12559,8 +12559,8 @@
         },
         {
           "index": 72,
-          "translation": "Стась дрожащими руками вынул казённую часть, потом стволы — и передал их Идрису.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -12694,8 +12694,8 @@
         },
         {
           "index": 73,
-          "translation": "— Видишь, они пусты, — сказал он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12781,8 +12781,8 @@
         },
         {
           "index": 74,
-          "translation": "Идрис взял трубку и посмотрел сквозь неё вверх.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -12876,8 +12876,8 @@
         },
         {
           "index": 75,
-          "translation": "— Так и есть, в них ничего нет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12971,8 +12971,8 @@
         },
         {
           "index": 76,
-          "translation": "— Теперь смотри внимательно, — говорил Стась, — вот так собирается ружье, — и при этом он соединил стволы с затвором, — а вот так оно открывается. Видишь?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -13202,8 +13202,8 @@
         },
         {
           "index": 77,
-          "translation": "Я раскладываю её снова, а теперь сложи её ты…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rozkładam",
@@ -13297,8 +13297,8 @@
         },
         {
           "index": 78,
-          "translation": "Суданец, внимательно наблюдавший за движениями Стася, начал пробовать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sudańczyk",
@@ -13416,8 +13416,8 @@
         },
         {
           "index": 79,
-          "translation": "Поначалу у него это не получалось легко, но поскольку арабы вообще отличаются большой ловкостью, то вскоре ружье было разобрано.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -13623,8 +13623,8 @@
         },
         {
           "index": 80,
-          "translation": "— Открой! — командовал Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -13694,8 +13694,8 @@
         },
         {
           "index": 81,
-          "translation": "— Закрой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -13781,8 +13781,8 @@
         },
         {
           "index": 82,
-          "translation": "Это пошло ещё легче.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Poszło",
@@ -13828,8 +13828,8 @@
         },
         {
           "index": 83,
-          "translation": "— Дай мне теперь два пустых патрона.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -13899,8 +13899,8 @@
         },
         {
           "index": 84,
-          "translation": "Я научу тебя, как устанавливать заряды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nauczę",
@@ -13978,8 +13978,8 @@
         },
         {
           "index": 85,
-          "translation": "Арабы сохранили выреженные гильзы, поскольку они имели для них ценность медной латуни, поэтому Идрис передал две из них Стасю — и занятие началось заново.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Arabowie",
@@ -14209,8 +14209,8 @@
         },
         {
           "index": 86,
-          "translation": "Суданчик в первый момент немного испугался хлопков капсюлей в гильзах, но в конце концов убедился, что ни из пустых стволов, ни из пустых зарядов никому не удастся произвести выстрел.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sudańczyk",
@@ -14480,8 +14480,8 @@
         },
         {
           "index": 87,
-          "translation": "Доверие его к Стасю вернулось и потому, что мальчик то и дело вкладывал ему оружие в руки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zaufanie",
@@ -14655,8 +14655,8 @@
         },
         {
           "index": 88,
-          "translation": "— Да, — сказал Стась, — ты уже умеешь собирать винтовку, умеешь открывать, закрывать и прижимать к лицу, а также нажимать на спусковой крючок.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14854,8 +14854,8 @@
         },
         {
           "index": 89,
-          "translation": "Но нужно ещё научиться измерять.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -14917,8 +14917,8 @@
         },
         {
           "index": 90,
-          "translation": "Это самая трудная вещь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -14964,8 +14964,8 @@
         },
         {
           "index": 91,
-          "translation": "Возьми пустой сосуд для воды и поставь его в сто шагов отсюда…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Weź",
@@ -15067,8 +15067,8 @@
         },
         {
           "index": 92,
-          "translation": "Вот, встань на те камни, а потом вернись ко мне — покажу тебе, как это делается.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "oto",
@@ -15250,8 +15250,8 @@
         },
         {
           "index": 93,
-          "translation": "Идрис взял кувшин и без малейшего колебания пошёл поставить его на указанные камни.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -15369,8 +15369,8 @@
         },
         {
           "index": 94,
-          "translation": "Но не успел он сделать первые сто шагов, как Стась вынул пустые гильзы и всунул на их место полные патроны.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -15536,8 +15536,8 @@
         },
         {
           "index": 95,
-          "translation": "Не только сердце, но и виски начали биться с такой силой, что ему казалось, будто голова вот-вот разорвётся.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -15735,8 +15735,8 @@
         },
         {
           "index": 96,
-          "translation": "Наступила решающая минута — минута свободы для Нель и для него — минута победы — одновременно страшная и желанная!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chwila",
@@ -15910,8 +15910,8 @@
         },
         {
           "index": 97,
-          "translation": "Вот жизнь Идриса в его руках.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oto",
@@ -15981,8 +15981,8 @@
         },
         {
           "index": 98,
-          "translation": "Одно нажатие на спусковой крючок — и этот предатель, похитивший Нел, падёт мёртвым.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jedno",
@@ -16108,8 +16108,8 @@
         },
         {
           "index": 99,
-          "translation": "Но Стась, в жилах которого текла польская и французская кровь, вдруг почувствовал, что ни за что на свете не сможет выстрелить в человека, повернувшегося к нему спиной.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -16339,8 +16339,8 @@
         },
         {
           "index": 100,
-          "translation": "Пусть хоть бы повернулся — и посмотрит смерти в лицо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niech",
@@ -16442,8 +16442,8 @@
         },
         {
           "index": 101,
-          "translation": "А потом что?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -16481,8 +16481,8 @@
         },
         {
           "index": 102,
-          "translation": "Затем прилетит Гебр и, пробежав с ним десять шагов, также схватит пыль зубами. Останется Хамис.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Potem",
@@ -16632,8 +16632,8 @@
         },
         {
           "index": 103,
-          "translation": "Но Chamis потеряет голову, а если её и не потеряет, будет время засунуть новые заряды в стволы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -16791,8 +16791,8 @@
         },
         {
           "index": 104,
-          "translation": "Когда приедут бедуины, найдут трёх трупов и получат по заслугам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdy",
@@ -16926,8 +16926,8 @@
         },
         {
           "index": 105,
-          "translation": "Потом будет достаточно направить верблюдов к реке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Potem",
@@ -17005,8 +17005,8 @@
         },
         {
           "index": 106,
-          "translation": "Все эти мысли и образы пронеслись вихрями сквозь голову Стася.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wszystkie",
@@ -17108,8 +17108,8 @@
         },
         {
           "index": 107,
-          "translation": "Он чувствовал, что то, что должно произойти в ближайшие минуты, одновременно ужасно и неизбежно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czuł",
@@ -17267,8 +17267,8 @@
         },
         {
           "index": 108,
-          "translation": "В груди его клубилась гордость победителя, смешанная с чувством ужасного отвращения к победе.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -17386,8 +17386,8 @@
         },
         {
           "index": 109,
-          "translation": "Мгновение он колебался, но вспомнил муки, которые терпели белые пленники, вспомнил отца, мистера Ролисона, Нэл, Гебру, который ударил девочку кнутом, — и ненависть взорвалась в нём с новой силой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Była",
@@ -17753,8 +17753,8 @@
         },
         {
           "index": 110,
-          "translation": "«Нужно! Нужно!» — повторял он сквозь сжатые зубы, и непреклонное решение отразилось на его лице, которое словно высечено было из камня.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "„",
@@ -17992,8 +17992,8 @@
         },
         {
           "index": 111,
-          "translation": "Тем временем Идрис положил кожаный бурдюк на камень в сотне шагов отсюда и повернул назад.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -18111,8 +18111,8 @@
         },
         {
           "index": 112,
-          "translation": "Стась видел его улыбающееся лицо и всю высокую фигуру на ровной, песчаной равнине.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -18238,8 +18238,8 @@
         },
         {
           "index": 113,
-          "translation": "В последний раз ему мелькнула мысль, что вот сейчас этот живой человек упадёт на землю и в последних конвульсиях агонии будет когтями рвать песок.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -18461,8 +18461,8 @@
         },
         {
           "index": 114,
-          "translation": "Но колебания мальчика кончились — и когда Идрис отошёл на пятьдесят шагов, он начал медленно поднимать оружие к глазу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -18644,8 +18644,8 @@
         },
         {
           "index": 115,
-          "translation": "Но прежде чем он дотронулся пальцем до спуска, из-за песчаных насыпей, находившихся в нескольких сотнях шагов отсюда, раздался громкий крик, и в тот же миг на равнину выехало около двадцати всадников на конях и верблюдах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -18939,8 +18939,8 @@
         },
         {
           "index": 116,
-          "translation": "Идрис окаменел при их виде.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -18994,8 +18994,8 @@
         },
         {
           "index": 117,
-          "translation": "Стась был не менее поражён, но тут же его изумление сменилось бешеной радостью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -19105,8 +19105,8 @@
         },
         {
           "index": 118,
-          "translation": "Вот наконец-то долгожданная погоня!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oto",
@@ -19152,8 +19152,8 @@
         },
         {
           "index": 119,
-          "translation": "Да! это не может быть ничем иным!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tak",
@@ -19231,8 +19231,8 @@
         },
         {
           "index": 120,
-          "translation": "В деревне, видимо, поймали бедуинов, и те указали, где скрывается остаток каравана!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -19358,8 +19358,8 @@
         },
         {
           "index": 121,
-          "translation": "— Господин, я был для вас добр!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zrozumiał",
@@ -19661,8 +19661,8 @@
         },
         {
           "index": 122,
-          "translation": "Стась механически вытащил патроны из стволов — и смотрел.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Byłem",
@@ -19844,8 +19844,8 @@
         },
         {
           "index": 123,
-          "translation": "Всадники мчались, что было сил, на конях и верблюдах, кричали от радости и взлетали в воздух длинные арабские ружья, которые ловили на полном скаку с необыкновенной ловкостью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jeźdźcy",
@@ -20075,8 +20075,8 @@
         },
         {
           "index": 124,
-          "translation": "В чистом, прозрачном воздухе их было видно прекрасно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -20162,8 +20162,8 @@
         },
         {
           "index": 125,
-          "translation": "В центре впереди летели два бедуина, размахивая руками и бурнусами, как одержимые.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -20289,8 +20289,8 @@
         },
         {
           "index": 126,
-          "translation": "Через несколько минут вся шайка нагрянула на караван.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -20368,8 +20368,8 @@
         },
         {
           "index": 127,
-          "translation": "Некоторые из всадников спрыгивали с коней и верблюдов; некоторые оставались в седлах, но всё время издавали пронзительные крики.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niektórzy",
@@ -20527,8 +20527,8 @@
         },
         {
           "index": 128,
-          "translation": "— Картум!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wśród",
@@ -20646,8 +20646,8 @@
         },
         {
           "index": 129,
-          "translation": "Гордон! Гордон! Картум!…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gordon",
@@ -20717,8 +20717,8 @@
         },
         {
           "index": 130,
-          "translation": "— Хартум взят! Гордон убит. Махди победитель!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -21028,8 +21028,8 @@
         },
         {
           "index": 131,
-          "translation": "Идрис выпрямился, но ушам своим всё ещё не верил.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -21123,8 +21123,8 @@
         },
         {
           "index": 132,
-          "translation": "— А эти люди? — спросил он дрожащими губами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -21218,8 +21218,8 @@
         },
         {
           "index": 133,
-          "translation": "Стасю потемнело в глазах…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",

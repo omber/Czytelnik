@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Как пан Тарковский, так и пан Роулисон, который боготворил свою маленькую Нел, были весьма обрадованы приездом детей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zarówno",
@@ -198,8 +198,8 @@
         },
         {
           "index": 1,
-          "translation": "Молодая государыня радостно приветствовала также отцов, но тут же начала оглядываться по палаткам, которые уже были полностью обустроены изнутри и готовы принять милых гостей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Młoda",
@@ -437,8 +437,8 @@
         },
         {
           "index": 2,
-          "translation": "Оказалось, что они были чудесные, двойные, подбитые с одной стороны синей, с другой красной фланелью, выложенные снизу войлоком и просторные, как большие комнаты.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Okazało",
@@ -660,8 +660,8 @@
         },
         {
           "index": 3,
-          "translation": "Компания, которая добивалась расположения высокопоставленных чиновников Канального общества, приложила все усилия, чтобы им было хорошо и удобно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kompania",
@@ -843,8 +843,8 @@
         },
         {
           "index": 4,
-          "translation": "Мистер Роулисон вначале опасался, не повредит ли здоровью Нел продолжительное пребывание под палаткой, и согласился на это только потому, что в случае плохой погоды всегда можно было переселиться в отель.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -1162,8 +1162,8 @@
         },
         {
           "index": 5,
-          "translation": "Теперь же, тщательно осмотрев все на месте, он пришел к убеждению, что дни и ночи, проведенные на свежем воздухе, будут стократно полезнее для его единственной дочери, чем пребывание в затхлых номерах местных гостиниц.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Teraz",
@@ -1457,8 +1457,8 @@
         },
         {
           "index": 6,
-          "translation": "Благоприятствовала этому и чудесная погода.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sprzyjała",
@@ -1512,8 +1512,8 @@
         },
         {
           "index": 7,
-          "translation": "Мединет, или Эль-Медине, окруженный со всех сторон песчаными холмами Ливийской пустыни, имеет климат намного лучше, чем в Каире, и недаром называется «землей роз».",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Medinet",
@@ -1775,8 +1775,8 @@
         },
         {
           "index": 8,
-          "translation": "Благодаря защищённому расположению и обилию влаги в воздухе ночи там вовсе не такие холодные, как в других частях Египта, даже расположенных намного южнее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -2014,8 +2014,8 @@
         },
         {
           "index": 9,
-          "translation": "Зима может быть просто восхитительна, а с ноября начинается самое бурное развитие растительности.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zima",
@@ -2141,8 +2141,8 @@
         },
         {
           "index": 10,
-          "translation": "Пальмы финиковые, оливки, которых в Египте вообще очень мало, инжирные деревья, апельсины, мандарины, громадные клещевины, гранаты и разнообразные другие южные растения покрывают сплошным лесом эту восхитительную оазу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Palmy",
@@ -2436,8 +2436,8 @@
         },
         {
           "index": 11,
-          "translation": "Сады захлестнула как бы огромная волна акаций, сирени и роз, так что ночью каждый ветерок приносит их опьяняющий аромат.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ogrody",
@@ -2627,8 +2627,8 @@
         },
         {
           "index": 12,
-          "translation": "Здесь дышится полной грудью, и не хочется уходить из жизни, как говорят местные жители.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oddycha",
@@ -2786,8 +2786,8 @@
         },
         {
           "index": 13,
-          "translation": "Похожий климат имеет только расположенный по другую сторону Нила, но значительно севернее, Гелуан, хотя ему недостаёт той пышной растительности.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Podobny",
@@ -2993,8 +2993,8 @@
         },
         {
           "index": 14,
-          "translation": "Но Гелуан связывался для мистера Ролисона с печальным воспоминанием, ибо там умерла мать Нел.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -3136,8 +3136,8 @@
         },
         {
           "index": 15,
-          "translation": "Поэтому он предпочитал Медине — и, глядя теперь на просветлевшее лицо девочки, втайне обещал себе вскоре приобрести здесь участок земли с садом, построить на нём удобный английский дом и проводить в этих благословенных местах все отпуска, какие ему удастся получить, а по окончании службы на канале, быть может, поселиться здесь навсегда.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -3623,8 +3623,8 @@
         },
         {
           "index": 16,
-          "translation": "Однако это были планы на далёкое будущее и ещё не совсем твёрдые.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Były",
@@ -3734,8 +3734,8 @@
         },
         {
           "index": 17,
-          "translation": "Тем временем дети с момента приезда вертелись везде как мухи, желая до обеда осмотреть все палатки, а также ослов и верблюдов, нанятых на месте Куком.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -3965,8 +3965,8 @@
         },
         {
           "index": 18,
-          "translation": "Однако выяснилось, что животные находились на отдалённом пастбище и что увидеть их удастся только завтра.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pokazało",
@@ -4124,8 +4124,8 @@
         },
         {
           "index": 19,
-          "translation": "У палатки же мистера Рэвлисона Нелли и Стась с радостью заметили Хамиса, сына Хадиджи, своего хорошего знакомца из Порт-Саида.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Natomiast",
@@ -4323,8 +4323,8 @@
         },
         {
           "index": 20,
-          "translation": "Он не входил в состав прислуги Кука, и мистер Роулисон даже удивился, встретив его в Эль-Медине, но поскольку раньше использовал его для переноски инструментов, принял его и теперь держал в качестве мальчика для поручений и всякого рода услуг.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -4666,8 +4666,8 @@
         },
         {
           "index": 21,
-          "translation": "Вечерний обед получился превосходным, так как старый коптский повар, уже много лет исполнявший в экспедиции Кука обязанности кухарки, хотел продемонстрировать своё искусство.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obiad",
@@ -4889,8 +4889,8 @@
         },
         {
           "index": 22,
-          "translation": "Дети рассказывали о знакомстве, которое завязали во время пути с двумя офицерами, что особенно заинтересовало мистера Ролисона, чей брат Ричард, женатый на сестре доктора Клери, действительно много лет проживал в Индии.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -5200,8 +5200,8 @@
         },
         {
           "index": 23,
-          "translation": "Поскольку этот брак был бездетным, дядюшка очень любил свою маленькую племянницу, которую знал главным образом только по фотографиям, и тщательно расспрашивал о ней во всех своих письмах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -5463,8 +5463,8 @@
         },
         {
           "index": 24,
-          "translation": "Обоих отцов также позабавило приглашение, которое Стась получил от капитана Глена в Момбасу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obu",
@@ -5590,8 +5590,8 @@
         },
         {
           "index": 25,
-          "translation": "Парень воспринимал их совершенно серьёзно и твёрдо обещал себе, что когда-нибудь непременно должен посетить своего нового друга за экватором.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chłopak",
@@ -5757,8 +5757,8 @@
         },
         {
           "index": 26,
-          "translation": "Только господину Тарковскому пришлось объяснять ему, что английские чиновники никогда не остаются долго на одной должности в одной и той же местности из-за убийственного африканского климата, и что к тому времени, когда он — Стась — вырастет, капитан будет уже на десятой по счёту должности или его вообще не будет на свете.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dopiero",
@@ -6204,8 +6204,8 @@
         },
         {
           "index": 27,
-          "translation": "После обеда вся компания вышла перед палатки, где слуги расставили складные полотняные стулья, а для пожилых господ приготовили сифоны с содовой и бренди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -6427,8 +6427,8 @@
         },
         {
           "index": 28,
-          "translation": "Была уже ночь, но необычайно тёплая, а так как была полная луна, то светло было как днём.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Była",
@@ -6602,8 +6602,8 @@
         },
         {
           "index": 29,
-          "translation": "Белые стены городских зданий, напротив палаток, светились зеленью, звёзды мерцали в небе, а в воздухе распространялся запах роз, акаций и гелиотропов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Białe",
@@ -6841,8 +6841,8 @@
         },
         {
           "index": 30,
-          "translation": "Город уже спал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Miasto",
@@ -6880,8 +6880,8 @@
         },
         {
           "index": 31,
-          "translation": "В ночной тишине изредка раздавались громкие голоса журавлей, цапель и фламинго, пролетавших над Нилом в направлении озера Карун.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -7071,8 +7071,8 @@
         },
         {
           "index": 32,
-          "translation": "Вдруг раздался глубокий, басистый лай собаки, который удивил Стася и Нель, ибо казалось, что он исходит из палатки, которую они не посещали, предназначенной для хранения седел, инструментов и всевозможных дорожных принадлежностей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nagle",
@@ -7390,8 +7390,8 @@
         },
         {
           "index": 33,
-          "translation": "— Какой же это должен быть огромный пес.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7469,8 +7469,8 @@
         },
         {
           "index": 34,
-          "translation": "Пойдём посмотрим на него, — сказал Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chodźmy",
@@ -7540,8 +7540,8 @@
         },
         {
           "index": 35,
-          "translation": "Пан Тарковский рассмеялся, а пан Ролисон встряхнул золу с сигары и сказал, тоже посмеиваясь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -7715,8 +7715,8 @@
         },
         {
           "index": 36,
-          "translation": "— Ну! Закрытие ничего не помогло.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7810,8 +7810,8 @@
         },
         {
           "index": 37,
-          "translation": "— Завтра — помните — Сочельник, и эта собака должна была стать сюрпризом от господина Тарковского для Нэли, но поскольку сюрприз начал лаять, я вынужден объявить о нём уже сегодня.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -8153,8 +8153,8 @@
         },
         {
           "index": 38,
-          "translation": "Услышав это, Нель в один миг вскочила на колени пана Тарковского и обняла его за шею, затем прыгнула к отцу:",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Usłyszawszy",
@@ -8352,8 +8352,8 @@
         },
         {
           "index": 39,
-          "translation": "— Папенька, как я счастлива! Как счастлива!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8455,8 +8455,8 @@
         },
         {
           "index": 40,
-          "translation": "Объятиям и поцелуям не было конца; наконец Nel, придя в себя, начала заглядывать в глаза пану Тарковскому:",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Uściskom",
@@ -8654,8 +8654,8 @@
         },
         {
           "index": 41,
-          "translation": "— Я знал, — воскликнул мистер Ролисон с притворным возмущением, — что эта маленькая муха не удовольствуется только лишь новостью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9085,8 +9085,8 @@
         },
         {
           "index": 42,
-          "translation": "— Хамиш, приведи собаку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -9244,8 +9244,8 @@
         },
         {
           "index": 43,
-          "translation": "Молодой суданец скрылся за кухонным шатром и через некоторое время снова появился, ведя за поводок громадное животное.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Młody",
@@ -9403,8 +9403,8 @@
         },
         {
           "index": 44,
-          "translation": "Нэл даже отступила назад.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -9466,8 +9466,8 @@
         },
         {
           "index": 45,
-          "translation": "— Ой! — воскликнула, схватив отца за руку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9561,8 +9561,8 @@
         },
         {
           "index": 46,
-          "translation": "— Его зовут Саба, — ответил пан Тарковский.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -9792,8 +9792,8 @@
         },
         {
           "index": 47,
-          "translation": "— Он принадлежит к мастифам, а это самые крупные собаки в мире.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9919,8 +9919,8 @@
         },
         {
           "index": 48,
-          "translation": "Ему всего два года, но он действительно огромный.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ten",
@@ -10014,8 +10014,8 @@
         },
         {
           "index": 49,
-          "translation": "Не бойся, Нел, он кроток как ягненок. Только смелее!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -10141,8 +10141,8 @@
         },
         {
           "index": 50,
-          "translation": "Отпусти его, Хамизи.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Puść",
@@ -10196,8 +10196,8 @@
         },
         {
           "index": 51,
-          "translation": "Хамис отпустил поводок, за который держал бриттаниела, и тот, почувствовав свободу, начал махать хвостом, ласкаться к пану Тарковскому, с которым уже хорошо познакомился раньше, и радостно лаять.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chamis",
@@ -10531,8 +10531,8 @@
         },
         {
           "index": 52,
-          "translation": "Дети с восхищением смотрели при лунном свете на его мощную круглую голову со свисающими губами, на толстые лапы, на могучую фигуру, которая действительно напоминала льва светло-жёлтой мастью всего тела.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -10794,8 +10794,8 @@
         },
         {
           "index": 53,
-          "translation": "Ничего подобного они не видели до сих пор в жизни.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nic",
@@ -10873,8 +10873,8 @@
         },
         {
           "index": 54,
-          "translation": "— С таким псом можно было бы безопасно пересечь всю Африку! — воскликнул Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10992,8 +10992,8 @@
         },
         {
           "index": 55,
-          "translation": "— Спроси его, может ли он апортировать носорога, — сказал господин Тарковский.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11119,8 +11119,8 @@
         },
         {
           "index": 56,
-          "translation": "Саба, правда, не смог бы ответить на этот вопрос, зато махал хвостом всё веселее и бросался к людям с такой сердечностью, что Нель тут же перестала его бояться и начала гладить его по голове.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Saba",
@@ -11438,8 +11438,8 @@
         },
         {
           "index": 57,
-          "translation": "— Саба, милый, любимый Саба.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11517,8 +11517,8 @@
         },
         {
           "index": 58,
-          "translation": "— Саба, посмотри на эту барышню.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -11724,8 +11724,8 @@
         },
         {
           "index": 59,
-          "translation": "Вот твоя госпожа!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oto",
@@ -11763,8 +11763,8 @@
         },
         {
           "index": 60,
-          "translation": "Ты должен её слушать и оберегать — понимаешь?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Masz",
@@ -11842,8 +11842,8 @@
         },
         {
           "index": 61,
-          "translation": "— Ничего себе! — басом отозвался на это Саба, словно действительно понимал, о чём идёт речь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12009,8 +12009,8 @@
         },
         {
           "index": 62,
-          "translation": "И понял даже лучше, чем можно было ожидать, ибо, воспользовавшись тем, что его голова находилась почти на уровне лица девочки, он в знак преданности облизал широким языком её носик и щёки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -12336,8 +12336,8 @@
         },
         {
           "index": 63,
-          "translation": "Это вызвало всеобщий взрыв смеха.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wywołało",
@@ -12391,8 +12391,8 @@
         },
         {
           "index": 64,
-          "translation": "Нель должна была пойти в палатку, чтобы умыться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nel",
@@ -12478,8 +12478,8 @@
         },
         {
           "index": 65,
-          "translation": "Вернувшись через четверть часа, она увидела Сабу с лапами, закинутыми на плечи Стася, который прогибался под этой тяжестью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wróciwszy",
@@ -12645,8 +12645,8 @@
         },
         {
           "index": 66,
-          "translation": "Пёс возвышался над ним на целую голову.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pies",
@@ -12708,8 +12708,8 @@
         },
         {
           "index": 67,
-          "translation": "Приближалось время отдыха, но девочка выпросила себе ещё полчаса игры, чтобы лучше познакомиться с новым другом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nadchodził",
@@ -12883,8 +12883,8 @@
         },
         {
           "index": 68,
-          "translation": "Знакомство прошло так удачно, что вскоре пан Тарковский посадил её на коня, как подобает даме, и, придерживая, чтобы она не упала, велел Стасю вести коня под уздцы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakoż",
@@ -13170,8 +13170,8 @@
         },
         {
           "index": 69,
-          "translation": "Она отъехала шагов на пятнадцать, и тогда попытался сесть на странного скакуна и Стась, но тот встал на задние лапы, так что Стась неожиданно очутился в песке около хвоста.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ujechała",
@@ -13449,8 +13449,8 @@
         },
         {
           "index": 70,
-          "translation": "Дети уже собирались удалиться на отдых, когда издалека, на озарённой луной площади, появились две белые фигуры, спешившие к палаткам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -13680,8 +13680,8 @@
         },
         {
           "index": 71,
-          "translation": "Ласковый до сих пор Саба начал издавать глухое и грозное рычание, так что Хамис по приказу мистера Ролинсона вынужден был снова схватить его за ошейник, а тем временем два человека в белых бурнусах встали перед палатками.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Łagodny",
@@ -13991,8 +13991,8 @@
         },
         {
           "index": 72,
-          "translation": "— А кто там? — спросил пан Тарковский.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14086,8 +14086,8 @@
         },
         {
           "index": 73,
-          "translation": "— Ах!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14205,8 +14205,8 @@
         },
         {
           "index": 74,
-          "translation": "Это Идрис и Гебхр? Чего вам надо?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "to",
@@ -14284,8 +14284,8 @@
         },
         {
           "index": 75,
-          "translation": "— Нет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14411,8 +14411,8 @@
         },
         {
           "index": 76,
-          "translation": "Завтра и послезавтра — большие праздники, во время которых нам не подобает совершать прогулки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jutro",
@@ -14554,8 +14554,8 @@
         },
         {
           "index": 77,
-          "translation": "— Спасибо, эфенди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyjdźcie",
@@ -14649,8 +14649,8 @@
         },
         {
           "index": 78,
-          "translation": "— А верблюды у вас хорошие? — спросил мистер Раулисон.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14752,8 +14752,8 @@
         },
         {
           "index": 79,
-          "translation": "— Бисмиллах! — ответил Идрис — настоящие верблюды с толстыми горбами и кроткие, как газели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14959,8 +14959,8 @@
         },
         {
           "index": 80,
-          "translation": "Иначе Кук нас не нанял бы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Inaczej",
@@ -15030,8 +15030,8 @@
         },
         {
           "index": 81,
-          "translation": "— Они сильно не дрожат?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15085,8 +15085,8 @@
         },
         {
           "index": 82,
-          "translation": "— Можно, сударь, положить горсть фасоли на спину каждого из них, и ни одно зёрнышко не упадёт даже в самом быстром галопе.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15276,8 +15276,8 @@
         },
         {
           "index": 83,
-          "translation": "— Уж коли браться за дело, то по-арабски, — сказал, смеясь, пан Тарковский.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15411,8 +15411,8 @@
         },
         {
           "index": 84,
-          "translation": "— Или по-суданскому, — добавил мистер Роулисон.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15498,8 +15498,8 @@
         },
         {
           "index": 85,
-          "translation": "Между тем Идрис и Гебр стояли неподвижно, словно две белые колонны, внимательно наблюдая за Стасем и Нел.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -15649,8 +15649,8 @@
         },
         {
           "index": 86,
-          "translation": "Луна освещала их весьма смугрые лица, которые при её свете казались высеченными из бронзы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Księżyc",
@@ -15792,8 +15792,8 @@
         },
         {
           "index": 87,
-          "translation": "Белки их глаз блеснули зеленоватым отблеском из-под тюрбанов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Białka",
@@ -15871,8 +15871,8 @@
         },
         {
           "index": 88,
-          "translation": "— Спокойной ночи вам! — сказал пан Ролинсон.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15958,8 +15958,8 @@
         },
         {
           "index": 89,
-          "translation": "— Пусть Аллах хранит вас, эфенди, ночью и днём.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16093,8 +16093,8 @@
         },
         {
           "index": 90,
-          "translation": "То сказав, поклонились и удалились.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -16156,8 +16156,8 @@
         },
         {
           "index": 91,
-          "translation": "Их вел сквозь темноту глухой, похожий на отдаленный гром рычащий звук Сабы, которой двое суданцев видимо не нравились.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przeprowadzało",

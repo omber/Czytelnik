@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Экспедиция капитана Глена и доктора Клэри отнюдь не ставила своей целью поиск Стася и Нэли.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyprawa",
@@ -142,8 +142,8 @@
         },
         {
           "index": 1,
-          "translation": "Это была многочисленная и щедро снаряжённая государственная экспедиция, отправленная для исследования восточно-северных склонов огромной горы Килиманджаро и малоизученных обширных земель, расположенных к северу от этой горы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Była",
@@ -421,8 +421,8 @@
         },
         {
           "index": 2,
-          "translation": "Капитан и доктор действительно знали о похищении детей из Мединет-эль-Файюма, так как об этом сообщали английские и арабские газеты, но они полагали, что оба мальчика либо погибли, либо томятся в плену у Махди, из которого до сих пор не удалось бежать ни одному европейцу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zarówno",
@@ -828,8 +828,8 @@
         },
         {
           "index": 3,
-          "translation": "Клари, чья сестра была замужем за Роулисоном в Бомбее и который был очарован маленькой Нел во время путешествия в Каир, ощутил её потерю исключительно болезненно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Clary",
@@ -1059,8 +1059,8 @@
         },
         {
           "index": 4,
-          "translation": "Но и смелого мальчика жалели оба — и он с Гленом — от всего сердца.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -1146,8 +1146,8 @@
         },
         {
           "index": 5,
-          "translation": "Несколько раз отправляли они телеграммы из Момбасы мистеру Ролисону с вопросом, не найдены ли дети, и только после последнего неутешительного ответа, который пришел задолго до отправления каравана, они окончательно потеряли всякую надежду.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kilkakrotnie",
@@ -1449,8 +1449,8 @@
         },
         {
           "index": 6,
-          "translation": "И им даже не пришло в голову, что дети, заключённые в далёком Хартуме, могли бы появиться в этих краях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -1640,8 +1640,8 @@
         },
         {
           "index": 7,
-          "translation": "Часто они разговаривали о них по вечерам, когда заканчивались дневные работы, так как доктор никак не мог забыть маленькую, прелестную девочку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Często",
@@ -1839,8 +1839,8 @@
         },
         {
           "index": 8,
-          "translation": "Между тем экспедиция продвигалась всё дальше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -1902,8 +1902,8 @@
         },
         {
           "index": 9,
-          "translation": "После более продолжительного пребывания на восточных склонах Килиманджаро, после исследования верховьев рек Соббату и Тана и гор Кении капитан и доктор повернули в северном направлении и, преодолев болотистую Гуассо-Нийро, вступили на обширную равнину, безлюдную, но населённую бесчисленными стадами антилоп.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -2309,8 +2309,8 @@
         },
         {
           "index": 10,
-          "translation": "После трёх с лишним месяцев путешествия людям был необходим длительный отдых, поэтому капитан Глен, обнаружив небольшое озеро с чистой, коричневатой водой, приказал разбить над ним палатки и объявил о десятидневной стоянке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -2604,8 +2604,8 @@
         },
         {
           "index": 11,
-          "translation": "Во время стоянки белые занимались охотой и приведением в порядок географических и естественнонаучных записей, а негры предавались свойственному им сладостному безделью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -2803,8 +2803,8 @@
         },
         {
           "index": 12,
-          "translation": "— Птица? — нет птицы! — Птица?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Owóż",
@@ -3170,8 +3170,8 @@
         },
         {
           "index": 13,
-          "translation": "(Птица? — не птица! — птица?)",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "(",
@@ -3273,8 +3273,8 @@
         },
         {
           "index": 14,
-          "translation": "Доктор был близорук, поэтому отправил в палатку за полевым биноклем, затем посмотрел сквозь него на предмет, который показывали ему негры, — и великое изумление отразилось на его лице.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Doktor",
@@ -3544,8 +3544,8 @@
         },
         {
           "index": 15,
-          "translation": "— Позовите сюда капитана, — сказал он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3615,8 +3615,8 @@
         },
         {
           "index": 16,
-          "translation": "Но прежде чем чернокожие рабочие добежали, капитан появился перед палаткой, собираясь охотиться на антилоп.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -3766,8 +3766,8 @@
         },
         {
           "index": 17,
-          "translation": "— Смотри, Глен, — сказал доктор, указывая рукой вверх.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3877,8 +3877,8 @@
         },
         {
           "index": 18,
-          "translation": "— Воздушный змей! — воскликнул он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -4084,8 +4084,8 @@
         },
         {
           "index": 19,
-          "translation": "— Да, но негры не пускают воздушных змеев, откуда же он здесь взялся?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4219,8 +4219,8 @@
         },
         {
           "index": 20,
-          "translation": "— Наверное, где-нибудь поблизости есть какое-то белое поселение или миссионерская станция?…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4346,8 +4346,8 @@
         },
         {
           "index": 21,
-          "translation": "— Третий день ветер дует с запада, то есть со стороны неизведанных земель, которые, вероятно, столь же безлюдны, как эта чащоба.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4529,8 +4529,8 @@
         },
         {
           "index": 22,
-          "translation": "Ты же знаешь, что здесь нет никаких поселений и миссий.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wiesz",
@@ -4640,8 +4640,8 @@
         },
         {
           "index": 23,
-          "translation": "— Это действительно интересно…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4695,8 +4695,8 @@
         },
         {
           "index": 24,
-          "translation": "— Нужно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4790,8 +4790,8 @@
         },
         {
           "index": 25,
-          "translation": "Может быть, мы узнаем, откуда он происходит.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Może",
@@ -4861,8 +4861,8 @@
         },
         {
           "index": 26,
-          "translation": "Капитан отдал приказ.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -4900,8 +4900,8 @@
         },
         {
           "index": 27,
-          "translation": "— Здесь какие-то надписи…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Drzewo",
@@ -5195,8 +5195,8 @@
         },
         {
           "index": 28,
-          "translation": "И, прищурив глаза, начал читать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zobaczmy",
@@ -5282,8 +5282,8 @@
         },
         {
           "index": 29,
-          "translation": "Вдруг его лицо изменилось, руки затряслись.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nagle",
@@ -5369,8 +5369,8 @@
         },
         {
           "index": 30,
-          "translation": "— Глен, — сказал он, — возьми это, прочитай и убеди меня, что я не получил солнечный удар и что я в здравом уме!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5584,8 +5584,8 @@
         },
         {
           "index": 31,
-          "translation": "Нелли Роулисон и Станислав Тарковский,\nотправленные из Хартума в Фашоду,\nа из Фашоды ведомые на восток от Нила,\nвырвались из рук дервишей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -5983,8 +5983,8 @@
         },
         {
           "index": 32,
-          "translation": "После долгих месяцев путешествия они прибыли к озеру, лежащему к югу от Абиссинии.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -6110,8 +6110,8 @@
         },
         {
           "index": 33,
-          "translation": "Они идут к океану.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idą",
@@ -6157,8 +6157,8 @@
         },
         {
           "index": 34,
-          "translation": "Просят об срочной помощи.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Proszą",
@@ -6212,8 +6212,8 @@
         },
         {
           "index": 35,
-          "translation": "Этот воздушный змей, пятьдесят четвёртый по счёту,",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -6395,8 +6395,8 @@
         },
         {
           "index": 36,
-          "translation": "Спущен с гор, окружающих неведомое географии озеро.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "puszczony",
@@ -6482,8 +6482,8 @@
         },
         {
           "index": 37,
-          "translation": "Кто его найдет, пусть известит Управление канала в Порт-Саиде или капитана Глена в Момбасе.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kto",
@@ -6657,8 +6657,8 @@
         },
         {
           "index": 38,
-          "translation": "Когда голос капитана стих, двое друзей начали смотреть друг на друга в молчании.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stanisław",
@@ -6808,8 +6808,8 @@
         },
         {
           "index": 39,
-          "translation": "— Что это? — наконец спросил доктор Клэри.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6911,8 +6911,8 @@
         },
         {
           "index": 40,
-          "translation": "— Глазам своим не верю! — ответил капитан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6998,8 +6998,8 @@
         },
         {
           "index": 41,
-          "translation": "— Нет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7093,8 +7093,8 @@
         },
         {
           "index": 42,
-          "translation": "— И они могут быть где-то в этих местах?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7332,8 +7332,8 @@
         },
         {
           "index": 43,
-          "translation": "— Благодарение Ему за это! — воскликнул врач с пылом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7523,8 +7523,8 @@
         },
         {
           "index": 44,
-          "translation": "— Но где их искать?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7586,8 +7586,8 @@
         },
         {
           "index": 45,
-          "translation": "— На воздушном змее больше ничего нет?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7673,8 +7673,8 @@
         },
         {
           "index": 46,
-          "translation": "— Там ещё несколько слов, но в месте, изодранном ветвями. Трудно их разобрать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7816,8 +7816,8 @@
         },
         {
           "index": 47,
-          "translation": "Оба склонились над листом и только после долгого разбора смогли разобрать по слогам:",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obaj",
@@ -7935,8 +7935,8 @@
         },
         {
           "index": 48,
-          "translation": "Сезон дождей давно прошёл.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pora",
@@ -7990,8 +7990,8 @@
         },
         {
           "index": 49,
-          "translation": "— Что это должно означать? — спросил доктор.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8085,8 +8085,8 @@
         },
         {
           "index": 50,
-          "translation": "— То, что мальчик потерял счёт времени.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8172,8 +8172,8 @@
         },
         {
           "index": 51,
-          "translation": "— И таким образом он хотел обозначить примерно дату. Ты прав!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8291,8 +8291,8 @@
         },
         {
           "index": 52,
-          "translation": "И значит, этот воздушный змей мог быть запущен совсем недавно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -8386,8 +8386,8 @@
         },
         {
           "index": 53,
-          "translation": "— Если так, то они тоже могут быть неподалёку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8505,8 +8505,8 @@
         },
         {
           "index": 54,
-          "translation": "Лихорадочный обрывистый разговор продолжался ещё какое-то время, после чего оба принялись вновь изучать документ и обсуждать отдельно каждое написанное на нём слово.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gorączkowa",
@@ -8712,8 +8712,8 @@
         },
         {
           "index": 55,
-          "translation": "Дело казалось столь невероятным, что если бы оно происходило не в местах, где вообще не было европейцев, в более чем шестистах километрах от ближайшего берега, доктор и капитан предположили бы, что это, вероятно, неуместная шутка, затеянная какими-нибудь европейскими детьми после прочтения дневников, описывающих похищение, или воспитанники какой-нибудь миссии.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rzecz",
@@ -9183,8 +9183,8 @@
         },
         {
           "index": 56,
-          "translation": "Однако трудно было не верить своим глазам: ведь они держали в руках воздушного змея, и едва заметные надписи четко чернели перед ними.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Trudno",
@@ -9366,8 +9366,8 @@
         },
         {
           "index": 57,
-          "translation": "Но всё же многое они не могли уместить в голове.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -9469,8 +9469,8 @@
         },
         {
           "index": 58,
-          "translation": "Откуда дети взяли бумагу для воздушного змея?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Skąd",
@@ -9532,8 +9532,8 @@
         },
         {
           "index": 59,
-          "translation": "Если бы его им доставила какая-нибудь каравана, тогда они присоединились бы к ней и не звали бы помощи.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdyby",
@@ -9691,8 +9691,8 @@
         },
         {
           "index": 60,
-          "translation": "По каким причинам мальчик не пытался бежать вместе с маленькой спутницей в Абиссинию?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -9818,8 +9818,8 @@
         },
         {
           "index": 61,
-          "translation": "Почему дервиши отправили их на восток от Нила, в неизведанные края?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dlaczego",
@@ -9929,8 +9929,8 @@
         },
         {
           "index": 62,
-          "translation": "Каким образом им удалось вырваться из рук стражи?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakim",
@@ -10008,8 +10008,8 @@
         },
         {
           "index": 63,
-          "translation": "Где они спрятались?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdzie",
@@ -10047,8 +10047,8 @@
         },
         {
           "index": 64,
-          "translation": "Какудалось им пережить долгие месяцы путешествия, не умерев с голода?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakim",
@@ -10142,8 +10142,8 @@
         },
         {
           "index": 65,
-          "translation": "не стали ли добычей диких зверей?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "nie",
@@ -10205,8 +10205,8 @@
         },
         {
           "index": 66,
-          "translation": "Почему дикари их не убили?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "dlaczego",
@@ -10260,8 +10260,8 @@
         },
         {
           "index": 67,
-          "translation": "На все эти вопросы не было ответа.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -10339,8 +10339,8 @@
         },
         {
           "index": 68,
-          "translation": "— Ничего не понимаю, ничего не понимаю, — повторял доктор Клари, — это просто чудо божественное!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10498,8 +10498,8 @@
         },
         {
           "index": 69,
-          "translation": "— Непреложно, — ответил капитан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10561,8 +10561,8 @@
         },
         {
           "index": 70,
-          "translation": "— Да что за мальчишка!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -10656,8 +10656,8 @@
         },
         {
           "index": 71,
-          "translation": "Это ведь его произведение.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Bo",
@@ -10719,8 +10719,8 @@
         },
         {
           "index": 72,
-          "translation": "— И не покинул малую.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10774,8 +10774,8 @@
         },
         {
           "index": 73,
-          "translation": "Да благословит Бог его голову и очи.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niech",
@@ -10853,8 +10853,8 @@
         },
         {
           "index": 74,
-          "translation": "— Стэнли, даже Стэнли не прожил бы в таких условиях трое суток.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10980,8 +10980,8 @@
         },
         {
           "index": 75,
-          "translation": "— И всё же они живут.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11043,8 +11043,8 @@
         },
         {
           "index": 76,
-          "translation": "— Но они просят о помощи. Стоянка окончена! Выезжаем сейчас же.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11154,8 +11154,8 @@
         },
         {
           "index": 77,
-          "translation": "И так произошло.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -11201,8 +11201,8 @@
         },
         {
           "index": 78,
-          "translation": "По дороге оба друга продолжали изучать документ, надеясь найти в нём подсказки о том, в каком направлении им следует двигаться, чтобы оказать помощь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -11424,8 +11424,8 @@
         },
         {
           "index": 79,
-          "translation": "Но указаний не было.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -11463,8 +11463,8 @@
         },
         {
           "index": 80,
-          "translation": "Капитан вел караван зигзагом, надеясь натолкнуться на какой-нибудь след, на потухший костер или на дерево с вырезанными на коре знаками.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -11694,8 +11694,8 @@
         },
         {
           "index": 81,
-          "translation": "Таким образом они продвигались вперед несколько дней.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -11773,8 +11773,8 @@
         },
         {
           "index": 82,
-          "translation": "На беду их путь лежал теперь по совершенно голой равнине, покрытой высоким вереском и пучками выгоревшей травы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -11916,8 +11916,8 @@
         },
         {
           "index": 83,
-          "translation": "Беспокойство стало охватывать обоих друзей. Как легко было разминуться на этих безбрежных просторах даже с целым караваном, что уж говорить о двух детях, которые, как они воображали, ползали где-то там, как два маленьких червячка среди возвышающегося над ними вереска.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niepokój",
@@ -12291,8 +12291,8 @@
         },
         {
           "index": 84,
-          "translation": "Прошел еще один день.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Upłynął",
@@ -12330,8 +12330,8 @@
         },
         {
           "index": 85,
-          "translation": "Ни жестяные коробочки с записками внутри, оставляемые на кочках, ни ночные костры не помогали.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -12489,8 +12489,8 @@
         },
         {
           "index": 86,
-          "translation": "Капитан и доктор временами начинали терять надежду, удастся ли им разыскать детей, и особенно живыми ли их найдут.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -12680,8 +12680,8 @@
         },
         {
           "index": 87,
-          "translation": "Однако они прилежно искали и в последующие дни.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Szukali",
@@ -12751,8 +12751,8 @@
         },
         {
           "index": 88,
-          "translation": "Патрули, которых Глен отправлял в разные стороны, наконец доложили, что дальше начинается совершенно безводная пустыня, так что когда случайно в расселине земли вновь обнаружили воду, пришлось там остановиться, чтобы запастись припасами на дальнейший путь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Patrole",
@@ -13134,8 +13134,8 @@
         },
         {
           "index": 89,
-          "translation": "Расселина была скорее щелью, глубиной в несколько десятков метров и относительно очень узкой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rozpadlina",
@@ -13253,8 +13253,8 @@
         },
         {
           "index": 90,
-          "translation": "На дне её била теплая ключевая вода, кипящая как кипяток, ибо пересыщенная углекислотой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -13388,8 +13388,8 @@
         },
         {
           "index": 91,
-          "translation": "Однако вода после остывания оказалась хорошей и здоровой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jednakże",
@@ -13475,8 +13475,8 @@
         },
         {
           "index": 92,
-          "translation": "Источник был столь обильным, что триста человек из каравана не могли его осушить.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Źródło",
@@ -13602,8 +13602,8 @@
         },
         {
           "index": 93,
-          "translation": "Конечно, чем больше черпали, тем сильнее оно било и заполняло щель выше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Owszem",
@@ -13729,8 +13729,8 @@
         },
         {
           "index": 94,
-          "translation": "— Может быть, со временем — говорил доктор Клари — здесь возникнет какой-нибудь санаторий, но сейчас эту воду не могут достичь животные из-за слишком крутых стен расселины.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -13984,8 +13984,8 @@
         },
         {
           "index": 95,
-          "translation": "— Не знаю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14135,8 +14135,8 @@
         },
         {
           "index": 96,
-          "translation": "Возможно, что в округе их больше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Być",
@@ -14230,8 +14230,8 @@
         },
         {
           "index": 97,
-          "translation": "Наступила ночь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -14349,8 +14349,8 @@
         },
         {
           "index": 98,
-          "translation": "Развели жалкие костры, однако не строили хижин, так как не было из чего.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rozpalono",
@@ -14476,8 +14476,8 @@
         },
         {
           "index": 99,
-          "translation": "После вечерней трапезы доктор и капитан устроились в складные кресла и, закурив трубки, принялись беседовать о том, что больше всего занимало их мысли.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -14691,8 +14691,8 @@
         },
         {
           "index": 100,
-          "translation": "— Ни малейшего следа! — воскликнул Клэри.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14778,8 +14778,8 @@
         },
         {
           "index": 101,
-          "translation": "— Мне приходила в голову идея, — ответил Глен, — отправить десятерых наших людей на берег океана с депешей о том, что есть известие о детях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14993,8 +14993,8 @@
         },
         {
           "index": 102,
-          "translation": "Но я рад, что этого не сделал, потому что люди вероятно погибли бы в пути, а даже если бы добрались, то зачем пробуждать понапрасну надежду…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -15240,8 +15240,8 @@
         },
         {
           "index": 103,
-          "translation": "— И возобновлялась боль…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15295,8 +15295,8 @@
         },
         {
           "index": 104,
-          "translation": "— Слушай, — сказал он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Doktor",
@@ -15438,8 +15438,8 @@
         },
         {
           "index": 105,
-          "translation": "— А если бы мы вернулись к тому озеру, велели бы спилить деревья и жгли бы по ночам огромный костёр.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15581,8 +15581,8 @@
         },
         {
           "index": 106,
-          "translation": "Может быть, дети заметили…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Może",
@@ -15628,8 +15628,8 @@
         },
         {
           "index": 107,
-          "translation": "— Если бы они были близко, мы нашли бы их в любом случае, а если далеко, то огонь спрячется за холмами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15811,8 +15811,8 @@
         },
         {
           "index": 108,
-          "translation": "Эта плоскость кажется ровной, а на самом деле вся в бугорках, волнистая, как океан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ta",
@@ -15954,8 +15954,8 @@
         },
         {
           "index": 109,
-          "translation": "При этом, отступая, мы окончательно потеряли бы возможность найти даже их следы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przy",
@@ -16065,8 +16065,8 @@
         },
         {
           "index": 110,
-          "translation": "— Говори откровенно, у тебя совсем нет надежды?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16152,8 +16152,8 @@
         },
         {
           "index": 111,
-          "translation": "— Мой дорогой, мы люди взрослые, сильные и находчивые, но подумай, что бы с нами произошло, окажись мы здесь вдвоём, даже с оружием, но без припасов и без людей…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16503,8 +16503,8 @@
         },
         {
           "index": 112,
-          "translation": "— Да! К сожалению, да…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16566,8 +16566,8 @@
         },
         {
           "index": 113,
-          "translation": "Представляю себе двух детей, идущих в такую ночь через пустыню.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyobrażam",
@@ -16669,8 +16669,8 @@
         },
         {
           "index": 114,
-          "translation": "— Голод, жажда, дикие звери…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16748,8 +16748,8 @@
         },
         {
           "index": 115,
-          "translation": "— А вот мальчик пишет, что они шли столько долгих месяцев.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16859,8 +16859,8 @@
         },
         {
           "index": 116,
-          "translation": "— Поэтому в этом есть что-то, что превосходит мое воображение.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -16970,8 +16970,8 @@
         },
         {
           "index": 117,
-          "translation": "Долгое время в тишине слышно было только потрескивание табака в трубках.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przez",
@@ -17081,8 +17081,8 @@
         },
         {
           "index": 118,
-          "translation": "Врач вперился взглядом в бледные глубины ночи, затем заговорил приглушённым голосом:",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Doktor",
@@ -17224,8 +17224,8 @@
         },
         {
           "index": 119,
-          "translation": "Поздно уже, но сон от меня убегает…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Późno",
@@ -17295,8 +17295,8 @@
         },
         {
           "index": 120,
-          "translation": "И подумать только, что они, если живы, то бродят где-то при луне, среди этих сухих вересков… одни такие дети!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -17510,8 +17510,8 @@
         },
         {
           "index": 121,
-          "translation": "Помнишь, Глен, ангельское личико этой малышки?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pamiętasz",
@@ -17597,8 +17597,8 @@
         },
         {
           "index": 122,
-          "translation": "— Ах!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -17692,8 +17692,8 @@
         },
         {
           "index": 123,
-          "translation": "И не закончил, потому что капитан Глен вскочил как ошпаренный.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "dałbym",
@@ -17867,8 +17867,8 @@
         },
         {
           "index": 124,
-          "translation": "— Рака! — повторил доктор.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -18026,8 +18026,8 @@
         },
         {
           "index": 125,
-          "translation": "— Впереди нас какой-то караван.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -18097,8 +18097,8 @@
         },
         {
           "index": 126,
-          "translation": "— Может быть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -18184,8 +18184,8 @@
         },
         {
           "index": 127,
-          "translation": "— Вперёд!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Spieszmy",
@@ -18263,8 +18263,8 @@
         },
         {
           "index": 128,
-          "translation": "Приказы капитана мгновенно разнеслись по всему лагерю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rozkazy",
@@ -18358,8 +18358,8 @@
         },
         {
           "index": 129,
-          "translation": "Занзибарцы вскочили на ноги.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zanzibarczycy",
@@ -18413,8 +18413,8 @@
         },
         {
           "index": 130,
-          "translation": "Вскоре зажгли факелы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niebawem",
@@ -18452,8 +18452,8 @@
         },
         {
           "index": 131,
-          "translation": "Глен в ответ на дальний сигнал приказал выпустить несколько ракет одну за другой, а затем вести ружейный огонь очередями.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Glen",
@@ -18651,8 +18651,8 @@
         },
         {
           "index": 132,
-          "translation": "Не прошло и четверти часа, как весь лагерь уже тронулся в путь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zanim",
@@ -18754,8 +18754,8 @@
         },
         {
           "index": 133,
-          "translation": "Издалека ответили выстрелы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -18801,8 +18801,8 @@
         },
         {
           "index": 134,
-          "translation": "Уже не было никаких сомнений в том, что какой-то европейский караван по неизвестным причинам зовёт на помощь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -18952,8 +18952,8 @@
         },
         {
           "index": 135,
-          "translation": "Капитан и доктор бежали наперегонки, попеременно охватываемые страхом и надеждой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -19071,8 +19071,8 @@
         },
         {
           "index": 136,
-          "translation": "Найдут ли они детей или не найдут?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Znajdą",
@@ -19134,8 +19134,8 @@
         },
         {
           "index": 137,
-          "translation": "Доктор про себя думал, что если нет, то дальше по дороге они смогут разве что искать только их трупы среди этих ужасных вересковых пустошей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Doktor",
@@ -19357,8 +19357,8 @@
         },
         {
           "index": 138,
-          "translation": "Спустя полчаса один из таких земляных холмов, о которых они говорили ранее, заслонил обоим друзьям дальнейший вид.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -19532,8 +19532,8 @@
         },
         {
           "index": 139,
-          "translation": "Но они уже были так близко, что отчётливо слышали стук копыт лошадей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -19635,8 +19635,8 @@
         },
         {
           "index": 140,
-          "translation": "Ещё несколько минут — и на гребне возвышения появился всадник, держащий перед собой большой, беловатый предмет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jeszcze",
@@ -19802,8 +19802,8 @@
         },
         {
           "index": 141,
-          "translation": "— Факелы вверх! — скомандовал Глен.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -19881,8 +19881,8 @@
         },
         {
           "index": 142,
-          "translation": "— Воды! Воды!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -20032,8 +20032,8 @@
         },
         {
           "index": 143,
-          "translation": "— Дети! — воскликнул доктор Клери.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -20111,8 +20111,8 @@
         },
         {
           "index": 144,
-          "translation": "— Воды! — повторил Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -20182,8 +20182,8 @@
         },
         {
           "index": 145,
-          "translation": "И почти бросил Нела в руки капитана, а сам спрыгнул с седла.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -20309,8 +20309,8 @@
         },
         {
           "index": 146,
-          "translation": "Но тут же он захлебнулся, упал на землю как мертвый.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -20412,8 +20412,8 @@
         },
         {
           "index": 147,
-          "translation": "Радость в лагере капитана Глена и доктора Клэра была беспредельна, но любопытство обоих англичан подвергалось суровому испытанию.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "ZAKOŃCZENIE",
@@ -20611,8 +20611,8 @@
         },
         {
           "index": 148,
-          "translation": "Если раньше они не могли себе представить, чтобы дети сами преодолели огромные леса и пустыни, отделяющие эти края от Нила и Фашоды, то теперь они совсем не понимали, каким образом этот «маленький поляк», как они называли Стася, не только всё это совершил, но явился перед ними предводителем целого каравана, вооруженного европейским оружием, со слоном, несущим паланкин, с конями, палатками и со значительными запасами провианта.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jeśli",
@@ -21274,8 +21274,8 @@
         },
         {
           "index": 149,
-          "translation": "Капитан разводил руками при этом зрелище и говорил постоянно: «Клары, много я видел, но такого мальчика не видел!» — А добрый доктор повторял с не меньшим изумлением: «И девочку вырвал из неволи — и спас её!» — после чего спешил в палатки посмотреть, как дети себя чувствуют и хорошо ли они спят.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -21793,8 +21793,8 @@
         },
         {
           "index": 150,
-          "translation": "А дети, напоенные, накормленные, переодетые и уложенные спать, спали мертвым сном весь следующий день.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -21960,8 +21960,8 @@
         },
         {
           "index": 151,
-          "translation": "люди из их каравана — так же.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": ";",
@@ -22031,8 +22031,8 @@
         },
         {
           "index": 152,
-          "translation": "Капитан Глен пытался расспрашивать о приключениях путешествия и о подвигах Стасия, совершённых с Калем, но молодой негр, приоткрыв одно око, ответил только: «Господин велик, всё может» — и снова заснул.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -22302,8 +22302,8 @@
         },
         {
           "index": 153,
-          "translation": "В итоге пришлось отложить вопросы и объяснения на следующие дни.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ostatecznie",
@@ -22405,8 +22405,8 @@
         },
         {
           "index": 154,
-          "translation": "Тем временем два друга совещались о том, как вернуться в Момбасу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -22500,8 +22500,8 @@
         },
         {
           "index": 155,
-          "translation": "Дошли они так далеко и изведали больше земель, чем им было велено, поэтому решили возвращаться без промедления.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dotarli",
@@ -22651,8 +22651,8 @@
         },
         {
           "index": 156,
-          "translation": "Капитана, конечно, весьма манила та неизвестная географии озёрная топь, однако забота о здоровье детей и желание поскорее вернуть их обеспокоенным отцам пересилили.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitana",
@@ -22858,8 +22858,8 @@
         },
         {
           "index": 157,
-          "translation": "Врач, однако, оговорил, что придётся отдохнуть на холодных вершинах гор Кения или Килиманджаро.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Doktor",
@@ -23009,8 +23009,8 @@
         },
         {
           "index": 158,
-          "translation": "Оттуда же только после этого они решили отправить весть к отцам и вызвать их в Момбасу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stamtąd",
@@ -23160,8 +23160,8 @@
         },
         {
           "index": 159,
-          "translation": "Обратный путь начался на третий день после надлежащего отдыха и купания в теплых источниках.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Odwrotna",
@@ -23311,8 +23311,8 @@
         },
         {
           "index": 160,
-          "translation": "Это был также день расставания с Калимом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -23390,8 +23390,8 @@
         },
         {
           "index": 161,
-          "translation": "Стась убедил девочку, что тащить его с собой дальше, к океану или в Египет, было бы с их стороны эгоизмом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -23589,8 +23589,8 @@
         },
         {
           "index": 162,
-          "translation": "Он говорил ей, что в Египте, а тем более в Англии, Кали будет не более чем слугой, тогда как, взяв власть над своим народом, он как король распространит и укрепит христианство, смягчит дикие нравы ва-химов и превратит их не только в цивилизованных, но и в добрых людей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mówił",
@@ -24052,8 +24052,8 @@
         },
         {
           "index": 163,
-          "translation": "Примерно то же самое он повторил и Калему.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -24131,8 +24131,8 @@
         },
         {
           "index": 164,
-          "translation": "При прощании же пролилось множество слёз, и Стась не стыдился их, ибо он и Нелька пережили с Калимом столько дурных и добрых минут и не только научились ценить его честное сердце, но полюбили его искренне.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wylało",
@@ -24506,8 +24506,8 @@
         },
         {
           "index": 165,
-          "translation": "Молодой негр долго лежал у ног своего великого бвана и доброго Мзиму.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Młody",
@@ -24617,8 +24617,8 @@
         },
         {
           "index": 166,
-          "translation": "Дважды он возвращался, чтобы ещё раз взглянуть на них, но наконец настал момент расставания, и два каравана двинулись в противоположных направлениях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dwukrotnie",
@@ -24816,8 +24816,8 @@
         },
         {
           "index": 167,
-          "translation": "В пути только тогда начались рассказы о приключениях двух маленьких путешественников.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -24927,8 +24927,8 @@
         },
         {
           "index": 168,
-          "translation": "Стась, некогда немного склонный к хвастовству, теперь вовсе не хвастался.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -25046,8 +25046,8 @@
         },
         {
           "index": 169,
-          "translation": "Он совершил слишком много, пережил слишком много, слишком далеко зашёл в развитии, чтобы не понимать, что слова не должны быть больше, чем поступки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -25285,8 +25285,8 @@
         },
         {
           "index": 170,
-          "translation": "Между тем было достаточно самих поступков, даже если рассказывать о них как можно скромнее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Było",
@@ -25380,8 +25380,8 @@
         },
         {
           "index": 171,
-          "translation": "Каждый день, в часы томительной жары и по вечерам на привалах — перед глазами капитана Глена и доктора Клери проходили, словно кинолента, образы тех событий и происшествий, через которые прошли дети.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Co",
@@ -25675,8 +25675,8 @@
         },
         {
           "index": 172,
-          "translation": "Они видели похищение из Мединет-эль-Файюма и страшный путь на верблюдах через пустыню — и Хартум, и Омдурман, похожие на земное пекло — и зловещего Махди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Widzieli",
@@ -25946,8 +25946,8 @@
         },
         {
           "index": 173,
-          "translation": "— Махди не живёт? — повторил в изумлении Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdy",
@@ -26377,8 +26377,8 @@
         },
         {
           "index": 174,
-          "translation": "— Да, — отозвался доктор.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -26440,8 +26440,8 @@
         },
         {
           "index": 175,
-          "translation": "— Он околел от собственного ожирения, иначе говоря, умер от сердца, а его царствование унаследовал Абдуллахи.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -26615,8 +26615,8 @@
         },
         {
           "index": 176,
-          "translation": "Наступила долгая тишина.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nastało",
@@ -26662,8 +26662,8 @@
         },
         {
           "index": 177,
-          "translation": "— Ха! — воскликнул Стась — он и не предполагал, отправляя нас на верную смерть в Фашоду, что сама смерть прежде его настигнет…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -26869,8 +26869,8 @@
         },
         {
           "index": 178,
-          "translation": "— Но Абдуллахи ещё жестче, чем Махди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -26996,8 +26996,8 @@
         },
         {
           "index": 179,
-          "translation": "— Вот почему уже вспыхивают восстания и резня — ответил капитан — и весь этот строй, который возвёл Махди, рано или поздно должен обрушиться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -27219,8 +27219,8 @@
         },
         {
           "index": 180,
-          "translation": "— Англия, — сказал капитан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -27338,8 +27338,8 @@
         },
         {
           "index": 181,
-          "translation": "По дороге Стась рассказывал о путешествии в Фашоду, о смерти старой Динах, об отправлении из Фашоды в безлюдные края и о поисках там Смаина.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -27585,8 +27585,8 @@
         },
         {
           "index": 182,
-          "translation": "Когда он дошёл до рассказа о том, как убил льва, а затем Гебру, Хамису и двух бедуинов, капитан прервал его только двумя словами: All right!, после чего они снова пожали ему руку, и оба с Клари слушали со всё возрастающим интересом дальнейший рассказ: об укрощении Кинга, об обосновании в «Кракове», о лихорадке Нэл, о находке Линде и о воздушных змеях, которых дети запускали с гор Карамоджо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdy",
@@ -28192,8 +28192,8 @@
         },
         {
           "index": 183,
-          "translation": "Доктор, который с каждым днём всё сильнее привязывался к маленькой Нель, настолько глубоко беспокоился всем, что ей грозило, что время от времени ему приходилось подкреплять себя несколькими глотками бренди, а когда Стась принялся рассказывать, как чуть было Нель не стала добычей страшного воббо, то есть абассанто, доктор подхватил девочку на руки и долго не хотел её отпустить, словно опасаясь, что какой-нибудь новый хищник не угрожал бы её жизни.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Doktor",
@@ -28847,8 +28847,8 @@
         },
         {
           "index": 184,
-          "translation": "И он, и капитан много думали о Стасе, что подтверждалось двумя депешами, которые они отправили через нарочных спустя две недели после прибытия к подножию Килиманджаро на руки помощника капитана в Момбасу с приказом передать их далее отцам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Co",
@@ -29246,8 +29246,8 @@
         },
         {
           "index": 185,
-          "translation": "«Благодаря мальчику благая весть о детях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pierwsza",
@@ -29541,8 +29541,8 @@
         },
         {
           "index": 186,
-          "translation": "Приезжайте в Момбасу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyjeżdżajcie",
@@ -29596,8 +29596,8 @@
         },
         {
           "index": 187,
-          "translation": "«Дети с нами — здоровы — мальчик герой».",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Druga",
@@ -29827,8 +29827,8 @@
         },
         {
           "index": 188,
-          "translation": "На прохладных возвышенностях у подножия Килиманджаро они остановились на пятнадцать дней, так как доктор Клэри настоятельно требовал этого для здоровья Нели, а также для здоровья Стася.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -30082,8 +30082,8 @@
         },
         {
           "index": 189,
-          "translation": "Дети всем сердцем восхищались этой неземной горой, которая владеет всеми климатами мира.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -30209,8 +30209,8 @@
         },
         {
           "index": 190,
-          "translation": "Два её вершины: Кибо и Кима-Венце, были днём чаще всего скрыты в густых туманах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dwa",
@@ -30368,8 +30368,8 @@
         },
         {
           "index": 191,
-          "translation": "Но когда в ясные вечера туманы вдруг рассеивались и когда от закатных зорь вечные снега на Кима-Венже пылали розовым сиянием, в то время как весь мир уже погружался во мрак, гора казалась светозарным божественным алтарём, и руки обоих детей невольно складывались в молитве перед этим видением.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -30831,8 +30831,8 @@
         },
         {
           "index": 192,
-          "translation": "Для Стася миновали дни забот, тревог и напряженных усилий.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dla",
@@ -30918,8 +30918,8 @@
         },
         {
           "index": 193,
-          "translation": "Перед ними лежал еще месяц пути до Момбасы, и дорога пролегала через чудесный, но нездоровый лес Таветы, но как же легче было путешествовать теперь с многочисленным, хорошо снабженным всем необходимым караваном и по уже известным тропам, чем прежде блуждать в неизведанных дебрях только с Калимом и Меей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mieli",
@@ -31333,8 +31333,8 @@
         },
         {
           "index": 194,
-          "translation": "Впрочем, теперь за путешествие отвечал капитан Глен.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zresztą",
@@ -31404,8 +31404,8 @@
         },
         {
           "index": 195,
-          "translation": "Стась отдыхал и охотился.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -31451,8 +31451,8 @@
         },
         {
           "index": 196,
-          "translation": "Найдя среди караванных инструментов долота и молотки, он занимался к тому же в более прохладные часы выбиванием на большой гнейсовой скале надписи: «Jeszcze Polska…», так как желал оставить какой-нибудь след их пребывания в этих местах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Znalazłszy",
@@ -31778,8 +31778,8 @@
         },
         {
           "index": 197,
-          "translation": "Англичане, которым он перевел надпись, удивлялись, что мальчику не пришло в голову увековечить на той африканской скале своё имя.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Anglicy",
@@ -31969,8 +31969,8 @@
         },
         {
           "index": 198,
-          "translation": "Но он предпочел оставить то, что вырезал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -32056,8 +32056,8 @@
         },
         {
           "index": 199,
-          "translation": "Он не перестал опекать Нель, и та питала к нему такое безграничное доверие, что когда однажды доктор Клэри спросил её, не будет ли она бояться бурь на Красном море, девочка подняла на него свои прекрасные спокойные глаза и ответила просто: «Стась поможет».",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -32463,8 +32463,8 @@
         },
         {
           "index": 200,
-          "translation": "Капитан Глен утверждал, что более верного свидетельства, чем тот, который Стась был для малышки, и большей похвалы для него самого никто не смог бы произнести.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -32670,8 +32670,8 @@
         },
         {
           "index": 201,
-          "translation": "Хотя первое донесение, отправленное господину Тарковскому в Порт-Саид, было составлено с большой осторожностью, оно произвело настолько потрясающее впечатление, что радость чуть не убила отца Нели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakkolwiek",
@@ -32933,8 +32933,8 @@
         },
         {
           "index": 202,
-          "translation": "Но и панн Тарковский, хотя был человеком исключительно стойким, в первый момент после получения депеши упал на колени в молитве и начал просить Бога, чтобы эта весть была не просто иллюзией, болезненным видением, рождённым из горя, тоски и страдания.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -33300,8 +33300,8 @@
         },
         {
           "index": 203,
-          "translation": "Ведь они оба так много потрудились, только бы узнать, живы ли дети!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przecie",
@@ -33427,8 +33427,8 @@
         },
         {
           "index": 204,
-          "translation": "Пан Роулисон отправлял в Судан целые караваны, пан Тарковский, переодетый арабом, добрался с величайшей опасностью для жизни до самого Хартума — и всё это оказалось напрасным.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -33690,8 +33690,8 @@
         },
         {
           "index": 205,
-          "translation": "Люди, которые могли бы дать какую-нибудь весть, умирали от оспы, голода или гибли во время бесконечных резней — и дети словно в воду упали!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludzie",
@@ -33913,8 +33913,8 @@
         },
         {
           "index": 206,
-          "translation": "В конце концов оба отца потеряли всякую надежду и жили только воспоминаниями, глубоко убежденные, что жизнь больше ничего им не приготовила и что только смерть соединит их с теми драгоценными существами, которые были для них всем на земле.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -34264,8 +34264,8 @@
         },
         {
           "index": 207,
-          "translation": "Тем временем на них неожиданно снизошла радость почти сверх всяких сил.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -34351,8 +34351,8 @@
         },
         {
           "index": 208,
-          "translation": "Но её наполняли неуверенность и изумление.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -34430,8 +34430,8 @@
         },
         {
           "index": 209,
-          "translation": "Оба они никак не могли понять, каким образом весть о детях пришла с той стороны Африки, то есть из Момбасы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obaj",
@@ -34621,8 +34621,8 @@
         },
         {
           "index": 210,
-          "translation": "Пан Тарковский предполагал, что, быть может, их выкупила или украла какая-то арабская караван, которая с восточного берега проникла в глубь страны за слоновой костью и дошла вплоть до Нила.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -34884,8 +34884,8 @@
         },
         {
           "index": 211,
-          "translation": "Слова депеши они толковали себе так: мол, Стась письмом известил капитана и доктора, где находятся он с Нелью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Słowa",
@@ -35107,8 +35107,8 @@
         },
         {
           "index": 212,
-          "translation": "Однако много чего было невозможно угадать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wszelako",
@@ -35170,8 +35170,8 @@
         },
         {
           "index": 213,
-          "translation": "Между тем пан Тарковский совершенно ясно понимал, что весть не только благоприятна, но и весьма благоприятна, так как в противном случае капитан и доктор не осмелились бы пробуждать в них надежду и прежде всего не звали бы их в Момбасу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Natomiast",
@@ -35505,8 +35505,8 @@
         },
         {
           "index": 214,
-          "translation": "Приготовления к отъезду длились недолго, и на следующий день после получения телеграммы оба инженера вместе с учительницей Нэл оказались на борту огромного парохода «Пенинсулар энд Ориент Компани», который направлялся в Индию, заходя по пути в Аден, Момбасу и Занзибар.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przygotowania",
@@ -35888,8 +35888,8 @@
         },
         {
           "index": 215,
-          "translation": "В Адене их ждала вторая депеша, гласившая: «Дети с нами — здоровы — мальчик герой».",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -36063,8 +36063,8 @@
         },
         {
           "index": 216,
-          "translation": "После прочтения её мистер Роулисон приходил в восторг, почти теряя рассудок от радости, и, сжимая руки мистеру Тарковскому, повторял.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -36214,8 +36214,8 @@
         },
         {
           "index": 217,
-          "translation": "«Видишь, это он её спас! Ему я обязан её жизнью!» — а господин Тарковский, не желая проявить чрезмерную слабость, ответил только, сжав зубы: «Да! Молодец мальчик, отлично себя проявил!» — но, оставшись один в каюте, плакал от счастья.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "„",
@@ -36597,8 +36597,8 @@
         },
         {
           "index": 218,
-          "translation": "Наконец настал момент, когда дети бросились в объятия отцов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nadeszła",
@@ -36700,8 +36700,8 @@
         },
         {
           "index": 219,
-          "translation": "Пан Ролинсон прижал к груди свой вновь обретённый маленький клад, а пан Тарковский долго держал своего героического мальчика при себе.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -36875,8 +36875,8 @@
         },
         {
           "index": 220,
-          "translation": "Невзгоды их миновали, как в пустыне проходят вихри и бури.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niedola",
@@ -36978,8 +36978,8 @@
         },
         {
           "index": 221,
-          "translation": "Жизнь вновь наполнилась погодой и счастьем, а тоска и прежняя разлука только усилили радость.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Życie",
@@ -37129,8 +37129,8 @@
         },
         {
           "index": 222,
-          "translation": "Дети удивлялись только тому, что головы их папочек совершенно поседели за время разлуки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -37248,8 +37248,8 @@
         },
         {
           "index": 223,
-          "translation": "Они возвращались в Суэц на превосходном французском пароходе, принадлежавшем компании «Мессажери маритим», переполненном путешественниками с островов Реюньон и Маврикий, с Мадагаскара и Занзибара.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wracali",
@@ -37479,8 +37479,8 @@
         },
         {
           "index": 224,
-          "translation": "Когда разнеслась весть, что на палубе находятся дети, бежавшие из невольничества у дервишей, Стась стал предметом всеобщего любопытства и всеобщего поклонения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdy",
@@ -37718,8 +37718,8 @@
         },
         {
           "index": 225,
-          "translation": "Но счастливая семья предпочитала закрываться в большой каюте, которую уступил им капитан, и проводить там более прохладные часы в рассказах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -37909,8 +37909,8 @@
         },
         {
           "index": 226,
-          "translation": "В них участвовала и Нель, щебеча как птичка, и одновременно к великому удовольствию всех, начиная каждое предложение с \"и\".",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Brała",
@@ -38108,8 +38108,8 @@
         },
         {
           "index": 227,
-          "translation": "Усевшись на колени отца и поднимая к нему свои прелестные глазки, говорила она так: «Ах, папенька!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zasiadłszy",
@@ -38283,8 +38283,8 @@
         },
         {
           "index": 228,
-          "translation": "И нас схватили, и везли на верблюдах — и Гебр меня ударил — и Стась меня защищал — и мы приехали в Хартум — и там люди умирали с голоду — и Стась работал, чтобы достать мне финики — и мы были у Махди — и Стась не хотел менять веру — и Махди отправил нас в Фашоду — и потом Стась убил льва и всех — и мы жили в большом дереве, которое называется «Краков» — и Кинг был с нами — и у меня была лихорадка — и Стась меня вылечил — и убил вобо — и победил самбуру — и он всегда был ко мне добр, папочка…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -39210,8 +39210,8 @@
         },
         {
           "index": 229,
-          "translation": "Так же она рассказывала о Калиме, о Мэй, о Кинге, о Сабе, о горе Линдего, о воздушных змеях и о последнем путешествии до встречи с караваном капитана и доктора.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tak",
@@ -39481,8 +39481,8 @@
         },
         {
           "index": 230,
-          "translation": "Пан Ролинсон, слушая это щебетание, с трудом сдерживал слёзы — и лишь время от времени прижимал к груди свою девочку, а пан Тарковский не мог совладать с гордостью и счастьем, ибо даже из этих детских рассказов было видно, что если бы не отвага и энергия мальчика, малышка погибла бы не один раз, но тысячи раз, без спасения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -39992,8 +39992,8 @@
         },
         {
           "index": 231,
-          "translation": "Стась отдавал себе отчет обо всем более подробно и тщательно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -40071,8 +40071,8 @@
         },
         {
           "index": 232,
-          "translation": "— Слушай, Стась!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stało",
@@ -40574,8 +40574,8 @@
         },
         {
           "index": 233,
-          "translation": "Смертью никому не дозволено распоряжаться, но если кто-нибудь угрожает твоей отчизне, жизни твоей матери, сестры или жизни женщины, которую тебе доверили в опеку, то стреляй ему в голову, не спрашивая и не делай себе никаких упреков.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Śmiercią",
@@ -40957,8 +40957,8 @@
         },
         {
           "index": 234,
-          "translation": "Мистер Роулисон вскоре после возвращения в Порт-Саид увез Нел в Англию, где они окончательно обосновались.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -41116,8 +41116,8 @@
         },
         {
           "index": 235,
-          "translation": "Отец отдал Стася в школу в Александрии, потому что там меньше знали о его поступках и приключениях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stasia",
@@ -41267,8 +41267,8 @@
         },
         {
           "index": 236,
-          "translation": "Дети писали друг другу почти каждый день, но так сложилось, что не видели друг друга десять лет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -41426,8 +41426,8 @@
         },
         {
           "index": 237,
-          "translation": "Мальчик, окончив школы в Египте, поступил в политехнику в Цюрихе, а после получения диплома работал при строительстве туннелей в Швейцарии.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chłopiec",
@@ -41625,8 +41625,8 @@
         },
         {
           "index": 238,
-          "translation": "И лишь десять лет спустя, после того как пан Тарковский подал в отставку, оба приятеля навестили друга в Англии.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -41792,8 +41792,8 @@
         },
         {
           "index": 239,
-          "translation": "Пан Роулисон пригласил их в свой дом близ Хэмптон-Корта на всё лето.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -41935,8 +41935,8 @@
         },
         {
           "index": 240,
-          "translation": "Нель исполнилось восемнадцать лет, и она расцвела в прелестную, как цветок, девушку, а Стась убедился ценой собственного спокойствия, что мужчина, которому исполнилось двадцать четыре года, может всё ещё думать о женщинах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nel",
@@ -42230,8 +42230,8 @@
         },
         {
           "index": 241,
-          "translation": "Он так неустанно думал о хорошенькой Нелли, что в конце концов решил убежать, куда глаза глядят.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Myślał",
@@ -42397,8 +42397,8 @@
         },
         {
           "index": 242,
-          "translation": "— Стасик, ответь мне сам: есть ли на свете человек, которому я мог бы отдать это своё сокровище и свою любовь с большей уверенностью?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -42812,8 +42812,8 @@
         },
         {
           "index": 243,
-          "translation": "Молодые супруги Тарковские остались в Англии вплоть до смерти мистера Роулисона, а спустя год отправились в долгое путешествие.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Młodzi",
@@ -42987,8 +42987,8 @@
         },
         {
           "index": 244,
-          "translation": "Поскольку они обещали друг другу посетить те места, где провели самые юные годы и где когда-то бродили детьми, они прежде всего отправились в Египет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -43218,8 +43218,8 @@
         },
         {
           "index": 245,
-          "translation": "Государство Махди и Абдуллахи давно уже рухнуло, и после его падения, как говорил капитан Глен, пришла Англия.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Państwo",
@@ -43409,8 +43409,8 @@
         },
         {
           "index": 246,
-          "translation": "От Каира до Хартума была построена железная дорога.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -43472,8 +43472,8 @@
         },
         {
           "index": 247,
-          "translation": "Очищены были суда, то есть разливы Нила, так что молодая чета смогла добраться удобным пароходом не только до Фашоды, но даже до великого озера Виктория-Ниаза.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oczyszczono",
@@ -43711,8 +43711,8 @@
         },
         {
           "index": 248,
-          "translation": "Из города Флоренции, расположенного на берегу того же озера, они отправились по железной дороге в Момбасу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -43846,8 +43846,8 @@
         },
         {
           "index": 249,
-          "translation": "Капитан Глен и доктор Клери уже переселились в Натал, но Кинг жил в Момбасе под заботливой опекой местных английских властей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapitan",
@@ -44045,8 +44045,8 @@
         },
         {
           "index": 250,
-          "translation": "Великан сразу узнал своих былых господ и особенно радостно приветствовал Нела таким трубным рыком, что близлежащие мангровые деревья раскачивались, словно от ветра.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Olbrzym",
@@ -44252,8 +44252,8 @@
         },
         {
           "index": 251,
-          "translation": "Он также познакомился со старым Сабой, который прожил почти вдвое дольше обычного собачьего века и, хотя уже немного ослепнул, повсюду сопровождал Стася и Нелю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Poznał",
@@ -44459,8 +44459,8 @@
         },
         {
           "index": 252,
-          "translation": "Стась узнал на месте, что Кали пользуется хорошим здоровьем, что он владеет под английским протекторатом всей страной к югу от озера Рудольфа и что он пригласил миссионеров, которые распространяют христианство среди диких местных племён.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -44794,8 +44794,8 @@
         },
         {
           "index": 253,
-          "translation": "После этого последнего путешествия молодые супруги Таркавские вернулись в Европу и обосновались вместе с престарелым отцом Стася на постоянное место жительства в Польше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -44985,8 +44985,8 @@
         },
         {
           "index": 254,
-          "translation": "Эта книга, как и тысячи других, доступна на сайте wolnelektury.pl.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "-",
@@ -45160,8 +45160,8 @@
         },
         {
           "index": 255,
-          "translation": "Версия произведения с содержательным и критическим анализом (примечания и мотивы) доступна на сайте http://wolnelektury.pl/katalog/lektura/w-pustyni-i-w-puszczy.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wersja",
@@ -45319,8 +45319,8 @@
         },
         {
           "index": 256,
-          "translation": "Произведение было обработано в рамках проекта «Свободные чтения» благотворительным фондом «Свободные чтения».",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Utwór",
@@ -45438,8 +45438,8 @@
         },
         {
           "index": 257,
-          "translation": "Все ресурсы Свободных Чтений ты можешь свободно использовать, публиковать и распространять при условии соблюдения требований лицензии и в соответствии с Правилами использования Свободных Чтений.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wszystkie",
@@ -45645,8 +45645,8 @@
         },
         {
           "index": 258,
-          "translation": "Это произведение находится в общественном достоянии.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ten",
@@ -45716,8 +45716,8 @@
         },
         {
           "index": 259,
-          "translation": "Все дополнительные материалы (сноски, литературные мотивы) распространяются на условиях Лицензии свободного искусства 1.3: https://artlibre.org/licence/lal/pl/",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wszystkie",
@@ -45891,8 +45891,8 @@
         },
         {
           "index": 260,
-          "translation": "Фонд «Свободное чтение» оставляет за собой права на критическое издание согласно статье 99(2) Закона об авторском праве и смежных правах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Fundacja",
@@ -46106,8 +46106,8 @@
         },
         {
           "index": 261,
-          "translation": "При использовании материалов с портала Wolne Lektury помните о положениях лицензии и принципах, которые мы описали в Правилах использования Wolne Lektury: https://wolnelektury.pl/info/zasady-wykorzystania/\nОзнакомьтесь с ними перед тем, как делиться нашими книгами с другими.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wykorzystując",
@@ -46401,8 +46401,8 @@
         },
         {
           "index": 262,
-          "translation": "Публикация реализована в рамках проекта Свободные лекции (http://wolnelektury.pl).",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tekst",
@@ -46720,8 +46720,8 @@
         },
         {
           "index": 263,
-          "translation": "Цифровое воспроизведение, выполненное Национальной библиотекой, на основе экземпляра из коллекции БН.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Reprodukcja",
@@ -46839,8 +46839,8 @@
         },
         {
           "index": 264,
-          "translation": "Редакционная подготовка и комментарии:",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Opracowanie",
@@ -46886,8 +46886,8 @@
         },
         {
           "index": 265,
-          "translation": "Изабела Эрдман, Томаш (1919-1989) Йоделька-Бурзецкий, Александра Секула, Ольга Сутковская.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Izabela",

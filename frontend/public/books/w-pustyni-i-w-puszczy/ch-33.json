@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Стась отправился к Линде только на следующий день в полдень, ибо ему нужно было выспаться после ночи, проведённой без сна.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -150,8 +150,8 @@
         },
         {
           "index": 1,
-          "translation": "По дороге, предполагая, что больной может потребовать свежего мяса, он убил двух куропаток, которые действительно были приняты с благодарностью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -357,8 +357,8 @@
         },
         {
           "index": 2,
-          "translation": "Линде был сильно ослаблен, но совершенно в сознании.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Linde",
@@ -436,8 +436,8 @@
         },
         {
           "index": 3,
-          "translation": "Сразу после приветствия он спросил о Нел, а затем предупредил Стася, чтобы тот не считал хинин совершенно действенным средством против лихорадки и чтобы оберегал девочку от солнца, от промокания, от пребывания ночью в низких и сырых местах и, наконец, от плохой воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zaraz",
@@ -819,8 +819,8 @@
         },
         {
           "index": 4,
-          "translation": "Затем Стась по его просьбе рассказал ему собственную историю и Нели с самого начала до прибытия в Хартум и визита к Махди, а потом от Фашоды до освобождения из рук Гебра и дальнейших странствий.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Następnie",
@@ -1122,8 +1122,8 @@
         },
         {
           "index": 5,
-          "translation": "— Если в вашей стране много таких мальчишек, как ты, то им нелегко будет с вами совладать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Szwajcar",
@@ -1633,8 +1633,8 @@
         },
         {
           "index": 6,
-          "translation": "— Лучшее доказательство истинности твоих слов в том, что ты здесь и стоишь передо мной.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -1856,8 +1856,8 @@
         },
         {
           "index": 7,
-          "translation": "И знаешь что, скажу я тебе: положение ваше ужасно, дорога куда бы то ни было одинаково ужасна, но кто знает, может быть, парень вроде тебя вытащит и себя, и того ребёнка из этой пучины…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -2191,8 +2191,8 @@
         },
         {
           "index": 8,
-          "translation": "— Лишь бы только Нель была здорова, я сделаю всё, что в моих силах, — воскликнул Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2342,8 +2342,8 @@
         },
         {
           "index": 9,
-          "translation": "— Но щади и себя, ибо задача, которая перед тобой стоит, не под силу даже взрослому человеку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2509,8 +2509,8 @@
         },
         {
           "index": 10,
-          "translation": "— Нет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czy",
@@ -2652,8 +2652,8 @@
         },
         {
           "index": 11,
-          "translation": "Помню, что после выхода из Фашоды мы прошли мимо большого поселения, именуемого Денг, около какой-то речки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pamiętam",
@@ -2811,8 +2811,8 @@
         },
         {
           "index": 12,
-          "translation": "— Соббат, — перебил Линде.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2874,8 +2874,8 @@
         },
         {
           "index": 13,
-          "translation": "— В Денге было много дервишей и негров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2953,8 +2953,8 @@
         },
         {
           "index": 14,
-          "translation": "— Знаю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -3208,8 +3208,8 @@
         },
         {
           "index": 15,
-          "translation": "Затем вы спустились дальше по этому ущелью вплоть до реки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Następnie",
@@ -3303,8 +3303,8 @@
         },
         {
           "index": 16,
-          "translation": "Слушай меня: выясняется, что после перехода через Соббат вместе с суданцами вы повернули на юго-восток, но больше на юг.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Otóż",
@@ -3494,8 +3494,8 @@
         },
         {
           "index": 17,
-          "translation": "Вы находитесь сейчас в местности, неизвестной путешественникам и географам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jesteście",
@@ -3581,8 +3581,8 @@
         },
         {
           "index": 18,
-          "translation": "Эта река, над которой мы находимся, устремляется на северо-запад и впадает, по-видимому, в Нил.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ta",
@@ -3732,8 +3732,8 @@
         },
         {
           "index": 19,
-          "translation": "Говорю вероятно, потому что сам хорошо не знаю и убедиться в том уже не смогу, хотя я и свернул от гор Караму́джо, чтобы исследовать её истоки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mówię",
@@ -3955,8 +3955,8 @@
         },
         {
           "index": 20,
-          "translation": "От пленённых дервишей я услышал после сражения, что его зовут Огелогуэн, но и сами они не были в этом уверены, так как в эти края обычно забредают только охотники за рабами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Od",
@@ -4202,8 +4202,8 @@
         },
         {
           "index": 21,
-          "translation": "Шиллюк занимают малонаселённые области, но сейчас страна опустела: часть населения вымерла от оспы, часть была истреблена махдистами, а часть бежала в горы Карамоджо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zajmuje",
@@ -4489,8 +4489,8 @@
         },
         {
           "index": 22,
-          "translation": "В Африке нередко случается, что страна, плотно заселённая сегодня, завтра становится дикой пустошью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -4640,8 +4640,8 @@
         },
         {
           "index": 23,
-          "translation": "По моим расчётам вы находитесь примерно в трёхстах километрах от Ладо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wedle",
@@ -4743,8 +4743,8 @@
         },
         {
           "index": 24,
-          "translation": "— А в Абиссинию? — спросил Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Moglibyście",
@@ -5030,8 +5030,8 @@
         },
         {
           "index": 25,
-          "translation": "— Примерно столько же, триста километров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5085,8 +5085,8 @@
         },
         {
           "index": 26,
-          "translation": "Следует, однако, помнить, что Махди воюет со всем миром, а значит и с Абиссинией.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pamiętać",
@@ -5228,8 +5228,8 @@
         },
         {
           "index": 27,
-          "translation": "Я также знаю от пленников, что на западной и южной границе слоняются большие и малые орды дервишей, поэтому вы легко могли бы попасть к ним в руки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wiem",
@@ -5459,8 +5459,8 @@
         },
         {
           "index": 28,
-          "translation": "Абиссиния, правда, христианское государство, но южные дикие племена либо язычники, либо исповедуют ислам — и поэтому втайне благоволят Махди…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Abisynia",
@@ -5690,8 +5690,8 @@
         },
         {
           "index": 29,
-          "translation": "Нет, туда вам не пройти.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -5753,8 +5753,8 @@
         },
         {
           "index": 30,
-          "translation": "— Итак, что мне делать с Нелем и куда мне с ним идти? — спросил Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5896,8 +5896,8 @@
         },
         {
           "index": 31,
-          "translation": "— Я говорил, что положение серьёзное, — сказал Линде.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5999,8 +5999,8 @@
         },
         {
           "index": 32,
-          "translation": "Сказав это, он обхватил голову обеими руками и долго лежал в молчании.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -6126,8 +6126,8 @@
         },
         {
           "index": 33,
-          "translation": "— До океана, — озвучил он наконец, — будет отсюда более девятисот километров через горы, через дикие народы, а то и через пустыню, ибо там якобы есть целые местности без воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6429,8 +6429,8 @@
         },
         {
           "index": 34,
-          "translation": "Но страна номинально принадлежит Англии.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -6492,8 +6492,8 @@
         },
         {
           "index": 35,
-          "translation": "Можно наткнуться на перевозки слоновой кости в Кисмайо, в Ламу и в Момбасу — быть может, на миссионерские экспедиции…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Można",
@@ -6659,8 +6659,8 @@
         },
         {
           "index": 36,
-          "translation": "Поняв, что из-за дервишей я не смогу исследовать течение этой реки, так как она впадает в Нил, я тоже решил идти на восток, к океану…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zrozumiawszy",
@@ -6906,8 +6906,8 @@
         },
         {
           "index": 37,
-          "translation": "— Тогда вернёмся вместе! — воскликнул Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6993,8 +6993,8 @@
         },
         {
           "index": 38,
-          "translation": "— Я больше не вернусь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7048,8 +7048,8 @@
         },
         {
           "index": 39,
-          "translation": "Он так мне разорвал мышцы и жилы, что должно начаться заражение крови.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ndiri",
@@ -7167,8 +7167,8 @@
         },
         {
           "index": 40,
-          "translation": "Только хирург мог бы спасти меня, отняв мне ногу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tylko",
@@ -7262,8 +7262,8 @@
         },
         {
           "index": 41,
-          "translation": "Теперь всё уже затвердело и отупело, но в первый день я грыз руки от боли…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Teraz",
@@ -7397,8 +7397,8 @@
         },
         {
           "index": 42,
-          "translation": "— Вы непременно выздоровеете.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7460,8 +7460,8 @@
         },
         {
           "index": 43,
-          "translation": "— Нет, мой доблестный мальчик, я наверняка умру, а ты похоронишь меня как следует камнями, чтобы гиены не могли меня раскопать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7675,8 +7675,8 @@
         },
         {
           "index": 44,
-          "translation": "Мертвецу, может быть, и всё равно, но при жизни неприятно об этом думать…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Umarłemu",
@@ -7794,8 +7794,8 @@
         },
         {
           "index": 45,
-          "translation": "Трудно умирать так далеко от своих...",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ciężko",
@@ -7865,8 +7865,8 @@
         },
         {
           "index": 46,
-          "translation": "— Но я уже справился с этой мыслью, так давайте говорить о вас, а не обо мне.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tu",
@@ -8136,8 +8136,8 @@
         },
         {
           "index": 47,
-          "translation": "Вот тебе один совет: вам остаётся лишь дорога на восток, к океану.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dam",
@@ -8263,8 +8263,8 @@
         },
         {
           "index": 48,
-          "translation": "Но прежде отдохните с дороги и наберитесь сил.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -8342,8 +8342,8 @@
         },
         {
           "index": 49,
-          "translation": "Иначе твоя маленькая спутница замёрзнет за несколько недель.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Inaczej",
@@ -8437,8 +8437,8 @@
         },
         {
           "index": 50,
-          "translation": "Отложите путешествие до конца сезона дождей и даже ещё дольше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Odłóżcie",
@@ -8532,8 +8532,8 @@
         },
         {
           "index": 51,
-          "translation": "Первые летние месяцы, когда дождь перестаёт идти, а вода ещё покрывает грязь, являются самыми здоровыми.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pierwsze",
@@ -8683,8 +8683,8 @@
         },
         {
           "index": 52,
-          "translation": "Здесь, где мы находимся, уже возвышенность, лежащая на семьсот метров над уровнем моря.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tu",
@@ -8810,8 +8810,8 @@
         },
         {
           "index": 53,
-          "translation": "На высоте тысячи трёхсот метров лихорадки уже не существуют, а занесённые с более низких мест протекают намного слабее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -8977,8 +8977,8 @@
         },
         {
           "index": 54,
-          "translation": "Возьми маленькую англичанку и идите в горы…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zabierz",
@@ -9056,8 +9056,8 @@
         },
         {
           "index": 55,
-          "translation": "Разговор явно утомлял его очень, поэтому он снова умолк и некоторое время нетерпеливо отмахивался от больших синих мух, таких же самых, которых Стась видел на золе Фашоды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mówienie",
@@ -9327,8 +9327,8 @@
         },
         {
           "index": 56,
-          "translation": "— Слушай внимательно, что я тебе скажу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -9454,8 +9454,8 @@
         },
         {
           "index": 57,
-          "translation": "В день пути к югу от сих мест возвышается одиночная гора, не превышающая восьмисот метров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "O",
@@ -9597,8 +9597,8 @@
         },
         {
           "index": 58,
-          "translation": "Выглядит как развёрнутый кверху дном рондель.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wygląda",
@@ -9676,8 +9676,8 @@
         },
         {
           "index": 59,
-          "translation": "Бока котловины совершенно обрывистые, и единственный путь к ней — скалистый хребет настолько узкий, что местами едва ли два коня смогут пройти рядом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Boki",
@@ -9899,8 +9899,8 @@
         },
         {
           "index": 60,
-          "translation": "На её плоском вершинном плато, протянувшемся на километр или больше, была негритянская деревня, но махдисты истребили население и увели его.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -10082,8 +10082,8 @@
         },
         {
           "index": 61,
-          "translation": "Быть может, это сделал тот Смаин, которого я разбил, но у которого я не отобрал невольников, так как он отправил их раньше под хорошей охраной к Нилу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Być",
@@ -10321,8 +10321,8 @@
         },
         {
           "index": 62,
-          "translation": "Усядьтесь на этом холме.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Osiądźcie",
@@ -10368,8 +10368,8 @@
         },
         {
           "index": 63,
-          "translation": "Там есть источник превосходной воды, несколько плантаций маниока и множество банановых деревьев.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jest",
@@ -10479,8 +10479,8 @@
         },
         {
           "index": 64,
-          "translation": "В хижинах вы найдёте много человеческих костей, но не бойтесь заразы от трупов, потому что после дервишей там были муравьи, которые и нас оттуда вытеснили.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -10710,8 +10710,8 @@
         },
         {
           "index": 65,
-          "translation": "Да и души живой нет!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zresztą",
@@ -10757,8 +10757,8 @@
         },
         {
           "index": 66,
-          "translation": "Останьтесь в этой деревне месяц или два.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zostańcie",
@@ -10828,8 +10828,8 @@
         },
         {
           "index": 67,
-          "translation": "На такой высоте лихорадки нет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -10891,8 +10891,8 @@
         },
         {
           "index": 68,
-          "translation": "Ночи бывают холодными.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Noce",
@@ -10930,8 +10930,8 @@
         },
         {
           "index": 69,
-          "translation": "Там твоя малышка восстановит здоровье, а ты обретёшь новые силы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tam",
@@ -11041,8 +11041,8 @@
         },
         {
           "index": 70,
-          "translation": "— А потом что делать и куда идти?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11128,8 +11128,8 @@
         },
         {
           "index": 71,
-          "translation": "— Потом будет, что Бог даст.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11199,8 +11199,8 @@
         },
         {
           "index": 72,
-          "translation": "Вы постараетесь либо пробиться в Абиссинию в местностях, лежащих дальше, чем доходят дервиши, либо пойдете на восток.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Postaracie",
@@ -11366,8 +11366,8 @@
         },
         {
           "index": 73,
-          "translation": "— Вахима?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Słyszałem",
@@ -11629,8 +11629,8 @@
         },
         {
           "index": 74,
-          "translation": "Кали происходит из племени Ва-хима.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -11708,8 +11708,8 @@
         },
         {
           "index": 75,
-          "translation": "И Стась начал рассказывать Линде, каким образом он унаследовал Кали после смерти Гебры, и что Кали говорил ему, будто он сын вождя всех ва-химов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -11963,8 +11963,8 @@
         },
         {
           "index": 76,
-          "translation": "Однако Линде эта весть показалась менее значительной, чем ожидал Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -12074,8 +12074,8 @@
         },
         {
           "index": 77,
-          "translation": "— Тем лучше, — сказал он, — так как это может быть вам полезным.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12177,8 +12177,8 @@
         },
         {
           "index": 78,
-          "translation": "Среди чёрных попадаются душевные люди, хотя вообще на их благодарность рассчитывать не приходится: это дети, забывающие о том, что было вчера.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Bywają",
@@ -12424,8 +12424,8 @@
         },
         {
           "index": 79,
-          "translation": "— Кали не забудет, что я спас его из рук Гебры, я в этом уверен.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12567,8 +12567,8 @@
         },
         {
           "index": 80,
-          "translation": "— Может быть, — сказал Линде и, указав на Насибу, добавил: — Это тоже хорошее дитя.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12710,8 +12710,8 @@
         },
         {
           "index": 81,
-          "translation": "Возьми его к себе после моей смерти.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przygarnij",
@@ -12773,8 +12773,8 @@
         },
         {
           "index": 82,
-          "translation": "— Не говорите и не думайте о смерти.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12876,8 +12876,8 @@
         },
         {
           "index": 83,
-          "translation": "— Мой дорогой, — ответил швейцарец, — я её желаю себе, лишь бы она пришла без великих мук.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -13027,8 +13027,8 @@
         },
         {
           "index": 84,
-          "translation": "Подумай, что я сейчас совершенно беззащитен и если бы какой-нибудь из этих махдистов, которых я разбил, случайно забрёл в этот овраг, он смог бы зарезать меня в одиночку, как барана.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pomyśl",
@@ -13298,8 +13298,8 @@
         },
         {
           "index": 85,
-          "translation": "— Те уже не проснутся, или вернее сказать: каждый из них пробуждается ненадолго перед смертью и в помешательстве бежит в джунгли, откуда уже не возвращается…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tu",
@@ -13633,8 +13633,8 @@
         },
         {
           "index": 86,
-          "translation": "Из двухсот людей осталось мне шестьдесят.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -13696,8 +13696,8 @@
         },
         {
           "index": 87,
-          "translation": "Многие бежали, многие умерли от оспы, а некоторые заснули в других паровых котельнях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wielu",
@@ -13831,8 +13831,8 @@
         },
         {
           "index": 88,
-          "translation": "Стась с жалостью и ужасом начал разглядывать спящих.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -13918,8 +13918,8 @@
         },
         {
           "index": 89,
-          "translation": "Их тела были серого цвета, что у негров означало бледность.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ciała",
@@ -14021,8 +14021,8 @@
         },
         {
           "index": 90,
-          "translation": "Одни спали с закрытыми глазами, другие с полуприкрытыми, но и те спали крепко, так как их зрачки не реагировали на свет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jedni",
@@ -14220,8 +14220,8 @@
         },
         {
           "index": 91,
-          "translation": "Некоторым опухли колени.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niektórym",
@@ -14259,8 +14259,8 @@
         },
         {
           "index": 92,
-          "translation": "Все они были ужасающе худы, так что сквозь кожу можно было пересчитать им рёбра.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wszyscy",
@@ -14386,8 +14386,8 @@
         },
         {
           "index": 93,
-          "translation": "Их руки и ноги непрерывно дрожали очень быстро.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ręce",
@@ -14465,8 +14465,8 @@
         },
         {
           "index": 94,
-          "translation": "Огромные синие мухи облепили им густо глаза и губы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Owe",
@@ -14568,8 +14568,8 @@
         },
         {
           "index": 95,
-          "translation": "— Нет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14711,8 +14711,8 @@
         },
         {
           "index": 96,
-          "translation": "Над озером Виктория эта болезнь опустошает целые деревни.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nad",
@@ -14798,8 +14798,8 @@
         },
         {
           "index": 97,
-          "translation": "Иногда он сердится сильнее, иногда слабее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czasem",
@@ -14869,8 +14869,8 @@
         },
         {
           "index": 98,
-          "translation": "Чаще всего болеют ею люди из деревень, расположенных в прибрежных зарослях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Najczęściej",
@@ -14980,8 +14980,8 @@
         },
         {
           "index": 99,
-          "translation": "Солнце уже перешло на западную сторону неба, но ещё до вечера Линде рассказал Стасю свою историю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Słońce",
@@ -15131,8 +15131,8 @@
         },
         {
           "index": 100,
-          "translation": "Он был сыном цюрихского купца.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -15194,8 +15194,8 @@
         },
         {
           "index": 101,
-          "translation": "Его семья происходила из Карлсруэ, но в 1848 году переехала в Швейцарию.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rodzina",
@@ -15321,8 +15321,8 @@
         },
         {
           "index": 102,
-          "translation": "Отец его нажил большое состояние на торговле шёлком.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ojciec",
@@ -15400,8 +15400,8 @@
         },
         {
           "index": 103,
-          "translation": "Он готовил сына к карьере инженера, но молодого Генриха уже с ранних лет влекли путешествия.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kształcił",
@@ -15527,8 +15527,8 @@
         },
         {
           "index": 104,
-          "translation": "После окончания политехники, унаследовав всю отцовскую собственность, он предпринял первое путешествие в Египет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -15654,8 +15654,8 @@
         },
         {
           "index": 105,
-          "translation": "Это было ещё до времён Махди, так что он добрался вплоть до Хартума и охотился с данголами в Судане.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Były",
@@ -15813,8 +15813,8 @@
         },
         {
           "index": 106,
-          "translation": "Потом он посвятил себя изучению географии Африки и стал настолько искусным её знатоком, что множество географических обществ включили его в число своих членов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Potem",
@@ -16012,8 +16012,8 @@
         },
         {
           "index": 107,
-          "translation": "Эту последнюю поездку, которая должна была закончиться для него столь трагически, он начал с Занзибара.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tę",
@@ -16155,8 +16155,8 @@
         },
         {
           "index": 108,
-          "translation": "Он добрался до великих озер и намеревался пробиться вдоль неизведанных до того гор Карамоджо в Абиссинию, а оттуда к берегам океана.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dotarł",
@@ -16346,8 +16346,8 @@
         },
         {
           "index": 109,
-          "translation": "Но занзибарцы не хотели идти дальше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -16409,8 +16409,8 @@
         },
         {
           "index": 110,
-          "translation": "К счастью или к несчастью, в то время между королём Уганды и Унионо шла война.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -16528,8 +16528,8 @@
         },
         {
           "index": 111,
-          "translation": "Линде оказал король Уганды значительные услуги, и в благодарность подарил ему более двухсот рабов-носильщиков.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Linde",
@@ -16679,8 +16679,8 @@
         },
         {
           "index": 112,
-          "translation": "Это полностью облегчило путешествие и обозревание гор Карамоджо, но затем оспа проявилась среди рядов, а за ней пришла страшная сонная болезнь — и окончательная гибель каравана.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ułatwiło",
@@ -16934,8 +16934,8 @@
         },
         {
           "index": 113,
-          "translation": "Линде располагал значительными запасами консервов всевозможных видов, но опасаясь цинги, ежедневно охотился, чтобы добыть свежее мясо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Linde",
@@ -17093,8 +17093,8 @@
         },
         {
           "index": 114,
-          "translation": "Он был отличным стрелком, но не слишком осторожным охотником.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -17188,8 +17188,8 @@
         },
         {
           "index": 115,
-          "translation": "И случилось так, что несколько дней назад, когда он неосторожно приблизился к повалившемуся кабану, зверь вскочил и ужасно изодрал ему ногу, а затем растоптал ему спину.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -17443,8 +17443,8 @@
         },
         {
           "index": 116,
-          "translation": "Это произошло совсем рядом с лагерем и на глазах у Насиба, который, разорвав собственную рубашку и сделав из неё повязку, сумел остановить кровотечение и отвести раненого в палатку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zdarzyło",
@@ -17690,8 +17690,8 @@
         },
         {
           "index": 117,
-          "translation": "В ноге вследствие внутреннего кровоизлияния образовались тромбы, и больному грозила гангрена.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -17825,8 +17825,8 @@
         },
         {
           "index": 118,
-          "translation": "Стась непременно хотел ухаживать за ним и объявил, что либо будет приезжать каждый день, либо, чтобы не оставлять Неля только под присмотром двух чернокожих, перевезёт его между лошадьми на растянутых войлоках на мыс, в «Краков».",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -18160,8 +18160,8 @@
         },
         {
           "index": 119,
-          "translation": "Линде согласился помочь с перевязками, но не согласился на транспортировку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Linde",
@@ -18295,8 +18295,8 @@
         },
         {
           "index": 120,
-          "translation": "— Я знаю, — говорил он, указывая на своих негров, — что эти люди должны умереть, но пока они живы, я не могу обречь их на то, чтобы их живьем разорвали гиены, которых по ночам от них защищает только огонь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -18622,8 +18622,8 @@
         },
         {
           "index": 121,
-          "translation": "И начал лихорадочно повторять:",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -18677,8 +18677,8 @@
         },
         {
           "index": 122,
-          "translation": "— Не могу, не могу, не могу!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -18772,8 +18772,8 @@
         },
         {
           "index": 123,
-          "translation": "— Приходи завтра с утра…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -18931,8 +18931,8 @@
         },
         {
           "index": 124,
-          "translation": "У меня к тебе просьба, и если ты её выполнишь, то, быть может, Бог выведет вас из этих африканских пропастей, а мне дарует лёгкую смерть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ja",
@@ -19146,8 +19146,8 @@
         },
         {
           "index": 125,
-          "translation": "Я хотел отложить эту просьбу до завтра, но поскольку завтра я уже могу быть в отключке, то высказываю её сегодня: возьми воду в какой-нибудь сосуд, остановись перед каждым из этих спящих бедняков, брызни на него водой и скажи эти слова: «Я тебя крещу — во имя Отца, и Сына, и Святого Духа!…»",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chciałem",
@@ -19649,8 +19649,8 @@
         },
         {
           "index": 126,
-          "translation": "Волнение перехватило ему горло, и он замолчал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tu",
@@ -19728,8 +19728,8 @@
         },
         {
           "index": 127,
-          "translation": "— Упрекаю себя, — сказал он через некоторое время, — что я не простился так со всеми, кто умирал от оспы, и с теми, кто уснул раньше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -19967,8 +19967,8 @@
         },
         {
           "index": 128,
-          "translation": "Но теперь смерть стоит надо мной… и я хотел бы…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -20054,8 +20054,8 @@
         },
         {
           "index": 129,
-          "translation": "хотя бы отправиться с остатком моего каравана в эту последнюю великую дорогу…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "choć",
@@ -20181,8 +20181,8 @@
         },
         {
           "index": 130,
-          "translation": "Сказав это, он указал рукой на озаренное светом небо — и две слезы медленно покатились по его щекам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -20340,8 +20340,8 @@
         },
         {
           "index": 131,
-          "translation": "Стась рыдал как бобр.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",

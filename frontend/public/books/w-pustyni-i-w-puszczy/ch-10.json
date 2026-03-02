@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Все вскочили с ужасным криком, набросились на Стася, в один миг вырвали у него ружьё и патроны, повалили его на землю, связали ему руки и ноги верёвками, при этом избивая и пиная его, пока наконец Идрис не отогнал их, опасаясь за жизнь мальчика.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wszyscy",
@@ -422,8 +422,8 @@
         },
         {
           "index": 1,
-          "translation": "Затем они начали разговаривать отрывистыми фразами, как люди, над которыми нависла страшная беда и которых спасла только случайность.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Następnie",
@@ -597,8 +597,8 @@
         },
         {
           "index": 2,
-          "translation": "— Это воплощённый сатана! — воскликнул Идрис, побледнев от страха и волнения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -740,8 +740,8 @@
         },
         {
           "index": 3,
-          "translation": "— Ах, если бы не эта собака.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -931,8 +931,8 @@
         },
         {
           "index": 4,
-          "translation": "— Бог его послал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -986,8 +986,8 @@
         },
         {
           "index": 5,
-          "translation": "— Никто его больше не тронет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1145,8 +1145,8 @@
         },
         {
           "index": 6,
-          "translation": "— У него всегда будут кости и вода.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1224,8 +1224,8 @@
         },
         {
           "index": 7,
-          "translation": "— Аллах! Аллах! — повторял, не в силах успокоиться, Идрис — смерть нависала над нами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1375,8 +1375,8 @@
         },
         {
           "index": 8,
-          "translation": "И они начали смотреть на лежащего Стася с ненавистью, но и с некоторым удивлением, что один маленький мальчик смог стать причиной их поражения и гибели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Uf",
@@ -1638,8 +1638,8 @@
         },
         {
           "index": 9,
-          "translation": "— Клянусь пророком! — воскликнул один из бедуинов. — Надо же помешать этому сыну Ибли­са покрутить нам шеи.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1845,8 +1845,8 @@
         },
         {
           "index": 10,
-          "translation": "Змею везём Махди!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Węża",
@@ -1884,8 +1884,8 @@
         },
         {
           "index": 11,
-          "translation": "Что вы теперь с ним намерены сделать?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Co",
@@ -1955,8 +1955,8 @@
         },
         {
           "index": 12,
-          "translation": "— Надо ему отрубить правый кулак! — воскликнул Гебр.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2058,8 +2058,8 @@
         },
         {
           "index": 13,
-          "translation": "Бедуины ничего не ответили, но Идрис не желал с этим смириться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Beduini",
@@ -2177,8 +2177,8 @@
         },
         {
           "index": 14,
-          "translation": "Ему пришло в голову, что если погоня их поймает, наказание за искалечение мальчика обрушится на них тем страшнее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyszło",
@@ -2352,8 +2352,8 @@
         },
         {
           "index": 15,
-          "translation": "В конце концов, кто мог поручиться, что Стась не умрёт после операции?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wreszcie",
@@ -2455,8 +2455,8 @@
         },
         {
           "index": 16,
-          "translation": "А в таком случае взамен Фатмы и её детей осталась бы только Нель.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -2590,8 +2590,8 @@
         },
         {
           "index": 17,
-          "translation": "— Нет! — сказал он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -2805,8 +2805,8 @@
         },
         {
           "index": 18,
-          "translation": "— Позором было бы для пяти воинов Махди так бояться одного христианского щенка, чтобы вообще ему отрубать кулаки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2972,8 +2972,8 @@
         },
         {
           "index": 19,
-          "translation": "Мы будем привязывать его на ночь, а за то, что он хотел сейчас сделать, получит десять ударов кнутом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Będziemy",
@@ -3155,8 +3155,8 @@
         },
         {
           "index": 20,
-          "translation": "Готов был он немедля привести приговор в исполнение, но Идрис снова отпихнул его и велел бить одному из бедуинов, прошептав ему на ухо, чтобы тот не наносил ударов слишком сильно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "gotów",
@@ -3410,8 +3410,8 @@
         },
         {
           "index": 21,
-          "translation": "Так как Хамис из-за своей былой службы у инженеров, а может быть и по какой-то иной причине, не хотел ни в что вмешиваться, второй бедуин повалил Стася на спину и казнь вот-вот должна была начаться, когда вдруг произошло нечто неожиданное, помешавшее исполнению приговора.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -3793,8 +3793,8 @@
         },
         {
           "index": 22,
-          "translation": "Вот в проёме ниши появилась Нель вместе с Сабой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oto",
@@ -3896,8 +3896,8 @@
         },
         {
           "index": 23,
-          "translation": "Поглощённая своим любимцем, который упал в пещеру",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zajęta",
@@ -3967,8 +3967,8 @@
         },
         {
           "index": 24,
-          "translation": "Он сразу бросился к её ногам, и хотя она слышала крики арабов, но поскольку в Египте и арабы, и бедуины орали при каждом удобном случае, словно собирались перебить друг друга, она не обратила на это внимания.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "rzucił",
@@ -4310,8 +4310,8 @@
         },
         {
           "index": 25,
-          "translation": "Только позвав Стася и не получив от него ответа, она вышла посмотреть, не уселся ли он уже на верблюда, и с ужасом увидела в первых лучах зари Стася, лежащего на земле, а над ним бедуина с плетью в руке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dopiero",
@@ -4645,8 +4645,8 @@
         },
         {
           "index": 26,
-          "translation": "При этом зрелище она начала кричать во весь голос и топать ножками, а когда бедуин, не обращая на это внимания, нанес первый удар, она бросилась вперед и закрыла собой мальчика.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -4900,8 +4900,8 @@
         },
         {
           "index": 27,
-          "translation": "— Саба! Саба!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "zawahał",
@@ -5131,8 +5131,8 @@
         },
         {
           "index": 28,
-          "translation": "И Саба понял, в чём дело — в один прыжок он оказался при детях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -5274,8 +5274,8 @@
         },
         {
           "index": 29,
-          "translation": "Шерсть встала дыбом у него на шее и спине, глаза вспыхнули красным, в груди и в могучем горле раздался звук, словно гром.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sierść",
@@ -5473,8 +5473,8 @@
         },
         {
           "index": 30,
-          "translation": "А затем губы морщинистой пасти медленно приподнялись — и зубы с длинными в палец белыми клыками показались вплоть до кровоточащих дёсен.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -5696,8 +5696,8 @@
         },
         {
           "index": 31,
-          "translation": "Огромный британец теперь стал поворачивать голову вправо и влево, словно желая показать суданцам и бедуинам свой страшный «наряд», сказать им: — Смотрите!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Olbrzymi",
@@ -5951,8 +5951,8 @@
         },
         {
           "index": 32,
-          "translation": "Вот чем я буду защищать детей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "oto",
@@ -6022,8 +6022,8 @@
         },
         {
           "index": 33,
-          "translation": "Они же поспешно отступили, потому что, во-первых, уже знали, что Саба спас им жизнь, а во-вторых, было совершенно ясно, что если кто-нибудь сейчас приблизится к Нел, то разъярённый мастиф тут же вонзит ему клыки в горло.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oni",
@@ -6373,8 +6373,8 @@
         },
         {
           "index": 34,
-          "translation": "Так они остались беспомощны, глядя друг на друга неуверенным взглядом и словно спрашивая один у другого, что теперь следует делать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -6548,8 +6548,8 @@
         },
         {
           "index": 35,
-          "translation": "Их колебание длилось так долго, что Нэл хватило времени позвать старую Динаю и приказать ей перерезать путы Стася.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wahanie",
@@ -6747,8 +6747,8 @@
         },
         {
           "index": 36,
-          "translation": "— Я не хотел вас убивать, только верблюдов, — сказал он сквозь стиснутые зубы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wtedy",
@@ -7002,8 +7002,8 @@
         },
         {
           "index": 37,
-          "translation": "Но и эта весть так испугала арабов, что они непременно набросились бы снова на Стася, если бы не горящий взгляд и ещё вздыбленная шерсть Сабы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -7233,8 +7233,8 @@
         },
         {
           "index": 38,
-          "translation": "Гебр хотел было броситься к нему, но глухое рычание приковало его на месте.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gebhr",
@@ -7376,8 +7376,8 @@
         },
         {
           "index": 39,
-          "translation": "— В путь! В путь!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nastała",

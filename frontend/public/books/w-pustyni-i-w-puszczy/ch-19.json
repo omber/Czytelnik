@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Посещение Махди и беседа с ним, видимо, не помогли Идрису, так как ночью он тяжело заболел, а утром уже был без сознания.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Odwiedziny",
@@ -206,8 +206,8 @@
         },
         {
           "index": 1,
-          "translation": "Хамис, Гехр и двое бедуинов были вызваны к халифу, который держал их несколько часов и восхвалял их мужество.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chamis",
@@ -381,8 +381,8 @@
         },
         {
           "index": 2,
-          "translation": "Но вернулись они в ужасном настроении и с гневом в душе, ибо ожидали они — Бог знает каких — наград, а между тем Абдуллахи дал каждому по египетскому фунту и по коню.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -652,8 +652,8 @@
         },
         {
           "index": 3,
-          "translation": "Бедуины затеяли с Гебхремом ссору, которая чуть не переросла в драку, и в конце концов объявили, что отправятся с верблюжьей почтой в Фашоду, чтобы потребовать у Смаина причитающихся им денег.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Beduini",
@@ -947,8 +947,8 @@
         },
         {
           "index": 4,
-          "translation": "К ним присоединился Хамис, надеясь, что протекция Смаина принесёт ему больше выгоды, чем пребывание в Омдурмане.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyłączył",
@@ -1138,8 +1138,8 @@
         },
         {
           "index": 5,
-          "translation": "Для детей начались неделя голода и нищеты, так как Гебр и не думал их кормить.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dla",
@@ -1273,8 +1273,8 @@
         },
         {
           "index": 6,
-          "translation": "К счастью, у Стася было два талера с портретом Марии Терезии, полученные от грека, поэтому он отправился в город купить финиковых пальм и риса.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -1472,8 +1472,8 @@
         },
         {
           "index": 7,
-          "translation": "Суданцы вовсе не возражали против этой экскурсии, зная, что из Омдурмана уже невозможно бежать и что он ни в коем случае не бросит маленькую бинт.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sudańczycy",
@@ -1687,8 +1687,8 @@
         },
         {
           "index": 8,
-          "translation": "Однако не обошлось без приключений, ибо вид мальчика в европейском костюме, покупающего на базаре продовольствие, привлёк снова толпы полудиких дервишей, которые встречали его смехом и воплями.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -1934,8 +1934,8 @@
         },
         {
           "index": 9,
-          "translation": "К счастью, многие видели, что вчера он был у Махди, и они удерживали тех, кто хотел на него напасть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -2133,8 +2133,8 @@
         },
         {
           "index": 10,
-          "translation": "Только дети кидали в него песок и камни, но он совсем на это не обращал внимания.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tylko",
@@ -2276,8 +2276,8 @@
         },
         {
           "index": 11,
-          "translation": "На рынке цены были непомерно завышены.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -2331,8 +2331,8 @@
         },
         {
           "index": 12,
-          "translation": "Печенья не смог Стась достать совсем, а большую часть риса отобрал у него \"для больного брата\" Гебр.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Daktylów",
@@ -2498,8 +2498,8 @@
         },
         {
           "index": 13,
-          "translation": "Мальчик оказывал всем силам сопротивление, отчего всё закончилось потасовкой и дракой, из которых, разумеется, более слабый вышел исцарапанный и в синяках.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chłopiec",
@@ -2729,8 +2729,8 @@
         },
         {
           "index": 14,
-          "translation": "При этом обнаружилась и жестокость Хамиса.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Okazało",
@@ -2800,8 +2800,8 @@
         },
         {
           "index": 15,
-          "translation": "Он проявлял привязанность только к Сабе и кормил его сырым мясом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Okazywał",
@@ -2903,8 +2903,8 @@
         },
         {
           "index": 16,
-          "translation": "— Иди просить милостыню.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Natomiast",
@@ -3310,8 +3310,8 @@
         },
         {
           "index": 17,
-          "translation": "И в конце концов Сташ в течение следующих нескольких дней, желая спасти Нель от голодной смерти, попрошайничал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -3501,8 +3501,8 @@
         },
         {
           "index": 18,
-          "translation": "Это было не всегда безрезультатно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -3556,8 +3556,8 @@
         },
         {
           "index": 19,
-          "translation": "Иногда какой-нибудь старый солдат или офицер египетского хедива давал ему пару пиастров или несколько сушёных инжиров и обещал помочь ему ещё завтра.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czasem",
@@ -3747,8 +3747,8 @@
         },
         {
           "index": 20,
-          "translation": "Однажды он встретил миссионера и сестру милосердия, которые, выслушав его историю, заплакали над судьбой обоих детей — и хотя сами были истощены голодом, поделились с ним всем, что у них было.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Raz",
@@ -4018,8 +4018,8 @@
         },
         {
           "index": 21,
-          "translation": "Они обещали ему также навестить их в шалашах, и на следующий день действительно пришли, надеясь, что удастся им забрать детей с собой до отправления почты.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obiecali",
@@ -4273,8 +4273,8 @@
         },
         {
           "index": 22,
-          "translation": "Но Гебр с Хамисом прогнали их бичами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -4344,8 +4344,8 @@
         },
         {
           "index": 23,
-          "translation": "На следующий день Стась встретил их снова и получил от них меру риса и два порошка хинина, которые миссионер велел ему хранить с величайшей тщательностью, предвидя, что в Фашоде их неминуемо ожидает лихорадка.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nazajutrz",
@@ -4655,8 +4655,8 @@
         },
         {
           "index": 24,
-          "translation": "— Поедете теперь, — говорил он, — вдоль разливов Белого Нила, то есть среди так называемых сааддов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4798,8 +4798,8 @@
         },
         {
           "index": 25,
-          "translation": "Река, не имея возможности свободно течь через заторы, образованные растениями и листьями, которые водный поток сносит и откладывает в более мелких местах, создаёт там обширные и заразные болота, среди которых лихорадка не щадит даже негров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rzeka",
@@ -5117,8 +5117,8 @@
         },
         {
           "index": 26,
-          "translation": "Берегитесь особенно ночлегов без огня на голой земле.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Strzeżcie",
@@ -5220,8 +5220,8 @@
         },
         {
           "index": 27,
-          "translation": "— Мы уже хотели умереть, — ответил Стась почти со стоном.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5339,8 +5339,8 @@
         },
         {
           "index": 28,
-          "translation": "— Уповай на Бога.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -5554,8 +5554,8 @@
         },
         {
           "index": 29,
-          "translation": "Ты не отрёкся от Него, поэтому милосердие Его и попечение будут над тобою.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -5681,8 +5681,8 @@
         },
         {
           "index": 30,
-          "translation": "Стась старался не только просить милостыню, но и работать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -5768,8 +5768,8 @@
         },
         {
           "index": 31,
-          "translation": "Видя однажды толпы людей, работавших на молитвенной площади, он присоединился к ним и стал носить глину на забор, которым площадь должна была быть обнесена.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Widząc",
@@ -5991,8 +5991,8 @@
         },
         {
           "index": 32,
-          "translation": "Над ним смеялись и толкали его, но под вечер старый шейх, наблюдавший за работами, дал ему двенадцать фиников.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Śmiano",
@@ -6166,8 +6166,8 @@
         },
         {
           "index": 33,
-          "translation": "Стась был чрезвычайно доволен этой оплатой, так как финики наряду с рисом были единственной здоровой пищей для Нели, а достать их в Омдурмане становилось всё труднее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -6405,8 +6405,8 @@
         },
         {
           "index": 34,
-          "translation": "Он с гордостью принес их маленькой сестренке, которой отдавал все, что только мог добыть, сам же питаясь целую неделю почти исключительно дурой, крадкой отбираемой у верблюдов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyniósł",
@@ -6628,8 +6628,8 @@
         },
         {
           "index": 35,
-          "translation": "Нэл очень обрадовалась, увидев любимые фрукты, но хотела, чтобы он поделился ими с ней.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nel",
@@ -6779,8 +6779,8 @@
         },
         {
           "index": 36,
-          "translation": "— Стась!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -6986,8 +6986,8 @@
         },
         {
           "index": 37,
-          "translation": "Съешь половину, съешь!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "zjedz",
@@ -7041,8 +7041,8 @@
         },
         {
           "index": 38,
-          "translation": "— Я уже ел, уже!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -7152,8 +7152,8 @@
         },
         {
           "index": 39,
-          "translation": "О, как я сыт!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "O",
@@ -7215,8 +7215,8 @@
         },
         {
           "index": 40,
-          "translation": "И он улыбнулся, но вскоре начал прикусывать губы, чтобы не расплакаться, так как он был просто голоден.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -7390,8 +7390,8 @@
         },
         {
           "index": 41,
-          "translation": "Он обещал себе, что завтра снова пойдет на заработки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obiecywał",
@@ -7477,8 +7477,8 @@
         },
         {
           "index": 42,
-          "translation": "Тем временем произошло иное.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -7524,8 +7524,8 @@
         },
         {
           "index": 43,
-          "translation": "Утром пришёл слуга от Абдуллахия с известием, что верблюжья почта отправляется ночью в Фашоду, и с приказом халифа, чтобы Идрис, Гебр, Хамис и два бедуина готовились вместе с детьми к пути.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rano",
@@ -7843,8 +7843,8 @@
         },
         {
           "index": 44,
-          "translation": "Gebhra был поражён и возмущён этим приказом, поэтому заявил, что не поедет, так как его брат болен и некому за ним присматривать, а если бы даже он был здоров, то оба они всё равно решили остаться в Омдурмане.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gebhra",
@@ -8178,8 +8178,8 @@
         },
         {
           "index": 45,
-          "translation": "— Махди имеет одну только волю, а Абдуллахи, его халиф и мой повелитель, никогда не меняет приказаний.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -8401,8 +8401,8 @@
         },
         {
           "index": 46,
-          "translation": "Брата твоего будет стерегчь раб, а ты отправишься в Фашоду.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Brata",
@@ -8512,8 +8512,8 @@
         },
         {
           "index": 47,
-          "translation": "— Тогда я пойду и скажу ему, что не поеду.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8615,8 +8615,8 @@
         },
         {
           "index": 48,
-          "translation": "— В калифат входят только те, кого он сам желает видеть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8726,8 +8726,8 @@
         },
         {
           "index": 49,
-          "translation": "А если ты силком втиснешься в него без дозволения, то выведут тебя — на виселицу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -8869,8 +8869,8 @@
         },
         {
           "index": 50,
-          "translation": "— Аллах велик! Тогда скажи мне ясно, что я раб.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8988,8 +8988,8 @@
         },
         {
           "index": 51,
-          "translation": "— Молчи и слушай приказы! — ответил мулаzем.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9083,8 +9083,8 @@
         },
         {
           "index": 52,
-          "translation": "Суданьчик видел в Омдурмане виселицы, ломившиеся под тяжестью повешенных, которых ежедневно по приговорам жестокого Абдуллаха облекали в новые тела — и устрашился.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sudańczyk",
@@ -9306,8 +9306,8 @@
         },
         {
           "index": 53,
-          "translation": "То, что ему сказал мулла, что Махди имеет только одну волю, а Абдуллахи повелевает лишь однажды — повторяли все дервиши.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -9505,8 +9505,8 @@
         },
         {
           "index": 54,
-          "translation": "Деваться было некуда — пришлось ехать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -9600,8 +9600,8 @@
         },
         {
           "index": 55,
-          "translation": "«Мне больше не видать Идриса!» — подумал Гебр.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "„",
@@ -9703,8 +9703,8 @@
         },
         {
           "index": 56,
-          "translation": "И в его тигриный сердце скрывалась всё же какая-то привязанность к старшему брату, ибо при мысли, что он должен его покинуть в болезни, его охватило отчаяние.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -9942,8 +9942,8 @@
         },
         {
           "index": 57,
-          "translation": "Напрасно Хамис и бедуины объясняли ему, что в Фашоде может быть лучше, чем в Омдурмане, и что Смаин вероятно наградит их щедрее, чем это сделал халиф.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Próżno",
@@ -10181,8 +10181,8 @@
         },
         {
           "index": 58,
-          "translation": "Никакие слова не могли смягчить горечь и гнев Гебра, и этот гнев обрушился главным образом на Стася.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Żadne",
@@ -10348,8 +10348,8 @@
         },
         {
           "index": 59,
-          "translation": "Это был поистине мучительный день для мальчика.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -10419,8 +10419,8 @@
         },
         {
           "index": 60,
-          "translation": "Ему не позволили идти на рынок, и потому он не мог ничего заработать и ничего попросить, а должен был работать, как раб, при вьюках, которые готовили к путешествию, что давалось ему тем труднее, что от голода и усталости он сильно ослабел.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -10762,8 +10762,8 @@
         },
         {
           "index": 61,
-          "translation": "Он уже был уверен, что умрет в пути — если не под плетью Гебра, то от истощения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -10929,8 +10929,8 @@
         },
         {
           "index": 62,
-          "translation": "К счастью, грек с добрым сердцем пришёл вечером проведать детей и попрощаться с ними, одновременно снабдив их всем необходимым в дорогу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -11128,8 +11128,8 @@
         },
         {
           "index": 63,
-          "translation": "Он принёс им также несколько порошков хинина, а кроме того немного стеклянных бус и немного продовольствия.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyniósł",
@@ -11271,8 +11271,8 @@
         },
         {
           "index": 64,
-          "translation": "Прежде всего, узнав о болезни Идриса, он обратился к Гебре, а также к Хамису и бедуинам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przede",
@@ -11438,8 +11438,8 @@
         },
         {
           "index": 65,
-          "translation": "— Знайте, — сказал им, — что я приходу сюда по приказу Махди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11557,8 +11557,8 @@
         },
         {
           "index": 66,
-          "translation": "— В пути вы должны кормить детей и обращаться с ними хорошо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -11764,8 +11764,8 @@
         },
         {
           "index": 67,
-          "translation": "Они должны отчитаться перед Смаином о вашем поведении.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mają",
@@ -11843,8 +11843,8 @@
         },
         {
           "index": 68,
-          "translation": "Смаин же напишет об этом к пророку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Smain",
@@ -11914,8 +11914,8 @@
         },
         {
           "index": 69,
-          "translation": "Если сюда поступит на вас какая-нибудь жалоба, следующая почта доставит вам приговор к смерти.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jeśli",
@@ -12049,8 +12049,8 @@
         },
         {
           "index": 70,
-          "translation": "Новый поклон был единственным ответом на эти слова, при этом Гебр и Хамис имели вид собак, которым надели намордник.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nowy",
@@ -12240,8 +12240,8 @@
         },
         {
           "index": 71,
-          "translation": "Грек же велел им уйти, после чего так обратился по-английски к детям:",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Grek",
@@ -12399,8 +12399,8 @@
         },
         {
           "index": 72,
-          "translation": "Я всё это придумал, потому что Махди не издал в отношении вас никаких новых приказов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zmyśliłem",
@@ -12526,8 +12526,8 @@
         },
         {
           "index": 73,
-          "translation": "Но поскольку он сказал, что вам нужно ехать в Фашоду, то необходимо, чтобы вы могли доехать туда живыми.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -12693,8 +12693,8 @@
         },
         {
           "index": 74,
-          "translation": "Я также рассчитываю на то, что ни один из этих людей не увидит больше ни Махди, ни халифа перед отъездом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Liczę",
@@ -12884,8 +12884,8 @@
         },
         {
           "index": 75,
-          "translation": "— Я имел обиду на тебя, мальчик, и она у меня ещё есть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -13043,8 +13043,8 @@
         },
         {
           "index": 76,
-          "translation": "Ты не знаешь, как я чуть не затерялся?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czy",
@@ -13122,8 +13122,8 @@
         },
         {
           "index": 77,
-          "translation": "Махди обиделся и на меня, и чтобы получить его прощение, мне пришлось отдать значительную часть имущества Абдуллахи, да и то я не знаю, надолго ли я спасся.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mahdi",
@@ -13385,8 +13385,8 @@
         },
         {
           "index": 78,
-          "translation": "В любом случае я не смогу помогать пленным так, как помогал до сих пор.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -13504,8 +13504,8 @@
         },
         {
           "index": 79,
-          "translation": "Но мне вас жалко, особенно (и он указал на Нел) её…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -13639,8 +13639,8 @@
         },
         {
           "index": 80,
-          "translation": "У меня есть дочь в таком же возрасте… которую я люблю больше, чем собственную жизнь…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mam",
@@ -13758,8 +13758,8 @@
         },
         {
           "index": 81,
-          "translation": "Для неё я совершил всё, что совершил…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dla",
@@ -13837,8 +13837,8 @@
         },
         {
           "index": 82,
-          "translation": "Христос будет меня за это судить…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chrystus",
@@ -13900,8 +13900,8 @@
         },
         {
           "index": 83,
-          "translation": "Она носит под юбкой на груди серебряный крестик…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nosi",
@@ -13987,8 +13987,8 @@
         },
         {
           "index": 84,
-          "translation": "Её зовут так же, как и тебя, моя малышка.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -14074,8 +14074,8 @@
         },
         {
           "index": 85,
-          "translation": "Если бы не она, я предпочёл бы умереть, чем жить в этом аду.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdyby",
@@ -14201,8 +14201,8 @@
         },
         {
           "index": 86,
-          "translation": "И он растрогался.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -14240,8 +14240,8 @@
         },
         {
           "index": 87,
-          "translation": "На миг он замолчал, потом потёр рукой лоб и начал говорить о чём-то другом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przez",
@@ -14383,8 +14383,8 @@
         },
         {
           "index": 88,
-          "translation": "— Махди отправляет вас в Фашоду в надежде, что там вы погибнете.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14502,8 +14502,8 @@
         },
         {
           "index": 89,
-          "translation": "Таким образом он отомстит вам за твоё, мальчик, сопротивление, которое глубоко его ранило, и не потеряет славы «милосердного».",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -14725,8 +14725,8 @@
         },
         {
           "index": 90,
-          "translation": "Он всегда такой…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Taki",
@@ -14764,8 +14764,8 @@
         },
         {
           "index": 91,
-          "translation": "Но кто знает, кому раньше смерть предназначена!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -14835,8 +14835,8 @@
         },
         {
           "index": 92,
-          "translation": "Абдуллахи предложил ему мысль, чтобы этим собакам, которые вас похитили, приказать ехать с вами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Abdullahi",
@@ -14986,8 +14986,8 @@
         },
         {
           "index": 93,
-          "translation": "Марни их вознаградил, а теперь боится, чтобы это не стало известно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Marnie",
@@ -15113,8 +15113,8 @@
         },
         {
           "index": 94,
-          "translation": "Оба с пророком предпочитают, чтобы эти люди не рассказывали, что в Египте еще есть войска, артиллерия, деньги и англичане…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obaj",
@@ -15328,8 +15328,8 @@
         },
         {
           "index": 95,
-          "translation": "Тяжёлым и дальним будет этот путь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ciężka",
@@ -15391,8 +15391,8 @@
         },
         {
           "index": 96,
-          "translation": "Вы отправитесь в край пустынный и нездоровый, поэтому берегите, как зеницу ока, те порошки, которые я вам дал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pojedziecie",
@@ -15558,8 +15558,8 @@
         },
         {
           "index": 97,
-          "translation": "— Прикажи же, господин, Гебру ещё раз, чтобы не смел он морить голодом и бить Нель, — сказал Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15741,8 +15741,8 @@
         },
         {
           "index": 98,
-          "translation": "— Не бойтесь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15788,8 +15788,8 @@
         },
         {
           "index": 99,
-          "translation": "Я вас порекомендовал старому шейху, который возит почту.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Poleciłem",
@@ -15867,8 +15867,8 @@
         },
         {
           "index": 100,
-          "translation": "Это мой старый знакомый.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -15914,8 +15914,8 @@
         },
         {
           "index": 101,
-          "translation": "Я дал ему часы и этим завоевал для вас его покровительство.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dałem",
@@ -16017,8 +16017,8 @@
         },
         {
           "index": 102,
-          "translation": "Произнеся это, он начал прощаться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tak",
@@ -16072,8 +16072,8 @@
         },
         {
           "index": 103,
-          "translation": "— Да благословит тебя Бог, моё дитя!…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wziąwszy",
@@ -16263,8 +16263,8 @@
         },
         {
           "index": 104,
-          "translation": "Между тем солнце закатилось, и наступила звёздная ночь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -16342,8 +16342,8 @@
         },
         {
           "index": 105,
-          "translation": "В темноте раздались фырканье коней и стоны обремененных верблюдов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",

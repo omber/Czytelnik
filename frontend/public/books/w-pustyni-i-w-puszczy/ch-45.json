@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "На его крик первым прибежал Кали, за ним двое стрелков, которые должны были сменить предыдущую смену, а минуту спустя все ва-химы и самбуру собрались на месте преступления, вопя и завывая.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -310,8 +310,8 @@
         },
         {
           "index": 1,
-          "translation": "Поднялся переполох, полный криков и страха.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Uczyniło",
@@ -389,8 +389,8 @@
         },
         {
           "index": 2,
-          "translation": "Людей волновали не столько убитые и убийство, сколько те последние остатки воды, которые уже впитались в спеченную джунглевую почву.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludziom",
@@ -588,8 +588,8 @@
         },
         {
           "index": 3,
-          "translation": "Некоторые негры бросались на землю и, выдирая пальцами комья, высасывали из неё остатки влаги.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niektórzy",
@@ -723,8 +723,8 @@
         },
         {
           "index": 4,
-          "translation": "Другие кричали, что злые духи перебили стражников и прорезали мешки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Inni",
@@ -826,8 +826,8 @@
         },
         {
           "index": 5,
-          "translation": "Но Стась и Кали знали, что об этом думать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -921,8 +921,8 @@
         },
         {
           "index": 6,
-          "translation": "Вот М'Кунье и М'Пуя не было среди этих людей, вопивших над кочкой травы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oto",
@@ -1032,8 +1032,8 @@
         },
         {
           "index": 7,
-          "translation": "В том, что произошло, было нечто большее, чем убийство двух стражников и кража воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -1183,8 +1183,8 @@
         },
         {
           "index": 8,
-          "translation": "Разорванные в клочья мешки свидетельствовали о том, что это был акт мести и одновременно смертный приговор для всего каравана.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Porozcinane",
@@ -1334,8 +1334,8 @@
         },
         {
           "index": 9,
-          "translation": "Жрецы злого Мзиму отомстили добрым.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kapłani",
@@ -1405,8 +1405,8 @@
         },
         {
           "index": 10,
-          "translation": "Чаровники мстили молодому королю, который раскрыл их обман и не позволил бы им больше эксплуатировать тёмных Ва-химов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czarownicy",
@@ -1596,8 +1596,8 @@
         },
         {
           "index": 11,
-          "translation": "Над всей караваной смерть раскинула крылья, как ястреб над стадом голубей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nad",
@@ -1715,8 +1715,8 @@
         },
         {
           "index": 12,
-          "translation": "Кали вспомнил с опозданием, что, имея мысль занятую и озабоченную чем-то другим, забыл приказать связать колдунов, как то, начиная со времени их побега, он велел делать каждый вечер.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -1954,8 +1954,8 @@
         },
         {
           "index": 13,
-          "translation": "Было видно также, что двое стрелков, охранявших у воды, по врожденной небрежности негров прилегли и уснули.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Widoczne",
@@ -2113,8 +2113,8 @@
         },
         {
           "index": 14,
-          "translation": "Это облегчило работу ворам и позволило им скрыться безнаказанно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -2208,8 +2208,8 @@
         },
         {
           "index": 15,
-          "translation": "Прежде чем беспорядок немного утихомирился и люди отчасти оправились от ужаса, прошло изрядно времени, однако преступникам не нужно было быть далеко, ибо земля под разрезанными мешками была влажной, а кровь, вытекшая из обоих убитых, еще не совсем затвердела.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zanim",
@@ -2559,8 +2559,8 @@
         },
         {
           "index": 16,
-          "translation": "Стась отдал приказ преследовать беглецов не только для того, чтобы их наказать, но и чтобы вернуть два последних мешка с водой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -2758,8 +2758,8 @@
         },
         {
           "index": 17,
-          "translation": "Кали, вскочив на коня и взяв с собой дюжину стрелков, устремился в погоню.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -2869,8 +2869,8 @@
         },
         {
           "index": 18,
-          "translation": "Стасю, который сначала хотел в ней участвовать, пришло в голову, что нельзя оставлять Нелю одну перед лицом раздражения и волнения негров, поэтому он остался.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stasiowi",
@@ -3124,8 +3124,8 @@
         },
         {
           "index": 19,
-          "translation": "Он велел только Калу взять с собой Сабу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Polecił",
@@ -3203,8 +3203,8 @@
         },
         {
           "index": 20,
-          "translation": "Сэм остался, так как прямо боялся восстания — особенно со стороны самбуров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sam",
@@ -3322,8 +3322,8 @@
         },
         {
           "index": 21,
-          "translation": "Но в этом он ошибся.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -3377,8 +3377,8 @@
         },
         {
           "index": 22,
-          "translation": "Негры вообще вспыльчивы и порой взрываются по пустякам, но когда их притиснёт великое несчастье, а особенно когда нависнет над ними неумолимая рука смерти, они покорно ей подчиняются — не только те, кого ислам научил, что борьба с судьбой тщетна, но все без исключения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Murzyni",
@@ -3792,8 +3792,8 @@
         },
         {
           "index": 23,
-          "translation": "Тогда ни страх, ни мучение последних мгновений не способны пробудить их из оцепенения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wówczas",
@@ -3919,8 +3919,8 @@
         },
         {
           "index": 24,
-          "translation": "Так случилось и теперь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tak",
@@ -3974,8 +3974,8 @@
         },
         {
           "index": 25,
-          "translation": "Вахумаи, как и самбуру, когда первый шок прошёл и когда мысль о грядущей смерти окончательно утвердилась в их сознании, тихо улеглись на землю, чтобы ждать смерти. Поэтому опасаться следовало не восстания, а скорее того, согласятся ли они завтра встать и продолжить путь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wa",
@@ -4461,8 +4461,8 @@
         },
         {
           "index": 26,
-          "translation": "Когда Стася это заметила, её охватила огромная жалость к ним.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stasia",
@@ -4572,8 +4572,8 @@
         },
         {
           "index": 27,
-          "translation": "Кали вернулся ещё до наступления дня и тут же выложил перед Стасем два изодранных мешка, в которых не осталось ни капли воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -4763,8 +4763,8 @@
         },
         {
           "index": 28,
-          "translation": "— Ваше высокоблагородие, — сказал он, — Маді апана!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4850,8 +4850,8 @@
         },
         {
           "index": 29,
-          "translation": "— А М'Кунье и М'Пуа?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -5001,8 +5001,8 @@
         },
         {
           "index": 30,
-          "translation": "— М'Кунджи и М'Пуа должны умереть, — ответил Кали.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5088,8 +5088,8 @@
         },
         {
           "index": 31,
-          "translation": "— Ты приказал их убить?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5143,8 +5143,8 @@
         },
         {
           "index": 32,
-          "translation": "— Я убью льва или антилопу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5214,8 +5214,8 @@
         },
         {
           "index": 33,
-          "translation": "И начал рассказывать, что произошло.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -5277,8 +5277,8 @@
         },
         {
           "index": 34,
-          "translation": "Трупы двух преступников нашли довольно далеко от лагеря, в том месте, где их настигла смерть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Trupy",
@@ -5420,8 +5420,8 @@
         },
         {
           "index": 35,
-          "translation": "Оба лежали рядом друг с другом, у обоих были расколоты черепа сзади, растерзаны лопатки и обглоданы позвонки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obaj",
@@ -5571,8 +5571,8 @@
         },
         {
           "index": 36,
-          "translation": "Кали предполагал, что когда перед ними на свету луны показывалась газель или лев, они падали перед ним ниц и начинали его молить, чтобы он пощадил им жизнь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -5818,8 +5818,8 @@
         },
         {
           "index": 37,
-          "translation": "Но страшный зверь убил их обоих, и, утолив первый голод, почувствовал жажду и разорвал мешки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -5961,8 +5961,8 @@
         },
         {
           "index": 38,
-          "translation": "— Бог их покарал, — сказал Стась, — и вахимцы убедятся, что злой Мзиму не способен никого спасти.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6160,8 +6160,8 @@
         },
         {
           "index": 39,
-          "translation": "— Бог их покарает, но у нас нет воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -6303,8 +6303,8 @@
         },
         {
           "index": 40,
-          "translation": "Вдали, впереди нас, я видел на востоке горы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6398,8 +6398,8 @@
         },
         {
           "index": 41,
-          "translation": "Там должна быть вода.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tam",
@@ -6453,8 +6453,8 @@
         },
         {
           "index": 42,
-          "translation": "— Мне их тоже рано видеть, но до них множество, множество дней…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6580,8 +6580,8 @@
         },
         {
           "index": 43,
-          "translation": "Наступила минута молчания.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nastała",
@@ -6627,8 +6627,8 @@
         },
         {
           "index": 44,
-          "translation": "— Сэр, — обратился Кали, — пусть добрый Мзиму...",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6722,8 +6722,8 @@
         },
         {
           "index": 45,
-          "translation": "Пусть биби попросит Великого Духа о дожде или о реке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "niech",
@@ -6825,8 +6825,8 @@
         },
         {
           "index": 46,
-          "translation": "Стась ничего не ответил и ушёл.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -6888,8 +6888,8 @@
         },
         {
           "index": 47,
-          "translation": "Перед палаткой он увидел белую фигурку Нел; крики и вопли негров давно уже разбудили её.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przed",
@@ -7039,8 +7039,8 @@
         },
         {
           "index": 48,
-          "translation": "— Что случилось, Стасик? — спросила она, подбегая к нему.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7158,8 +7158,8 @@
         },
         {
           "index": 49,
-          "translation": "— Нел, молись Богу о воде, иначе мы все погибнем.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -7389,8 +7389,8 @@
         },
         {
           "index": 50,
-          "translation": "Девочка подняла свое бледное личико к небу и, устремив взор на серебристый диск луны, начала молить о спасении Того, Кто на небесах движет светила, а на земле ветром расчесывает шерсть ягненка.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -7708,8 +7708,8 @@
         },
         {
           "index": 51,
-          "translation": "После бессонной, шумной и беспокойной ночи солнце выкатилось на горизонт так внезапно, как оно всегда выкатывается под тропиками, и наступил светлый день.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -7939,8 +7939,8 @@
         },
         {
           "index": 52,
-          "translation": "На траве не было ни капли росы, на небе ни облачка.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -8050,8 +8050,8 @@
         },
         {
           "index": 53,
-          "translation": "Стась велел стрелкам собрать людей и обратился к ним с краткой речью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -8153,8 +8153,8 @@
         },
         {
           "index": 54,
-          "translation": "Он заявил им, что возвращаться к реке больше невозможно, так как они прекрасно знают, что от них до неё пять дней и ночей пути.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oświadczył",
@@ -8360,8 +8360,8 @@
         },
         {
           "index": 55,
-          "translation": "Но никто не знает, есть ли вода на противоположной стороне.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -8487,8 +8487,8 @@
         },
         {
           "index": 56,
-          "translation": "Может быть, неподалёку найдётся какой-нибудь родник, какая-нибудь речка или даже лужа.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Może",
@@ -8598,8 +8598,8 @@
         },
         {
           "index": 57,
-          "translation": "Правда, деревьев не видно, но часто бывает так, что на открытых равнинах, где вихри срывают семена, деревья не растут и у воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -8821,8 +8821,8 @@
         },
         {
           "index": 58,
-          "translation": "Вчера они видели несколько крупных антилоп и нескольких страусов, бежавших на восток, что является признаком какого-то водопоя в той стороне, а значит, тот, кто не глупец и в груди его бьется не заячье сердце, а львиное или буйволиное, предпочтёт идти вперед, пусть даже мучимый жаждой и истощением, нежели лежать и ждать здесь грифов или гиен.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wczoraj",
@@ -9372,8 +9372,8 @@
         },
         {
           "index": 59,
-          "translation": "И, так говоря, указал рукой на грифов, которые несколько штук уже описывали зловещие круги над караваном.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -9515,8 +9515,8 @@
         },
         {
           "index": 60,
-          "translation": "После этих слов почти все вахимы, которых Кали велел встать, поднялись, так как, привыкнув к страшной власти королевской, не смели ей сопротивляться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -9762,8 +9762,8 @@
         },
         {
           "index": 61,
-          "translation": "Но многие из самбуров, видя, что их король Фару остался у озера, уже не захотели подняться, и те говорили между собой: «Зачем нам идти навстречу смерти, когда она сама придёт к нам?» Таким образом караван двинулся дальше, уменьшившись почти вдвое, и сразу же вступил в муки пути.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -10281,8 +10281,8 @@
         },
         {
           "index": 62,
-          "translation": "Люди двадцать четыре часа ничего не пили, ни капли воды, ни какого-либо другого напитка.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludzie",
@@ -10432,8 +10432,8 @@
         },
         {
           "index": 63,
-          "translation": "Даже в более прохладных климатах это было бы невыносимым мучением при работе, а что уж говорить об этой раскалённой африканской печи, где даже те, кто много пьёт, потеют так быстро, что могут стирать воту почти в тот же миг со своей кожи рукам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nawet",
@@ -10831,8 +10831,8 @@
         },
         {
           "index": 64,
-          "translation": "Было также предвидеть, что многие люди упадут в пути от истощения и солнечного удара.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Było",
@@ -10982,8 +10982,8 @@
         },
         {
           "index": 65,
-          "translation": "Стась защищал Нель от солнца, как только мог, и не позволял ей высунуться ни на миг из паланкина, чей навес он покрыл белым перкалем, чтобы сделать его двойным.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -11253,8 +11253,8 @@
         },
         {
           "index": 66,
-          "translation": "На остатках воды, которая ещё была в его резиновой фляге, он заварил ей крепкого чаю и подал остывшим, без сахара, потому что сладкое усиливает жажду.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -11492,8 +11492,8 @@
         },
         {
           "index": 67,
-          "translation": "Девочка с слёзами настаивала, чтобы он тоже пил, поэтому он поднёс флягу к губам, в которой осталось всего несколько напёрстков воды, и, ворочая горлом, притворился, что пьёт.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dziewczynka",
@@ -11771,8 +11771,8 @@
         },
         {
           "index": 68,
-          "translation": "В тот момент, когда он почувствовал на губах влагу, ему показалось, что в груди и в животе у него горит огонь, и если этот огонь не потушить, то он упадёт мёртвым.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -12026,8 +12026,8 @@
         },
         {
           "index": 69,
-          "translation": "Перед его глазами начали летать красные пятна, а в челюстях он ощутил ужасающую боль, словно кто-то вбивал в них тысячи иголок.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przed",
@@ -12225,8 +12225,8 @@
         },
         {
           "index": 70,
-          "translation": "Рука так дрожала у него, что он чуть не разлил эти последние несколько капель.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ręka",
@@ -12352,8 +12352,8 @@
         },
         {
           "index": 71,
-          "translation": "Однако только двух или трёх поймал на слове языком; остальное сберёг для Нели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jednakże",
@@ -12487,8 +12487,8 @@
         },
         {
           "index": 72,
-          "translation": "Прошел еще один день мучений и забот, после которого, к счастью, пришла более прохладная ночь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Upłynął",
@@ -12630,8 +12630,8 @@
         },
         {
           "index": 73,
-          "translation": "Но на следующее утро на земле воцарился ужасный жар.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -12717,8 +12717,8 @@
         },
         {
           "index": 74,
-          "translation": "Ни дуновения ветерка не было.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -12772,8 +12772,8 @@
         },
         {
           "index": 75,
-          "translation": "Солнце, как злой дух, живым огнём разрушало иссохшую землю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Słońce",
@@ -12859,8 +12859,8 @@
         },
         {
           "index": 76,
-          "translation": "Края горизонта побелели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Krańce",
@@ -12898,8 +12898,8 @@
         },
         {
           "index": 77,
-          "translation": "Насколько хватало взгляда, даже молочаев не было видно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jak",
@@ -12977,8 +12977,8 @@
         },
         {
           "index": 78,
-          "translation": "Ничто — только выжженная, пустая равнина, покрытая пучками почернелой травы и вереска.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nic",
@@ -13104,8 +13104,8 @@
         },
         {
           "index": 79,
-          "translation": "Когда иногда раздавались в беспредельной дали лёгкие раскаты грома, но при безоблачном небе они не предвещали грозы, а засуху.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kiedy",
@@ -13295,8 +13295,8 @@
         },
         {
           "index": 80,
-          "translation": "В полдень, когда жара была особенно сильна, пришлось остановиться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "O",
@@ -13414,8 +13414,8 @@
         },
         {
           "index": 81,
-          "translation": "Караван расположился в глубокой тишине.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Karawana",
@@ -13477,8 +13477,8 @@
         },
         {
           "index": 82,
-          "translation": "Оказалось, что пал один конь и несколько паков осталось в пути.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pokazało",
@@ -13596,8 +13596,8 @@
         },
         {
           "index": 83,
-          "translation": "Во время отдыха никто не думал о еде.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -13675,8 +13675,8 @@
         },
         {
           "index": 84,
-          "translation": "Люди имели запавшие глаза и потрескавшиеся губы, а на них засохшие кровяные корочки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludzie",
@@ -13802,8 +13802,8 @@
         },
         {
           "index": 85,
-          "translation": "Нель дышала как птица, поэтому Стась отдал ей резиновую фляжку и, крикнув: «Я пил, я пил!» — убежал в другую сторону лагеря, опасаясь, что если останется, то либо отберет у нее эту воду, либо потребует, чтобы она поделилась с ним.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nel",
@@ -14201,8 +14201,8 @@
         },
         {
           "index": 86,
-          "translation": "Это было, быть может, самое героическое его деяние за время путешествия.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -14304,8 +14304,8 @@
         },
         {
           "index": 87,
-          "translation": "Сэм начал страшно измучиться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sam",
@@ -14367,8 +14367,8 @@
         },
         {
           "index": 88,
-          "translation": "Перед его глазами всё время летали красные лоскуты.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przed",
@@ -14438,8 +14438,8 @@
         },
         {
           "index": 89,
-          "translation": "Он чувствовал такое сжатие в челюстях, что открывал и закрывал их с трудом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czuł",
@@ -14581,8 +14581,8 @@
         },
         {
           "index": 90,
-          "translation": "Горло было сухое, жгучее; во рту не было ни слюны; язык как деревянный.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gardło",
@@ -14708,8 +14708,8 @@
         },
         {
           "index": 91,
-          "translation": "И всё же для него и для всего каравана это было лишь началом мучений.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -14827,8 +14827,8 @@
         },
         {
           "index": 92,
-          "translation": "Раскаты грома, предвещавшие засуху, раздавались беспрестанно на краях горизонта.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Grzmoty",
@@ -14914,8 +14914,8 @@
         },
         {
           "index": 93,
-          "translation": "Около трёх часов, когда солнце начало клониться к западу, Стась поднял караван с земли и двинулся во главе его на восток.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Około",
@@ -15129,8 +15129,8 @@
         },
         {
           "index": 94,
-          "translation": "Но теперь за ним шло всего лишь семьдесят человек, да и то все время кто-нибудь из них падал рядом со своим узлом и больше уже не поднимался.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -15360,8 +15360,8 @@
         },
         {
           "index": 95,
-          "translation": "Жара уменьшилась на несколько градусов, но была всё ещё ужасной.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Upał",
@@ -15463,8 +15463,8 @@
         },
         {
           "index": 96,
-          "translation": "В неподвижном воздухе словно клубился дым.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -15534,8 +15534,8 @@
         },
         {
           "index": 97,
-          "translation": "Люди не имели чем дышать, и не менее страдали животные.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludzie",
@@ -15653,8 +15653,8 @@
         },
         {
           "index": 98,
-          "translation": "Через час пути пал ещё один конь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -15732,8 +15732,8 @@
         },
         {
           "index": 99,
-          "translation": "Саба дышал боками и жрал; со свешивающегося почерневшего языка не падала ни капля пены.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Saba",
@@ -15875,8 +15875,8 @@
         },
         {
           "index": 100,
-          "translation": "Кинг, привыкший к сухим африканским джунглям, страдал менее заметно, но начал злиться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "King",
@@ -16018,8 +16018,8 @@
         },
         {
           "index": 101,
-          "translation": "Его маленькие глазки блестели каким-то странным светом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jego",
@@ -16089,8 +16089,8 @@
         },
         {
           "index": 102,
-          "translation": "Стасю, а особенно Нелю, которая время от времени обращалась к нему, он ещё отвечал урчанием, но когда Кали беспечно прошёл мимо него, он грозно хрюкнул и размахнулся хоботом так, что убил бы его, если бы мальчик не прыгнул вовремя в сторону.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stasiowi",
@@ -16504,8 +16504,8 @@
         },
         {
           "index": 103,
-          "translation": "Кали имел глаза затуманены кровью, вены на шее раздуты и губы потрескавшиеся, как и у других негров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -16663,8 +16663,8 @@
         },
         {
           "index": 104,
-          "translation": "— Панe великий, Кали больше не может идти дальше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Koło",
@@ -16926,8 +16926,8 @@
         },
         {
           "index": 105,
-          "translation": "Пусть же наступит здесь ночь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niech",
@@ -16989,8 +16989,8 @@
         },
         {
           "index": 106,
-          "translation": "— Хорошо. Остановимся.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -17132,8 +17132,8 @@
         },
         {
           "index": 107,
-          "translation": "Ночь принесёт облегчение.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Noc",
@@ -17179,8 +17179,8 @@
         },
         {
           "index": 108,
-          "translation": "— Это принесёт смерть, — прошептал молодой чёрный.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -17258,8 +17258,8 @@
         },
         {
           "index": 109,
-          "translation": "Люди сбросили с головы ноши, но поскольку лихорадка в их сгустившейся крови достигла уже высшей степени, на этот раз они не упали сразу на землю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludzie",
@@ -17505,8 +17505,8 @@
         },
         {
           "index": 110,
-          "translation": "Сердца и пульс в висках, в руках и ногах билась им так, словно вот-вот должны были разорваться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Serca",
@@ -17672,8 +17672,8 @@
         },
         {
           "index": 111,
-          "translation": "Кожа на телах, ссыхаясь и сжимаясь, начала их зудеть; в костях они ощущали какое-то невиданное беспокойство, а во внутренностях и в горле огонь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Skóra",
@@ -17879,8 +17879,8 @@
         },
         {
           "index": 112,
-          "translation": "Некоторые беспокойно ходили между тюками, других было видно дальше в красных лучах заходящего солнца, как они кружились один за другим среди сухих кочек, словно ища что-то — и это продолжалось до тех пор, пока их силы не истощились совсем.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niektórzy",
@@ -18222,8 +18222,8 @@
         },
         {
           "index": 113,
-          "translation": "Тогда они падали один за другим на землю, но лежали в конвульсиях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wówczas",
@@ -18317,8 +18317,8 @@
         },
         {
           "index": 114,
-          "translation": "— Бвана кубва, воды!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -18564,8 +18564,8 @@
         },
         {
           "index": 115,
-          "translation": "Стась смотрел на него стеклянным взором и молчал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -18651,8 +18651,8 @@
         },
         {
           "index": 116,
-          "translation": "— Барин, воды!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -18706,8 +18706,8 @@
         },
         {
           "index": 117,
-          "translation": "— а через некоторое время: — Если мне суждено умереть…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -18793,8 +18793,8 @@
         },
         {
           "index": 118,
-          "translation": "— Меа хочет умереть вместе с Калимом.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wtedy",
@@ -19152,8 +19152,8 @@
         },
         {
           "index": 119,
-          "translation": "Наступила долгая тишина.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nastało",
@@ -19199,8 +19199,8 @@
         },
         {
           "index": 120,
-          "translation": "Тем временем солнце зашло, и ночь покрыла окрестности.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -19270,8 +19270,8 @@
         },
         {
           "index": 121,
-          "translation": "Небо стало темно-синим.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niebo",
@@ -19317,8 +19317,8 @@
         },
         {
           "index": 122,
-          "translation": "На его южной стороне блеснул крест.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -19380,8 +19380,8 @@
         },
         {
           "index": 123,
-          "translation": "Над равниной замерцали рои звёзд.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nad",
@@ -19435,8 +19435,8 @@
         },
         {
           "index": 124,
-          "translation": "Луна вышла из-под земли и начала насыщать светом тьму, а на западе развернулась тонкая и бледная зодиакальная заря.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Księżyc",
@@ -19626,8 +19626,8 @@
         },
         {
           "index": 125,
-          "translation": "Воздух превратился в одну сплошную светлую пучину.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Powietrze",
@@ -19705,8 +19705,8 @@
         },
         {
           "index": 126,
-          "translation": "Всё более ослепительный свет разливался по округе.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Coraz",
@@ -19760,8 +19760,8 @@
         },
         {
           "index": 127,
-          "translation": "Забытый паланкин на спине слона и палатки сияли так же, как сияют в светлые ночи побеленные известью дома!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Palankin",
@@ -19943,8 +19943,8 @@
         },
         {
           "index": 128,
-          "translation": "Мир погружался в безмолвие; земля охватывала дремота.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Świat",
@@ -20030,8 +20030,8 @@
         },
         {
           "index": 129,
-          "translation": "А в этой тишине и спокойствии природы люди в лагере корчились от боли и ждали смерти.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -20197,8 +20197,8 @@
         },
         {
           "index": 130,
-          "translation": "На серебристом фоне мрака чётко вырисовывалась громадная чёрная фигура слона.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -20308,8 +20308,8 @@
         },
         {
           "index": 131,
-          "translation": "Лучи луны освещали белые одежды Стася и Нэль, кроме палаток, а среди зарослей вереска — смуглые, сжатые телеса негров и разбросанные кое-где кучи тюков.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Promienie",
@@ -20547,8 +20547,8 @@
         },
         {
           "index": 132,
-          "translation": "Перед детьми сидел, опираясь на передние лапы, Саба, и, подняв голову к лунному диску, уныло выл.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przed",
@@ -20698,8 +20698,8 @@
         },
         {
           "index": 133,
-          "translation": "В душе Стася металась лишь обломки мыслей, слившихся в одно глухое, отчаянное чувство — что на этот раз нет уже никакого спасения, что все эти неимоверные труды и усилия, эти страдания, эти подвиги воли и мужества, совершённые им в течение страшных путешествий от Мединета до Хартума, от Хартума до Фашоды и от Фашоды к неизведанному озеру, пошли прахом, и что приходит неумолимый конец борьбе и жизни.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -21345,8 +21345,8 @@
         },
         {
           "index": 134,
-          "translation": "И это казалось ему тем страшнее, что конец приходил как раз в момент последнего пути, в конце которого лежал океан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -21544,8 +21544,8 @@
         },
         {
           "index": 135,
-          "translation": "О, уж не приведёт он маленькую Нел к берегу, не отвезёт её пароходом в Порт-Саид, не отдаст её мистеру Роулисону, сам не упадёт в объятия отца и не услышит из его уст, что поступал как храбрый мальчик и как честный поляк! Конец, конец!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ach",
@@ -21967,8 +21967,8 @@
         },
         {
           "index": 136,
-          "translation": "Через несколько дней солнце осветит только мертвые тела, а затем высушит их подобно тем мумиям, которые в Египте спят вечным сном по музеям.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Za",
@@ -22198,8 +22198,8 @@
         },
         {
           "index": 137,
-          "translation": "От мучений и лихорадки у него начало путаться в голове.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -22293,8 +22293,8 @@
         },
         {
           "index": 138,
-          "translation": "На него нисходили предсмертные видения и слуховые обманы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nadlatywały",
@@ -22364,8 +22364,8 @@
         },
         {
           "index": 139,
-          "translation": "Ясно слышал голоса суданцев и бедуинов, кричащих «Йалла, йалла!» вздыбленным верблюдам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Słyszał",
@@ -22515,8 +22515,8 @@
         },
         {
           "index": 140,
-          "translation": "Он видел Идриса и Гебра.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Widział",
@@ -22562,8 +22562,8 @@
         },
         {
           "index": 141,
-          "translation": "Махди улыбался ему своими толстыми губами и спрашивал: «Хочешь ли ты напиться из источника истины?..»",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mahdi",
@@ -22745,8 +22745,8 @@
         },
         {
           "index": 142,
-          "translation": "Потом лев смотрел на него со скалы; потом Линде давал ему банку хинина и говорил: «Торопись, торопись, иначе малышка умрёт!»",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Potem",
@@ -22976,8 +22976,8 @@
         },
         {
           "index": 143,
-          "translation": "И в конце концов он видел уже только бледное, глубоко любимое личико и две маленькие ручки, что протягивались к нему.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -23167,8 +23167,8 @@
         },
         {
           "index": 144,
-          "translation": "— Стасик… води!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nagle",
@@ -23414,8 +23414,8 @@
         },
         {
           "index": 145,
-          "translation": "И она, как прежде Кали, только от него ждала спасения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -23541,8 +23541,8 @@
         },
         {
           "index": 146,
-          "translation": "— О Нел! я только притворялся, что пью!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -23868,8 +23868,8 @@
         },
         {
           "index": 147,
-          "translation": "Я три дня ничего не ел!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "ja",
@@ -23963,8 +23963,8 @@
         },
         {
           "index": 148,
-          "translation": "И, схватившись руками за голову, убежал, чтобы не видеть её мучения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -24090,8 +24090,8 @@
         },
         {
           "index": 149,
-          "translation": "Он бежал вслепую между пучками травы и вереска, пока силы совсем не покинули его и пока он не упал на одну из кеп.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Biegł",
@@ -24297,8 +24297,8 @@
         },
         {
           "index": 150,
-          "translation": "Он был безоружен.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -24336,8 +24336,8 @@
         },
         {
           "index": 151,
-          "translation": "Леопард, лев или даже крупная гиена нашли бы в нём лёгкую добычу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lampart",
@@ -24447,8 +24447,8 @@
         },
         {
           "index": 152,
-          "translation": "Но прибежала Саба, и, обнюхав его, снова принялась выть, словно зовя теперь на помощь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -24606,8 +24606,8 @@
         },
         {
           "index": 153,
-          "translation": "Однако никто не спешил помочь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nikt",
@@ -24669,8 +24669,8 @@
         },
         {
           "index": 154,
-          "translation": "Только с высоты спокойно и безразлично смотрел на него луна.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tylko",
@@ -24764,8 +24764,8 @@
         },
         {
           "index": 155,
-          "translation": "Долгое время мальчик лежал как мёртвый.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Długi",
@@ -24827,8 +24827,8 @@
         },
         {
           "index": 156,
-          "translation": "Отрезвить его удалось лишь более холодному дуновению ветра, которое неожиданно повеяло с востока.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Otrzeźwił",
@@ -24946,8 +24946,8 @@
         },
         {
           "index": 157,
-          "translation": "Стась сел и через некоторое время попытался встать, чтобы вернуться к Нел.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -25065,8 +25065,8 @@
         },
         {
           "index": 158,
-          "translation": "Прохладный ветер дунул во второй раз.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chłodniejszy",
@@ -25128,8 +25128,8 @@
         },
         {
           "index": 159,
-          "translation": "Саба перестал выть и, обернувшись к востоку, начал хлопать ноздрями.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Saba",
@@ -25231,8 +25231,8 @@
         },
         {
           "index": 160,
-          "translation": "Вдруг он залаял раз и другой, коротко, обрывисто, басом, и бросился вперёд.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nagle",
@@ -25358,8 +25358,8 @@
         },
         {
           "index": 161,
-          "translation": "Некоторое время его не было слышно, но вскоре вдали снова раздался его лай.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przez",
@@ -25509,8 +25509,8 @@
         },
         {
           "index": 162,
-          "translation": "Стась встал и, пошатываясь на одеревеневших ногах, начал смотреть ему вслед.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -25620,8 +25620,8 @@
         },
         {
           "index": 163,
-          "translation": "Длительные странствия, долгое пребывание в джунглях, необходимость держать все органы чувств в постоянной боевой готовности и непрерывная опасность приучили мальчика пристально следить за всем, что происходило вокруг него. Поэтому, несмотря на мучения, которые он испытывал в данный момент, несмотря на полусознательное состояние ума, он по инстинкту и привычке начал внимательно наблюдать за поведением собаки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Długie",
@@ -26099,8 +26099,8 @@
         },
         {
           "index": 164,
-          "translation": "И Саба явился вновь спустя некоторое время, но какой-то странно взволнованный и неспокойный.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -26258,8 +26258,8 @@
         },
         {
           "index": 165,
-          "translation": "Несколько раз он поднимал на Стася глаза, обежал его вокруг, снова устремился, причуивая и подвизгивая, в вересковые заросли, снова вернулся, а наконец, схватив мальчика за одежду, начал тащить его в сторону, противоположную лагерю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kilkakrotnie",
@@ -26585,8 +26585,8 @@
         },
         {
           "index": 166,
-          "translation": "Стась совершенно пришел в сознание.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -26632,8 +26632,8 @@
         },
         {
           "index": 167,
-          "translation": "Что это? — подумал он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "„",
@@ -26703,8 +26703,8 @@
         },
         {
           "index": 168,
-          "translation": "— Либо пёс от жажды почувствовал спутанность чувств, либо уловил запах воды. Но нет!…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -26846,8 +26846,8 @@
         },
         {
           "index": 169,
-          "translation": "Если бы вода была близко, он бы полетел пить и имел бы мокрую пасть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdyby",
@@ -26957,8 +26957,8 @@
         },
         {
           "index": 170,
-          "translation": "Если бы было далеко, он бы её не учуял...",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jeśli",
@@ -27036,8 +27036,8 @@
         },
         {
           "index": 171,
-          "translation": "Вода не имеет запаха…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "woda",
@@ -27083,8 +27083,8 @@
         },
         {
           "index": 172,
-          "translation": "Антилопа не тянулась ко мне, потому что вечером не хотела есть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Do",
@@ -27194,8 +27194,8 @@
         },
         {
           "index": 173,
-          "translation": "К хищникам тоже не...",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Do",
@@ -27241,8 +27241,8 @@
         },
         {
           "index": 174,
-          "translation": "И вдруг сердце начало биться в груди ещё сильнее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -27384,8 +27384,8 @@
         },
         {
           "index": 175,
-          "translation": "Значит, может быть, ветер принёс ему запах людей…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "„",
@@ -27463,8 +27463,8 @@
         },
         {
           "index": 176,
-          "translation": "может быть… в даль уходит какая-нибудь негритянская деревня?…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "może",
@@ -27550,8 +27550,8 @@
         },
         {
           "index": 177,
-          "translation": "может быть, один из воздушных змеев долетел вплоть до…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "może",
@@ -27629,8 +27629,8 @@
         },
         {
           "index": 178,
-          "translation": "О, милосердный Христе! О, Христе!…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "O",
@@ -27732,8 +27732,8 @@
         },
         {
           "index": 179,
-          "translation": "И под влиянием вспышки надежды он обрел силы и начал бежать в сторону лагеря, несмотря на сопротивление собаки, которая непрестанно преграждала ему путь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -27923,8 +27923,8 @@
         },
         {
           "index": 180,
-          "translation": "В лагере ему почудилась фигура Нел, и до него донёсся её слабый голос; вскоре он споткнулся о лежащего на земле Калего, но ни на что не обращал внимания.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -28170,8 +28170,8 @@
         },
         {
           "index": 181,
-          "translation": "Добежав до свертка с факелами, он разорвал его, вытащил один из них, дрожащими руками привязал его к бамбуку, который вонзил в земляную расселину, высекший огонь и зажег свисавший с низу трубки шнур.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dobiegłszy",
@@ -28513,8 +28513,8 @@
         },
         {
           "index": 182,
-          "translation": "Через мгновение красный змей с шипением и скрежетом взмыл вверх.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -28616,8 +28616,8 @@
         },
         {
           "index": 183,
-          "translation": "Стась обеими руками схватился за бамбук, чтобы не упасть, и вперил взгляд в даль.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -28759,8 +28759,8 @@
         },
         {
           "index": 184,
-          "translation": "Артерии на руках и висках колотили его молотом; уста шевелились горячей молитвой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tętna",
@@ -28886,8 +28886,8 @@
         },
         {
           "index": 185,
-          "translation": "Последний вздох, и в нём всю душу отправлял к Богу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ostatnie",
@@ -28997,8 +28997,8 @@
         },
         {
           "index": 186,
-          "translation": "Прошла одна минута, вторая, третья, четвёртая.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Upłynęła",
@@ -29084,8 +29084,8 @@
         },
         {
           "index": 187,
-          "translation": "Ничего и ничего!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nic",
@@ -29123,8 +29123,8 @@
         },
         {
           "index": 188,
-          "translation": "Руки мальчика упали, голова склонилась к земле, и безмерная скорбь разлилась по его изнурённой груди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ręce",
@@ -29274,8 +29274,8 @@
         },
         {
           "index": 189,
-          "translation": "— Напрасно! Напрасно! — прошептал он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -29361,8 +29361,8 @@
         },
         {
           "index": 190,
-          "translation": "— Пойду, сяду рядом с Нел и умрём вместе.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -29456,8 +29456,8 @@
         },
         {
           "index": 191,
-          "translation": "И тогда, далеко, далеко, на серебристом фоне лунной ночи, огненная лента вдруг взлетела ввысь и рассыпалась золотыми звёздами, которые медленно падали на землю, словно крупные слёзы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -29759,8 +29759,8 @@
         },
         {
           "index": 192,
-          "translation": "— Спасение!!! — закричал Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -29846,8 +29846,8 @@
         },
         {
           "index": 193,
-          "translation": "И вот уже те, кто казался наполовину мертв, бежали наперегонки, перепрыгивая через кочки вереска и травы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -30021,8 +30021,8 @@
         },
         {
           "index": 194,
-          "translation": "После первой работы появились вторая и третья.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -30100,8 +30100,8 @@
         },
         {
           "index": 195,
-          "translation": "Затем порывом ветра донеслось что-то вроде стука, в котором легко было узнать отдалённые выстрелы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Potem",
@@ -30227,8 +30227,8 @@
         },
         {
           "index": 196,
-          "translation": "Стась приказал открыть огонь из всех ремингтонов, и с того момента перестрелка не прерывалась ни на мгновение и становилась все интенсивнее.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -30402,8 +30402,8 @@
         },
         {
           "index": 197,
-          "translation": "Мальчик, сидя на коне, который чудесным образом вернул себе силы, держа впереди себя Нель, мчался по равнине навстречу спасительным звукам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chłopiec",
@@ -30601,8 +30601,8 @@
         },
         {
           "index": 198,
-          "translation": "Рядом бежала Саба, а позади них громыхал огромный Кинг.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obok",
@@ -30704,8 +30704,8 @@
         },
         {
           "index": 199,
-          "translation": "Два лагеря разделяло расстояние в несколько километров, но поскольку с обеих сторон двигались навстречу друг другу одновременно, весь путь занял совсем немного времени.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dwa",
@@ -30903,8 +30903,8 @@
         },
         {
           "index": 200,
-          "translation": "Вскоре винтовочные выстрелы было не только слышно, но и видно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wkrótce",
@@ -31014,8 +31014,8 @@
         },
         {
           "index": 201,
-          "translation": "Ещё одна гильза взлетела в воздух, не далее чем на несколько сот шагов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jeszcze",
@@ -31133,8 +31133,8 @@
         },
         {
           "index": 202,
-          "translation": "Затем вспыхнуло множество огней.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Potem",
@@ -31180,8 +31180,8 @@
         },
         {
           "index": 203,
-          "translation": "Лёгкое возвышение земли скрыло их на миг, но когда Стась его миновал, он очутился почти что перед рядом негров с зажженными факелами в руках.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lekka",
@@ -31411,8 +31411,8 @@
         },
         {
           "index": 204,
-          "translation": "В главе строя шли два европейца в английских касках с винтовками в руках.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -31546,8 +31546,8 @@
         },
         {
           "index": 205,
-          "translation": "Стась с первого взгляда узнал в них капитана Глена и доктора Клэри.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",

@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Господа Ролисон и Тарковский ожидали встречи с детьми, но не в песчаных холмах Вади-Раджана, куда не имели ни нужды, ни охоты ехать, а совсем в другом месте — в городе Эль-Фахене, на канале того же названия, где они рассматривали работы, выполненные в конце года.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -446,8 +446,8 @@
         },
         {
           "index": 1,
-          "translation": "Расстояние между Эль-Фахеном и Мединетом по прямой составляет примерно сорок пять километров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Odległość",
@@ -581,8 +581,8 @@
         },
         {
           "index": 2,
-          "translation": "— Хамис выехал вчера вечером, — говорил он мистеру Тарковскому, — и в Эль-Васте поймал поезд, идущий из Каира, поэтому в Мединете он уже этим утром.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -1092,8 +1092,8 @@
         },
         {
           "index": 3,
-          "translation": "Дети упакуются в течение часа.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -1147,8 +1147,8 @@
         },
         {
           "index": 4,
-          "translation": "Выехав в полдень, им пришлось бы ждать ночного поезда, идущего вдоль Нила, но поскольку я не позволил Нел ехать ночью, они выехали с утра и будут здесь сразу после захода солнца.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyjechawszy",
@@ -1434,8 +1434,8 @@
         },
         {
           "index": 5,
-          "translation": "— Да, — сказал пан Тарковский, — Хамис должен немного отдохнуть, а у Стася, конечно, голова горит, однако когда речь идёт о Нэл, на него всегда можно положиться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1697,8 +1697,8 @@
         },
         {
           "index": 6,
-          "translation": "Впрочем, я отправил ему также письмо, чтобы они не уезжали на ночь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zresztą",
@@ -1808,8 +1808,8 @@
         },
         {
           "index": 7,
-          "translation": "— Смелый мальчик, и я ему полностью доверяю, — ответил мистер Роулисон.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1919,8 +1919,8 @@
         },
         {
           "index": 8,
-          "translation": "— Если честно, то и я.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1990,8 +1990,8 @@
         },
         {
           "index": 9,
-          "translation": "Стась при всех своих разнообразных недостатках имеет прямой характер и никогда не лжёт, ибо он храбр, а лгут только трусы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -2173,8 +2173,8 @@
         },
         {
           "index": 10,
-          "translation": "— Несомненно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Energii",
@@ -2420,8 +2420,8 @@
         },
         {
           "index": 11,
-          "translation": "А что касается рассудительности, то разве ты был рассудителен в его возрасте?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Co",
@@ -2547,8 +2547,8 @@
         },
         {
           "index": 12,
-          "translation": "— Это пройдёт.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2778,8 +2778,8 @@
         },
         {
           "index": 13,
-          "translation": "Тем временем будь счастлив, что у тебя есть такой мальчик.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -2865,8 +2865,8 @@
         },
         {
           "index": 14,
-          "translation": "— Да хранит её Господь — ответил мистер Ролинсон, тронутый.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3096,8 +3096,8 @@
         },
         {
           "index": 15,
-          "translation": "Двое друзей пожали друг другу руки, а затем сели рассматривать проекты и смет работ.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dwaj",
@@ -3231,8 +3231,8 @@
         },
         {
           "index": 16,
-          "translation": "На этом занятии время прошло у них незаметно до самого вечера.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -3326,8 +3326,8 @@
         },
         {
           "index": 17,
-          "translation": "В шесть часов, когда уже наступила ночь, они оказались на вокзале и, прогуливаясь по перрону, продолжали разговор о детях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "O",
@@ -3533,8 +3533,8 @@
         },
         {
           "index": 18,
-          "translation": "— Чудная погода, но холодно, — заметил мистер Ролинсон.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3636,8 +3636,8 @@
         },
         {
           "index": 19,
-          "translation": "— Неужели Нель взяла с собой тёплую одежду?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3731,8 +3731,8 @@
         },
         {
           "index": 20,
-          "translation": "— Стась об этом будет помнить, и Дина тоже.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3826,8 +3826,8 @@
         },
         {
           "index": 21,
-          "translation": "— Однако я сожалею, что вместо того, чтобы пригласить их сюда, мы не отправились сами в Мединет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -3969,8 +3969,8 @@
         },
         {
           "index": 22,
-          "translation": "— Помни, что я именно так советовал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4056,8 +4056,8 @@
         },
         {
           "index": 23,
-          "translation": "— Я знаю, и если бы нам не нужно было ехать дальше на юг, я бы согласился.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4239,8 +4239,8 @@
         },
         {
           "index": 24,
-          "translation": "Я все же подсчитал, что дорога отняла бы у нас много времени и что мы бы меньше были с детьми.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyliczyłem",
@@ -4374,8 +4374,8 @@
         },
         {
           "index": 25,
-          "translation": "Признаюсь тебе, что это Шамис подал мне мысль сюда их привезти.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przyznam",
@@ -4517,8 +4517,8 @@
         },
         {
           "index": 26,
-          "translation": "Он объявил мне, что очень по ним тоскует и что был бы счастлив, если бы я отправил его к ним обоим.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oświadczył",
@@ -4676,8 +4676,8 @@
         },
         {
           "index": 27,
-          "translation": "Неудивительно, что он к ним привязался…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -4771,8 +4771,8 @@
         },
         {
           "index": 28,
-          "translation": "Дальнейший разговор прервали сигналы, возвещавшие о приближении поезда.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dalszą",
@@ -4850,8 +4850,8 @@
         },
         {
           "index": 29,
-          "translation": "Спустя мгновение в темноте показались огненные глаза паровоза, одновременно раздались его учащённое дыхание и гудок.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -5033,8 +5033,8 @@
         },
         {
           "index": 30,
-          "translation": "Ряд освещённых вагонов медленно проскользнул вдоль перрона, вздрогнул и остановился.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Szereg",
@@ -5144,8 +5144,8 @@
         },
         {
           "index": 31,
-          "translation": "— Я не видел их ни в одном окне, — сказал мистер Роулисон.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5255,8 +5255,8 @@
         },
         {
           "index": 32,
-          "translation": "— Они, возможно, сидят глубже и, наверное, вот-вот выйдут.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5342,8 +5342,8 @@
         },
         {
           "index": 33,
-          "translation": "Путники начали высаживаться, но в основном арабы, так как в Эль-Фахене, кроме красивых пальмовых и акациевых рощ, не было ничего интересного для осмотра.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Podróżni",
@@ -5549,8 +5549,8 @@
         },
         {
           "index": 34,
-          "translation": "Дети не приехали.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -5596,8 +5596,8 @@
         },
         {
           "index": 35,
-          "translation": "— Хамис либо не поймал поезд в Эль-Васте — заметил мистер Тарковский с оттенком раздражения — либо после ночной дороги заснул и приедут только завтра.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5859,8 +5859,8 @@
         },
         {
           "index": 36,
-          "translation": "— Может быть, — ответил с беспокойством мистер Роулисон, — но и может статься, что кто-нибудь из них заболел.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6034,8 +6034,8 @@
         },
         {
           "index": 37,
-          "translation": "— Стась в таком случае бы телеграфировал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6113,8 +6113,8 @@
         },
         {
           "index": 38,
-          "translation": "— Пойдём.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6248,8 +6248,8 @@
         },
         {
           "index": 39,
-          "translation": "Но в отеле их не ждала никакая весть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -6327,8 +6327,8 @@
         },
         {
           "index": 40,
-          "translation": "Пан Роулисон становился всё более беспокойным.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -6390,8 +6390,8 @@
         },
         {
           "index": 41,
-          "translation": "— Знаешь, что еще могло бы случиться? — сказал мистер Тарковский.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6509,8 +6509,8 @@
         },
         {
           "index": 42,
-          "translation": "— Вот, если Хамис заснул, то детям об этом не признался, пришел к ним только сегодня и сказал, что завтра им нужно ехать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -6748,8 +6748,8 @@
         },
         {
           "index": 43,
-          "translation": "Перед нами будет извиваться, утверждая, что не понял наших приказов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przed",
@@ -6859,8 +6859,8 @@
         },
         {
           "index": 44,
-          "translation": "На всякий случай я телеграфирую Стасю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -6930,8 +6930,8 @@
         },
         {
           "index": 45,
-          "translation": "— А я к амиру Фаюму.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7001,8 +7001,8 @@
         },
         {
           "index": 46,
-          "translation": "Через некоторое время две телеграммы были отправлены.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -7064,8 +7064,8 @@
         },
         {
           "index": 47,
-          "translation": "Поводов для беспокойства еще не было, однако в ожидании ответа инженеры дурно провели ночь, и раннее утро застало их на ногах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -7279,8 +7279,8 @@
         },
         {
           "index": 48,
-          "translation": "«Проверено на станции.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Odpowiedź",
@@ -7430,8 +7430,8 @@
         },
         {
           "index": 49,
-          "translation": "Дети уехали вчера в Гарак-эль-Султани.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -7533,8 +7533,8 @@
         },
         {
           "index": 50,
-          "translation": "Легко представить себе изумление и гнев, охватившие отцов при такой неожиданной вести.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Łatwo",
@@ -7652,8 +7652,8 @@
         },
         {
           "index": 51,
-          "translation": "Какое-то время они смотрели друг на друга, словно не понимая слов депеши, а затем пан Тарковский, человек вспыльчивый, ударил по столу ладонью и сказал:",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przez",
@@ -7907,8 +7907,8 @@
         },
         {
           "index": 52,
-          "translation": "— Это замыслы Стася, но я его от таких идей отучу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8018,8 +8018,8 @@
         },
         {
           "index": 53,
-          "translation": "— Я не ожидал этого от него, — ответил отец Нела.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8129,8 +8129,8 @@
         },
         {
           "index": 54,
-          "translation": "— Что же с Хамисом?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -8240,8 +8240,8 @@
         },
         {
           "index": 55,
-          "translation": "— Либо их не застал дома и не знает, что делать, либо уехал вслед за ними.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8391,8 +8391,8 @@
         },
         {
           "index": 56,
-          "translation": "— И я так думаю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8454,8 +8454,8 @@
         },
         {
           "index": 57,
-          "translation": "И через час они отправились в Медине.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -8525,8 +8525,8 @@
         },
         {
           "index": 58,
-          "translation": "В палатках узнали, что погонщиков верблюдов нет, а на станции подтвердили, что Хамис уехал с детьми в Эль-Гарак.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -8732,8 +8732,8 @@
         },
         {
           "index": 59,
-          "translation": "Дело принимало всё более тёмный оборот, и разобраться в нём можно было только в Эль-Гараке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sprawa",
@@ -8875,8 +8875,8 @@
         },
         {
           "index": 60,
-          "translation": "Начальник станции",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakoż",
@@ -8986,8 +8986,8 @@
         },
         {
           "index": 61,
-          "translation": "Тот самый сонный египтянин в темных очках и красной феске рассказал им, что видел мальчика лет четырнадцати и восьмилетнюю девочку с немолодой негритянкой, которые уехали в пустыню.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": ",",
@@ -9257,8 +9257,8 @@
         },
         {
           "index": 62,
-          "translation": "Он не помнит, было ли верблюдов всего восемь или девять, но заметил, что один был вьючен как для дальней дороги, а двое бедуинов также имели большие ьюки при седлах; помнит он и то, что когда он разглядывал караван, один из верблюдников, суданец, сказал ему, что это дети англичан, которые раньше отправились в Вади-Райан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -9808,8 +9808,8 @@
         },
         {
           "index": 63,
-          "translation": "— Да.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9943,8 +9943,8 @@
         },
         {
           "index": 64,
-          "translation": "Вчера они уже вернулись с двумя убитыми волками, — ответил заведующий, — и меня даже удивило, что они не возвращаются вместе с детьми.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wrócili",
@@ -10142,8 +10142,8 @@
         },
         {
           "index": 65,
-          "translation": "Но я не спрашивал их о причине, так как это не мое дело.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -10269,8 +10269,8 @@
         },
         {
           "index": 66,
-          "translation": "Сказав это, он удалился к своим обязанностям.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -10340,8 +10340,8 @@
         },
         {
           "index": 67,
-          "translation": "Во время этого рассказа лицо мистера Роулисона побелело как бумага.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Podczas",
@@ -10443,8 +10443,8 @@
         },
         {
           "index": 68,
-          "translation": "Посмотрев блуждающим взглядом на друга, он снял шляпу, поднес руку к вспотевшему лбу и пошатнулся, словно собирался упасть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Patrząc",
@@ -10626,8 +10626,8 @@
         },
         {
           "index": 69,
-          "translation": "— Ролинсон, будь мужчиной! — воскликнул пан Тарковский.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10721,8 +10721,8 @@
         },
         {
           "index": 70,
-          "translation": "— Наши дети похищены.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10768,8 +10768,8 @@
         },
         {
           "index": 71,
-          "translation": "Надо их спасать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Trzeba",
@@ -10815,8 +10815,8 @@
         },
         {
           "index": 72,
-          "translation": "— Нэл! Нэл! — повторял несчастный англичанин.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10902,8 +10902,8 @@
         },
         {
           "index": 73,
-          "translation": "— Нель и Стась!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10949,8 +10949,8 @@
         },
         {
           "index": 74,
-          "translation": "Это не вина Стаси.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -10996,8 +10996,8 @@
         },
         {
           "index": 75,
-          "translation": "Здесь обоих коварно заманили и похитили.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zwabiono",
@@ -11059,8 +11059,8 @@
         },
         {
           "index": 76,
-          "translation": "Кто знает — почему.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kto",
@@ -11106,8 +11106,8 @@
         },
         {
           "index": 77,
-          "translation": "Может быть, за выкуп.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Może",
@@ -11145,8 +11145,8 @@
         },
         {
           "index": 78,
-          "translation": "Хамис безусловно замешан в заговоре.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chamis",
@@ -11200,8 +11200,8 @@
         },
         {
           "index": 79,
-          "translation": "Идрис и Гебхр тоже.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -11255,8 +11255,8 @@
         },
         {
           "index": 80,
-          "translation": "Он вспомнил, что говорила Фатма: оба суданца принадлежат к поколению Данголов, в котором родился Махди, и что из этого же поколения происходит Хадиги, отец Хамиса.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tu",
@@ -11526,8 +11526,8 @@
         },
         {
           "index": 81,
-          "translation": "При этом воспоминании сердце его на миг замерло в груди, ибо он понял, что дети могли быть похищены не ради выкупа, а чтобы обменять их на семью Смаина.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -11781,8 +11781,8 @@
         },
         {
           "index": 82,
-          "translation": "Но что с ними сделают соплеменники зловещего пророка?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -11860,8 +11860,8 @@
         },
         {
           "index": 83,
-          "translation": "Спрятаться в пустыне или где-нибудь на берегу Нила они не могут, потому что в пустыне все умерли бы с голода и жажды, а на берегу Нила их непременно поймали бы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Skryć",
@@ -12115,8 +12115,8 @@
         },
         {
           "index": 84,
-          "translation": "Похоже, они сбегут с детьми прямо к Махди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chyba",
@@ -12202,8 +12202,8 @@
         },
         {
           "index": 85,
-          "translation": "И эта мысль наполнила пана Тарковского ужасом, но энергичный бывший воин быстро пришёл в себя и начал в уме перебирать всё, что произошло, одновременно ища средства спасения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -12465,8 +12465,8 @@
         },
         {
           "index": 86,
-          "translation": "Фатма, рассуждал он, не имела причины мстить ни нам, ни нашим детям, и если их похитили, то явно для того, чтобы отдать их в руки Смаина.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "„",
@@ -12752,8 +12752,8 @@
         },
         {
           "index": 87,
-          "translation": "Им ничем не грозит смерть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -12823,8 +12823,8 @@
         },
         {
           "index": 88,
-          "translation": "И это счастье в беде, но зато ждёт их страшный путь, который может оказаться для них пагубным.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -12998,8 +12998,8 @@
         },
         {
           "index": 89,
-          "translation": "— Идрис и Гебр, как дикие и глупые люди, воображают себе, что полчища Махди уже совсем близко, а между тем Хартум, куда Махди дошёл, лежит отсюда в двух тысячах километров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "”",
@@ -13437,8 +13437,8 @@
         },
         {
           "index": 90,
-          "translation": "Этот путь необходимо преодолеть вдоль Нила и не отклоняться от него, иначе верблюды и люди погибли бы от жажды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tę",
@@ -13620,8 +13620,8 @@
         },
         {
           "index": 91,
-          "translation": "Поезжайте немедленно в Каир и потребуйте от хедива, чтобы он отправил депеши во все военные посты и организовал преследование в обе стороны вдоль реки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jedź",
@@ -13843,8 +13843,8 @@
         },
         {
           "index": 92,
-          "translation": "Прибрежным шейхам он пообещал за поимку беглецов большую награду.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Szejkom",
@@ -13922,8 +13922,8 @@
         },
         {
           "index": 93,
-          "translation": "По деревням пусть задерживают всех, кто будет подходить за водой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -14025,8 +14025,8 @@
         },
         {
           "index": 94,
-          "translation": "Таким образом Идрис и Гебр должны попасть в руки властей, а мы вернём детей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -14176,8 +14176,8 @@
         },
         {
           "index": 95,
-          "translation": "— Я уезжаю, — сказал он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pan",
@@ -14287,8 +14287,8 @@
         },
         {
           "index": 96,
-          "translation": "— Эти разбойники забыли, что английская армия Волсли, спешащая на помощь Гордону, уже в пути и что она перережет им дорогу к Махди. Им не уйти.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14510,8 +14510,8 @@
         },
         {
           "index": 97,
-          "translation": "Они не могут убежать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -14549,8 +14549,8 @@
         },
         {
           "index": 98,
-          "translation": "Сейчас я отправляю депешу нашему министру, а потом уезжаю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wysyłam",
@@ -14660,8 +14660,8 @@
         },
         {
           "index": 99,
-          "translation": "Что ты собираешься делать?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Co",
@@ -14707,8 +14707,8 @@
         },
         {
           "index": 100,
-          "translation": "— Телеграфирую об отпуске и, не дожидаясь ответа, спешу вслед за ними по Нилу в Нубию, чтобы следить за преследованием.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -14882,8 +14882,8 @@
         },
         {
           "index": 101,
-          "translation": "— Хорошо!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -15041,8 +15041,8 @@
         },
         {
           "index": 102,
-          "translation": "А теперь за работу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "a",
@@ -15096,8 +15096,8 @@
         },
         {
           "index": 103,
-          "translation": "— С помощью Божьей! — ответил мистер Рослисон.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",

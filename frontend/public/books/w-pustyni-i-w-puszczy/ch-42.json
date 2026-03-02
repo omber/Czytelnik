@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "— Смогу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -166,8 +166,8 @@
         },
         {
           "index": 1,
-          "translation": "— Сейчас.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -309,8 +309,8 @@
         },
         {
           "index": 2,
-          "translation": "— Да.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Od",
@@ -668,8 +668,8 @@
         },
         {
           "index": 3,
-          "translation": "Наверное, нет на свете другой мухи, которая бы пролетела такой кусок Африки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chyba",
@@ -803,8 +803,8 @@
         },
         {
           "index": 4,
-          "translation": "— Как бы хорошо выглядела эта муха без тебя!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -890,8 +890,8 @@
         },
         {
           "index": 5,
-          "translation": "А он начал смеяться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -953,8 +953,8 @@
         },
         {
           "index": 6,
-          "translation": "Муха на слоне!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1000,8 +1000,8 @@
         },
         {
           "index": 7,
-          "translation": "На слоне верхом!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mucha",
@@ -1047,8 +1047,8 @@
         },
         {
           "index": 8,
-          "translation": "— Но не это же, правда, Стася?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1142,8 +1142,8 @@
         },
         {
           "index": 9,
-          "translation": "— А когда мы отправимся в пятое путешествие?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "nie",
@@ -1501,8 +1501,8 @@
         },
         {
           "index": 10,
-          "translation": "— Отдохни ты, а я научу этих людей, которых обещал нам дать Кали, немного стрелять.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1668,8 +1668,8 @@
         },
         {
           "index": 11,
-          "translation": "— Ой!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -1755,8 +1755,8 @@
         },
         {
           "index": 12,
-          "translation": "Долго, Нэл, долго!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "długo",
@@ -1810,8 +1810,8 @@
         },
         {
           "index": 13,
-          "translation": "Кто знает, может быть, это будет самая долгая дорога.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kto",
@@ -1905,8 +1905,8 @@
         },
         {
           "index": 14,
-          "translation": "— Мне нужно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2016,8 +2016,8 @@
         },
         {
           "index": 15,
-          "translation": "Станислав справлялся, как мог, но это путешествие требовало множества приготовлений.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakoż",
@@ -2151,8 +2151,8 @@
         },
         {
           "index": 16,
-          "translation": "Они хотели снова отправиться в неизведанные края, где их подстерегали многочисленные опасности, поэтому мальчик стремился защитить себя от них лучше, чем ему удалось сделать в прошлый раз.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mieli",
@@ -2390,8 +2390,8 @@
         },
         {
           "index": 17,
-          "translation": "В этих целях он обучал стрельбе из ремингтонов сорока молодых ва-химов, которые должны были составить главную вооруженную силу и своего рода гвардию Нела.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -2597,8 +2597,8 @@
         },
         {
           "index": 18,
-          "translation": "Больше стрелков он не мог иметь, так как Кинг нёс только двадцать пять винтовок, а на лошадях было пятнадцать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więcej",
@@ -2764,8 +2764,8 @@
         },
         {
           "index": 19,
-          "translation": "Остальную часть войска должны были составить сто вахимов и сто самбуру, вооруженные копьями и луками, которых обещал предоставить Фару и чье присутствие устраняло всякие трудности при путешествии через обширную и весьма дикую местность, населенную самбурскими племенами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Resztę",
@@ -3091,8 +3091,8 @@
         },
         {
           "index": 20,
-          "translation": "Стась с известной гордостью думал о том, что, бежав в пути из Фашоды лишь с Нелем и двумя неграми, без всяких средств, он сумел явиться на берег океана во главе двухсот вооруженных людей со слоном и лошадьми.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -3426,8 +3426,8 @@
         },
         {
           "index": 21,
-          "translation": "Он представлял себе, что скажут на это англичане, столь высоко ценящие предприимчивость, но прежде всего — что скажут его отец и мистер Ролинсон.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyobrażał",
@@ -3649,8 +3649,8 @@
         },
         {
           "index": 22,
-          "translation": "Мысль об этом облегчала ему все невзгоды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Myśl",
@@ -3728,8 +3728,8 @@
         },
         {
           "index": 23,
-          "translation": "Однако он был вовсе не спокоен за собственную и Нелину судьбу. Хорошо!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jednakże",
@@ -3839,8 +3839,8 @@
         },
         {
           "index": 24,
-          "translation": "переходит, несомненно, легко владения Ва-химов и Самбуров, но что потом?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "przejdzie",
@@ -3958,8 +3958,8 @@
         },
         {
           "index": 25,
-          "translation": "На какие ещё натолкнётся штаммы, в какие местности войдёт и сколько ему осталось дороги?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -4093,8 +4093,8 @@
         },
         {
           "index": 26,
-          "translation": "Указания Линдего были слишком общими.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wskazówki",
@@ -4148,8 +4148,8 @@
         },
         {
           "index": 27,
-          "translation": "Стасия поразило это так сильно, что он практически не знал, где находится, потому что эта часть Африки выглядела на картах, по которым он учил географию, совершенно как белый лист.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stasia",
@@ -4411,8 +4411,8 @@
         },
         {
           "index": 28,
-          "translation": "Он также не имел ни малейшего представления, что такое озеро Басса-Нарок и каков его размер.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -4570,8 +4570,8 @@
         },
         {
           "index": 29,
-          "translation": "Он находился на его южном краю, где ширина разлива могла составлять несколько десятков километров.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -4697,8 +4697,8 @@
         },
         {
           "index": 30,
-          "translation": "Но как далеко озеро тянулось на север, этого не смогли бы ему сказать ни вахимы, ни самбуры.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -4880,8 +4880,8 @@
         },
         {
           "index": 31,
-          "translation": "Кали, кое-как владевший языком ки-суахили, на все вопросы отвечал одно и то же: «Бали! бали!» — что значит: далеко! далеко!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -5135,8 +5135,8 @@
         },
         {
           "index": 32,
-          "translation": "— но это было всё, что Стасю удалось из него вытянуть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5254,8 +5254,8 @@
         },
         {
           "index": 33,
-          "translation": "Поскольку на севере горы, замыкавшие горизонт, казались довольно близкими, он предположил, что это какое-то не очень обширное горное озеро, такое, каких много встречается в Африке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -5517,8 +5517,8 @@
         },
         {
           "index": 34,
-          "translation": "Через несколько лет выяснилось, какую огромную ошибку он совершил, но пока его интересовало не столько точное изучение района Басса-Нарока, сколько то, не вытекает ли оттуда какая-нибудь река, которая затем впадает в океан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -5876,8 +5876,8 @@
         },
         {
           "index": 35,
-          "translation": "Самбурийцы, подданные Фару, утверждали, что к востоку от их страны лежит какая-то великая безводная пустыня, которую никому еще не удалось пересечь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Samburowie",
@@ -6083,8 +6083,8 @@
         },
         {
           "index": 36,
-          "translation": "Стась, который знал негров по рассказам путешественников, по приключениям Линде, а отчасти и по собственному опыту, понимал, что когда начнутся опасности и трудности, многие его люди устремятся обратно домой, а может быть, не останется у него никого.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -6466,8 +6466,8 @@
         },
         {
           "index": 37,
-          "translation": "В таком случае он оказался бы среди лесов и пустынь только с Нел, с Меей и маленьким Насибу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -6625,8 +6625,8 @@
         },
         {
           "index": 38,
-          "translation": "Прежде всего он понимал, что отсутствие воды тут же рассеяло бы караван, и потому столь настойчиво расспрашивал о реке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przede",
@@ -6800,8 +6800,8 @@
         },
         {
           "index": 39,
-          "translation": "Идя по течению её можно было бы, конечно, избежать тех ужасов, которым подвергаются путешественники в безводных местностях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idąc",
@@ -6975,8 +6975,8 @@
         },
         {
           "index": 40,
-          "translation": "Но Самбуры ничего не могли рассказать ему с уверенностью, а сам он не имел возможности совершить более долгую прогулку вдоль восточного берега озера, так как другие дела удерживали его в Боко.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -7230,8 +7230,8 @@
         },
         {
           "index": 41,
-          "translation": "Он подсчитал, что из бумажных змеев, запускаемых с горы Линде и по пути из чёрных деревень, вероятно, ни один не пролетел через цепь вершин, окружающих Басса-Нарок.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyliczył",
@@ -7461,8 +7461,8 @@
         },
         {
           "index": 42,
-          "translation": "По этой причине приходилось делать новые и запускать их, потому что только ветер мог занести их через плоскую пустыню далеко — может быть, вплоть до океана.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -7668,8 +7668,8 @@
         },
         {
           "index": 43,
-          "translation": "Итак, этой работой ему пришлось заниматься лично: Нел умела отлично клеить воздушные змеи, а Кали научился их запускать — однако ни один из них не был способен написать на них всё то, что следовало написать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Owóż",
@@ -7987,8 +7987,8 @@
         },
         {
           "index": 44,
-          "translation": "Стась считал, что это дело величайшей важности, которым ни в коем случае нельзя было пренебречь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -8130,8 +8130,8 @@
         },
         {
           "index": 45,
-          "translation": "Итак, эта работа отняла у него столько времени, что караван был готов в путь только через три недели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -8289,8 +8289,8 @@
         },
         {
           "index": 46,
-          "translation": "— Кали пойти с паном и с биби вплоть до воды, по которой плывают большие пироги белых людей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -8704,8 +8704,8 @@
         },
         {
           "index": 47,
-          "translation": "Стася тронула его эта демонстрация привязанности, однако он полагал, что не имеет права брать с собой мальчика в столь огромное путешествие, возвращение из которого было для него весьма неуверенным.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stasia",
@@ -8967,8 +8967,8 @@
         },
         {
           "index": 48,
-          "translation": "— Почему ты хочешь идти с нами? — спросил он.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9062,8 +9062,8 @@
         },
         {
           "index": 49,
-          "translation": "— Кали любит большого панночку и биби.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9141,8 +9141,8 @@
         },
         {
           "index": 50,
-          "translation": "Стась положил ему ладонь на шерстистую голову.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -9220,8 +9220,8 @@
         },
         {
           "index": 51,
-          "translation": "— Я знаю, Кали, ты порядочный и добрый мальчик.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9323,8 +9323,8 @@
         },
         {
           "index": 52,
-          "translation": "Но что станет с твоим королевством и кто будет управлять вместо тебя ва-химами?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -9474,8 +9474,8 @@
         },
         {
           "index": 53,
-          "translation": "— М'Тана, брат матери Калего.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -9561,8 +9561,8 @@
         },
         {
           "index": 54,
-          "translation": "— Нет, Кали.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -9840,8 +9840,8 @@
         },
         {
           "index": 55,
-          "translation": "Я тебя не могу взять с собой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ja",
@@ -9895,8 +9895,8 @@
         },
         {
           "index": 56,
-          "translation": "Ты должен остаться с Ва-химами, чтобы сделать из них хороших людей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ty",
@@ -10030,8 +10030,8 @@
         },
         {
           "index": 57,
-          "translation": "— Мне нужно к ним вернуться.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10093,8 +10093,8 @@
         },
         {
           "index": 58,
-          "translation": "— М'Тана имеет много сыновей, так что что будет, если он захочет сам быть королём и оставить королевство своим сыновьям, а ва-химов подговорит, чтобы они тебя изгнали?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10372,8 +10372,8 @@
         },
         {
           "index": 59,
-          "translation": "Доброе утро.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10427,8 +10427,8 @@
         },
         {
           "index": 60,
-          "translation": "Это невозможно сделать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "On",
@@ -10482,8 +10482,8 @@
         },
         {
           "index": 61,
-          "translation": "— А если он это сделает?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10537,8 +10537,8 @@
         },
         {
           "index": 62,
-          "translation": "— Это опять пойти к большой воде, к барину и барыне.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10672,8 +10672,8 @@
         },
         {
           "index": 63,
-          "translation": "— Нас там уже не будет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10743,8 +10743,8 @@
         },
         {
           "index": 64,
-          "translation": "— То Кали садиться над водой и от горя плакать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10846,8 +10846,8 @@
         },
         {
           "index": 65,
-          "translation": "— Кали очень любить панича большого и биби — очень.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tak",
@@ -11053,8 +11053,8 @@
         },
         {
           "index": 66,
-          "translation": "И две большие слёзы блеснули в его глазах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -11140,8 +11140,8 @@
         },
         {
           "index": 67,
-          "translation": "Стась колебался, как ему поступить.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -11211,8 +11211,8 @@
         },
         {
           "index": 68,
-          "translation": "Ему было жалко Калего, однако он не согласился сразу на его просьбу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Było",
@@ -11338,8 +11338,8 @@
         },
         {
           "index": 69,
-          "translation": "Он понял, что — не говоря уже об опасностях возвращения — если М'Тана или колдуны подстрекнут чёрных к восстанию, то мальчику грозит не только изгнание из страны, но и смерть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zrozumiał",
@@ -11617,8 +11617,8 @@
         },
         {
           "index": 70,
-          "translation": "— Тебе лучше остаться, — сказал он, — несравненно лучше!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11736,8 +11736,8 @@
         },
         {
           "index": 71,
-          "translation": "Но в то время как он это говорил, вошла Нель, которая сквозь тонкую циновку, разделявшую комнаты, отлично слышала весь разговор, и, увидев теперь слёзы в глазах Каля, принялась вытирать их пальчиками с его ресниц, а потом обратилась к Стасю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -12095,8 +12095,8 @@
         },
         {
           "index": 72,
-          "translation": "— Кали пойдёт с нами, — сказала она с большой решительностью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12198,8 +12198,8 @@
         },
         {
           "index": 73,
-          "translation": "— Ого! — слегка обиженно ответил Стась — это не от тебя зависит.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12333,8 +12333,8 @@
         },
         {
           "index": 74,
-          "translation": "— Кали пойдёт с нами, — повторила она.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12412,8 +12412,8 @@
         },
         {
           "index": 75,
-          "translation": "— Или не пойдёт.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12467,8 +12467,8 @@
         },
         {
           "index": 76,
-          "translation": "— Я хочу!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nagle",
@@ -12554,8 +12554,8 @@
         },
         {
           "index": 77,
-          "translation": "Она сама разрыдалась в голос.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -12617,8 +12617,8 @@
         },
         {
           "index": 78,
-          "translation": "— Кали пойдёт с нами! пойдёт! пойдёт! Что ты плачешь? Какая несносная! Пойдёт!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -13152,8 +13152,8 @@
         },
         {
           "index": 79,
-          "translation": "А то мне надоело! Пойдёшь — слышишь?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -13239,8 +13239,8 @@
         },
         {
           "index": 80,
-          "translation": "И так произошло.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -13286,8 +13286,8 @@
         },
         {
           "index": 81,
-          "translation": "Стась стыдился весь день своей слабости к добрейшему Мзиму, а добрейший Мзим, добившись своего, был столь же тихим, ласковым и послушным, как всегда.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",

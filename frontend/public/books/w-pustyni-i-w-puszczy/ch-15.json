@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Спустя две недели после выступления из окрестностей Вади-Халфы караван вступил в земли, завоёванные Махди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "We",
@@ -158,8 +158,8 @@
         },
         {
           "index": 1,
-          "translation": "Они быстро пересекли холмистую пустыню Гезиру и близ Хенди, где англичане некогда полностью разгромили Мусу-улед-Хелу, въехали в местность уже совсем непохожую на пустыню.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przebyli",
@@ -413,8 +413,8 @@
         },
         {
           "index": 2,
-          "translation": "Здесь не было видно ни песков, ни осыпей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Piasków",
@@ -484,8 +484,8 @@
         },
         {
           "index": 3,
-          "translation": "Насколько хватало взгляда, раскидывалась степь, поросшая местами зелёной травой, местами джунглями, среди которых кустарником росли колючие акации, дающие известный суданский гумми, а там и сям возвышались отдельные громадные деревья набака, такие раскидистые, что под их ветвями сотня людей могла бы найти укрытие от солнца.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jak",
@@ -915,8 +915,8 @@
         },
         {
           "index": 4,
-          "translation": "От времени к времени караван проходил мимо высоких, похожих на столбы холмов термитов — термитников, которыми вся тропическая Африка усеяна.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Od",
@@ -1114,8 +1114,8 @@
         },
         {
           "index": 5,
-          "translation": "Зелень пастбищ и акаций радостно манила взор после однообразной, бесплодной желтизны пустынных песков.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zieloność",
@@ -1249,8 +1249,8 @@
         },
         {
           "index": 6,
-          "translation": "В местах, где степь была лугом, паслись стада верблюдов под охраной вооруженных воинов Махди.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -1400,8 +1400,8 @@
         },
         {
           "index": 7,
-          "translation": "При виде каравана они вскакивали, как хищные птицы, бежали ему навстречу, окружали со всех сторон и, потряхивая копьями и вопия во всё горло, расспрашивали людей, откуда они идут, почему тянутся с севера и куда направляются.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -1735,8 +1735,8 @@
         },
         {
           "index": 8,
-          "translation": "Иногда они принимали столь угрожающий вид, что Идрысу приходилось в величайшей спешке отвечать на вопросы, чтобы избежать нападения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czasami",
@@ -1910,8 +1910,8 @@
         },
         {
           "index": 9,
-          "translation": "Стась, который воображал себе, что жители Судана отличаются от всех арабов, населяющих Египет, только лишь тем, что верят в Махди и не желают признавать власть хедива, заметил, что совершенно ошибся.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -2213,8 +2213,8 @@
         },
         {
           "index": 10,
-          "translation": "Те, которые теперь то и дело задерживали караван, имели в большинстве своём кожу ещё более тёмную, чем у Идриса и Гебра, а в сравнении с двумя бедуинами почти чёрную.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ci",
@@ -2460,8 +2460,8 @@
         },
         {
           "index": 11,
-          "translation": "Негритянская кровь преобладала в них над арабской.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Krew",
@@ -2531,8 +2531,8 @@
         },
         {
           "index": 12,
-          "translation": "Их лица и груди были покрыты татуировками, а проколы изображали либо различные узоры, либо айаты из Корана.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Twarze",
@@ -2690,8 +2690,8 @@
         },
         {
           "index": 13,
-          "translation": "Некоторые были почти голы, другие носили джибы — плащи из белой хлопчатобумажной ткани, нашитые разноцветными лоскутами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Niektórzy",
@@ -2857,8 +2857,8 @@
         },
         {
           "index": 14,
-          "translation": "Многие имели коралловые веточки или куски слоновой кости, продетые через ноздри, губы и уши.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wielu",
@@ -3000,8 +3000,8 @@
         },
         {
           "index": 15,
-          "translation": "Вожди покрывали головы белыми крымками из той же ткани, что и плащи, простые воины носили открытые головы, но не голые, как арабы в Египте, а напротив, поросшие огромными вьющимися космами, часто опалённые в красный цвет из-за извести, которой они смазывали волосы для защиты от паразитов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przywódcy",
@@ -3423,8 +3423,8 @@
         },
         {
           "index": 16,
-          "translation": "Вооружением им служили главным образом копья, грозные в их руках, но у них имелись также винтовки Спенсера, захваченные в победоносных боях с египетской армией и после падения Хартума.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Broń",
@@ -3694,8 +3694,8 @@
         },
         {
           "index": 17,
-          "translation": "Вид их был в целом устрашающий, а поведение по отношению к каравану враждебным, поскольку они подозревали, что она состоит из египетских купцов, которым сразу после победы Махди было запрещено входить в Судан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Widok",
@@ -4005,8 +4005,8 @@
         },
         {
           "index": 18,
-          "translation": "Обычно, окружив караван с криками и угрозами, они направляли копья в груди людей или целили в них из винтовок, на что Идрис отвечал криком, что он и его брат принадлежат к роду данголов, тому самому, к которому принадлежит Махди, и что они везут пророку белых детей в качестве рабов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zwykle",
@@ -4428,8 +4428,8 @@
         },
         {
           "index": 19,
-          "translation": "Только это удерживало мужиков от насилия.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "To",
@@ -4491,8 +4491,8 @@
         },
         {
           "index": 20,
-          "translation": "У Стася, когда он наконец столкнулся с этой ужасной действительностью, душа замирала при мысли о том, что ждёт их обоих в грядущие дни, а и Идрис, который долгие годы жил прежде в цивилизованной стране, не представлял себе ничего подобного.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -4850,8 +4850,8 @@
         },
         {
           "index": 21,
-          "translation": "Он был рад и тогда, когда однажды вечером вооруженный отряд эмира Нур-эль-Тадхила охватил их и привел в Хартум.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Rad",
@@ -5041,8 +5041,8 @@
         },
         {
           "index": 22,
-          "translation": "Нур-эль-Тадхиль, прежде чем бежать к Махди, был офицером египетского войска в чёрном полку хедива, поэтому он не был столь дик, как другие махдисты, и Идрис мог с ним легче найти общий язык.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nur",
@@ -5344,8 +5344,8 @@
         },
         {
           "index": 23,
-          "translation": "Но и здесь его ждало разочарование.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -5407,8 +5407,8 @@
         },
         {
           "index": 24,
-          "translation": "Он воображал себе, что его приезд с белыми детьми в лагерь Махди вызовет восхищение, хотя бы в силу безумных трудностей и опасностей пути.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wyobrażał",
@@ -5630,8 +5630,8 @@
         },
         {
           "index": 25,
-          "translation": "Он ожидал, что махдисты встретят его с восторгом, с распростёртыми объятиями и проводят в триумфе к пророку, а тот осыпет его золотом и похвалами, как человека, который не колебался рискнуть жизнью, чтобы оказать услугу его родственнице Фатиме.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Spodziewał",
@@ -6013,8 +6013,8 @@
         },
         {
           "index": 26,
-          "translation": "— Нет, в Омдурмане и в Хартуме находится свыше ста тысяч воинов, так что легко не встретиться, и не все офицеры друг друга знают.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tymczasem",
@@ -6524,8 +6524,8 @@
         },
         {
           "index": 27,
-          "translation": "Государство пророка огромно, поэтому множество эмиров управляет отдалёнными городами в Сеннаре, в Кордофане и Дарфуре, и около Фашоды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Państwo",
@@ -6747,8 +6747,8 @@
         },
         {
           "index": 28,
-          "translation": "Быть может, этого Смаина, о котором ты спрашиваешь, нет сейчас при пророке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Być",
@@ -6914,8 +6914,8 @@
         },
         {
           "index": 29,
-          "translation": "— Смаин женат на двоюродной сестре Махди, а значит, дети Смаина приходятся родственниками пророку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrysa",
@@ -7249,8 +7249,8 @@
         },
         {
           "index": 30,
-          "translation": "Нур-эль-Тадхил пожал плечами.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nur",
@@ -7328,8 +7328,8 @@
         },
         {
           "index": 31,
-          "translation": "— У Махди много родственников, и он не может помнить всех.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7439,8 +7439,8 @@
         },
         {
           "index": 32,
-          "translation": "— Как быстро мы доедем до Хартума?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czas",
@@ -7614,8 +7614,8 @@
         },
         {
           "index": 33,
-          "translation": "— До полуночи, — ответил Тадхил, глядя на звёзды, которые начинали появляться на восточной части неба.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7781,8 +7781,8 @@
         },
         {
           "index": 34,
-          "translation": "— Смогу ли я в такой поздний час получить продукты и припасы?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -7892,8 +7892,8 @@
         },
         {
           "index": 35,
-          "translation": "С тех пор как мы в полдень сделали последний привал, мы ничего не ели…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Od",
@@ -7979,8 +7979,8 @@
         },
         {
           "index": 36,
-          "translation": "— Почему?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8298,8 +8298,8 @@
         },
         {
           "index": 37,
-          "translation": "— Идёт война.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8345,8 +8345,8 @@
         },
         {
           "index": 38,
-          "translation": "Люди несколько лет не засевали поля и питались только мясом, поэтому когда наконец не стало скота, наступил голод.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludzie",
@@ -8536,8 +8536,8 @@
         },
         {
           "index": 39,
-          "translation": "— Аллах акбар! — воскликнул Идрис в изумлении.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Głód",
@@ -8743,8 +8743,8 @@
         },
         {
           "index": 40,
-          "translation": "— Я видел, однако, в степи стада верблюдов и скота.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8838,8 +8838,8 @@
         },
         {
           "index": 41,
-          "translation": "— Они принадлежат пророку, «благородным» и халифам... Да...",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8973,8 +8973,8 @@
         },
         {
           "index": 42,
-          "translation": "Данголи, из среды которых вышел Махди, и баггары, возглавляемые главным халифом Абдуллахи, располагают ещё довольно многочисленными стадами, однако другим племенам всё труднее существовать в этом мире.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dangalowie",
@@ -9252,8 +9252,8 @@
         },
         {
           "index": 43,
-          "translation": "— На службе у пророка я имею более высокий чин, больше денег и большую власть, но живот был у меня больше на службе у хедива…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tu",
@@ -9555,8 +9555,8 @@
         },
         {
           "index": 44,
-          "translation": "— Но всё это пройдёт, когда восторжествует истинная вера.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -9770,8 +9770,8 @@
         },
         {
           "index": 45,
-          "translation": "Идрис, слушая эти слова, невольно подумал, что в Фаюме, служа у англичан, он никогда не голодал и заработки давались ему легко — и поэтому его лицо сильно помрачнело.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrys",
@@ -10073,8 +10073,8 @@
         },
         {
           "index": 46,
-          "translation": "— Так точно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -10232,8 +10232,8 @@
         },
         {
           "index": 47,
-          "translation": "Картум по повелению пророка должен быть оставлен, и там уже мало кто проживает.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chartum",
@@ -10351,8 +10351,8 @@
         },
         {
           "index": 48,
-          "translation": "Бурят сейчас более крупные дома, а кирпич вывозят вместе с прочей добычей в Омдурман.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Burzą",
@@ -10478,8 +10478,8 @@
         },
         {
           "index": 49,
-          "translation": "Пророк не желает обитать в городе, осквернённом неверными.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Prorok",
@@ -10573,8 +10573,8 @@
         },
         {
           "index": 50,
-          "translation": "— Ха!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10740,8 +10740,8 @@
         },
         {
           "index": 51,
-          "translation": "Если ты действительно принадлежишь к Данголам, то может быть, тебя допустят перед его лицо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "jeśli",
@@ -10859,8 +10859,8 @@
         },
         {
           "index": 52,
-          "translation": "Но знай, что дом его охраняет день и ночь сотня людей с кнутами, и они не жалеют ударов тем, кто пожелал бы войти к Махди без разрешения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -11130,8 +11130,8 @@
         },
         {
           "index": 53,
-          "translation": "Иначе толпы не дали бы святому мужу ни минуты отдыха… Аллах!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Inaczej",
@@ -11233,8 +11233,8 @@
         },
         {
           "index": 54,
-          "translation": "Я видел даже Данголов с кровавыми полосами на спинах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "widziałem",
@@ -11328,8 +11328,8 @@
         },
         {
           "index": 55,
-          "translation": "Идриса с каждым мгновением охватывало всё большее разочарование.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Idrysa",
@@ -11407,8 +11407,8 @@
         },
         {
           "index": 56,
-          "translation": "— Значит, верующие, — спросил он, — никогда не видят пророка?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11502,8 +11502,8 @@
         },
         {
           "index": 57,
-          "translation": "— Верные видят его каждый день на молитвенной площади, когда он, стоя на коленях на овечьей шкуре, воздевает руки к Богу или когда учит толпы и утверждает их в истинной вере.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11757,8 +11757,8 @@
         },
         {
           "index": 58,
-          "translation": "Но добраться до него и поговорить с ним трудно — и кто удостоится такого счастья, все будут ему завидовать, ибо нисходит на него божья благодать, которая изглаживает его прежние грехи.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -12052,8 +12052,8 @@
         },
         {
           "index": 59,
-          "translation": "Наступила глубокая ночь, и вместе с ней пришел пронизывающий холод.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zapadła",
@@ -12163,8 +12163,8 @@
         },
         {
           "index": 60,
-          "translation": "В рядах раздалось фырканье коней, а скачок от дневного зноя к холоду был столь резким, что шкуры лошадей начали дымиться, и отряд ехал словно в тумане.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -12410,8 +12410,8 @@
         },
         {
           "index": 61,
-          "translation": "— Тебе не холодно?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -12553,8 +12553,8 @@
         },
         {
           "index": 62,
-          "translation": "И слёзы задушили её дальнейшие слова.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12744,8 +12744,8 @@
         },
         {
           "index": 63,
-          "translation": "Стась на этот раз не смог найти для неё никакого утешения, потому что и сам был убеждён, что для них нет спасения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -12935,8 +12935,8 @@
         },
         {
           "index": 64,
-          "translation": "Вот они въехали в край нищеты, голода, звериных жестокостей и крови.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oto",
@@ -13046,8 +13046,8 @@
         },
         {
           "index": 65,
-          "translation": "Они были как два жалких листка среди бури, которая несла смерть и разрушение не только отдельным людям, но целым городам и целым племенам.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Byli",
@@ -13261,8 +13261,8 @@
         },
         {
           "index": 66,
-          "translation": "Какая рука могла вырвать из неё и спасти двух маленьких, беззащитных детей?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jakaż",
@@ -13388,8 +13388,8 @@
         },
         {
           "index": 67,
-          "translation": "Луна выкатилась высоко на небо и превратила ветви мимозы и акаций как бы в серебряные перья.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Księżyc",
@@ -13531,8 +13531,8 @@
         },
         {
           "index": 68,
-          "translation": "В густых джунглях раздавался то тут, то там пронзительный, и вместе с тем как будто радостный смех гиен, которые в этой кровавой земле находили предостаточно человеческих трупов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -13762,8 +13762,8 @@
         },
         {
           "index": 69,
-          "translation": "Когда отряд, ведущий караван, встречался с другими патрулями, он обменивался с ними условным паролем.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kiedy",
@@ -13905,8 +13905,8 @@
         },
         {
           "index": 70,
-          "translation": "Они наконец добрались до холмов, что возвышались над берегом, и через узкое ущелье спустились к Нилу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przybyli",
@@ -14008,8 +14008,8 @@
         },
         {
           "index": 71,
-          "translation": "Люди, кони и верблюды взошли на широкое и плоское дахабие, и вскоре тяжёлые вёсла мерным движением начали разбивать и ломать гладкую гладь реки, усеянную алмазами звёзд.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludzie",
@@ -14247,8 +14247,8 @@
         },
         {
           "index": 72,
-          "translation": "Спустя полчаса в южной стороне, куда уходили под воду дахабии, вспыхнули огни, которые по мере приближения кораблей превращались в снопы алого сияния, лежащие на воде.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -14566,8 +14566,8 @@
         },
         {
           "index": 73,
-          "translation": "— Харту́м!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nur",

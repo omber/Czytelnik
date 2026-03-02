@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "На протяжении нескольких дней Нел проводила все свободные моменты, когда не шел дождь, у Кинга, который уже не возражал против её уходов, поняв, что девочка возвращается несколько раз в день.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -294,8 +294,8 @@
         },
         {
           "index": 1,
-          "translation": "Кали, который вообще боялся слонов, смотрел на это с необычайным удивлением, но в конце концов пришёл к убеждению, что могущественный добрый Мзиму очаровал великана, и начал его также навещать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Kali",
@@ -589,8 +589,8 @@
         },
         {
           "index": 2,
-          "translation": "Король относился к нему благожелательно, как и к Май, но только одна Нель делала с ним что угодно, так что через неделю она осмелилась даже привести ему Сабе.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "King",
@@ -868,8 +868,8 @@
         },
         {
           "index": 3,
-          "translation": "Для Стася это было большим облегчением, так как он мог с полным спокойствием оставить Нель под присмотром, то есть, как он говорил, под хоботом слона, и ходить на охоту без всяких опасений, а то и иногда брать с собой Калего.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dla",
@@ -1211,8 +1211,8 @@
         },
         {
           "index": 4,
-          "translation": "Теперь он был уверен, что благородное животное уже никогда их не покинет, и начал размышлять, как освободить его из заключения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -1442,8 +1442,8 @@
         },
         {
           "index": 5,
-          "translation": "И по правде говоря, способ этот он придумал давно, но требовавший такой жертвы, что он терзался сомнениями, применить ли его, а потом откладывал это со дня на день.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -1721,8 +1721,8 @@
         },
         {
           "index": 6,
-          "translation": "Поскольку ему было не с кем об этом поговорить, он решился наконец посвятить Nel в свои намерения, хотя считал её ребёнком.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ponieważ",
@@ -1920,8 +1920,8 @@
         },
         {
           "index": 7,
-          "translation": "— Скалу можно взорвать порохом, — сказал он, — но придётся испортить множество зарядов, то есть вынуть из них пули, высыпать порох и сделать из него один большой заряд.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2199,8 +2199,8 @@
         },
         {
           "index": 8,
-          "translation": "Такой патрон втисну я в самую глубокую щель, которая найдётся внутри, потом закупорю и подожгу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Taki",
@@ -2350,8 +2350,8 @@
         },
         {
           "index": 9,
-          "translation": "Тогда скала развалится на несколько или дюжину частей, и Кингу можно будет вывести.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wówczas",
@@ -2485,8 +2485,8 @@
         },
         {
           "index": 10,
-          "translation": "— Но если будет громкий звук, то разве он не испугается?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2612,8 +2612,8 @@
         },
         {
           "index": 11,
-          "translation": "— Пусть он испугается! — живо ответил Стась.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2707,8 +2707,8 @@
         },
         {
           "index": 12,
-          "translation": "— Мне это меньше всего интересно.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2762,8 +2762,8 @@
         },
         {
           "index": 13,
-          "translation": "С тобой просто невозможно говорить всерьез.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Z",
@@ -2841,8 +2841,8 @@
         },
         {
           "index": 14,
-          "translation": "— Но если я использую слишком мало взрывчатки, скала не развалится, и я потрачу её впустую; если же достаточно, то у нас останется совсем немного.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jednakże",
@@ -3176,8 +3176,8 @@
         },
         {
           "index": 15,
-          "translation": "А если их не хватит до конца пути, то нам просто грозит смерть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -3303,8 +3303,8 @@
         },
         {
           "index": 16,
-          "translation": "Но на что же я буду охотиться, чем тебя защищать в случае какого-нибудь нападения?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Bo",
@@ -3422,8 +3422,8 @@
         },
         {
           "index": 17,
-          "translation": "Ты же отлично знаешь, что если бы не эта винтовка и не эти патроны, мы бы давно погибли — либо от рук гестапо, либо от голода.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wiesz",
@@ -3645,8 +3645,8 @@
         },
         {
           "index": 18,
-          "translation": "И благодать в том, что у нас есть кони, потому что сами мы не смогли бы ни поднять вещи, ни нести грузы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -3820,8 +3820,8 @@
         },
         {
           "index": 19,
-          "translation": "— Если я скажу Кингу, то Кинг все перенесет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -4043,8 +4043,8 @@
         },
         {
           "index": 20,
-          "translation": "— Какой груз понесёт, если почти ничего не останется?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4146,8 +4146,8 @@
         },
         {
           "index": 21,
-          "translation": "— Он будет нас за это защищать...",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4217,8 +4217,8 @@
         },
         {
           "index": 22,
-          "translation": "— Но ведь он не будет же стрелять из своей трубы по дичи так, как я из винтовки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4368,8 +4368,8 @@
         },
         {
           "index": 23,
-          "translation": "— Мы можем есть инжир и те большие тыквы, что растут на деревьях, а Кали всегда наловит нам рыбы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4551,8 +4551,8 @@
         },
         {
           "index": 24,
-          "translation": "— Пока останемся над рекой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4606,8 +4606,8 @@
         },
         {
           "index": 25,
-          "translation": "В дождливое время года здесь нужно переждать, так как эти постоянные ливни наверняка вызовут у тебя лихорадку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Porę",
@@ -4741,8 +4741,8 @@
         },
         {
           "index": 26,
-          "translation": "Помни однако, что потом мы продолжим путь и можем попасть в пустыню.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pamiętaj",
@@ -4876,8 +4876,8 @@
         },
         {
           "index": 27,
-          "translation": "— Такую, как Сахара? — спросила в испуге Нель.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -4979,8 +4979,8 @@
         },
         {
           "index": 28,
-          "translation": "— Нет, такую, где нет рек и фруктовых деревьев, а растут только низкие акации и мимозы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -5162,8 +5162,8 @@
         },
         {
           "index": 29,
-          "translation": "Там можно жить только на добытое охотой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tam",
@@ -5257,8 +5257,8 @@
         },
         {
           "index": 30,
-          "translation": "Король найдёт там траву, а я антилоп, но если у меня не будет чем в них стрелять, то Король их не поймает.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "King",
@@ -5472,8 +5472,8 @@
         },
         {
           "index": 31,
-          "translation": "И в самом деле, у Стася было о чём беспокоиться, ибо теперь, когда слон уже приручился и подружился с ними столь сердечно, нельзя было его бросить и обречь на голодную смерть; а освободить его означало лишиться большей части боеприпасов и подвергнуть самих себя неизбежной гибели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -5911,8 +5911,8 @@
         },
         {
           "index": 32,
-          "translation": "«Может быть, завтра я придумаю какой-нибудь другой способ».",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więc",
@@ -6134,8 +6134,8 @@
         },
         {
           "index": 33,
-          "translation": "Между тем к этой тревоге присоединились иные.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -6213,8 +6213,8 @@
         },
         {
           "index": 34,
-          "translation": "Вперед Калего страшно искусали дикие пчелы в долине реки, туда его привел известный в Африке небольшой серовато-зеленый птица, называемая медоуказчиком.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Naprzód",
@@ -6412,8 +6412,8 @@
         },
         {
           "index": 35,
-          "translation": "Чёрный мальчик из лени не захотел как следует их окурить, поэтому вернулся с мёдом, но весь в укусах и опухший настолько, что через час потерял сознание.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Czarnemu",
@@ -6651,8 +6651,8 @@
         },
         {
           "index": 36,
-          "translation": "Добре Мзиму вытягивала его всю ночь до вечера с помощью Меи, поливала его землёй, которую Стась смачивал водой.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dobre",
@@ -6858,8 +6858,8 @@
         },
         {
           "index": 37,
-          "translation": "Однако на рассвете показалось, что бедный негр умирает.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jednakże",
@@ -6953,8 +6953,8 @@
         },
         {
           "index": 38,
-          "translation": "К счастью, старания и крепкий организм одолели опасность — здоровье он вернул себе только спустя десять дней.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -7112,8 +7112,8 @@
         },
         {
           "index": 39,
-          "translation": "Вторая приключение встретила коней.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Druga",
@@ -7159,8 +7159,8 @@
         },
         {
           "index": 40,
-          "translation": "Стась, которому во время болезни Калего приходилось водить их и гонять к водопою, заметил, что они начали ужасно худеть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -7334,8 +7334,8 @@
         },
         {
           "index": 41,
-          "translation": "Нельзя было объяснить это нехваткой корма, так как благодаря дождям трава выросла густо и высоко, и отличного пастбища было в избытке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -7509,8 +7509,8 @@
         },
         {
           "index": 42,
-          "translation": "И всё же кони совсем исчезли.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",
@@ -7564,8 +7564,8 @@
         },
         {
           "index": 43,
-          "translation": "Через несколько дней шерсть на них взъерошилась, глаза потухли, а из ноздрей потекла густая слизь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -7723,8 +7723,8 @@
         },
         {
           "index": 44,
-          "translation": "В конце концов они перестали есть, зато пили жадно, словно их жгла лихорадка.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -7850,8 +7850,8 @@
         },
         {
           "index": 45,
-          "translation": "Когда Кали пришёл в себя, это уже были два скелета.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gdy",
@@ -7953,8 +7953,8 @@
         },
         {
           "index": 46,
-          "translation": "Но он лишь взглянул на них и сразу понял, что произошло.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -8088,8 +8088,8 @@
         },
         {
           "index": 47,
-          "translation": "— Цеце! — сказал он, обращаясь к Стасю.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8191,8 +8191,8 @@
         },
         {
           "index": 48,
-          "translation": "— Один из них должен умереть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -8246,8 +8246,8 @@
         },
         {
           "index": 49,
-          "translation": "Стась понял это также, потому что уже в Порт-Саиде неоднократно слышал о африканской мухе, называемой цеце, которая является столь страшной бедой некоторых местностей, что там, где она постоянно обитает, негры совсем не держат скота, а там, где вследствие благоприятных временных условий она неожиданно размножится, скот погибает.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -8709,8 +8709,8 @@
         },
         {
           "index": 50,
-          "translation": "Лошадь, вол или осел, укушенные мухой цеце, чахнут и погибают в течение нескольких дней, иногда за считанные дни.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Koń",
@@ -8924,8 +8924,8 @@
         },
         {
           "index": 51,
-          "translation": "Местные животные понимают и опасность, которую им грозит со стороны пчелы, бывает ведь, что целые стада быков, услышав её жужжание у водопоя, впадают в дикий панический страх и разбегаются во все стороны.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Zwierzęta",
@@ -9251,8 +9251,8 @@
         },
         {
           "index": 52,
-          "translation": "Лошади Стасия были покусаны; этих лошадей, а вместе с ними и осла, Кали теперь натирал ежедневно какой-то невероятно пахучей растением, похожей запахом на лук, которую он раскопал в джунглях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stasiowe",
@@ -9538,8 +9538,8 @@
         },
         {
           "index": 53,
-          "translation": "Он говорил, что её запах отгоняет муху цеце, но несмотря на столь действенное средство кони худели.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mówił",
@@ -9689,8 +9689,8 @@
         },
         {
           "index": 54,
-          "translation": "Стась с тревогой думал о том, что будет, если животные падут.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -9808,8 +9808,8 @@
         },
         {
           "index": 55,
-          "translation": "Как же тогда забрать вещи, Нел, войлоки, палатку, грузы и посуду?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jak",
@@ -9935,8 +9935,8 @@
         },
         {
           "index": 56,
-          "translation": "Было этого столько, что, пожалуй, только один Кинг смог бы все это вынести.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Było",
@@ -10054,8 +10054,8 @@
         },
         {
           "index": 57,
-          "translation": "Но чтобы освободить Кинга, нужно было потратить по меньшей мере две трети патронов.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -10173,8 +10173,8 @@
         },
         {
           "index": 58,
-          "translation": "Все более тяжелые заботы скапливались над головой Стася, подобно тем облакам, которые не переставали орошать джунгли дождем.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Coraz",
@@ -10348,8 +10348,8 @@
         },
         {
           "index": 59,
-          "translation": "И наконец пришла величайшая беда, перед которой все остальные померкли: лихорадка!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "A",

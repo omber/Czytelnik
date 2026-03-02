@@ -7,8 +7,8 @@
       "sentences": [
         {
           "index": 0,
-          "translation": "Старый шейх Хатим верно сдержал обещание, данное греку, и заботливо воспитывал детей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Stary",
@@ -126,8 +126,8 @@
         },
         {
           "index": 1,
-          "translation": "Путь вверх по Белому Нилу был тяжёлым.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Droga",
@@ -197,8 +197,8 @@
         },
         {
           "index": 2,
-          "translation": "Они проехали через Кетайну, Эд-Дусим и Кану, затем миновали Аббу — поросший лесом остров на Ниле, где до войны жил в трухлявом дереве Махди, выступавший в роли дервиша-отшельника.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jechali",
@@ -468,8 +468,8 @@
         },
         {
           "index": 3,
-          "translation": "Караван часто вынужден был обходить обширные болотистые разливы, заросшие папирусом, так называемые суддские озёра, от которых веяло отравленным запахом разлагающихся листьев, принесённых течением воды.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Karawana",
@@ -707,8 +707,8 @@
         },
         {
           "index": 4,
-          "translation": "Английские инженеры в свое время прорезали эти пороги, и тогда речные пароходы могли ходить от Хартума до Фашоды и дальше.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Angielscy",
@@ -890,8 +890,8 @@
         },
         {
           "index": 5,
-          "translation": "Однако река вновь запрудилась и, не имея возможности течь свободно, разливалась по обе стороны.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Obecnie",
@@ -1033,8 +1033,8 @@
         },
         {
           "index": 6,
-          "translation": "Окрестность по правому и левому берегу покрывала высокая джунгль, среди которой возвышались термитники и отдельные гигантские деревья; кое-где леса подступали вплотную к реке.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Okolica",
@@ -1272,8 +1272,8 @@
         },
         {
           "index": 7,
-          "translation": "На более сухих местах росли акациевые рощи.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -1335,8 +1335,8 @@
         },
         {
           "index": 8,
-          "translation": "В течение первых недель они встречали арабские селения и городки с домами странной бочкообразной формы крыш, сплетённых из чёрного соломы, но за Аббой, от поселения Гоз-Абу-Гума, они въехали в страну чёрных.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przez",
@@ -1638,8 +1638,8 @@
         },
         {
           "index": 9,
-          "translation": "Он был, однако, совершенно пустынен, так как дервиши почти дотла опустошили местное чёрное население и продавали его на базарах Хартума, Омдурмана, Дары, Фашера, Эль-Обейда и других городов Судана, Дарфура и Кордофана.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -1965,8 +1965,8 @@
         },
         {
           "index": 10,
-          "translation": "Тех жителей, которым удалось скрыться от рабства в зарослях, в лесах, истребили голод и оспа, разразившаяся с невиданной силой вдоль Белого и Голубого Нила.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tych",
@@ -2228,8 +2228,8 @@
         },
         {
           "index": 11,
-          "translation": "Суфийские дервиши говорили, что на неё вымирали целые народы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Sami",
@@ -2339,8 +2339,8 @@
         },
         {
           "index": 12,
-          "translation": "Давние плантации сорго, маниока и бананов поглотила джунгль.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dawne",
@@ -2426,8 +2426,8 @@
         },
         {
           "index": 13,
-          "translation": "Только дикий зверь, не преследуемый никем, размножился в изобилии.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tylko",
@@ -2537,8 +2537,8 @@
         },
         {
           "index": 14,
-          "translation": "Не раз при вечерней зоре дети издалека видели стада слонов, похожие на движущиеся скалы, медленно направлявшиеся к известным им водопоям.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nieraz",
@@ -2736,8 +2736,8 @@
         },
         {
           "index": 15,
-          "translation": "— Машаллах!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -2943,8 +2943,8 @@
         },
         {
           "index": 16,
-          "translation": "— Сколько здесь богатства!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -2990,8 +2990,8 @@
         },
         {
           "index": 17,
-          "translation": "Но теперь охотиться нечего, потому что Махди запретил египетским торговцам приезжать в Хартум, и некому сбывать слоновую кость, разве только эмирам в Умбайе.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -3213,8 +3213,8 @@
         },
         {
           "index": 18,
-          "translation": "Кроме слонов встречались и жирафы, которые, завидев караван, поспешно убегали тяжёлым иноходью, покачивая длинными шеями так, как будто они были хромы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Prócz",
@@ -3404,8 +3404,8 @@
         },
         {
           "index": 19,
-          "translation": "За Гоз-Абу-Гумой всё чаще попадались буйволы и целые стада антилоп.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Za",
@@ -3539,8 +3539,8 @@
         },
         {
           "index": 20,
-          "translation": "Продовольствия вообще было в недостатке, ибо вследствие опустошения края нельзя было раздобыть ни проса, ни бананов, ни рыбы, которые в старину доставляли караванам негры из племён шиллуков и динка, охотно обменивая их на стеклянные бусы и медную проволоку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ludzie",
@@ -4170,8 +4170,8 @@
         },
         {
           "index": 21,
-          "translation": "Хатим не дал однако детям умереть с голода, а кроме того, держал в узде Гебхру и когда тот однажды на ночевке ударил Стася при снятии седел с верблюдов, велел его растянуть на земле и отчитать ему по тридцать ударов в каждую пяту бамбуком.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Hatim",
@@ -4537,8 +4537,8 @@
         },
         {
           "index": 22,
-          "translation": "Жестокий суданец два дня мог ходить только на цыпочках и проклинал минуту, когда он покинул Файюм, и мстил себя на молодом рабе, подарованном ему, по имени Кали.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Okrutny",
@@ -4808,8 +4808,8 @@
         },
         {
           "index": 23,
-          "translation": "Сташ сначала почти радовался, что они покинули запестревший чумой Омдурман и что видит страны, о которых всегда мечтал.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -4983,8 +4983,8 @@
         },
         {
           "index": 24,
-          "translation": "Его крепкий организм до сих пор прекрасно выдерживал тяготы путешествия, а более обильная пища вернула ему силы.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jego",
@@ -5118,8 +5118,8 @@
         },
         {
           "index": 25,
-          "translation": "Не раз во время пути и на привалах он шептал сестрице в ухо, что можно бежать и от Белого Нила, и что вовсе не отказался от этого намерения.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nieraz",
@@ -5349,8 +5349,8 @@
         },
         {
           "index": 26,
-          "translation": "Однако её здоровье его беспокоило.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -5404,8 +5404,8 @@
         },
         {
           "index": 27,
-          "translation": "Через три недели после отъезда из Омдурмана Нель еще не слегла от лихорадки, но лицо ее похудело, и вместо того чтобы загореть, оно становилось все более прозрачным, а ее маленькие ручки выглядели так, словно вылеплены из воска.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Po",
@@ -5731,8 +5731,8 @@
         },
         {
           "index": 28,
-          "translation": "Ей не недоставало ни усилий, ни даже таких удобств, которые Стась и Дина с помощью Хатима могли ей обеспечить, но ей недоставало здорового пустынного воздуха.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -5946,8 +5946,8 @@
         },
         {
           "index": 29,
-          "translation": "Влажный и знойный климат в сочетании с тяготами пути всё более подрывал силы хрупкого ребёнка.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wilgotny",
@@ -6089,8 +6089,8 @@
         },
         {
           "index": 30,
-          "translation": "Стась, начиная с Гоз-Абу-Гумы, давал ей ежедневно по половине порошка хинина и страшно беспокоился при мысли о том, что лекарства ему скоро не хватит, а достать его позже будет негде.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -6408,8 +6408,8 @@
         },
         {
           "index": 31,
-          "translation": "Но против этого было ничего не поделаешь, так как прежде всего нужно было предотвратить лихорадку.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -6527,8 +6527,8 @@
         },
         {
           "index": 32,
-          "translation": "Иногда его охватывала отчаяние.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Chwilami",
@@ -6574,8 +6574,8 @@
         },
         {
           "index": 33,
-          "translation": "Он лелеял лишь надежду, что Смаин, если вздумает обменять их обоих на собственных детей, должен будет найти для них какую-нибудь местность здоровее, чем Фашода.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Łudził",
@@ -6813,8 +6813,8 @@
         },
         {
           "index": 34,
-          "translation": "Но беда, казалось, неустанно преследовала своих жертв.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Lecz",
@@ -6892,8 +6892,8 @@
         },
         {
           "index": 35,
-          "translation": "В день перед прибытием в Фашоду Динах, еще в Омдурмане ощущавшая слабость, внезапно упала в обморок, развязывая узелок с вещами Нель, взятыми из Фаюма, и упала с верблюда.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Na",
@@ -7155,8 +7155,8 @@
         },
         {
           "index": 36,
-          "translation": "Стась и Хамис с величайшим трудом коснулись её.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -7242,8 +7242,8 @@
         },
         {
           "index": 37,
-          "translation": "Однако сознание к ней не вернулось, или вернулось лишь вечером, только затем, чтобы в слёзах проститься со своей любимой барышней и умереть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nie",
@@ -7457,8 +7457,8 @@
         },
         {
           "index": 38,
-          "translation": "Гебр хотел во что бы то ни стало отрезать ей после смерти уши, чтобы показать их Смаину в доказательство того, что она погибла в пути, и потребовать отдельного выкупа за её похищение.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gebhr",
@@ -7704,8 +7704,8 @@
         },
         {
           "index": 39,
-          "translation": "Так поступали с умершими рабами во время путешествия.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Tak",
@@ -7775,8 +7775,8 @@
         },
         {
           "index": 40,
-          "translation": "Но Хатим, по просьбе Стася и Нель, на это не согласился, поэтому похоронили её с почестями, а могилу её защитили от гиен камнями и колючками.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -8038,8 +8038,8 @@
         },
         {
           "index": 41,
-          "translation": "Дети чувствовали себя ещё более одинокими, потеряв в ней единственную близкую и преданную душу.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dzieci",
@@ -8173,8 +8173,8 @@
         },
         {
           "index": 42,
-          "translation": "Это был особенно жестокий удар для Нел, поэтому Стась напрасно пытался её утешить всю ночь и весь следующий день.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -8372,8 +8372,8 @@
         },
         {
           "index": 43,
-          "translation": "Наступил шестой день путешествия.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nadszedł",
@@ -8419,8 +8419,8 @@
         },
         {
           "index": 44,
-          "translation": "На следующий день в полдень караван прибыл в Фашоду, но нашел там только развалины.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nazajutrz",
@@ -8530,8 +8530,8 @@
         },
         {
           "index": 45,
-          "translation": "Махдисты разбивали лагеря под открытым небом или в наспех сколоченных шалашах из травы и ветвей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mahdyści",
@@ -8657,8 +8657,8 @@
         },
         {
           "index": 46,
-          "translation": "Три дня назад поселение сгорело полностью.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Trzy",
@@ -8728,8 +8728,8 @@
         },
         {
           "index": 47,
-          "translation": "Остались лишь закопчённые дымом стены глиняных круглых хижин и стоящий прямо над водой большой деревянный сарай, который во времена египетского владычества служил складом слоновой кости, а в котором теперь жил вождь дервишей, эмир Секи-Тамала.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Pozostały",
@@ -9055,8 +9055,8 @@
         },
         {
           "index": 48,
-          "translation": "Это был знаменитый человек среди махдистов, скрытый враг халифа Абдуллахи, но при этом личный друг Хатима.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Był",
@@ -9206,8 +9206,8 @@
         },
         {
           "index": 49,
-          "translation": "Он радушно принял у себя старого шейха с его детьми, но тотчас же с самого начала поведал им неблагоприятную новость.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ten",
@@ -9381,8 +9381,8 @@
         },
         {
           "index": 50,
-          "translation": "Отто Смаина не найдут в Фашоде.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Oto",
@@ -9444,8 +9444,8 @@
         },
         {
           "index": 51,
-          "translation": "Два дня назад он отправился на восток и юг от Нила в работорговческую экспедицию и неизвестно, когда вернётся, так как ближайшие окрестности уже обезлюдели, и человеческий товар приходилось искать очень далеко.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przed",
@@ -9755,8 +9755,8 @@
         },
         {
           "index": 52,
-          "translation": "Неподалёку от Фашоды действительно лежала Абиссиния, с которой дервишами велась война.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Blisko",
@@ -9882,8 +9882,8 @@
         },
         {
           "index": 53,
-          "translation": "Но Смаин, располагая всего тремястами людей, не мог решиться пересечь её границы, которые теперь тщательно охраняли воинственные жители и солдаты короля Яна.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -10113,8 +10113,8 @@
         },
         {
           "index": 54,
-          "translation": "Тогда Секи-Тамала и Хатим начали раздумывать, что делать с детьми.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wobec",
@@ -10248,8 +10248,8 @@
         },
         {
           "index": 55,
-          "translation": "Беседа велась главным образом во время ужина, на который эмир пригласил также Стася и Нель.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Narada",
@@ -10391,8 +10391,8 @@
         },
         {
           "index": 56,
-          "translation": "— Я, — сказал Хатиму, — вскоре должен отправиться со всеми людьми в дальний поход на юг против эмира-паши, который засел в Ладо, имея там паровики и войско.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -10654,8 +10654,8 @@
         },
         {
           "index": 57,
-          "translation": "Такой приказ ты мне привез, Хатимие…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Taki",
@@ -10717,8 +10717,8 @@
         },
         {
           "index": 58,
-          "translation": "Ты должен вернуться в Омдурман, поэтому в Фашоде не останется ни одной живой души.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ty",
@@ -10844,8 +10844,8 @@
         },
         {
           "index": 59,
-          "translation": "Здесь негде жить, нечего есть и царит болезнь.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Mieszkać",
@@ -10963,8 +10963,8 @@
         },
         {
           "index": 60,
-          "translation": "Я знаю, конечно, что белые не болеют оспой, но эта лихорадка убьёт этих детей в течение месяца.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wiem",
@@ -11130,8 +11130,8 @@
         },
         {
           "index": 61,
-          "translation": "— Мне велели доставить их в Фашоду, — ответил Хатим, — и я их доставил, так что больше я о них беспокоиться не обязан.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11321,8 +11321,8 @@
         },
         {
           "index": 62,
-          "translation": "Но мне их рекомендовал мой друг, грек Калиопули, поэтому я не хотел бы, чтобы они погибли.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -11472,8 +11472,8 @@
         },
         {
           "index": 63,
-          "translation": "— А это обязательно произойдёт.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11551,8 +11551,8 @@
         },
         {
           "index": 64,
-          "translation": "Что же тогда делать?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11606,8 +11606,8 @@
         },
         {
           "index": 65,
-          "translation": "— Вместо того чтобы оставлять их в пустой Фашоде, отошли их Смаину вместе с теми людьми, которые привезли их в Омдурман.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -11797,8 +11797,8 @@
         },
         {
           "index": 66,
-          "translation": "Смаин отправился в горы, в сухую и высокую землю, где лихорадка не косит людей так, как на берегу реки.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Smain",
@@ -11980,8 +11980,8 @@
         },
         {
           "index": 67,
-          "translation": "— По следу огня.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12067,8 +12067,8 @@
         },
         {
           "index": 68,
-          "translation": "Он станет палить джунгли; во-первых, чтобы загнать зверей в каменистые ущелья, где легко их окружить и истребить, а во-вторых, чтобы вспугнуть из чащоб язычников, которые там укрылись от преследования…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Będzie",
@@ -12402,8 +12402,8 @@
         },
         {
           "index": 69,
-          "translation": "Смаину нелегко найти…",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Smaina",
@@ -12449,8 +12449,8 @@
         },
         {
           "index": 70,
-          "translation": "Всё же его догонят?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12512,8 +12512,8 @@
         },
         {
           "index": 71,
-          "translation": "— Он будет иногда задерживаться на неделю в одном месте, потому что ему нужно коптить мясо.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12655,8 +12655,8 @@
         },
         {
           "index": 72,
-          "translation": "Даже если уедут через два-три дня, они его непременно догонят.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Choćby",
@@ -12774,8 +12774,8 @@
         },
         {
           "index": 73,
-          "translation": "— Но почему они должны его преследовать?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -12837,8 +12837,8 @@
         },
         {
           "index": 74,
-          "translation": "— Нет.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "On",
@@ -12940,8 +12940,8 @@
         },
         {
           "index": 75,
-          "translation": "— Что же делать?",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Jeśli",
@@ -13107,8 +13107,8 @@
         },
         {
           "index": 76,
-          "translation": "— На пророка! Это правда!",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "—",
@@ -13370,8 +13370,8 @@
         },
         {
           "index": 77,
-          "translation": "И действительно, не было иного выхода, как отправить детей в новые странствия.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "I",
@@ -13489,8 +13489,8 @@
         },
         {
           "index": 78,
-          "translation": "Хатим, оказавшийся весьма порядочным человеком, волновался лишь о том, не будет ли Гебр, жестокость которого он узнал в пути, издеваться над ними.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Hatim",
@@ -13752,8 +13752,8 @@
         },
         {
           "index": 79,
-          "translation": "Но грозный Секи-Тамала, внушавший страх даже собственным воинам, велел привести Суданца и объявил ему, что он должен доставить детей живыми и здоровыми к Смаину, и при этом обращаться с ними хорошо, иначе будет повешен.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Ale",
@@ -14103,8 +14103,8 @@
         },
         {
           "index": 80,
-          "translation": "Добрый Хатим попросил эмира пожаловать маленькой Нель невольницу, которая служила бы ей и заботилась о ней в дороге и в стане Смаина.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dobry",
@@ -14326,8 +14326,8 @@
         },
         {
           "index": 81,
-          "translation": "Нель очень обрадовалась подарку, особенно когда выяснилось, что рабыня — молодая девушка из поколения динков, с приятными чертами лица и кротким выражением.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Nel",
@@ -14565,8 +14565,8 @@
         },
         {
           "index": 82,
-          "translation": "Стась знал, что Фашода — это смерть, поэтому совсем не просил Хатима, чтобы их не отправляли в новое, третье по счету путешествие.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
@@ -14780,8 +14780,8 @@
         },
         {
           "index": 83,
-          "translation": "В душе он также думал о том, что, направляясь на восток и юг, они непременно должны будут очень приблизиться к южным границам Абиссинии, и тогда появится возможность бежать.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -14995,8 +14995,8 @@
         },
         {
           "index": 84,
-          "translation": "Он надеялся, что на засушливых возвышенностях Нила Нел сможет, быть может, уберечься от лихорадки, и по всем этим причинам охотно и усердно принялся за подготовку к путешествию.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Miał",
@@ -15234,8 +15234,8 @@
         },
         {
           "index": 85,
-          "translation": "Гебр, Хамис и двое бедуинов",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Gebhr",
@@ -15289,8 +15289,8 @@
         },
         {
           "index": 86,
-          "translation": "они также не были против похода, рассчитывая на то, что рядом со Смаином им удастся поймать изрядное количество невольников и потом выгодно продать их на базарах.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "nie",
@@ -15536,8 +15536,8 @@
         },
         {
           "index": 87,
-          "translation": "Они знали, что торговцы рабами иногда доходили до больших поместий, во всяком случае они предпочли отправиться в путь, нежели оставаться на месте под властью Хатима и Секи-Тамали.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wiedzieli",
@@ -15775,8 +15775,8 @@
         },
         {
           "index": 88,
-          "translation": "Подготовка отняла немало времени, особенно потому, что детям нужно было отдохнуть.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Przygotowania",
@@ -15878,8 +15878,8 @@
         },
         {
           "index": 89,
-          "translation": "Верблюдов больше нельзя было использовать для этого путешествия, поэтому арабы, а вместе с ними Стась и Нель должны были ехать верхом, Кали же, раб Гебра, и Мея, так названная по совету Стася служанка Нель, шли пешком при конях.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Wielbłądy",
@@ -16237,8 +16237,8 @@
         },
         {
           "index": 90,
-          "translation": "Хатим позаботился также об осле, который нёс палатку, предназначенную для девочки, и продовольствие для детей на три дня.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Hatim",
@@ -16412,8 +16412,8 @@
         },
         {
           "index": 91,
-          "translation": "Больше ничего не мог ей дать Секи-Тамала.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Więcej",
@@ -16491,8 +16491,8 @@
         },
         {
           "index": 92,
-          "translation": "Для Нел устроили нечто вроде женского седла из войлока, пальмовых циновок и бамбука.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Dla",
@@ -16634,8 +16634,8 @@
         },
         {
           "index": 93,
-          "translation": "Три дня провели дети в Фашоде на отдыхе, но несметное количество комаров над рекой делало здесь пребывание просто невыносимым.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Trzy",
@@ -16809,8 +16809,8 @@
         },
         {
           "index": 94,
-          "translation": "В течение дня появлялись рои больших синих мух, которые, хотя и не кусались, были столь надоедливы, что залезали в уши, садились на глаза и попадали даже в рот.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "W",
@@ -17056,8 +17056,8 @@
         },
         {
           "index": 95,
-          "translation": "Стась ещё в Порт-Саиде слышал, что комары и мухи разносят лихорадку и возбудители воспаления глаз; в конце концов он сам попросил Секи-Тамалу, чтобы тот как можно скорее отправил их в путь, особенно потому что приближался сезон весенних дождей.",
-          "has_audio": false,
+          "translation": "",
+          "has_audio": true,
           "tokens": [
             {
               "surface": "Staś",
