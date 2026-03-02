@@ -1,0 +1,473 @@
+{
+  "number": 2,
+  "title": "Przypisy",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Примечания",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Przypisy",
+              "lemma": "przypis",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Какая прекрасная страна Италия.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "1",
+              "lemma": "1",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Quel",
+              "lemma": "Quel",
+              "pos": "PROPN",
+              "morph": "Animacy=Nhum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "beau",
+              "lemma": "beau",
+              "pos": "X",
+              "morph": "Foreign=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "pays",
+              "lemma": "pays",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "que",
+              "lemma": "que",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "l",
+              "lemma": "litr",
+              "pos": "X",
+              "morph": "Abbr=Yes|Pun=No",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "’",
+              "lemma": "’",
+              "pos": "PROPN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Italie",
+              "lemma": "Italie",
+              "pos": "PROPN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "fr",
+              "lemma": "fr",
+              "pos": "X",
+              "morph": "Abbr=Yes|Pun=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Jakże",
+              "lemma": "jakże",
+              "pos": "ADV",
+              "morph": "Emphatic=Yes|PronType=Int",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "pięknym",
+              "lemma": "piękny",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "krajem",
+              "lemma": "kraj",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "są",
+              "lemma": "być",
+              "pos": "AUX",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "Włochy",
+              "lemma": "Włochy",
+              "pos": "PROPN",
+              "morph": "Case=Nom|Gender=Neut|Number=Ptan",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Я готов помочь с переводом. Однако в вашем сообщении указано только \"[2]\" — это кажется ссылкой или номером сноски без самого текста для перевода.",
+          "has_audio": false,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "2",
+              "lemma": "2",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Счастьем является отыскивать там таланты и их поддерживать.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "On",
+              "lemma": "on",
+              "pos": "PRON",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "est",
+              "lemma": "est",
+              "pos": "X",
+              "morph": "Foreign=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "heureux",
+              "lemma": "heureux",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "de",
+              "lemma": "de",
+              "pos": "X",
+              "morph": "Foreign=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chercher",
+              "lemma": "chercher",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "là",
+              "lemma": "là",
+              "pos": "X",
+              "morph": "Foreign=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "bas",
+              "lemma": "bas",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "des",
+              "lemma": "des",
+              "pos": "PROPN",
+              "morph": "Animacy=Nhum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "talents",
+              "lemma": "talents",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "et",
+              "lemma": "et",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "de",
+              "lemma": "de",
+              "pos": "X",
+              "morph": "Foreign=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "les",
+              "lemma": "les",
+              "pos": "X",
+              "morph": "Foreign=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "protéger",
+              "lemma": "protéger",
+              "pos": "PROPN",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "fr",
+              "lemma": "fr",
+              "pos": "X",
+              "morph": "Abbr=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Szczęściem",
+              "lemma": "szczęście",
+              "pos": "NOUN",
+              "morph": "Case=Ins|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "jest",
+              "lemma": "być",
+              "pos": "AUX",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wyszukiwać",
+              "lemma": "wyszukiwać",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "tam",
+              "lemma": "tam",
+              "pos": "ADV",
+              "morph": "PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "talenty",
+              "lemma": "talent",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "je",
+              "lemma": "on",
+              "pos": "PRON",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "popierać",
+              "lemma": "popierać",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

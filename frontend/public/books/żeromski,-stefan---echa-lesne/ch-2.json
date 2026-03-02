@@ -1,0 +1,2100 @@
+{
+  "number": 2,
+  "title": "Przypisy",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Примечания",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Przypisy",
+              "lemma": "przypis",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "за «умиротворение польского мятежа» (с рус.) — за подавление польского восстания (восстания январского).",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "1",
+              "lemma": "1",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "za",
+              "lemma": "za",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "„",
+              "lemma": "„",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Quot",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "uśmierienie",
+              "lemma": "uśmierienąć",
+              "pos": "NOUN",
+              "morph": "Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "polskiego",
+              "lemma": "polski",
+              "pos": "ADJ",
+              "morph": "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "miatieża",
+              "lemma": "miatieże",
+              "pos": "PROPN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "”",
+              "lemma": "”",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Quot",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ros",
+              "lemma": "ros",
+              "pos": "PROPN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "za",
+              "lemma": "za",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "uśmierzenie",
+              "lemma": "uśmierzć",
+              "pos": "NOUN",
+              "morph": "Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "polskiego",
+              "lemma": "polski",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "buntu",
+              "lemma": "bunt",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "powstania",
+              "lemma": "powstanie",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "styczniowego",
+              "lemma": "styczniowy",
+              "pos": "ADJ",
+              "morph": "Case=Gen|Degree=Pos|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "I see you've provided \"[2]\" but there's no Polish text to translate. Could you please provide the Polish text that needs to be translated into Russian?",
+          "has_audio": false,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "2",
+              "lemma": "2",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "из указа — из реформы наделения собственностью 1864 года.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ukazu",
+              "lemma": "ukaz",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "reformy",
+              "lemma": "reforma",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "uwłaszczeniowej",
+              "lemma": "uwłaszczeniowy",
+              "pos": "ADJ",
+              "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "1864",
+              "lemma": "1864",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|NumForm=Digit|NumType=Ord|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "roku",
+              "lemma": "rok",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "третья роса — древняя роса.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "3",
+              "lemma": "3",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "wiorsta",
+              "lemma": "wiorsta",
+              "pos": "PROPN",
+              "morph": "Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "dawna",
+              "lemma": "dawny",
+              "pos": "ADJ",
+              "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ros",
+              "lemma": "ros",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "единица длины, приблизительно 1068,8 м.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "jednostka",
+              "lemma": "jednostka",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "długości",
+              "lemma": "długość",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "ok",
+              "lemma": "około",
+              "pos": "PART",
+              "morph": "Abbr=Yes|Pun=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "1068,8",
+              "lemma": "1068,8",
+              "pos": "NUM",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Digit|NumType=Card|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "m",
+              "lemma": "metr",
+              "pos": "X",
+              "morph": "Abbr=Yes|Pun=No",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Начёс — волосы с боков головы, зачёсанные вверх, скрывающие лысину.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "4",
+              "lemma": "4",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "pożyczka",
+              "lemma": "pożyczka",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "włosy",
+              "lemma": "włos",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "boku",
+              "lemma": "bok",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "głowy",
+              "lemma": "głowa",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zaczesane",
+              "lemma": "zaczesać",
+              "pos": "ADJ",
+              "morph": "Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "do",
+              "lemma": "do",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "góry",
+              "lemma": "góra",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "maskujące",
+              "lemma": "maskuć",
+              "pos": "ADJ",
+              "morph": "Aspect=Imp|Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "łysinę",
+              "lemma": "łysina",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "грабитель — разбойник.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "5",
+              "lemma": "5",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "grasant",
+              "lemma": "grasant",
+              "pos": "NOUN",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "łupieżca",
+              "lemma": "łupieżca",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "[6] выдвигаться (от фр. avancer: продвигаться вперёд, делать успехи) — здесь: двигаться вперёд, стремиться к чему-либо.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "6",
+              "lemma": "6",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "awansować",
+              "lemma": "awansować",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "fr",
+              "lemma": "fr",
+              "pos": "X",
+              "morph": "Abbr=Yes|Pun=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "avancer",
+              "lemma": "avancer",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ":",
+              "lemma": ":",
+              "pos": "PUNCT",
+              "morph": "PunctType=Colo",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "posuwać",
+              "lemma": "posuwać",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "naprzód",
+              "lemma": "naprzód",
+              "pos": "ADV",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "robić",
+              "lemma": "robić",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "postępy",
+              "lemma": "postęp",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "tu",
+              "lemma": "tu",
+              "pos": "ADV",
+              "morph": "PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ":",
+              "lemma": ":",
+              "pos": "PUNCT",
+              "morph": "PunctType=Colo",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "posuwać",
+              "lemma": "posuwać",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "dążyć",
+              "lemma": "dążyć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "do",
+              "lemma": "do",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "czegoś",
+              "lemma": "coś",
+              "pos": "PRON",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing|PronType=Ind",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "астролябия собств.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "7",
+              "lemma": "7",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "astrolabia",
+              "lemma": "astrolabiy",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "własc",
+              "lemma": "własc",
+              "pos": "NOUN",
+              "morph": "Case=Ins|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "астролябия — древний прибор для определения положения на земле относительно небесных светил.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "astrolabium",
+              "lemma": "astrolabium",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "dawny",
+              "lemma": "dawny",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "przyrząd",
+              "lemma": "przyrząd",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "do",
+              "lemma": "do",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wyznaczania",
+              "lemma": "wyznaczać",
+              "pos": "NOUN",
+              "morph": "Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "pozycji",
+              "lemma": "pozycja",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ziemi",
+              "lemma": "ziemia",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "względem",
+              "lemma": "względem",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ciał",
+              "lemma": "ciało",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "niebieskich",
+              "lemma": "niebieski",
+              "pos": "ADJ",
+              "morph": "Case=Gen|Degree=Pos|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Крымская война — осада Севастополя, русского порта на западе.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "8",
+              "lemma": "8",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "sewastopolska",
+              "lemma": "sewastopolski",
+              "pos": "ADJ",
+              "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wojna",
+              "lemma": "wojna",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "oblężenie",
+              "lemma": "oblężenie",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "Sewastopola",
+              "lemma": "Sewastopol",
+              "pos": "PROPN",
+              "morph": "Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "portu",
+              "lemma": "port",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "rosyjskiego",
+              "lemma": "rosyjski",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zach",
+              "lemma": "ze",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "На побережье Крыма войсками англо-франко-турецкой коалиции, которая в итоге одержала победу.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "wybrzeżu",
+              "lemma": "wybrzeże",
+              "pos": "NOUN",
+              "morph": "Case=Dat|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "Krymu",
+              "lemma": "Krym",
+              "pos": "PROPN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "przez",
+              "lemma": "przez",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wojska",
+              "lemma": "wojsko",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "koalicji",
+              "lemma": "koalicja",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "brytyjsko",
+              "lemma": "brytyjski",
+              "pos": "ADJ",
+              "morph": "Hyph=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "-",
+              "lemma": "-",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "francusko",
+              "lemma": "francuski",
+              "pos": "ADJ",
+              "morph": "Hyph=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "-",
+              "lemma": "-",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "tureckiej",
+              "lemma": "turecki",
+              "pos": "ADJ",
+              "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "która",
+              "lemma": "który",
+              "pos": "DET",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing|PronType=Rel",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ostatecznie",
+              "lemma": "ostatecznie",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zwyciężyła",
+              "lemma": "zwyciężyć",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Осада длилась 11 месяцев в 1854–1855 годах и являлась частью Крымской войны между Россией и Османской империей (1853–1856).",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Oblężenie",
+              "lemma": "oblężenie",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "trwało",
+              "lemma": "trwać",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "11",
+              "lemma": "11",
+              "pos": "NUM",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|NumForm=Digit|NumType=Card|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "miesięcy",
+              "lemma": "miesiąc",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "1854",
+              "lemma": "1854",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|NumForm=Digit|NumType=Ord|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "1855",
+              "lemma": "1855",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|NumForm=Digit|NumType=Ord|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "r",
+              "lemma": "rok",
+              "pos": "X",
+              "morph": "Abbr=Yes|Pun=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "stanowiło",
+              "lemma": "stanowić",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "element",
+              "lemma": "element",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wojny",
+              "lemma": "wojna",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "krymskiej",
+              "lemma": "krymski",
+              "pos": "ADJ",
+              "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "między",
+              "lemma": "między",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "Rosją",
+              "lemma": "Rosja",
+              "pos": "PROPN",
+              "morph": "Case=Ins|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "a",
+              "lemma": "a",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "imperium",
+              "lemma": "imperium",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "otomańskim",
+              "lemma": "otomański",
+              "pos": "ADJ",
+              "morph": "Case=Ins|Degree=Pos|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "1853",
+              "lemma": "1853",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "1856",
+              "lemma": "1856",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Младший офицер (из рус.) — в русской армии самый низкий офицерский чин.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "9",
+              "lemma": "9",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "praporszczyk",
+              "lemma": "praporszczyk",
+              "pos": "PROPN",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ros",
+              "lemma": "ros",
+              "pos": "PROPN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wojsku",
+              "lemma": "wojsko",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "rosyjskim",
+              "lemma": "rosyjski",
+              "pos": "ADJ",
+              "morph": "Case=Loc|Degree=Pos|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "najniższy",
+              "lemma": "niski",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "stopień",
+              "lemma": "stopień",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "oficera",
+              "lemma": "oficer",
+              "pos": "NOUN",
+              "morph": "Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "поиски (рос.) — poszukiwania.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "10",
+              "lemma": "10",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "poiski",
+              "lemma": "poiski",
+              "pos": "NOUN",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "ros",
+              "lemma": "ros",
+              "pos": "PROPN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "poszukiwania",
+              "lemma": "poszukiwanie",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "[11]",
+          "has_audio": false,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "11",
+              "lemma": "11",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "в рукопашном бою — в ближнем бою, в схватке врукопашную, на штыки.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "rukopasznom",
+              "lemma": "rukopaszn",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "boju",
+              "lemma": "bój",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "ros",
+              "lemma": "ros",
+              "pos": "PROPN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "walce",
+              "lemma": "walka",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wręcz",
+              "lemma": "wręcz",
+              "pos": "PART",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "bagnety",
+              "lemma": "bagnet",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "взъерошенный (из рус.) — взбудораженный.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "12",
+              "lemma": "12",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "wzjeroszeny",
+              "lemma": "Wzjeroszeny",
+              "pos": "PROPN",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "(",
+              "lemma": "(",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ros",
+              "lemma": "ros",
+              "pos": "PROPN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ")",
+              "lemma": ")",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "wzburzone",
+              "lemma": "wzburzone",
+              "pos": "ADJ",
+              "morph": "Case=Nom|Degree=Pos|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

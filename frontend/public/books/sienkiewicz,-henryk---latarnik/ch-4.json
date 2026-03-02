@@ -1,0 +1,162 @@
+{
+  "number": 4,
+  "title": "Przypisy",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Примечания",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Przypisy",
+              "lemma": "przypis",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "пол — кожа.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "1",
+              "lemma": "1",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "płeć",
+              "lemma": "płeć",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "cera",
+              "lemma": "cera",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Орнитология — птицеводство.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "[",
+              "lemma": "[",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Ini|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "2",
+              "lemma": "2",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "]",
+              "lemma": "]",
+              "pos": "PUNCT",
+              "morph": "PunctSide=Fin|PunctType=Brck",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "ptastwo",
+              "lemma": "ptastwo",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "ptactwo",
+              "lemma": "ptactwo",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
