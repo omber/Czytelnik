@@ -1,6 +1,7 @@
 import { HashRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { UserProvider } from './context/UserContext'
 import ErrorBoundary from './components/ui/ErrorBoundary'
+import UpdatePrompt from './components/ui/UpdatePrompt'
 import ProfilePage from './pages/ProfilePage'
 import LibraryPage from './pages/LibraryPage'
 import ReaderPageRoute from './pages/ReaderPageRoute'
@@ -11,6 +12,7 @@ import SettingsPage from './pages/SettingsPage'
 export default function App() {
   return (
     <ErrorBoundary>
+      <UpdatePrompt />
       <UserProvider>
         <HashRouter>
           <Routes>
