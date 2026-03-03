@@ -121,6 +121,15 @@ function Flashcard({ entry, index, total, onCorrect, onWrong }: FlashcardProps) 
   )
 }
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr]
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
 // ── Main page ────────────────────────────────────────────────────────────────
 
 type Tab = 'review' | 'list'
@@ -134,14 +143,14 @@ export default function VocabPage() {
   const [confirmDeleteEntry, setConfirmDeleteEntry] = useState(false)
 
   // Review state
-  const [dueQueue, setDueQueue] = useState<VocabEntry[]>(() => vocab.getDue())
+  const [dueQueue, setDueQueue] = useState<VocabEntry[]>(() => shuffle(vocab.getDue()))
   const [reviewIdx, setReviewIdx] = useState(0)
   const [reviewDone, setReviewDone] = useState(false)
 
   // Refresh queue when new words are added (e.g. navigating here after adding)
   useEffect(() => {
     if (!reviewDone) {
-      setDueQueue(vocab.getDue())
+      setDueQueue(shuffle(vocab.getDue()))
     }
   }, [vocab.entries.length])
 
@@ -175,17 +184,20 @@ export default function VocabPage() {
   }
 
   function startReview() {
-    const fresh = vocab.getDue()
+    const fresh = shuffle(vocab.getDue())
     setDueQueue(fresh)
     setReviewIdx(0)
     setReviewDone(false)
   }
 
-  // Group entries by box for list view (memoized)
+  // Group entries by box for list view, sorted alphabetically (memoized)
   const byBox = useMemo(() => {
     const result: Record<1 | 2 | 3, VocabEntry[]> = { 1: [], 2: [], 3: [] }
     for (const e of vocab.entries) {
       result[e.box].push(e)
+    }
+    for (const box of [1, 2, 3] as const) {
+      result[box].sort((a, b) => a.lemma.localeCompare(b.lemma, 'pl'))
     }
     return result
   }, [vocab.entries])
