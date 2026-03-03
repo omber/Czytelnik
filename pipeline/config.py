@@ -12,6 +12,7 @@ load_dotenv(Path(__file__).parent / ".env", override=True)
 PIPELINE_DIR = Path(__file__).parent
 CACHE_DIR = PIPELINE_DIR / "cache"
 DICTIONARY_PATH = PIPELINE_DIR / "dictionary.json"
+FRONTEND_DICT_PATH = PIPELINE_DIR.parent / "frontend" / "public" / "dictionary.json"
 
 # ── Anthropic ──────────────────────────────────────────────────────────────
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")

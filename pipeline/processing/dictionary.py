@@ -13,7 +13,9 @@ from typing import Any
 
 import anthropic
 
-from config import ANTHROPIC_API_KEY, CLAUDE_MODEL, DICTIONARY_PATH
+import shutil
+
+from config import ANTHROPIC_API_KEY, CLAUDE_MODEL, DICTIONARY_PATH, FRONTEND_DICT_PATH
 from processing.morphology import Paragraph
 
 
@@ -46,10 +48,10 @@ def load_dictionary() -> Dictionary:
 
 
 def save_dictionary(d: Dictionary) -> None:
-    DICTIONARY_PATH.write_text(
-        json.dumps(d, ensure_ascii=False, indent=2, sort_keys=True),
-        encoding="utf-8",
-    )
+    content = json.dumps(d, ensure_ascii=False, indent=2, sort_keys=True)
+    DICTIONARY_PATH.write_text(content, encoding="utf-8")
+    if FRONTEND_DICT_PATH.parent.exists():
+        shutil.copy2(DICTIONARY_PATH, FRONTEND_DICT_PATH)
 
 
 # ── Lemma collection ────────────────────────────────────────────────────────
