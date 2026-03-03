@@ -1,0 +1,3955 @@
+{
+  "number": 14,
+  "title": "1. O dwóch kotkach",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "О двух котятах",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "1",
+              "lemma": "1",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "\n\r\n  ",
+              "lemma": "\n\r\n  ",
+              "pos": "SPACE",
+              "morph": "",
+              "is_punct": false,
+              "is_space": true
+            },
+            {
+              "surface": "O",
+              "lemma": "o",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "dwóch",
+              "lemma": "dwa",
+              "pos": "NUM",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|NumForm=Word|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kotkach",
+              "lemma": "kotk",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Ах, тихо, тихо, жили-были два котика.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Aaa",
+              "lemma": "aaa",
+              "pos": "PROPN",
+              "morph": "Case=Dat|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "cicho",
+              "lemma": "cicho",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "sza",
+              "lemma": "szać",
+              "pos": "ADJ",
+              "morph": "Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "były",
+              "lemma": "być",
+              "pos": "AUX",
+              "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "sobie",
+              "lemma": "siebie",
+              "pos": "PRON",
+              "morph": "Case=Dat|PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kotki",
+              "lemma": "kotka",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "dwa",
+              "lemma": "dwa",
+              "pos": "NUM",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|NumForm=Word|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Один маленький с белым носиком.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Jeden",
+              "lemma": "jeden",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mały",
+              "lemma": "mały",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "białym",
+              "lemma": "biały",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "noskiem",
+              "lemma": "nosk",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Второй, побольше, в полоску.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Drugi",
+              "lemma": "drugi",
+              "pos": "ADJ",
+              "morph": "Animacy=Nhum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "większy",
+              "lemma": "duży",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "paski",
+              "lemma": "pasek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "translation": "Оба котёнка пили молоко и ели колбаски.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Oba",
+              "lemma": "oba",
+              "pos": "NUM",
+              "morph": "Case=Nom|Gender=Fem|NumForm=Word|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kotki",
+              "lemma": "kotka",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "piły",
+              "lemma": "piła",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mleko",
+              "lemma": "mleko",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "jadły",
+              "lemma": "jadnąć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kiełbaski",
+              "lemma": "kiełbaska",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "translation": "Однажды утром они рано проснулись и тут же страшно поссорились.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Pewnego",
+              "lemma": "pewien",
+              "pos": "DET",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Ind",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ranka",
+              "lemma": "ranek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wcześnie",
+              "lemma": "wcześnie",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zbudziły",
+              "lemma": "zbudzić",
+              "pos": "VERB",
+              "morph": "Animacy=Inan|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "prawie",
+              "lemma": "prawie",
+              "pos": "PART",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "od",
+              "lemma": "od",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "razu",
+              "lemma": "raz",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "strasznie",
+              "lemma": "strasznie",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "napsociły",
+              "lemma": "napsociły",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "translation": "Малыш разбросал подушки по полу.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Mały",
+              "lemma": "mały",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "podłogę",
+              "lemma": "podłoga",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "pozrzucał",
+              "lemma": "pozrzucać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "poduszki",
+              "lemma": "poduszka",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "translation": "Старший рассыпал крошки на подушках.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Większy",
+              "lemma": "Większy",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "poduszkach",
+              "lemma": "poduszka",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "rozsypał",
+              "lemma": "rozsypać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "okruszki",
+              "lemma": "okruszek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Поиграем в салки.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Pobawmy",
+              "lemma": "Pobawmy",
+              "pos": "PROPN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "berka",
+              "lemma": "berek",
+              "pos": "NOUN",
+              "morph": "Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Или в прятки, – крикнул больший котёнок меньшему.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Albo",
+              "lemma": "albo",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chowanego",
+              "lemma": "chowanego",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "zawołał",
+              "lemma": "zawołać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ten",
+              "lemma": "ten",
+              "pos": "DET",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "większy",
+              "lemma": "duży",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "do",
+              "lemma": "do",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kotka",
+              "lemma": "kotek",
+              "pos": "NOUN",
+              "morph": "Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mniejszego",
+              "lemma": "mniejszy",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Маленький делал всё, что только хотел большой.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Mały",
+              "lemma": "mały",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "robił",
+              "lemma": "robić",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wszystko",
+              "lemma": "wszystko",
+              "pos": "PRON",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing|PronType=Tot",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "co",
+              "lemma": "co",
+              "pos": "PRON",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing|PronType=Rel",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "tylko",
+              "lemma": "tylko",
+              "pos": "PART",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chciał",
+              "lemma": "chcieć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "duży",
+              "lemma": "duży",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Даже если бы ему пришлось плыть в бурю.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Nawet",
+              "lemma": "nawet",
+              "pos": "PART",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "jeśli",
+              "lemma": "jeśli",
+              "pos": "SCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "miałby",
+              "lemma": "mieć by",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "żeglować",
+              "lemma": "żeglować",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wśród",
+              "lemma": "wśród",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "burzy",
+              "lemma": "burza",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Согласился на жмурки и удрал в гостиную.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Zgodził",
+              "lemma": "zgodzić",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "berka",
+              "lemma": "berek",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zwiał",
+              "lemma": "zwieć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "do",
+              "lemma": "do",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "salonu",
+              "lemma": "salon",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "translation": "Там он вылил кофе из чашки и воду из ваз.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Tam",
+              "lemma": "tam",
+              "pos": "ADV",
+              "morph": "PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wylał",
+              "lemma": "wylać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kawę",
+              "lemma": "kawa",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kubka",
+              "lemma": "kubka",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wodę",
+              "lemma": "woda",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wazonów",
+              "lemma": "wazon",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "translation": "Всё из-за того, что головой он шлёпнулся прямо на столик.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Wszystko",
+              "lemma": "wszystko",
+              "pos": "PRON",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing|PronType=Tot",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "przez",
+              "lemma": "przez",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "to",
+              "lemma": "to",
+              "pos": "PRON",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing|PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "że",
+              "lemma": "że",
+              "pos": "SCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "głową",
+              "lemma": "głowa",
+              "pos": "NOUN",
+              "morph": "Case=Ins|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wpadł",
+              "lemma": "wpaść",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "prosto",
+              "lemma": "prosto",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "stolik",
+              "lemma": "stolik",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "– Ай-ай-ай! – рыдал бедняга.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Ajajaj",
+              "lemma": "Ajajaj",
+              "pos": "PROPN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "płakał",
+              "lemma": "płakać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "biedak",
+              "lemma": "biedak",
+              "pos": "NOUN",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "– Мне так больно.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Tak",
+              "lemma": "tak",
+              "pos": "ADV",
+              "morph": "Degree=Pos|PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "bardzo",
+              "lemma": "bardzo",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mnie",
+              "lemma": "ja",
+              "pos": "PRON",
+              "morph": "Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Long",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "boli",
+              "lemma": "boleć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Старший дёрнул скатерть, схватил кружку и вазы, свернул всё в клубок и запихнул за занавески.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Większy",
+              "lemma": "Większy",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ściągnął",
+              "lemma": "ściągnąć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "obrus",
+              "lemma": "obrus",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "kubek",
+              "lemma": "kubek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wazony",
+              "lemma": "wazon",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "zwinął",
+              "lemma": "zwinąć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "całość",
+              "lemma": "całość",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kłębuszek",
+              "lemma": "kłębuszka",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "wcisnął",
+              "lemma": "wcisnąć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "za",
+              "lemma": "za",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zasłony",
+              "lemma": "zasłona",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Потом он прижал к себе котенка поменьше.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "A",
+              "lemma": "a",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "potem",
+              "lemma": "potem",
+              "pos": "ADV",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "przytulił",
+              "lemma": "przytulić",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "koteczka",
+              "lemma": "koteczek",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mniejszego",
+              "lemma": "mniejszego",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "– Теперь я лучше хочу играть в прятки, а не в жмурки, – попросил малыш, когда ему стало лучше.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Teraz",
+              "lemma": "teraz",
+              "pos": "ADV",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wolę",
+              "lemma": "woleć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "nie",
+              "lemma": "nie",
+              "pos": "PART",
+              "morph": "Polarity=Neg",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "berka",
+              "lemma": "berek",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "tylko",
+              "lemma": "tylko",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chowanego",
+              "lemma": "chować",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "poprosił",
+              "lemma": "poprosić",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mały",
+              "lemma": "mały",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "gdy",
+              "lemma": "gdy",
+              "pos": "ADV",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "lepiej",
+              "lemma": "dobrze",
+              "pos": "ADV",
+              "morph": "Degree=Cmp",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "poczuł",
+              "lemma": "poczuć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Я спрятался на диване, завернувшись в плед.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Schowam",
+              "lemma": "Schowam",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kanapie",
+              "lemma": "kanapa",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "zawinięty",
+              "lemma": "zawinąć",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kocu",
+              "lemma": "koc",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "На диване и под одеялом?",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kanapie",
+              "lemma": "kanapa",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kocu",
+              "lemma": "koc",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "?",
+              "lemma": "?",
+              "pos": "PUNCT",
+              "morph": "PunctType=Qest",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Это никакое не приключение.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "To",
+              "lemma": "to",
+              "pos": "AUX",
+              "morph": "Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "żadna",
+              "lemma": "żaden",
+              "pos": "DET",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing|PronType=Neg",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "przygoda",
+              "lemma": "przygoda",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "На такие забавы не стоит терять время!",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "takie",
+              "lemma": "taki",
+              "pos": "DET",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur|PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zabawy",
+              "lemma": "zabawa",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "czasu",
+              "lemma": "czas",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "tracić",
+              "lemma": "tracić",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "szkoda",
+              "lemma": "szkoda",
+              "pos": "VERB",
+              "morph": "Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "!",
+              "lemma": "!",
+              "pos": "PUNCT",
+              "morph": "PunctType=Excl",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Меньшер вздохнул и пошел осматривать квартиру.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Mniejszy",
+              "lemma": "mniejszy",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "westchnął",
+              "lemma": "westchnąć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "poszedł",
+              "lemma": "pójść",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "pozwiedzać",
+              "lemma": "pozwiedzać",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mieszkanie",
+              "lemma": "mieszkanie",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Кстати, ему нужно было найти место для укрытия.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Przy",
+              "lemma": "przy",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "okazji",
+              "lemma": "okazja",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "miał",
+              "lemma": "mieć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "znaleźć",
+              "lemma": "znaleźć",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "miejsce",
+              "lemma": "miejsce",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "schowanie",
+              "lemma": "schować",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Вдруг он почувствовал где-то внутри назойливое урчание.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Nagle",
+              "lemma": "nagle",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "poczuł",
+              "lemma": "poczuć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "gdzieś",
+              "lemma": "gdzieś",
+              "pos": "ADV",
+              "morph": "PronType=Ind",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "środku",
+              "lemma": "środek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wiercące",
+              "lemma": "wiercić",
+              "pos": "ADJ",
+              "morph": "Animacy=Nhum|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "burczenie",
+              "lemma": "burczenie",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "translation": "Это был его живот, который его умолял.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "To",
+              "lemma": "to",
+              "pos": "AUX",
+              "morph": "Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "brzuszek",
+              "lemma": "brzuszek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "go",
+              "lemma": "on",
+              "pos": "PRON",
+              "morph": "Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "błagał",
+              "lemma": "błagać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ":",
+              "lemma": ":",
+              "pos": "PUNCT",
+              "morph": "PunctType=Colo",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "– Я хочу быстрое питание!",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Chcę",
+              "lemma": "chcieć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "szybko",
+              "lemma": "szybko",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "jedzenie",
+              "lemma": "jedzenie",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "!",
+              "lemma": "!",
+              "pos": "PUNCT",
+              "morph": "PunctType=Excl",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Маленький котёнок направился прямо в кладовку.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Poszedł",
+              "lemma": "pójść",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "więc",
+              "lemma": "więc",
+              "pos": "SCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mały",
+              "lemma": "mały",
+              "pos": "ADJ",
+              "morph": "Animacy=Nhum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kotek",
+              "lemma": "kotek",
+              "pos": "NOUN",
+              "morph": "Animacy=Nhum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "prosto",
+              "lemma": "prosto",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "do",
+              "lemma": "do",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "spiżarni",
+              "lemma": "spiżarnia",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Лакомства с полок просили:",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Przysmaki",
+              "lemma": "przysmak",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Ptan",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "półek",
+              "lemma": "półeka",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "prosiły",
+              "lemma": "prosić",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ":",
+              "lemma": ":",
+              "pos": "PUNCT",
+              "morph": "PunctType=Colo",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Возьми нас и приютит!",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Weź",
+              "lemma": "wziąć",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "nas",
+              "lemma": "my",
+              "pos": "PRON",
+              "morph": "Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "przygarnij",
+              "lemma": "przygarnij",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "!",
+              "lemma": "!",
+              "pos": "PUNCT",
+              "morph": "PunctType=Excl",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Кот не заставил себя упрашивать.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Kotek",
+              "lemma": "Kotek",
+              "pos": "PROPN",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "nie",
+              "lemma": "nie",
+              "pos": "PART",
+              "morph": "Polarity=Neg",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "dał",
+              "lemma": "dać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "prosić",
+              "lemma": "prosić",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Он снял со стола чипсы.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Ściągnął",
+              "lemma": "Ściągnąć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "półki",
+              "lemma": "półka",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chrupki",
+              "lemma": "chrupka",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Он съел их все до последней крошки, хотя сам был совсем маленький.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Zjadł",
+              "lemma": "Zjadł",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "je",
+              "lemma": "on",
+              "pos": "PRON",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "co",
+              "lemma": "co",
+              "pos": "SCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "do",
+              "lemma": "do",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ostatniej",
+              "lemma": "ostatni",
+              "pos": "ADJ",
+              "morph": "Case=Gen|Degree=Pos|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "chociaż",
+              "lemma": "chociaż",
+              "pos": "SCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "był",
+              "lemma": "być",
+              "pos": "AUX",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "malutki",
+              "lemma": "malutki",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "translation": "Он снял также баночку с мёдом, молоко и консервированную сельдь, расфасованную колбасу, чернослив и изюм.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Zdjął",
+              "lemma": "zdjąć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "też",
+              "lemma": "też",
+              "pos": "PART",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "słoiczek",
+              "lemma": "słoiczek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "z",
+              "lemma": "z",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "miodem",
+              "lemma": "miód",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "mleko",
+              "lemma": "mleko",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "sardynki",
+              "lemma": "sardynka",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "paczkowaną",
+              "lemma": "paczkować",
+              "pos": "ADJ",
+              "morph": "Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kiełbasę",
+              "lemma": "kiełbasa",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "śliwki",
+              "lemma": "śliwka",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "rodzynki",
+              "lemma": "rodzynka",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "translation": "Он рвал пакетики, ел, причмокивал.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Rozrywał",
+              "lemma": "rozrywać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "torebki",
+              "lemma": "torebka",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "zjadał",
+              "lemma": "zjadać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "pomlaskiwał",
+              "lemma": "pomlaskiwać",
+              "pos": "VERB",
+              "morph": "Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "translation": "Немного пролил и рассыпал.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Trochę",
+              "lemma": "trochę",
+              "pos": "ADV",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "porozlewał",
+              "lemma": "porozlewać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "porozsypywał",
+              "lemma": "porozsypywać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Вдруг дверь скрипнула.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Nagle",
+              "lemma": "nagle",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "drzwi",
+              "lemma": "drzwi",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Ptan",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zaskrzypiały",
+              "lemma": "zaskrzypieć",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Кот съежился.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Koteczek",
+              "lemma": "Koteczek",
+              "pos": "PROPN",
+              "morph": "Animacy=Nhum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "skulił",
+              "lemma": "skulić",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Прикрыл мордочку пакетиком, хвостик поджал.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Nakrył",
+              "lemma": "Nakrył",
+              "pos": "ADJ",
+              "morph": "Case=Nom|Degree=Sup|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "pyszczek",
+              "lemma": "pyszczek",
+              "pos": "NOUN",
+              "morph": "Animacy=Nhum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "torebką",
+              "lemma": "torebka",
+              "pos": "NOUN",
+              "morph": "Case=Ins|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "ogonek",
+              "lemma": "ogonek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "podkulił",
+              "lemma": "podkulić",
+              "pos": "VERB",
+              "morph": "Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "– Ты попался! – воскликнул старший.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Tu",
+              "lemma": "tu",
+              "pos": "ADV",
+              "morph": "PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "jesteś",
+              "lemma": "być",
+              "pos": "AUX",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "!",
+              "lemma": "!",
+              "pos": "PUNCT",
+              "morph": "PunctType=Excl",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "zawołał",
+              "lemma": "zawołać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "większy",
+              "lemma": "większy",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Везде я тебя искал!",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Wszędzie",
+              "lemma": "wszędzie",
+              "pos": "ADV",
+              "morph": "PronType=Tot",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "cię",
+              "lemma": "ty",
+              "pos": "PRON",
+              "morph": "Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "szukałem",
+              "lemma": "szukać być",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Clitic=Yes|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|Variant=Long|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "!",
+              "lemma": "!",
+              "pos": "PUNCT",
+              "morph": "PunctType=Excl",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Я бегал по дому, без толку кричал.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Biegałem",
+              "lemma": "biegać być",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Clitic=Yes|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|Variant=Long|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "po",
+              "lemma": "po",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "domu",
+              "lemma": "dom",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "bez",
+              "lemma": "bez",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "skutku",
+              "lemma": "skutek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wołałem",
+              "lemma": "wołać być",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Clitic=Yes|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|Variant=Long|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "– Хочешь сыр? – тихо спросил маленький котёнок.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Chcesz",
+              "lemma": "chcieć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "serek",
+              "lemma": "serek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "?",
+              "lemma": "?",
+              "pos": "PUNCT",
+              "morph": "PunctType=Qest",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "spytał",
+              "lemma": "spytać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "cicho",
+              "lemma": "cicho",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "malutki",
+              "lemma": "malutki",
+              "pos": "ADJ",
+              "morph": "Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "koteczek",
+              "lemma": "koteczka",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "– А может быть, тебе хочется пакетик соленых орешков?",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "morph": "PunctType=Dash",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "A",
+              "lemma": "a",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "może",
+              "lemma": "może",
+              "pos": "PART",
+              "morph": "PartType=Mod",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chcesz",
+              "lemma": "chcieć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "orzeszków",
+              "lemma": "orzeszek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "solonych",
+              "lemma": "solony",
+              "pos": "ADJ",
+              "morph": "Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "woreczek",
+              "lemma": "woreczek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "?",
+              "lemma": "?",
+              "pos": "PUNCT",
+              "morph": "PunctType=Qest",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Кот потянулся, выпрямив полосатый хвостик.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Kotek",
+              "lemma": "Kotek",
+              "pos": "PROPN",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "większy",
+              "lemma": "duży",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wyprężył",
+              "lemma": "wyprężył",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "pasiasty",
+              "lemma": "pasiasty",
+              "pos": "ADJ",
+              "morph": "Animacy=Nhum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "ogonek",
+              "lemma": "ogonek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Раз уж еда готова, её необходимо съесть!",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Skoro",
+              "lemma": "skoro",
+              "pos": "SCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "jest",
+              "lemma": "być",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "już",
+              "lemma": "już",
+              "pos": "PART",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "jedzenie",
+              "lemma": "jedzenie",
+              "pos": "NOUN",
+              "morph": "Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "musi",
+              "lemma": "musieć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "być",
+              "lemma": "być",
+              "pos": "AUX",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zjedzone",
+              "lemma": "zjedzyć",
+              "pos": "ADJ",
+              "morph": "Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "!",
+              "lemma": "!",
+              "pos": "PUNCT",
+              "morph": "PunctType=Excl",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Оба маленьких котёнка набили свои животики.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Napełniły",
+              "lemma": "Napełniły",
+              "pos": "VERB",
+              "morph": "Animacy=Inan|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "brzuszki",
+              "lemma": "brzuszki",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "oba",
+              "lemma": "oba",
+              "pos": "NUM",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "małe",
+              "lemma": "mały",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "koty",
+              "lemma": "kot",
+              "pos": "NOUN",
+              "morph": "Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "И тогда им прошла охота на проказы.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "A",
+              "lemma": "a",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "wtedy",
+              "lemma": "wtedy",
+              "pos": "ADV",
+              "morph": "PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "przeszła",
+              "lemma": "przejść",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "im",
+              "lemma": "on",
+              "pos": "PRON",
+              "morph": "Animacy=Hum|Case=Dat|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chętka",
+              "lemma": "chętka",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "psoty",
+              "lemma": "psot",
+              "pos": "NOUN",
+              "morph": "Animacy=Nhum|Case=Acc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Они свернулись клубком на остатках еды и начали мурлыкать.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Zwinęły",
+              "lemma": "Zwinęły",
+              "pos": "VERB",
+              "morph": "Animacy=Inan|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "się",
+              "lemma": "się",
+              "pos": "PRON",
+              "morph": "PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kłębek",
+              "lemma": "kłębek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "resztkach",
+              "lemma": "resztek",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "jedzenia",
+              "lemma": "jedzenie",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "i",
+              "lemma": "i",
+              "pos": "CCONJ",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zaczęły",
+              "lemma": "zacząć",
+              "pos": "VERB",
+              "morph": "Animacy=Inan|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "mruczeć",
+              "lemma": "mruczeć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Пока, пока! До свидания!",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Pa",
+              "lemma": "Pa",
+              "pos": "X",
+              "morph": "Abbr=Yes|Pun=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "pa",
+              "lemma": "pa",
+              "pos": "X",
+              "morph": "Abbr=Yes|Pun=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "!",
+              "lemma": "!",
+              "pos": "PUNCT",
+              "morph": "PunctType=Excl",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "Do",
+              "lemma": "do",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "widzenia",
+              "lemma": "widzenie",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "!",
+              "lemma": "!",
+              "pos": "PUNCT",
+              "morph": "PunctType=Excl",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "Спите, котята, в своём беспорядке.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Śpijcie",
+              "lemma": "Śpijcie",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "małe",
+              "lemma": "mały",
+              "pos": "ADJ",
+              "morph": "Case=Nom|Degree=Pos|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kotki",
+              "lemma": "kotka",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "w",
+              "lemma": "w",
+              "pos": "ADP",
+              "morph": "AdpType=Prep|Variant=Short",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "swoim",
+              "lemma": "swój",
+              "pos": "DET",
+              "morph": "Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "bałaganie",
+              "lemma": "bałaganie",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "translation": "Для котят, натворивших шалостей, хорош такой крепкий сон.",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Dla",
+              "lemma": "dla",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kotków",
+              "lemma": "kotk",
+              "pos": "NOUN",
+              "morph": "Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "po",
+              "lemma": "po",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "psotach",
+              "lemma": "psote",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "dobre",
+              "lemma": "dobry",
+              "pos": "ADJ",
+              "morph": "Case=Acc|Degree=Pos|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "takie",
+              "lemma": "taki",
+              "pos": "DET",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing|PronType=Dem",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "spanie",
+              "lemma": "spanie",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Ааа, тихо-тихо, спят уже послушно два котика...",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Aaa",
+              "lemma": "aaa",
+              "pos": "PROPN",
+              "morph": "Case=Dat|Gender=Fem|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "cicho",
+              "lemma": "cicho",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "sza",
+              "lemma": "szać",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "śpią",
+              "lemma": "śpią",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "już",
+              "lemma": "już",
+              "pos": "PART",
+              "morph": "",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "grzecznie",
+              "lemma": "grzecznie",
+              "pos": "ADV",
+              "morph": "Degree=Pos",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "kotki",
+              "lemma": "kotka",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Fem|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "dwa",
+              "lemma": "dwa",
+              "pos": "NUM",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|NumForm=Word|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

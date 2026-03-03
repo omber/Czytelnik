@@ -1,0 +1,380 @@
+{
+  "number": 18,
+  "title": "IV. Bajki Mamy",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "IV",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "IV",
+              "lemma": "IV",
+              "pos": "X",
+              "morph": "NumForm=Roman",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Сказки Мамы",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "Bajki",
+              "lemma": "bajka",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "Mamy",
+              "lemma": "mieć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Я готов помочь с переводом с польского на русский. Однако в вашем сообщении после пункта \"1.\" нет текста для перевода.",
+          "has_audio": false,
+          "tokens": [
+            {
+              "surface": "1",
+              "lemma": "1",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "О поезде, который съехал на боковой путь",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "O",
+              "lemma": "o",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "pociągu",
+              "lemma": "pociąg",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "który",
+              "lemma": "który",
+              "pos": "DET",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "zjechał",
+              "lemma": "zjechać",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "na",
+              "lemma": "na",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "boczny",
+              "lemma": "boczny",
+              "pos": "ADJ",
+              "morph": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "tor",
+              "lemma": "tor",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "",
+          "has_audio": false,
+          "tokens": [
+            {
+              "surface": "2",
+              "lemma": "2",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "translation": "О сне, который не хотел приходить",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "O",
+              "lemma": "o",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "śnie",
+              "lemma": "sen",
+              "pos": "NOUN",
+              "morph": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "który",
+              "lemma": "który",
+              "pos": "DET",
+              "morph": "Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "nie",
+              "lemma": "nie",
+              "pos": "PART",
+              "morph": "Polarity=Neg",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chciał",
+              "lemma": "chcieć",
+              "pos": "VERB",
+              "morph": "Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "przyjść",
+              "lemma": "przyjść",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "О пальчиках, которые не хотели спать",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "3",
+              "lemma": "3",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "O",
+              "lemma": "o",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "paluszkach",
+              "lemma": "paluszko",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "morph": "PunctType=Comm",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "które",
+              "lemma": "który",
+              "pos": "DET",
+              "morph": "Case=Nom|Gender=Fem|Number=Plur|PronType=Rel",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "nie",
+              "lemma": "nie",
+              "pos": "PART",
+              "morph": "Polarity=Neg",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "chciały",
+              "lemma": "chcieć",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "spać",
+              "lemma": "spać",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "sentences": [
+        {
+          "index": 0,
+          "translation": "Об окулярах сонливости",
+          "has_audio": true,
+          "tokens": [
+            {
+              "surface": "4",
+              "lemma": "4",
+              "pos": "X",
+              "morph": "NumForm=Digit",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "morph": "PunctType=Peri",
+              "is_punct": true,
+              "is_space": false
+            },
+            {
+              "surface": "O",
+              "lemma": "o",
+              "pos": "ADP",
+              "morph": "AdpType=Prep",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "sennych",
+              "lemma": "senny",
+              "pos": "ADJ",
+              "morph": "Case=Loc|Degree=Pos|Gender=Neut|Number=Plur",
+              "is_punct": false,
+              "is_space": false
+            },
+            {
+              "surface": "okularach",
+              "lemma": "okulary",
+              "pos": "NOUN",
+              "morph": "Case=Loc|Gender=Neut|Number=Ptan",
+              "is_punct": false,
+              "is_space": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
