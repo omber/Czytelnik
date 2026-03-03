@@ -1,4 +1,8 @@
 {
+  "02": {
+    "pos": "X",
+    "ru": "ноль два"
+  },
   "1": {
     "pos": "X",
     "ru": "один"
@@ -87,6 +91,14 @@
     "pos": "ADJ",
     "ru": "двадцатый"
   },
+  "2021": {
+    "pos": "X",
+    "ru": "две тысячи двадцать один"
+  },
+  "276": {
+    "pos": "X",
+    "ru": "двести семьдесят шесть"
+  },
   "2842": {
     "pos": "X",
     "ru": "две тысячи восемьсот сорок два"
@@ -98,6 +110,10 @@
   "3": {
     "pos": "X",
     "ru": "три"
+  },
+  "34a": {
+    "pos": "X",
+    "ru": "тридцать четыре"
   },
   "4": {
     "pos": "X",
@@ -119,9 +135,17 @@
     "pos": "X",
     "ru": "шесть"
   },
+  "672": {
+    "pos": "PROPN",
+    "ru": "672"
+  },
   "7": {
     "pos": "X",
     "ru": "семь"
+  },
+  "7116": {
+    "pos": "X",
+    "ru": "цифра/число"
   },
   "8": {
     "pos": "X",
@@ -146,6 +170,14 @@
   "a": {
     "pos": "PART",
     "ru": "и"
+  },
+  "aaa": {
+    "pos": "INTJ",
+    "ru": "ах"
+  },
+  "aaaa": {
+    "pos": "INTJ",
+    "ru": "ах, ах!"
   },
   "ab": {
     "pos": "PROPN",
@@ -303,6 +335,10 @@
     "pos": "ADJ",
     "ru": "африканский"
   },
+  "agnieszka": {
+    "pos": "PROPN",
+    "ru": "Агнешка"
+  },
   "agresywny": {
     "pos": "ADJ",
     "ru": "агрессивный"
@@ -310,6 +346,14 @@
   "aha": {
     "pos": "PROPN",
     "ru": "Ага"
+  },
+  "aj": {
+    "pos": "INTJ",
+    "ru": "ай"
+  },
+  "ajajaj": {
+    "pos": "VERB",
+    "ru": "кричать, вопить"
   },
   "ajent": {
     "pos": "NOUN",
@@ -362,6 +406,10 @@
   "aksamit": {
     "pos": "NOUN",
     "ru": "бархат"
+  },
+  "aksamitny": {
+    "pos": "ADJ",
+    "ru": "бархатный"
   },
   "aktualnie": {
     "pos": "ADV",
@@ -687,9 +735,21 @@
     "pos": "NOUN",
     "ru": "аноним"
   },
+  "antek": {
+    "pos": "PROPN",
+    "ru": "Антек"
+  },
+  "antk": {
+    "pos": "PROPN",
+    "ru": "Антк"
+  },
   "antoni": {
     "pos": "PROPN",
     "ru": "Антони"
+  },
+  "antonina": {
+    "pos": "PROPN",
+    "ru": "Антонина"
   },
   "antrakt": {
     "pos": "NOUN",
@@ -979,6 +1039,14 @@
     "pos": "NOUN",
     "ru": "атласы"
   },
+  "au": {
+    "pos": "X",
+    "ru": "ау"
+  },
+  "aua": {
+    "pos": "PROPN",
+    "ru": "Ауа"
+  },
   "audycja": {
     "pos": "NOUN",
     "ru": "передача"
@@ -1023,6 +1091,10 @@
     "pos": "PART",
     "ru": "авторитарно"
   },
+  "auć": {
+    "pos": "INTJ",
+    "ru": "ай"
+  },
   "avancer": {
     "pos": "NOUN",
     "ru": "авансовая часть, авансирование"
@@ -1063,6 +1135,10 @@
     "pos": "ADJ",
     "ru": "азиатский"
   },
+  "ało": {
+    "pos": "PROPN",
+    "ru": "Ало"
+  },
   "aż": {
     "pos": "SCONJ",
     "ru": "до, пока, даже, что"
@@ -1078,6 +1154,14 @@
   "baba": {
     "pos": "NOUN",
     "ru": "баба"
+  },
+  "babca": {
+    "pos": "PROPN",
+    "ru": "Бабца"
+  },
+  "babcia": {
+    "pos": "NOUN",
+    "ru": "бабушка"
   },
   "babka": {
     "pos": "NOUN",
@@ -1143,6 +1227,10 @@
     "pos": "PROPN",
     "ru": "Бахр"
   },
+  "bajdy": {
+    "pos": "NOUN",
+    "ru": "байды, россказни, вымыслы"
+  },
   "bajeczny": {
     "pos": "ADJ",
     "ru": "сказочный, фантастический"
@@ -1150,6 +1238,10 @@
   "bajka": {
     "pos": "NOUN",
     "ru": "сказка"
+  },
+  "bajki": {
+    "pos": "NOUN",
+    "ru": "сказки"
   },
   "bakszysz": {
     "pos": "NOUN",
@@ -1186,6 +1278,10 @@
   "balonem?": {
     "pos": "NOUN",
     "ru": "воздушный шар"
+  },
+  "balonik": {
+    "pos": "NOUN",
+    "ru": "воздушный шарик"
   },
   "balowy": {
     "pos": "ADJ",
@@ -1283,6 +1379,10 @@
     "pos": "VERB",
     "ru": "бараний, бранясь"
   },
+  "baraszkować": {
+    "pos": "VERB",
+    "ru": "возиться, валяться"
+  },
   "barań": {
     "pos": "NOUN",
     "ru": "баран"
@@ -1290,6 +1390,10 @@
   "barbara": {
     "pos": "PROPN",
     "ru": "Барбара"
+  },
+  "barbarze": {
+    "pos": "PROPN",
+    "ru": "Барбаж"
   },
   "barbarzyńiec": {
     "pos": "NOUN",
@@ -1354,6 +1458,14 @@
   "basetli": {
     "pos": "PROPN",
     "ru": "Басетли"
+  },
+  "basi": {
+    "pos": "PROPN",
+    "ru": "Баси"
+  },
+  "basia": {
+    "pos": "PROPN",
+    "ru": "Бася"
   },
   "basowy": {
     "pos": "ADJ",
@@ -1435,6 +1547,10 @@
     "pos": "NOUN",
     "ru": "беспорядок"
   },
+  "bałaganie": {
+    "pos": "NOUN",
+    "ru": "беспорядок"
+  },
   "bałwan": {
     "pos": "NOUN",
     "ru": "снеговик"
@@ -1454,6 +1570,10 @@
   "beau": {
     "pos": "X",
     "ru": "красивый"
+  },
+  "beczać": {
+    "pos": "VERB",
+    "ru": "плакать"
   },
   "beczka": {
     "pos": "NOUN",
@@ -1555,6 +1675,10 @@
     "pos": "NOUN",
     "ru": "болтун"
   },
+  "berek": {
+    "pos": "NOUN",
+    "ru": "догонялки"
+  },
   "bernardyński": {
     "pos": "ADJ",
     "ru": "бернардинский"
@@ -1562,6 +1686,10 @@
   "bestia": {
     "pos": "NOUN",
     "ru": "зверь"
+  },
+  "betlejewska": {
+    "pos": "PROPN",
+    "ru": "Вифлеемская"
   },
   "bez": {
     "pos": "ADP",
@@ -1595,6 +1723,10 @@
     "pos": "ADJ",
     "ru": "бездонный"
   },
+  "bezdomny": {
+    "pos": "ADJ",
+    "ru": "бездомный"
+  },
   "bezdrzewny": {
     "pos": "ADJ",
     "ru": "безлесный"
@@ -1610,6 +1742,10 @@
   "bezgraniczny": {
     "pos": "ADJ",
     "ru": "безграничный"
+  },
+  "bezgłośnie": {
+    "pos": "ADV",
+    "ru": "бесшумно"
   },
   "bezinteresown": {
     "pos": "ADJ",
@@ -1718,6 +1854,10 @@
   "bezstronny": {
     "pos": "ADJ",
     "ru": "беспристрастный"
+  },
+  "bezszelestnie": {
+    "pos": "ADV",
+    "ru": "беззвучно"
   },
   "beztroska": {
     "pos": "ADJ",
@@ -1891,15 +2031,35 @@
     "pos": "ADJ",
     "ru": "бедная"
   },
+  "biedniutka": {
+    "pos": "NOUN",
+    "ru": "бедняжка"
+  },
+  "biedniutki": {
+    "pos": "PROPN",
+    "ru": "Бедниутки"
+  },
   "biedny": {
     "pos": "NOUN",
     "ru": "бедный"
+  },
+  "biedronka": {
+    "pos": "NOUN",
+    "ru": "божья коровка"
+  },
+  "biedulka": {
+    "pos": "PROPN",
+    "ru": "Бедулька"
   },
   "biedy": {
     "pos": "NOUN",
     "ru": "беды"
   },
   "bieg": {
+    "pos": "NOUN",
+    "ru": "бег"
+  },
+  "biega": {
     "pos": "NOUN",
     "ru": "бег"
   },
@@ -1918,6 +2078,10 @@
   "biegle": {
     "pos": "ADV",
     "ru": "бегло"
+  },
+  "biegli": {
+    "pos": "VERB",
+    "ru": "бежал"
   },
   "biegnić": {
     "pos": "ADJ",
@@ -1942,6 +2106,10 @@
   "biegł": {
     "pos": "ADJ",
     "ru": "бегущий"
+  },
+  "biegła": {
+    "pos": "VERB",
+    "ru": "бежала"
   },
   "biegłość": {
     "pos": "NOUN",
@@ -2035,6 +2203,10 @@
     "pos": "NOUN",
     "ru": "драка, потасовка"
   },
+  "bijemy": {
+    "pos": "VERB",
+    "ru": "бьём"
+  },
   "bijące": {
     "pos": "ADJ",
     "ru": "бьющий, колющий, ударяющий"
@@ -2070,6 +2242,10 @@
   "biorąc": {
     "pos": "VERB",
     "ru": "беря, принимая"
+  },
+  "biorę": {
+    "pos": "VERB",
+    "ru": "беру"
   },
   "bird": {
     "pos": "NOUN",
@@ -2158,6 +2334,10 @@
   "biłam": {
     "pos": "VERB",
     "ru": "бил (я бил, прошедшее время, женский род)"
+  },
+  "blach": {
+    "pos": "NOUN",
+    "ru": "жесть"
   },
   "blacha": {
     "pos": "NOUN",
@@ -2259,6 +2439,10 @@
     "pos": "ADV",
     "ru": "близко"
   },
+  "bliźniąt": {
+    "pos": "NOUN",
+    "ru": "близнецов"
+  },
   "bliżej": {
     "pos": "ADV",
     "ru": "ближе"
@@ -2294,6 +2478,10 @@
   "blondynki?": {
     "pos": "NOUN",
     "ru": "блондинки"
+  },
+  "bluszcz": {
+    "pos": "NOUN",
+    "ru": "плющ"
   },
   "bluza": {
     "pos": "NOUN",
@@ -2338,6 +2526,22 @@
   "bocian": {
     "pos": "NOUN",
     "ru": "аист"
+  },
+  "bocianek": {
+    "pos": "NOUN",
+    "ru": "аистенок"
+  },
+  "bociani": {
+    "pos": "ADJ",
+    "ru": "аистовый"
+  },
+  "bocianka": {
+    "pos": "NOUN",
+    "ru": "аист"
+  },
+  "bocianowy": {
+    "pos": "ADJ",
+    "ru": "аистовый"
   },
   "boczny": {
     "pos": "ADJ",
@@ -2423,6 +2627,10 @@
     "pos": "VERB",
     "ru": "боишься"
   },
+  "boić": {
+    "pos": "VERB",
+    "ru": "бояться"
+  },
   "bojaźliwy": {
     "pos": "ADJ",
     "ru": "боязливый"
@@ -2462,6 +2670,10 @@
   "boko": {
     "pos": "PROPN",
     "ru": "Боко"
+  },
+  "boks": {
+    "pos": "NOUN",
+    "ru": "бокс"
   },
   "bolać": {
     "pos": "VERB",
@@ -2522,6 +2734,10 @@
   "bomą": {
     "pos": "NOUN",
     "ru": "бомба"
+  },
+  "boooli": {
+    "pos": "VERB",
+    "ru": "боли (болеть)"
   },
   "bor": {
     "pos": "NOUN",
@@ -2591,6 +2807,10 @@
     "pos": "ADJ",
     "ru": "божественный (дательный падеж)"
   },
+  "bożenna": {
+    "pos": "PROPN",
+    "ru": "Божена"
+  },
   "bożk": {
     "pos": "NOUN",
     "ru": "идол"
@@ -2610,6 +2830,10 @@
   "bożą": {
     "pos": "PROPN",
     "ru": "Божа"
+  },
+  "braciszek": {
+    "pos": "NOUN",
+    "ru": "братик"
   },
   "bracki": {
     "pos": "ADJ",
@@ -2667,6 +2891,10 @@
     "pos": "NOUN",
     "ru": "братик"
   },
+  "brawo": {
+    "pos": "PROPN",
+    "ru": "браво"
+  },
   "brazylia": {
     "pos": "PROPN",
     "ru": "Бразилия"
@@ -2674,6 +2902,10 @@
   "brać": {
     "pos": "VERB",
     "ru": "брать"
+  },
+  "brać by": {
+    "pos": "VERB",
+    "ru": "брать бы"
   },
   "brać być": {
     "pos": "VERB",
@@ -2811,6 +3043,14 @@
     "pos": "NOUN",
     "ru": "бригада"
   },
+  "brykać": {
+    "pos": "NOUN",
+    "ru": "брыкание"
+  },
+  "brylanciek": {
+    "pos": "NOUN",
+    "ru": "бриллиантик"
+  },
   "brylant": {
     "pos": "NOUN",
     "ru": "бриллиант"
@@ -2895,6 +3135,10 @@
     "pos": "NOUN",
     "ru": "животик"
   },
+  "brzuszki": {
+    "pos": "NOUN",
+    "ru": "животики"
+  },
   "brzuszyn": {
     "pos": "ADJ",
     "ru": "брюшной"
@@ -2902,6 +3146,14 @@
   "brzuszyna": {
     "pos": "NOUN",
     "ru": "крушина"
+  },
+  "brzuszysko": {
+    "pos": "ADV",
+    "ru": "брюхом, животом вперед"
+  },
+  "brzuuuch": {
+    "pos": "VERB",
+    "ru": "визжать"
   },
   "brzydki": {
     "pos": "PROPN",
@@ -3083,6 +3335,10 @@
     "pos": "PROPN",
     "ru": "Булварек"
   },
+  "bum": {
+    "pos": "PROPN",
+    "ru": "Бум"
+  },
   "bunt": {
     "pos": "NOUN",
     "ru": "бунт"
@@ -3091,9 +3347,17 @@
     "pos": "NOUN",
     "ru": "бунтовщик"
   },
+  "bur": {
+    "pos": "PROPN",
+    "ru": "Бур"
+  },
   "bura": {
     "pos": "NOUN",
     "ru": "буря"
+  },
+  "burczenie": {
+    "pos": "NOUN",
+    "ru": "ворчание"
   },
   "burczyć": {
     "pos": "VERB",
@@ -3139,11 +3403,23 @@
     "pos": "NOUN",
     "ru": "бутылка"
   },
+  "buzia": {
+    "pos": "NOUN",
+    "ru": "губы"
+  },
   "buziaka": {
     "pos": "NOUN",
     "ru": "поцелуй"
   },
+  "buzie": {
+    "pos": "NOUN",
+    "ru": "поцелуй"
+  },
   "bułka": {
+    "pos": "NOUN",
+    "ru": "булка"
+  },
+  "bułko": {
     "pos": "NOUN",
     "ru": "булка"
   },
@@ -3166,6 +3442,10 @@
   "by być": {
     "pos": "AUX",
     "ru": "быть"
+  },
+  "bycie": {
+    "pos": "NOUN",
+    "ru": "бытие"
   },
   "bydlak": {
     "pos": "NOUN",
@@ -3287,6 +3567,10 @@
     "pos": "SCONJ",
     "ru": "был бы"
   },
+  "byłeś": {
+    "pos": "AUX",
+    "ru": "был(а)"
+  },
   "było.": {
     "pos": "SYM",
     "ru": "было"
@@ -3318,6 +3602,10 @@
   "bzdura!": {
     "pos": "X",
     "ru": "чушь"
+  },
+  "bzyczenie": {
+    "pos": "ADV",
+    "ru": "жужжание"
   },
   "bzów": {
     "pos": "NOUN",
@@ -3430,6 +3718,10 @@
   "będącą": {
     "pos": "ADJ",
     "ru": "находящуюся"
+  },
+  "błabła": {
+    "pos": "ADJ",
+    "ru": "болтливый"
   },
   "błagaj": {
     "pos": "VERB",
@@ -4251,6 +4543,10 @@
     "pos": "VERB",
     "ru": "прятать, скрывать"
   },
+  "chować być": {
+    "pos": "VERB",
+    "ru": "прятать, скрывать"
+  },
   "chował?": {
     "pos": "ADJ",
     "ru": "спрятанный"
@@ -4275,9 +4571,17 @@
     "pos": "NOUN",
     "ru": "храпение"
   },
+  "chrapanko": {
+    "pos": "PROPN",
+    "ru": "Храпанко"
+  },
   "chrapać": {
     "pos": "NOUN",
     "ru": "храп"
+  },
+  "chrapia": {
+    "pos": "PROPN",
+    "ru": "Храпия"
   },
   "chrapiących": {
     "pos": "ADJ",
@@ -4294,6 +4598,10 @@
   "chrobot": {
     "pos": "NOUN",
     "ru": "скрежет"
+  },
+  "chrobotać": {
+    "pos": "NOUN",
+    "ru": "царапанье"
   },
   "chronić": {
     "pos": "VERB",
@@ -4315,9 +4623,25 @@
     "pos": "VERB",
     "ru": "защищай"
   },
+  "chrr": {
+    "pos": "PROPN",
+    "ru": "Хрр"
+  },
+  "chrrr": {
+    "pos": "NOUN",
+    "ru": "хррр (звукоподражание, звук)"
+  },
   "chrupać": {
     "pos": "VERB",
     "ru": "хрустеть, хрупать, грызть"
+  },
+  "chrupieć": {
+    "pos": "ADJ",
+    "ru": "хрустящий"
+  },
+  "chrupka": {
+    "pos": "NOUN",
+    "ru": "хрустка"
   },
   "chrust": {
     "pos": "NOUN",
@@ -4398,6 +4722,10 @@
   "chrzęst": {
     "pos": "NOUN",
     "ru": "хруст"
+  },
+  "chrzęścić": {
+    "pos": "VERB",
+    "ru": "хрустеть, скрипеть"
   },
   "chuchnij": {
     "pos": "VERB",
@@ -4715,9 +5043,17 @@
     "pos": "NOUN",
     "ru": "холод"
   },
+  "ci": {
+    "pos": "NOUN",
+    "ru": "ты (косвенный падеж)"
+  },
   "ci?": {
     "pos": "ADJ",
     "ru": "тонкий"
+  },
+  "ciamkania": {
+    "pos": "PROPN",
+    "ru": "Чямканя"
   },
   "ciarka": {
     "pos": "NOUN",
@@ -4734,6 +5070,14 @@
   "ciasny": {
     "pos": "ADJ",
     "ru": "тесный, узкий, тесно"
+  },
+  "ciasteczko": {
+    "pos": "NOUN",
+    "ru": "печенье"
+  },
+  "ciastka": {
+    "pos": "NOUN",
+    "ru": "печенье"
   },
   "ciasto": {
     "pos": "NOUN",
@@ -4782,6 +5126,10 @@
   "cichuteńko": {
     "pos": "PROPN",
     "ru": "Цихутенько"
+  },
+  "cichutki": {
+    "pos": "ADJ",
+    "ru": "тихоньком, потихоньку"
   },
   "cichutko": {
     "pos": "ADV",
@@ -5019,6 +5367,10 @@
     "pos": "VERB",
     "ru": "радовать, радоваться"
   },
+  "cieszył": {
+    "pos": "VERB",
+    "ru": "радовал"
+  },
   "cieszże": {
     "pos": "ADJ",
     "ru": "радостный"
@@ -5030,6 +5382,10 @@
   "cieśla": {
     "pos": "NOUN",
     "ru": "плотник"
+  },
+  "ciii": {
+    "pos": "VERB",
+    "ru": "тянуть"
   },
   "cios": {
     "pos": "NOUN",
@@ -5098,6 +5454,10 @@
   "ciągnąc": {
     "pos": "VERB",
     "ru": "тянуть, тащить"
+  },
+  "ciągnącego": {
+    "pos": "ADJ",
+    "ru": "тянущего"
   },
   "ciągnący": {
     "pos": "ADJ",
@@ -5339,6 +5699,10 @@
     "pos": "NOUN",
     "ru": "чудотворец"
   },
+  "cudownie": {
+    "pos": "ADV",
+    "ru": "чудесно"
+  },
   "cudowny": {
     "pos": "ADJ",
     "ru": "чудесный"
@@ -5358,6 +5722,10 @@
   "cukrze": {
     "pos": "NOUN",
     "ru": "сахар"
+  },
+  "cwalina": {
+    "pos": "PROPN",
+    "ru": "Чвалина"
   },
   "cwać": {
     "pos": "VERB",
@@ -5402,6 +5770,10 @@
   "cykać": {
     "pos": "VERB",
     "ru": "щелкать"
+  },
+  "cyklon": {
+    "pos": "NOUN",
+    "ru": "циклон"
   },
   "cymbał": {
     "pos": "NOUN",
@@ -5627,6 +5999,18 @@
     "pos": "VERB",
     "ru": "ждали (мы женщины)"
   },
+  "czekolada": {
+    "pos": "NOUN",
+    "ru": "шоколад"
+  },
+  "czekoladka": {
+    "pos": "NOUN",
+    "ru": "шоколадка"
+  },
+  "czekoladowy": {
+    "pos": "ADJ",
+    "ru": "шоколадный"
+  },
   "czele": {
     "pos": "NOUN",
     "ru": "чело, лоб"
@@ -5822,6 +6206,10 @@
   "czubach": {
     "pos": "NOUN",
     "ru": "чуб"
+  },
+  "czubeczk": {
+    "pos": "NOUN",
+    "ru": "чубчик"
   },
   "czubiasty": {
     "pos": "ADJ",
@@ -6103,6 +6491,10 @@
     "pos": "VERB",
     "ru": "читать"
   },
+  "czyści": {
+    "pos": "NOUN",
+    "ru": "чистота"
+  },
   "czyście": {
     "pos": "PROPN",
     "ru": "Чищие"
@@ -6179,6 +6571,10 @@
     "pos": "NOUN",
     "ru": "часть"
   },
+  "człapeć": {
+    "pos": "VERB",
+    "ru": "шлёпать"
+  },
   "człek": {
     "pos": "NOUN",
     "ru": "человек"
@@ -6242,6 +6638,10 @@
   "dacho": {
     "pos": "NOUN",
     "ru": "крыша, кровля"
+  },
+  "dachówka": {
+    "pos": "NOUN",
+    "ru": "черепица"
   },
   "dadzić": {
     "pos": "VERB",
@@ -6482,6 +6882,10 @@
   "darły": {
     "pos": "VERB",
     "ru": "дарить"
+  },
+  "dasz": {
+    "pos": "VERB",
+    "ru": "даёшь"
   },
   "daszek": {
     "pos": "NOUN",
@@ -6739,6 +7143,10 @@
     "pos": "PROPN",
     "ru": "Денищук"
   },
+  "dentysta": {
+    "pos": "NOUN",
+    "ru": "стоматолог"
+  },
   "depcić": {
     "pos": "VERB",
     "ru": "топтать"
@@ -6842,6 +7250,10 @@
   "detal": {
     "pos": "NOUN",
     "ru": "деталь"
+  },
+  "detektyw": {
+    "pos": "NOUN",
+    "ru": "детектив"
   },
   "determinacja": {
     "pos": "NOUN",
@@ -7039,6 +7451,10 @@
     "pos": "VERB",
     "ru": "добить, добиваться, достигать"
   },
+  "dobra": {
+    "pos": "INTJ",
+    "ru": "хорошо"
+  },
   "dobranoc": {
     "pos": "NOUN",
     "ru": "спокойной ночи"
@@ -7086,6 +7502,10 @@
   "dobry": {
     "pos": "ADJ",
     "ru": "хороший"
+  },
+  "dobrych": {
+    "pos": "ADJ",
+    "ru": "хороших"
   },
   "dobrze": {
     "pos": "ADV",
@@ -7459,6 +7879,10 @@
     "pos": "VERB",
     "ru": "требовала"
   },
+  "domaniewski": {
+    "pos": "PROPN",
+    "ru": "Домановский"
+  },
   "domek": {
     "pos": "NOUN",
     "ru": "домик"
@@ -7711,6 +8135,10 @@
     "pos": "NOUN",
     "ru": "взрослый"
   },
+  "dorota": {
+    "pos": "PROPN",
+    "ru": "Дорота"
+  },
   "dorozumiać być": {
     "pos": "VERB",
     "ru": "понимать, подразумевать"
@@ -7718,6 +8146,10 @@
   "dorośli": {
     "pos": "ADJ",
     "ru": "взрослые"
+  },
+  "dorośniieć": {
+    "pos": "VERB",
+    "ru": "взрослеть"
   },
   "dorożka": {
     "pos": "NOUN",
@@ -7767,9 +8199,17 @@
     "pos": "ADJ",
     "ru": "докучливый"
   },
+  "dosiadać": {
+    "pos": "VERB",
+    "ru": "вскочить в седло, вскочить верхом, сесть верхом"
+  },
   "dosiadłszy": {
     "pos": "VERB",
     "ru": "сев"
+  },
+  "dosiaść": {
+    "pos": "VERB",
+    "ru": "взобраться"
   },
   "dosiąść": {
     "pos": "VERB",
@@ -8183,6 +8623,10 @@
     "pos": "VERB",
     "ru": "привезут"
   },
+  "dowlokłem": {
+    "pos": "ADJ",
+    "ru": "длинный"
+  },
   "dowodzić": {
     "pos": "VERB",
     "ru": "доказывать"
@@ -8359,6 +8803,10 @@
     "pos": "VERB",
     "ru": "ползать, шагать"
   },
+  "dreptał": {
+    "pos": "VERB",
+    "ru": "шагал"
+  },
   "dreszcz": {
     "pos": "NOUN",
     "ru": "дрожь"
@@ -8463,6 +8911,10 @@
     "pos": "NOUN",
     "ru": "дромадер"
   },
+  "drożdżowy": {
+    "pos": "ADJ",
+    "ru": "дрожжевой"
+  },
   "droższego": {
     "pos": "ADJ",
     "ru": "более дорогого"
@@ -8514,6 +8966,10 @@
   "drzemać": {
     "pos": "VERB",
     "ru": "дремать"
+  },
+  "drzemią": {
+    "pos": "VERB",
+    "ru": "дремлют"
   },
   "drzemka": {
     "pos": "NOUN",
@@ -8939,6 +9395,10 @@
     "pos": "ADJ",
     "ru": "директорский"
   },
+  "dyrygować": {
+    "pos": "VERB",
+    "ru": "дирижировать"
+  },
   "dyscyplina": {
     "pos": "NOUN",
     "ru": "дисциплина"
@@ -8999,6 +9459,10 @@
     "pos": "NOUN",
     "ru": "ковёр"
   },
+  "dywanik": {
+    "pos": "NOUN",
+    "ru": "коврик"
+  },
   "dyzenteria": {
     "pos": "NOUN",
     "ru": "дизентерия"
@@ -9018,6 +9482,10 @@
   "dzbank": {
     "pos": "NOUN",
     "ru": "банка"
+  },
+  "dziadek": {
+    "pos": "PROPN",
+    "ru": "дедушка"
   },
   "dziać": {
     "pos": "VERB",
@@ -9119,6 +9587,10 @@
     "pos": "ADV",
     "ru": "храбро"
   },
+  "dzielniejszego": {
+    "pos": "ADJ",
+    "ru": "более смелого"
+  },
   "dzielność": {
     "pos": "NOUN",
     "ru": "деятельность"
@@ -9134,6 +9606,10 @@
   "dzielącą": {
     "pos": "ADJ",
     "ru": "делящую"
+  },
+  "dzienniczek": {
+    "pos": "NOUN",
+    "ru": "дневник"
   },
   "dziennie": {
     "pos": "ADV",
@@ -9282,6 +9758,10 @@
   "dziobać": {
     "pos": "VERB",
     "ru": "клевать"
+  },
+  "dziobo": {
+    "pos": "NOUN",
+    "ru": "клюв"
   },
   "dzioborożce": {
     "pos": "PROPN",
@@ -9603,6 +10083,10 @@
     "pos": "ADJ",
     "ru": "тяжелый"
   },
+  "dźwigał": {
+    "pos": "VERB",
+    "ru": "поднимал"
+  },
   "dźwignąć": {
     "pos": "ADJ",
     "ru": "поднятый"
@@ -9638,6 +10122,10 @@
   "dżdżem": {
     "pos": "ADJ",
     "ru": "джемовый"
+  },
+  "dżdżownica": {
+    "pos": "NOUN",
+    "ru": "дождевой червь"
   },
   "dżdżu": {
     "pos": "ADV",
@@ -9803,6 +10291,10 @@
     "pos": "NOUN",
     "ru": "взрыв"
   },
+  "ekspresowy": {
+    "pos": "ADJ",
+    "ru": "скорый"
+  },
   "ekstra": {
     "pos": "ADJ",
     "ru": "экстра, дополнительный, отличный"
@@ -9891,9 +10383,17 @@
     "pos": "VERB",
     "ru": "шептать"
   },
+  "epub": {
+    "pos": "PROPN",
+    "ru": "EPUB"
+  },
   "epuzer": {
     "pos": "PROPN",
     "ru": "Эпузер"
+  },
+  "er": {
+    "pos": "NOUN",
+    "ru": "он"
   },
   "erdmann": {
     "pos": "PROPN",
@@ -9903,9 +10403,21 @@
     "pos": "ADJ",
     "ru": "эротический"
   },
+  "es": {
+    "pos": "NOUN",
+    "ru": "осел"
+  },
+  "eske": {
+    "pos": "NOUN",
+    "ru": "эске, набросок, эскиз"
+  },
   "eskorta": {
     "pos": "NOUN",
     "ru": "эскорт"
+  },
+  "eskseryment": {
+    "pos": "PROPN",
+    "ru": "Экскримент"
   },
   "esq": {
     "pos": "PROPN",
@@ -10443,6 +10955,10 @@
     "pos": "PROPN",
     "ru": "Флоренция"
   },
+  "flores": {
+    "pos": "NOUN",
+    "ru": "цветы"
+  },
   "flądra": {
     "pos": "NOUN",
     "ru": "камбала"
@@ -10454,6 +10970,10 @@
   "fogga": {
     "pos": "PROPN",
     "ru": "Фогга"
+  },
+  "foka": {
+    "pos": "NOUN",
+    "ru": "тюлень"
   },
   "folgi": {
     "pos": "ADJ",
@@ -10539,6 +11059,10 @@
     "pos": "NOUN",
     "ru": "фрагмент"
   },
+  "franciszek": {
+    "pos": "PROPN",
+    "ru": "Францишек"
+  },
   "francja": {
     "pos": "PROPN",
     "ru": "Франция"
@@ -10551,6 +11075,34 @@
     "pos": "PROPN",
     "ru": "францужка"
   },
+  "franeczek": {
+    "pos": "PROPN",
+    "ru": "Франечек"
+  },
+  "franek": {
+    "pos": "NOUN",
+    "ru": "франек (польское имя)"
+  },
+  "franie": {
+    "pos": "PROPN",
+    "ru": "Франие"
+  },
+  "franio": {
+    "pos": "PROPN",
+    "ru": "Франио"
+  },
+  "franiu": {
+    "pos": "NOUN",
+    "ru": "хлам, мусор, отбросы"
+  },
+  "frank": {
+    "pos": "PROPN",
+    "ru": "Франк"
+  },
+  "franka": {
+    "pos": "PROPN",
+    "ru": "Франка"
+  },
   "frapujący": {
     "pos": "ADJ",
     "ru": "поразительный"
@@ -10559,6 +11111,10 @@
     "pos": "ADJ",
     "ru": "озабоченный"
   },
+  "frań": {
+    "pos": "PROPN",
+    "ru": "Франь"
+  },
   "front": {
     "pos": "NOUN",
     "ru": "фронт"
@@ -10566,6 +11122,14 @@
   "frontowy": {
     "pos": "ADJ",
     "ru": "фронтовой"
+  },
+  "fruwan": {
+    "pos": "NOUN",
+    "ru": "фрукт"
+  },
+  "fruwać": {
+    "pos": "ADJ",
+    "ru": "летающий"
   },
   "fujarka": {
     "pos": "NOUN",
@@ -10659,9 +11223,17 @@
     "pos": "NOUN",
     "ru": "футляр"
   },
+  "futerk": {
+    "pos": "NOUN",
+    "ru": "мех"
+  },
   "futerko": {
     "pos": "NOUN",
     "ru": "футеро (часть платья, отделка из меха)"
+  },
+  "futro": {
+    "pos": "NOUN",
+    "ru": "шуба"
   },
   "futryna": {
     "pos": "NOUN",
@@ -10686,6 +11258,10 @@
   "gach": {
     "pos": "NOUN",
     "ru": "гач"
+  },
+  "gad": {
+    "pos": "NOUN",
+    "ru": "гад"
   },
   "gadali": {
     "pos": "VERB",
@@ -10715,9 +11291,17 @@
     "pos": "NOUN",
     "ru": "гадина"
   },
+  "gadzino": {
+    "pos": "PROPN",
+    "ru": "Гадзино"
+  },
   "gaj": {
     "pos": "PROPN",
     "ru": "Гай"
+  },
+  "galaktyka": {
+    "pos": "NOUN",
+    "ru": "галактика"
   },
   "galernicza": {
     "pos": "ADJ",
@@ -11055,6 +11639,10 @@
     "pos": "NOUN",
     "ru": "герметик"
   },
+  "gigant": {
+    "pos": "NOUN",
+    "ru": "гигант"
+  },
   "gigantyczny": {
     "pos": "ADJ",
     "ru": "гигантский"
@@ -11226,6 +11814,10 @@
   "gniewny": {
     "pos": "ADJ",
     "ru": "гневный"
+  },
+  "gnieździe": {
+    "pos": "NOUN",
+    "ru": "гнездо"
   },
   "gnieździć": {
     "pos": "VERB",
@@ -11475,6 +12067,10 @@
     "pos": "ADJ",
     "ru": "хозяйственный"
   },
+  "gospodarstwo": {
+    "pos": "NOUN",
+    "ru": "хозяйство"
+  },
   "gospodarz": {
     "pos": "NOUN",
     "ru": "хозяин"
@@ -11558,6 +12154,10 @@
   "gość": {
     "pos": "NOUN",
     "ru": "гость"
+  },
+  "gr": {
+    "pos": "NOUN",
+    "ru": "грош"
   },
   "gra": {
     "pos": "NOUN",
@@ -11783,6 +12383,10 @@
     "pos": "NOUN",
     "ru": "грошак"
   },
+  "groza": {
+    "pos": "NOUN",
+    "ru": "гроза"
+  },
   "grozić": {
     "pos": "VERB",
     "ru": "грозить"
@@ -11987,9 +12591,17 @@
     "pos": "NOUN",
     "ru": "погремушка"
   },
+  "grzecznie": {
+    "pos": "ADV",
+    "ru": "вежливо"
+  },
   "grzeczność": {
     "pos": "NOUN",
     "ru": "вежливость"
+  },
+  "grzeczny": {
+    "pos": "ADJ",
+    "ru": "вежливый"
   },
   "grzesznik": {
     "pos": "NOUN",
@@ -12066,6 +12678,10 @@
   "grzyb": {
     "pos": "NOUN",
     "ru": "гриб"
+  },
+  "grzybk": {
+    "pos": "NOUN",
+    "ru": "грибок"
   },
   "grzywa": {
     "pos": "NOUN",
@@ -12207,6 +12823,10 @@
     "pos": "NOUN",
     "ru": "звезда"
   },
+  "gwiazdeczka": {
+    "pos": "NOUN",
+    "ru": "звёздочка"
+  },
   "gwiazdka": {
     "pos": "NOUN",
     "ru": "звёздочка"
@@ -12216,6 +12836,10 @@
     "ru": "звездить"
   },
   "gwiaździsty": {
+    "pos": "ADJ",
+    "ru": "звёздный"
+  },
+  "gwiezdny": {
     "pos": "ADJ",
     "ru": "звёздный"
   },
@@ -12343,6 +12967,10 @@
     "pos": "NOUN",
     "ru": "гоготание"
   },
+  "gęgać": {
+    "pos": "VERB",
+    "ru": "гагать, кричать (о гусях)"
+  },
   "gęsi": {
     "pos": "NOUN",
     "ru": "гуси"
@@ -12434,6 +13062,10 @@
   "głodzić": {
     "pos": "VERB",
     "ru": "голодать"
+  },
+  "głog": {
+    "pos": "NOUN",
+    "ru": "боярышник"
   },
   "głos": {
     "pos": "NOUN",
@@ -12843,6 +13475,10 @@
     "pos": "PUNCT",
     "ru": "расписание"
   },
+  "harpercollins": {
+    "pos": "PROPN",
+    "ru": "HarperCollins"
+  },
   "harpunnik": {
     "pos": "NOUN",
     "ru": "гарпунер"
@@ -12850,6 +13486,10 @@
   "hartowny": {
     "pos": "NOUN",
     "ru": "закаленный человек, стойкий человек"
+  },
+  "hasajić": {
+    "pos": "ADJ",
+    "ru": "спешный, торопливый"
   },
   "hasło": {
     "pos": "NOUN",
@@ -12863,6 +13503,10 @@
     "pos": "PROPN",
     "ru": "Хатима"
   },
+  "hau": {
+    "pos": "NOUN",
+    "ru": "боль"
+  },
   "hawana": {
     "pos": "PROPN",
     "ru": "Гавана"
@@ -12874,6 +13518,10 @@
   "hałasować": {
     "pos": "VERB",
     "ru": "шуметь, гремлить, буянить"
+  },
+  "hałasoweć": {
+    "pos": "VERB",
+    "ru": "шуметь, галдеть, производить шум"
   },
   "hałaśliwego?": {
     "pos": "NOUN",
@@ -12950,6 +13598,10 @@
   "hen": {
     "pos": "NOUN",
     "ru": "{\"ru\": \"ганна\"}\n\nили\n\n{\"ru\": \"колыбель\"}"
+  },
+  "henia": {
+    "pos": "PROPN",
+    "ru": "Хеня"
   },
   "henryk": {
     "pos": "PROPN",
@@ -13119,6 +13771,10 @@
     "pos": "INTJ",
     "ru": "хм"
   },
+  "hmm": {
+    "pos": "INTJ",
+    "ru": "хм"
+  },
   "ho": {
     "pos": "PROPN",
     "ru": "Хо"
@@ -13199,6 +13855,10 @@
     "pos": "NOUN",
     "ru": "ссылка"
   },
+  "hu": {
+    "pos": "INTJ",
+    "ru": "ху"
+  },
   "huczać": {
     "pos": "VERB",
     "ru": "гудеть, шуметь, издавать звук"
@@ -13235,6 +13895,10 @@
     "pos": "VERB",
     "ru": "гулять, развлекаться, кутить"
   },
+  "huleć": {
+    "pos": "VERB",
+    "ru": "пьянствовать, гулять, веселиться"
+  },
   "hultaj": {
     "pos": "PROPN",
     "ru": "Хултай"
@@ -13250,6 +13914,10 @@
   "hunór": {
     "pos": "NOUN",
     "ru": "честь"
+  },
+  "hura": {
+    "pos": "PROPN",
+    "ru": "ура"
   },
   "huragan": {
     "pos": "PROPN",
@@ -13371,6 +14039,10 @@
     "pos": "NOUN",
     "ru": "идиоматизм"
   },
+  "idziemy": {
+    "pos": "VERB",
+    "ru": "идем"
+  },
   "idziesz": {
     "pos": "VERB",
     "ru": "идёшь"
@@ -13423,6 +14095,10 @@
     "pos": "VERB",
     "ru": "игнорируя"
   },
+  "igrające": {
+    "pos": "ADJ",
+    "ru": "играющий"
+  },
   "igrać": {
     "pos": "VERB",
     "ru": "играть"
@@ -13438,6 +14114,10 @@
   "iii": {
     "pos": "X",
     "ru": "и (конъюнкция)"
+  },
+  "iiii": {
+    "pos": "PROPN",
+    "ru": "Ийи"
   },
   "ile": {
     "pos": "DET",
@@ -13458,6 +14138,10 @@
   "ilu": {
     "pos": "DET",
     "ru": "сколько"
+  },
+  "ilustracja": {
+    "pos": "NOUN",
+    "ru": "иллюстрация"
   },
   "im": {
     "pos": "PRON",
@@ -13494,6 +14178,18 @@
   "impresjonista": {
     "pos": "PROPN",
     "ru": "импрессионист"
+  },
+  "impreza": {
+    "pos": "NOUN",
+    "ru": "вечеринка"
+  },
+  "imprezka": {
+    "pos": "NOUN",
+    "ru": "вечеринка"
+  },
+  "imprezować": {
+    "pos": "VERB",
+    "ru": "развлекаться"
   },
   "improwizowany": {
     "pos": "ADJ",
@@ -13759,6 +14455,10 @@
     "pos": "PROPN",
     "ru": "ISBN"
   },
+  "iski": {
+    "pos": "ADJ",
+    "ru": "искристый"
+  },
   "iskier": {
     "pos": "PROPN",
     "ru": "Искер"
@@ -13826,6 +14526,10 @@
   "italie[1": {
     "pos": "NOUN",
     "ru": "Италия"
+  },
+  "iv": {
+    "pos": "X",
+    "ru": "четыре (римская цифра)"
   },
   "izaak": {
     "pos": "PROPN",
@@ -13899,6 +14603,10 @@
     "pos": "NOUN",
     "ru": "яблоко"
   },
+  "jacek": {
+    "pos": "PROPN",
+    "ru": "Яцек"
+  },
   "jacy": {
     "pos": "DET",
     "ru": "какие"
@@ -13918,6 +14626,10 @@
   "jadać": {
     "pos": "VERB",
     "ru": "есть, питаться"
+  },
+  "jadnąć": {
+    "pos": "VERB",
+    "ru": "ныть"
   },
   "jadowicie": {
     "pos": "ADV",
@@ -14038,6 +14750,10 @@
   "jagódek": {
     "pos": "PROPN",
     "ru": "Ягодек"
+  },
+  "jajecznica": {
+    "pos": "NOUN",
+    "ru": "яичница"
   },
   "jajkami": {
     "pos": "PROPN",
@@ -14427,6 +15143,10 @@
     "pos": "VERB",
     "ru": "ехать"
   },
+  "jechał": {
+    "pos": "VERB",
+    "ru": "ехал"
+  },
   "jeden": {
     "pos": "ADJ",
     "ru": "один"
@@ -14490,6 +15210,10 @@
   "jednorazowy": {
     "pos": "ADJ",
     "ru": "одноразовый"
+  },
+  "jednorożco": {
+    "pos": "NOUN",
+    "ru": "единорог"
   },
   "jednostajniejszy": {
     "pos": "ADJ",
@@ -14610,6 +15334,10 @@
   "jeleniej": {
     "pos": "ADJ",
     "ru": "более олений, более изящный"
+  },
+  "jeleń": {
+    "pos": "NOUN",
+    "ru": "олень"
   },
   "jemu": {
     "pos": "PRON",
@@ -14755,6 +15483,10 @@
     "pos": "VERB",
     "ru": "ездить"
   },
+  "jeździć być": {
+    "pos": "VERB",
+    "ru": "ездить, ходить верхом"
+  },
   "jeźdźca": {
     "pos": "NOUN",
     "ru": "всадника"
@@ -14771,6 +15503,10 @@
     "pos": "NOUN",
     "ru": "ёж"
   },
+  "jeżdżyć": {
+    "pos": "NOUN",
+    "ru": "езда"
+  },
   "jeżdżąc": {
     "pos": "VERB",
     "ru": "ездя, катаясь"
@@ -14778,6 +15514,10 @@
   "jeżeli": {
     "pos": "SCONJ",
     "ru": "если"
+  },
+  "jeżu": {
+    "pos": "PROPN",
+    "ru": "Ежу"
   },
   "joanna": {
     "pos": "PROPN",
@@ -14987,6 +15727,10 @@
     "pos": "NOUN",
     "ru": "язык"
   },
+  "kabanos": {
+    "pos": "PROPN",
+    "ru": "кабанос"
+  },
   "kabała": {
     "pos": "NOUN",
     "ru": "каббала"
@@ -14994,6 +15738,10 @@
   "kabałę": {
     "pos": "NOUN",
     "ru": "кабала"
+  },
+  "kabel": {
+    "pos": "NOUN",
+    "ru": "кабель"
   },
   "kabina": {
     "pos": "NOUN",
@@ -15255,6 +16003,10 @@
     "pos": "NOUN",
     "ru": "кампания"
   },
+  "kamyk": {
+    "pos": "NOUN",
+    "ru": "камешек"
+  },
   "kanadyjski": {
     "pos": "ADJ",
     "ru": "канадский"
@@ -15270,6 +16022,10 @@
   "kanapa": {
     "pos": "NOUN",
     "ru": "диван"
+  },
+  "kanapka": {
+    "pos": "NOUN",
+    "ru": "бутерброд"
   },
   "kanał": {
     "pos": "NOUN",
@@ -15298,6 +16054,10 @@
   "kandydatura": {
     "pos": "NOUN",
     "ru": "кандидатура"
+  },
+  "kangura": {
+    "pos": "NOUN",
+    "ru": "кенгуру"
   },
   "kanonada": {
     "pos": "NOUN",
@@ -15334,6 +16094,10 @@
   "kanę": {
     "pos": "PROPN",
     "ru": "Канэ"
+  },
+  "kap": {
+    "pos": "X",
+    "ru": "капля"
   },
   "kapa": {
     "pos": "NOUN",
@@ -15575,6 +16339,10 @@
     "pos": "NOUN",
     "ru": "каскад"
   },
+  "kastor": {
+    "pos": "PROPN",
+    "ru": "Кастор"
+  },
   "kasza": {
     "pos": "NOUN",
     "ru": "каша"
@@ -15638,6 +16406,10 @@
   "kataraktę": {
     "pos": "VERB",
     "ru": "катаракту (удалять катаракту)"
+  },
+  "katarzyna": {
+    "pos": "PROPN",
+    "ru": "Катаржина"
   },
   "katastrofa": {
     "pos": "NOUN",
@@ -15755,6 +16527,10 @@
     "pos": "VERB",
     "ru": "велеть быть, приказать быть"
   },
+  "kazała": {
+    "pos": "VERB",
+    "ru": "велела"
+  },
   "kazałem": {
     "pos": "VERB",
     "ru": "велел, приказывал"
@@ -15807,6 +16583,10 @@
     "pos": "NOUN",
     "ru": "лужа"
   },
+  "każdemu": {
+    "pos": "DET",
+    "ru": "каждому"
+  },
   "każdy": {
     "pos": "DET",
     "ru": "каждый"
@@ -15814,6 +16594,14 @@
   "każę": {
     "pos": "VERB",
     "ru": "приказываю"
+  },
+  "kciuk": {
+    "pos": "PROPN",
+    "ru": "Большой палец"
+  },
+  "kciuka": {
+    "pos": "NOUN",
+    "ru": "большой палец"
   },
   "kebir": {
     "pos": "PROPN",
@@ -15983,6 +16771,10 @@
     "pos": "NOUN",
     "ru": "колбаса"
   },
+  "kiełbaskowy": {
+    "pos": "ADJ",
+    "ru": "колбасный"
+  },
   "kij": {
     "pos": "NOUN",
     "ru": "палка"
@@ -16026,6 +16818,10 @@
   "kilkaset": {
     "pos": "DET",
     "ru": "несколько сотен"
+  },
+  "kilo": {
+    "pos": "NOUN",
+    "ru": "килограмм"
   },
   "kilogram": {
     "pos": "NOUN",
@@ -16139,6 +16935,10 @@
     "pos": "NOUN",
     "ru": "клапан"
   },
+  "klapeczka": {
+    "pos": "NOUN",
+    "ru": "клапанчик"
+  },
   "klapka": {
     "pos": "NOUN",
     "ru": "крышка"
@@ -16155,6 +16955,10 @@
     "pos": "NOUN",
     "ru": "класс"
   },
+  "klaskanie": {
+    "pos": "NOUN",
+    "ru": "хлопанье"
+  },
   "klaskać": {
     "pos": "VERB",
     "ru": "хлопать"
@@ -16163,6 +16967,10 @@
     "pos": "VERB",
     "ru": "хлопнуть"
   },
+  "klaszcząć": {
+    "pos": "ADJ",
+    "ru": "щелкающий"
+  },
   "klasztorny": {
     "pos": "ADJ",
     "ru": "монастырский"
@@ -16170,6 +16978,10 @@
   "klatka": {
     "pos": "NOUN",
     "ru": "клетка"
+  },
+  "klawisz": {
+    "pos": "NOUN",
+    "ru": "клавиша"
   },
   "klea": {
     "pos": "PROPN",
@@ -16234,6 +17046,10 @@
   "kloc": {
     "pos": "NOUN",
     "ru": "кол"
+  },
+  "klocek": {
+    "pos": "NOUN",
+    "ru": "кубик"
   },
   "klock": {
     "pos": "NOUN",
@@ -16435,6 +17251,10 @@
     "pos": "VERB",
     "ru": "любить"
   },
+  "koci": {
+    "pos": "ADJ",
+    "ru": "кошачий"
+  },
   "kociak": {
     "pos": "NOUN",
     "ru": "котенок"
@@ -16446,6 +17266,14 @@
   "kocię": {
     "pos": "ADJ",
     "ru": "кошачий"
+  },
+  "kocyk": {
+    "pos": "NOUN",
+    "ru": "одеялко"
+  },
+  "kocyki": {
+    "pos": "NOUN",
+    "ru": "кошечки"
   },
   "koczować": {
     "pos": "VERB",
@@ -16514,6 +17342,10 @@
   "kolanko": {
     "pos": "NOUN",
     "ru": "коленко"
+  },
+  "kolanku": {
+    "pos": "PROPN",
+    "ru": "Коланку"
   },
   "kolano": {
     "pos": "NOUN",
@@ -16750,6 +17582,10 @@
   "kompromituć": {
     "pos": "ADJ",
     "ru": "компрометировать"
+  },
+  "komputer": {
+    "pos": "NOUN",
+    "ru": "компьютер"
   },
   "komu": {
     "pos": "PRON",
@@ -17019,6 +17855,10 @@
     "pos": "NOUN",
     "ru": "беседа"
   },
+  "konwersja": {
+    "pos": "NOUN",
+    "ru": "конверсия"
+  },
   "konwoj": {
     "pos": "NOUN",
     "ru": "конвой"
@@ -17111,6 +17951,10 @@
     "pos": "NOUN",
     "ru": "копытце"
   },
+  "kopytka": {
+    "pos": "NOUN",
+    "ru": "копытца"
+  },
   "kopyto": {
     "pos": "NOUN",
     "ru": "копыто"
@@ -17175,6 +18019,10 @@
     "pos": "NOUN",
     "ru": "пробка"
   },
+  "korekta": {
+    "pos": "NOUN",
+    "ru": "корректура"
+  },
   "korespondencyj": {
     "pos": "NOUN",
     "ru": "корреспондентция"
@@ -17218,6 +18066,10 @@
   "korytarzyk": {
     "pos": "NOUN",
     "ru": "коридорчик"
+  },
+  "korzenia": {
+    "pos": "NOUN",
+    "ru": "корни"
   },
   "korzenie": {
     "pos": "NOUN",
@@ -17278,6 +18130,22 @@
   "kosmetyk": {
     "pos": "NOUN",
     "ru": "косметика"
+  },
+  "kosmiczny": {
+    "pos": "ADJ",
+    "ru": "космический"
+  },
+  "kosmos": {
+    "pos": "NOUN",
+    "ru": "космос"
+  },
+  "kosnekwencja": {
+    "pos": "NOUN",
+    "ru": "непоследовательность"
+  },
+  "kosnen": {
+    "pos": "VERB",
+    "ru": "касаться"
   },
   "kostnica": {
     "pos": "NOUN",
@@ -17363,13 +18231,37 @@
     "pos": "NOUN",
     "ru": "котар"
   },
+  "koteczek": {
+    "pos": "PROPN",
+    "ru": "Котечек"
+  },
+  "koteczka": {
+    "pos": "NOUN",
+    "ru": "кошечка"
+  },
   "kotek": {
     "pos": "NOUN",
     "ru": "котенок"
   },
+  "kotk": {
+    "pos": "NOUN",
+    "ru": "кот"
+  },
   "kotka": {
     "pos": "NOUN",
     "ru": "кошка"
+  },
+  "kotki": {
+    "pos": "NOUN",
+    "ru": "кошки"
+  },
+  "kotlecik": {
+    "pos": "NOUN",
+    "ru": "котлета"
+  },
+  "kotlet": {
+    "pos": "NOUN",
+    "ru": "котлета"
   },
   "kotlina": {
     "pos": "NOUN",
@@ -17415,6 +18307,10 @@
     "pos": "PROPN",
     "ru": "Коза"
   },
+  "kozerska": {
+    "pos": "PROPN",
+    "ru": "Козерска"
+  },
   "kozi": {
     "pos": "ADJ",
     "ru": "козий"
@@ -17430,6 +18326,10 @@
   "kołatać": {
     "pos": "VERB",
     "ru": "стучать"
+  },
+  "kołderka": {
+    "pos": "NOUN",
+    "ru": "одеяло"
   },
   "kołdr": {
     "pos": "NOUN",
@@ -17579,9 +18479,17 @@
     "pos": "NOUN",
     "ru": "насмешка"
   },
+  "kraan": {
+    "pos": "X",
+    "ru": "кран"
+  },
   "krach": {
     "pos": "NOUN",
     "ru": "крах"
+  },
+  "kraciasty": {
+    "pos": "ADJ",
+    "ru": "в клетку"
   },
   "kradzież": {
     "pos": "NOUN",
@@ -17593,6 +18501,10 @@
   },
   "kraina": {
     "pos": "PROPN",
+    "ru": "край"
+  },
+  "krainie": {
+    "pos": "NOUN",
     "ru": "край"
   },
   "kraj": {
@@ -17630,6 +18542,10 @@
   "kraków": {
     "pos": "PROPN",
     "ru": "Краков"
+  },
+  "kran": {
+    "pos": "NOUN",
+    "ru": "кран"
   },
   "kraska": {
     "pos": "PROPN",
@@ -17691,6 +18607,14 @@
     "pos": "VERB",
     "ru": "красть"
   },
+  "kre": {
+    "pos": "PROPN",
+    "ru": "Крё"
+  },
+  "krecie": {
+    "pos": "PROPN",
+    "ru": "Креци"
+  },
   "kreda": {
     "pos": "NOUN",
     "ru": "мел"
@@ -17723,6 +18647,10 @@
     "pos": "NOUN",
     "ru": "край"
   },
+  "kret": {
+    "pos": "PROPN",
+    "ru": "Крет"
+  },
   "kretyn": {
     "pos": "NOUN",
     "ru": "кретин"
@@ -17742,6 +18670,10 @@
   "kretynka": {
     "pos": "NOUN",
     "ru": "кретинка"
+  },
+  "kretywny": {
+    "pos": "ADJ",
+    "ru": "творческий"
   },
   "kretyński": {
     "pos": "ADJ",
@@ -17779,6 +18711,10 @@
     "pos": "VERB",
     "ru": "чертить, рисовать, вычеркивать"
   },
+  "kro": {
+    "pos": "ADV",
+    "ru": "кровь"
+  },
   "kroczyć": {
     "pos": "VERB",
     "ru": "шагать"
@@ -17807,15 +18743,31 @@
     "pos": "NOUN",
     "ru": "крокодилы"
   },
+  "krokodylej": {
+    "pos": "ADJ",
+    "ru": "крокодиловый"
+  },
   "krokodylu": {
     "pos": "PROPN",
     "ru": "крокодил"
+  },
+  "krokodyląć": {
+    "pos": "VERB",
+    "ru": "кроить"
   },
   "kromka": {
     "pos": "NOUN",
     "ru": "корка (хлеба), ломтик"
   },
   "kropela": {
+    "pos": "NOUN",
+    "ru": "капля"
+  },
+  "kropelk": {
+    "pos": "NOUN",
+    "ru": "капелька"
+  },
+  "kropelka": {
     "pos": "NOUN",
     "ru": "капля"
   },
@@ -17854,6 +18806,10 @@
   "krupnik": {
     "pos": "NOUN",
     "ru": "крупник"
+  },
+  "kruszonka": {
+    "pos": "NOUN",
+    "ru": "крошка"
   },
   "kruszynka": {
     "pos": "NOUN",
@@ -17934,6 +18890,10 @@
   "krzaczasty": {
     "pos": "ADJ",
     "ru": "кустистый"
+  },
+  "krzaczk": {
+    "pos": "NOUN",
+    "ru": "кустик"
   },
   "krzaek": {
     "pos": "NOUN",
@@ -18059,6 +19019,10 @@
     "pos": "VERB",
     "ru": "обижать, причинять вред"
   },
+  "krzywić": {
+    "pos": "VERB",
+    "ru": "криветь, искривлять, кривить"
+  },
   "krzywo": {
     "pos": "ADV",
     "ru": "криво"
@@ -18095,6 +19059,10 @@
     "pos": "NOUN",
     "ru": "король"
   },
+  "królestwa": {
+    "pos": "NOUN",
+    "ru": "королевства"
+  },
   "królestwo": {
     "pos": "NOUN",
     "ru": "королевство"
@@ -18102,6 +19070,10 @@
   "królewicz": {
     "pos": "PROPN",
     "ru": "королевич"
+  },
+  "królewna": {
+    "pos": "NOUN",
+    "ru": "королевна"
   },
   "królewski": {
     "pos": "ADJ",
@@ -18114,6 +19086,14 @@
   "królik": {
     "pos": "NOUN",
     "ru": "кролик"
+  },
+  "królowa": {
+    "pos": "NOUN",
+    "ru": "королева"
+  },
+  "królowy": {
+    "pos": "ADJ",
+    "ru": "королевский"
   },
   "krótki": {
     "pos": "ADJ",
@@ -18159,6 +19139,10 @@
     "pos": "VERB",
     "ru": "крутить, вертеть"
   },
+  "kręciłem": {
+    "pos": "VERB",
+    "ru": "крутил"
+  },
   "kręconymi": {
     "pos": "ADJ",
     "ru": "вьющимися, кудрявыми"
@@ -18203,6 +19187,10 @@
     "pos": "ADJ",
     "ru": "коренастый"
   },
+  "krętej": {
+    "pos": "ADJ",
+    "ru": "извилистый"
+  },
   "kręty": {
     "pos": "ADJ",
     "ru": "извилистый, петляющий, кривой"
@@ -18214,6 +19202,10 @@
   "książka": {
     "pos": "NOUN",
     "ru": "книга"
+  },
+  "książę": {
+    "pos": "NOUN",
+    "ru": "князь"
   },
   "księc": {
     "pos": "NOUN",
@@ -18279,6 +19271,10 @@
     "pos": "NOUN",
     "ru": "которого"
   },
+  "któregoś": {
+    "pos": "DET",
+    "ru": "какого-то"
+  },
   "któreś": {
     "pos": "PRON",
     "ru": "какой-то, какой-либо"
@@ -18327,6 +19323,14 @@
     "pos": "PROPN",
     "ru": "Куба"
   },
+  "kubeczk": {
+    "pos": "NOUN",
+    "ru": "кубок"
+  },
+  "kubek": {
+    "pos": "NOUN",
+    "ru": "кружка"
+  },
   "kubka": {
     "pos": "NOUN",
     "ru": "кружка"
@@ -18338,6 +19342,10 @@
   "kucharka": {
     "pos": "NOUN",
     "ru": "кухарка"
+  },
+  "kucharski": {
+    "pos": "ADJ",
+    "ru": "кулинарный"
   },
   "kucharz": {
     "pos": "NOUN",
@@ -18446,6 +19454,10 @@
   "kulinarny": {
     "pos": "ADJ",
     "ru": "кулинарный"
+  },
+  "kulka": {
+    "pos": "NOUN",
+    "ru": "шарик"
   },
   "kullal": {
     "pos": "PROPN",
@@ -18619,6 +19631,10 @@
     "pos": "NOUN",
     "ru": "курьез"
   },
+  "kurnik": {
+    "pos": "NOUN",
+    "ru": "курятник"
+  },
   "kursować": {
     "pos": "ADJ",
     "ru": "курсировать, ходить туда-сюда"
@@ -18634,6 +19650,10 @@
   "kurtuazja": {
     "pos": "NOUN",
     "ru": "вежливость"
+  },
+  "kurz": {
+    "pos": "NOUN",
+    "ru": "пыль"
   },
   "kurzawa": {
     "pos": "PROPN",
@@ -18663,6 +19683,10 @@
     "pos": "VERB",
     "ru": "кусать"
   },
+  "kuszą": {
+    "pos": "VERB",
+    "ru": "соблазняют, искушают"
+  },
   "kut": {
     "pos": "ADJ",
     "ru": "хромой"
@@ -18670,6 +19694,10 @@
   "kutwo": {
     "pos": "NOUN",
     "ru": "кобыла"
+  },
+  "kuzyn": {
+    "pos": "NOUN",
+    "ru": "кузен"
   },
   "kułak": {
     "pos": "NOUN",
@@ -18690,6 +19718,10 @@
   "kwadratowy": {
     "pos": "ADJ",
     "ru": "квадратный"
+  },
+  "kwakać": {
+    "pos": "VERB",
+    "ru": "квакать"
   },
   "kwapić": {
     "pos": "VERB",
@@ -18839,6 +19871,14 @@
     "pos": "NOUN",
     "ru": "ложь"
   },
+  "kładć": {
+    "pos": "VERB",
+    "ru": "класть"
+  },
+  "kładła": {
+    "pos": "VERB",
+    "ru": "клала"
+  },
   "kładłem": {
     "pos": "VERB",
     "ru": "клал"
@@ -18971,6 +20011,14 @@
     "pos": "ADJ",
     "ru": "клубящийся, вьющийся"
   },
+  "kłębuszek": {
+    "pos": "NOUN",
+    "ru": "клубочек"
+  },
+  "kłębuszka": {
+    "pos": "NOUN",
+    "ru": "клубочек"
+  },
   "la": {
     "pos": "X",
     "ru": "она"
@@ -19067,6 +20115,10 @@
     "pos": "NOUN",
     "ru": "выпад"
   },
+  "laptop": {
+    "pos": "NOUN",
+    "ru": "ноутбук"
+  },
   "las": {
     "pos": "NOUN",
     "ru": "лес"
@@ -19087,9 +20139,17 @@
     "pos": "ADJ",
     "ru": "летающий"
   },
+  "latającym": {
+    "pos": "ADJ",
+    "ru": "летающий"
+  },
   "lataliśmy": {
     "pos": "VERB",
     "ru": "мы летали"
+  },
+  "latanie": {
+    "pos": "NOUN",
+    "ru": "латание"
   },
   "latarka": {
     "pos": "NOUN",
@@ -19102,6 +20162,10 @@
   "latarniczy": {
     "pos": "ADJ",
     "ru": "фонарный"
+  },
+  "latarnie": {
+    "pos": "NOUN",
+    "ru": "фонари"
   },
   "latarnik": {
     "pos": "VERB",
@@ -19179,6 +20243,10 @@
     "pos": "VERB",
     "ru": "летала бы"
   },
+  "leciałem": {
+    "pos": "VERB",
+    "ru": "летел"
+  },
   "leciały": {
     "pos": "VERB",
     "ru": "летели"
@@ -19188,6 +20256,10 @@
     "ru": "летели (вы)"
   },
   "lecieć": {
+    "pos": "VERB",
+    "ru": "летать"
+  },
+  "lecieć być": {
     "pos": "VERB",
     "ru": "летать"
   },
@@ -19210,6 +20282,10 @@
   "lecz": {
     "pos": "CCONJ",
     "ru": "но"
+  },
+  "lecznica": {
+    "pos": "NOUN",
+    "ru": "клиника"
   },
   "leczniczy": {
     "pos": "ADJ",
@@ -19419,6 +20495,10 @@
     "pos": "VERB",
     "ru": "лепить"
   },
+  "lepki": {
+    "pos": "ADJ",
+    "ru": "липкий"
+  },
   "lepką": {
     "pos": "NOUN",
     "ru": "липкость, клейкость"
@@ -19511,6 +20591,10 @@
     "pos": "VERB",
     "ru": "лежал"
   },
+  "leżała": {
+    "pos": "VERB",
+    "ru": "лежала"
+  },
   "leże": {
     "pos": "NOUN",
     "ru": "логово"
@@ -19526,6 +20610,10 @@
   "leżymy": {
     "pos": "VERB",
     "ru": "лежим"
+  },
+  "leżysz": {
+    "pos": "VERB",
+    "ru": "лежишь"
   },
   "leżyć": {
     "pos": "VERB",
@@ -19546,6 +20634,10 @@
   "leżącymi": {
     "pos": "ADJ",
     "ru": "лежащие"
+  },
+  "leżć": {
+    "pos": "NOUN",
+    "ru": "кровать"
   },
   "lian": {
     "pos": "NOUN",
@@ -19675,6 +20767,18 @@
     "pos": "NOUN",
     "ru": "лисёнок"
   },
+  "lisk": {
+    "pos": "PROPN",
+    "ru": "Лиск"
+  },
+  "liski": {
+    "pos": "ADJ",
+    "ru": "лисий"
+  },
+  "lisko": {
+    "pos": "NOUN",
+    "ru": "лиса"
+  },
   "list": {
     "pos": "NOUN",
     "ru": "лист"
@@ -19771,6 +20875,14 @@
     "pos": "ADV",
     "ru": "литовский"
   },
+  "lizak": {
+    "pos": "NOUN",
+    "ru": "леденец"
+  },
+  "lizać": {
+    "pos": "VERB",
+    "ru": "лизать"
+  },
   "liśc": {
     "pos": "NOUN",
     "ru": "лист"
@@ -19791,6 +20903,10 @@
     "pos": "NOUN",
     "ru": "лист"
   },
+  "llc": {
+    "pos": "PROPN",
+    "ru": "ООО"
+  },
   "lod": {
     "pos": "NOUN",
     "ru": "лед"
@@ -19803,6 +20919,10 @@
     "pos": "NOUN",
     "ru": "мороженое"
   },
+  "lodówka": {
+    "pos": "NOUN",
+    "ru": "холодильник"
+  },
   "logicznie": {
     "pos": "ADV",
     "ru": "логически"
@@ -19810,6 +20930,10 @@
   "logiczny": {
     "pos": "ADJ",
     "ru": "логический"
+  },
+  "logo": {
+    "pos": "NOUN",
+    "ru": "логотип"
   },
   "lojalność": {
     "pos": "NOUN",
@@ -19839,9 +20963,25 @@
     "pos": "PROPN",
     "ru": "Лоллобриджида"
   },
+  "lolo": {
+    "pos": "PROPN",
+    "ru": "Лоло"
+  },
+  "lomny": {
+    "pos": "PROPN",
+    "ru": "Ломны"
+  },
   "lont": {
     "pos": "NOUN",
     "ru": "фитиль"
+  },
+  "lore": {
+    "pos": "X",
+    "ru": "тоска"
+  },
+  "lorelować": {
+    "pos": "VERB",
+    "ru": "флиртовать"
   },
   "los": {
     "pos": "NOUN",
@@ -19854,6 +20994,10 @@
   "lot": {
     "pos": "NOUN",
     "ru": "полет"
+  },
+  "lu": {
+    "pos": "X",
+    "ru": "он"
   },
   "lub": {
     "pos": "CCONJ",
@@ -19878,6 +21022,10 @@
   "lubić być": {
     "pos": "VERB",
     "ru": "любить быть"
+  },
+  "lubiły": {
+    "pos": "NOUN",
+    "ru": "любили"
   },
   "lubo": {
     "pos": "ADV",
@@ -19959,6 +21107,14 @@
     "pos": "NOUN",
     "ru": "роскошь"
   },
+  "lul": {
+    "pos": "NOUN",
+    "ru": "люль"
+  },
+  "luli": {
+    "pos": "NOUN",
+    "ru": "люли"
+  },
   "luneta": {
     "pos": "NOUN",
     "ru": "люнета"
@@ -19966,6 +21122,10 @@
   "lunąć": {
     "pos": "VERB",
     "ru": "прыгнуть, броситься, устремиться"
+  },
+  "lupa": {
+    "pos": "NOUN",
+    "ru": "лупа"
   },
   "lusterka": {
     "pos": "NOUN",
@@ -20131,6 +21291,14 @@
     "pos": "NOUN",
     "ru": "махание, взмах"
   },
+  "machać być": {
+    "pos": "VERB",
+    "ru": "махать, размахивать"
+  },
+  "machałem": {
+    "pos": "VERB",
+    "ru": "махал (прошедшее время, мужской род единственного числа)"
+  },
   "machina": {
     "pos": "NOUN",
     "ru": "машина"
@@ -20162,6 +21330,10 @@
   "machnęć być": {
     "pos": "VERB",
     "ru": "махнуть рукой, взмахнуть"
+  },
+  "machnęła": {
+    "pos": "VERB",
+    "ru": "махнула"
   },
   "machnęłam": {
     "pos": "VERB",
@@ -20206,6 +21378,14 @@
   "magazyn": {
     "pos": "NOUN",
     "ru": "склад"
+  },
+  "magia": {
+    "pos": "NOUN",
+    "ru": "магия"
+  },
+  "magiczny": {
+    "pos": "ADJ",
+    "ru": "волшебный"
   },
   "magisterski": {
     "pos": "ADJ",
@@ -20367,6 +21547,10 @@
     "pos": "ADJ",
     "ru": "мрачный"
   },
+  "makaron": {
+    "pos": "NOUN",
+    "ru": "макароны"
+  },
   "makbet": {
     "pos": "PROPN",
     "ru": "Макбет"
@@ -20403,6 +21587,10 @@
     "pos": "NOUN",
     "ru": "мальчик"
   },
+  "maleńki": {
+    "pos": "ADJ",
+    "ru": "маленький"
+  },
   "mali": {
     "pos": "ADJ",
     "ru": "малый"
@@ -20427,9 +21615,17 @@
     "pos": "VERB",
     "ru": "maltretować - мучить, издеваться, плохо обращаться"
   },
+  "maluch": {
+    "pos": "NOUN",
+    "ru": "малыш"
+  },
   "malującą": {
     "pos": "ADJ",
     "ru": "красящую"
+  },
+  "malutki": {
+    "pos": "ADJ",
+    "ru": "маленький"
   },
   "mam!": {
     "pos": "PROPN",
@@ -20459,6 +21655,10 @@
     "pos": "PROPN",
     "ru": "Мамба"
   },
+  "mamie": {
+    "pos": "NOUN",
+    "ru": "бабушке"
+  },
   "maminsynka": {
     "pos": "NOUN",
     "ru": "маменькин сынок"
@@ -20486,6 +21686,10 @@
   "mamrotałam": {
     "pos": "VERB",
     "ru": "бормотала"
+  },
+  "mamusia": {
+    "pos": "NOUN",
+    "ru": "мамочка"
   },
   "mandarynka": {
     "pos": "NOUN",
@@ -20551,6 +21755,10 @@
     "pos": "NOUN",
     "ru": "баобаб"
   },
+  "marchewkowy": {
+    "pos": "ADJ",
+    "ru": "морковный"
+  },
   "marchwi": {
     "pos": "NOUN",
     "ru": "морковь"
@@ -20566,6 +21774,10 @@
   "maria": {
     "pos": "PROPN",
     "ru": "Мария"
+  },
+  "marianna": {
+    "pos": "PROPN",
+    "ru": "Марианна"
   },
   "mariaż": {
     "pos": "NOUN",
@@ -20606,6 +21818,10 @@
   "marszczić": {
     "pos": "VERB",
     "ru": "морщить"
+  },
+  "marta": {
+    "pos": "PROPN",
+    "ru": "Марта"
   },
   "martwić": {
     "pos": "VERB",
@@ -20674,6 +21890,10 @@
   "marzyłam": {
     "pos": "VERB",
     "ru": "мечтала"
+  },
+  "marzyłem": {
+    "pos": "VERB",
+    "ru": "мечтал"
   },
   "marząco": {
     "pos": "ADV",
@@ -20807,6 +22027,14 @@
     "pos": "ADV",
     "ru": "математически"
   },
+  "materac": {
+    "pos": "NOUN",
+    "ru": "матрац"
+  },
+  "materaco": {
+    "pos": "NOUN",
+    "ru": "матрас"
+  },
   "materiał": {
     "pos": "NOUN",
     "ru": "материал"
@@ -20903,6 +22131,10 @@
     "pos": "PRON",
     "ru": "мало кому"
   },
+  "małosolny": {
+    "pos": "ADJ",
+    "ru": "малосоленый"
+  },
   "małpa": {
     "pos": "PRON",
     "ru": "обезьяна"
@@ -20959,6 +22191,10 @@
     "pos": "NOUN",
     "ru": "супруги"
   },
+  "maślaczk": {
+    "pos": "NOUN",
+    "ru": "маслёнок"
+  },
   "maść": {
     "pos": "NOUN",
     "ru": "мазь"
@@ -21002,6 +22238,14 @@
   "mechaniczny": {
     "pos": "ADJ",
     "ru": "механический"
+  },
+  "mechanik": {
+    "pos": "NOUN",
+    "ru": "механик"
+  },
+  "meczać": {
+    "pos": "VERB",
+    "ru": "утомлять, надоедать"
   },
   "meczet": {
     "pos": "NOUN",
@@ -21087,6 +22331,10 @@
     "pos": "NOUN",
     "ru": "дыня"
   },
+  "menażce": {
+    "pos": "PROPN",
+    "ru": "Менажа"
+  },
   "menażeria": {
     "pos": "NOUN",
     "ru": "зверинец"
@@ -21131,6 +22379,10 @@
     "pos": "NOUN",
     "ru": "метаморфоза"
   },
+  "meteoryto": {
+    "pos": "NOUN",
+    "ru": "метеорит"
+  },
   "metoda": {
     "pos": "NOUN",
     "ru": "метод"
@@ -21163,6 +22415,10 @@
     "pos": "PROPN",
     "ru": "Мея"
   },
+  "mgielnie": {
+    "pos": "ADV",
+    "ru": "туманно"
+  },
   "mgieła": {
     "pos": "NOUN",
     "ru": "мгла"
@@ -21170,6 +22426,10 @@
   "mgiełka": {
     "pos": "NOUN",
     "ru": "туманность, мглистость"
+  },
+  "mgle": {
+    "pos": "ADV",
+    "ru": "в тумане"
   },
   "mglisty": {
     "pos": "ADJ",
@@ -21186,6 +22446,10 @@
   "mgła": {
     "pos": "NOUN",
     "ru": "туман"
+  },
+  "mhm": {
+    "pos": "PROPN",
+    "ru": "Мхм"
   },
   "miano": {
     "pos": "NOUN",
@@ -21270,6 +22534,10 @@
   "miecz": {
     "pos": "NOUN",
     "ru": "меч"
+  },
+  "miednica": {
+    "pos": "NOUN",
+    "ru": "таз"
   },
   "miedziak": {
     "pos": "NOUN",
@@ -21499,9 +22767,21 @@
     "pos": "ADJ",
     "ru": "мерцающих"
   },
+  "mijając": {
+    "pos": "VERB",
+    "ru": "проходя мимо"
+  },
   "mijać": {
     "pos": "VERB",
     "ru": "проходить, минувать"
+  },
+  "mijał": {
+    "pos": "VERB",
+    "ru": "проходил"
+  },
+  "mijały": {
+    "pos": "VERB",
+    "ru": "проходили"
   },
   "mika": {
     "pos": "NOUN",
@@ -21558,6 +22838,10 @@
   "milczy": {
     "pos": "PROPN",
     "ru": "Мильчи"
+  },
+  "milczyć": {
+    "pos": "ADJ",
+    "ru": "молчать"
   },
   "mile": {
     "pos": "ADV",
@@ -21623,6 +22907,10 @@
     "pos": "ADJ",
     "ru": "более милый"
   },
+  "milutki": {
+    "pos": "ADJ",
+    "ru": "миленький, хорошенький"
+  },
   "mimo": {
     "pos": "ADV",
     "ru": "несмотря на"
@@ -21674,6 +22962,10 @@
   "minuta": {
     "pos": "NOUN",
     "ru": "минута"
+  },
+  "minutka": {
+    "pos": "NOUN",
+    "ru": "минутка"
   },
   "minuty.": {
     "pos": "NOUN",
@@ -21731,6 +23023,10 @@
     "pos": "NOUN",
     "ru": "миска"
   },
+  "misiek": {
+    "pos": "NOUN",
+    "ru": "мишка"
+  },
   "misja": {
     "pos": "NOUN",
     "ru": "миссия"
@@ -21787,6 +23083,14 @@
     "pos": "PRON",
     "ru": "меня"
   },
+  "mięciutek": {
+    "pos": "ADJ",
+    "ru": "мягкий, нежный"
+  },
+  "mięciutky": {
+    "pos": "ADJ",
+    "ru": "мягкий, нежный"
+  },
   "między": {
     "pos": "ADP",
     "ru": "между"
@@ -21795,9 +23099,17 @@
     "pos": "ADJ",
     "ru": "межотраслевой"
   },
+  "międzygwiezdny": {
+    "pos": "ADJ",
+    "ru": "межзвёздный"
+  },
   "międzymorz": {
     "pos": "NOUN",
     "ru": "междуморье"
+  },
+  "miękka": {
+    "pos": "NOUN",
+    "ru": "мягкая (ткань, подушка и т.п.)"
   },
   "miękki": {
     "pos": "ADJ",
@@ -21818,6 +23130,10 @@
   "mięso": {
     "pos": "NOUN",
     "ru": "мясо"
+  },
+  "mięta": {
+    "pos": "NOUN",
+    "ru": "мята"
   },
   "miło": {
     "pos": "ADV",
@@ -21846,6 +23162,22 @@
   "miły": {
     "pos": "ADJ",
     "ru": "милый"
+  },
+  "miłych": {
+    "pos": "ADJ",
+    "ru": "приятных"
+  },
+  "miśek": {
+    "pos": "PROPN",
+    "ru": "Мишек"
+  },
+  "miśk": {
+    "pos": "PROPN",
+    "ru": "Мишк"
+  },
+  "mkną": {
+    "pos": "VERB",
+    "ru": "мчаться"
   },
   "mknąć": {
     "pos": "VERB",
@@ -21895,6 +23227,10 @@
     "pos": "ADJ",
     "ru": "меньший"
   },
+  "mniejszego": {
+    "pos": "ADJ",
+    "ru": "меньшего"
+  },
   "mniejszy": {
     "pos": "ADJ",
     "ru": "меньший"
@@ -21926,6 +23262,10 @@
   "mo": {
     "pos": "PROPN",
     "ru": "Мо"
+  },
+  "mobi": {
+    "pos": "PROPN",
+    "ru": "Мобі"
   },
   "moc": {
     "pos": "NOUN",
@@ -22043,6 +23383,10 @@
     "pos": "VERB",
     "ru": "могли"
   },
+  "mogłyby": {
+    "pos": "VERB",
+    "ru": "могли бы"
+  },
   "mogłybyśmy": {
     "pos": "VERB",
     "ru": "могли бы мы"
@@ -22058,6 +23402,10 @@
   "mohammeda": {
     "pos": "PROPN",
     "ru": "Мухаммед"
+  },
+  "mokną": {
+    "pos": "PROPN",
+    "ru": "Мокня"
   },
   "moknąc": {
     "pos": "VERB",
@@ -22114,6 +23462,10 @@
   "moniką.": {
     "pos": "NOUN",
     "ru": "монику"
+  },
+  "monitor": {
+    "pos": "NOUN",
+    "ru": "монитор"
   },
   "monopol": {
     "pos": "NOUN",
@@ -22399,9 +23751,17 @@
     "pos": "ADJ",
     "ru": "морозящий"
   },
+  "mrrr": {
+    "pos": "PROPN",
+    "ru": "Мррр"
+  },
   "mruczeć": {
     "pos": "VERB",
     "ru": "урчать"
+  },
+  "mruczyć": {
+    "pos": "VERB",
+    "ru": "ворчать"
   },
   "mrugaeć": {
     "pos": "VERB",
@@ -22415,6 +23775,10 @@
     "pos": "VERB",
     "ru": "моргать"
   },
+  "mrugnąć": {
+    "pos": "VERB",
+    "ru": "подмигнуть"
+  },
   "mruknąć": {
     "pos": "VERB",
     "ru": "пробормотать"
@@ -22426,6 +23790,10 @@
   "mruknęłam": {
     "pos": "VERB",
     "ru": "промычал(а), буркнул(а)"
+  },
+  "mrusia": {
+    "pos": "PROPN",
+    "ru": "Мруся"
   },
   "mruy": {
     "pos": "VERB",
@@ -22699,6 +24067,10 @@
     "pos": "ADJ",
     "ru": "мыльный"
   },
+  "myk": {
+    "pos": "NOUN",
+    "ru": "уловка"
+  },
   "mylić": {
     "pos": "VERB",
     "ru": "путать, ошибаться"
@@ -22714,6 +24086,14 @@
   "myszka": {
     "pos": "NOUN",
     "ru": "мышка"
+  },
+  "myszko": {
+    "pos": "NOUN",
+    "ru": "мышка"
+  },
+  "myszkować": {
+    "pos": "VERB",
+    "ru": "мышковать, охотиться на мышей"
   },
   "myć": {
     "pos": "NOUN",
@@ -22846,6 +24226,10 @@
   "mógć by być": {
     "pos": "VERB",
     "ru": "мог бы быть"
+  },
+  "mógłby": {
+    "pos": "VERB",
+    "ru": "мог бы"
   },
   "mógłbym": {
     "pos": "VERB",
@@ -23070,6 +24454,10 @@
   "mężczyzny.": {
     "pos": "PROPN",
     "ru": "мужчины"
+  },
+  "mężnie": {
+    "pos": "ADV",
+    "ru": "мужественно"
   },
   "mężny": {
     "pos": "ADJ",
@@ -23647,6 +25035,10 @@
     "pos": "ADJ",
     "ru": "тишайший"
   },
+  "najcięższą": {
+    "pos": "ADJ",
+    "ru": "самую тяжелую"
+  },
   "najczęściej": {
     "pos": "ADV",
     "ru": "чаще всего, обычно, часто"
@@ -23714,6 +25106,10 @@
   "najgorszym": {
     "pos": "ADJ",
     "ru": "худший"
+  },
+  "najgorszą": {
+    "pos": "ADJ",
+    "ru": "худшую"
   },
   "najgorzej": {
     "pos": "ADV",
@@ -23907,6 +25303,10 @@
     "pos": "ADV",
     "ru": "скорейшего"
   },
+  "najpyszniejszej": {
+    "pos": "ADJ",
+    "ru": "самая вкусная"
+  },
   "najrozmaitszego": {
     "pos": "ADJ",
     "ru": "самого разнообразного"
@@ -23946,6 +25346,10 @@
   "najszerzej": {
     "pos": "ADV",
     "ru": "наиширше, наиболее широко"
+  },
+  "najszybszego": {
+    "pos": "ADJ",
+    "ru": "быстрейшего"
   },
   "najszybszym": {
     "pos": "ADJ",
@@ -24127,6 +25531,18 @@
     "pos": "VERB",
     "ru": "приказать"
   },
+  "nakierować": {
+    "pos": "VERB",
+    "ru": "направить"
+  },
+  "nakleić": {
+    "pos": "VERB",
+    "ru": "наклеить"
+  },
+  "nakleił": {
+    "pos": "VERB",
+    "ru": "наклеил"
+  },
   "nakrapiany": {
     "pos": "ADJ",
     "ru": "мелкий (о дожде), усеянный, в крапинку"
@@ -24138,6 +25554,10 @@
   "nakryć": {
     "pos": "VERB",
     "ru": "накрыть"
+  },
+  "nakrył": {
+    "pos": "ADJ",
+    "ru": "накрытый"
   },
   "nakłaniać": {
     "pos": "VERB",
@@ -24171,9 +25591,21 @@
     "pos": "NOUN",
     "ru": "наклейка"
   },
+  "naleśniek": {
+    "pos": "NOUN",
+    "ru": "блин"
+  },
+  "naleśnik": {
+    "pos": "NOUN",
+    "ru": "блин"
+  },
   "należać by": {
     "pos": "VERB",
     "ru": "следовало бы"
+  },
+  "należała": {
+    "pos": "VERB",
+    "ru": "принадлежала"
   },
   "należało": {
     "pos": "VERB",
@@ -24278,6 +25710,10 @@
   "namotać": {
     "pos": "VERB",
     "ru": "намотать"
+  },
+  "namowy": {
+    "pos": "ADJ",
+    "ru": "убедительный"
   },
   "namysł": {
     "pos": "NOUN",
@@ -24387,6 +25823,10 @@
     "pos": "VERB",
     "ru": "зажечь, разжечь"
   },
+  "napar": {
+    "pos": "NOUN",
+    "ru": "настой"
+  },
   "naparstek": {
     "pos": "NOUN",
     "ru": "напёрсток"
@@ -24455,11 +25895,19 @@
     "pos": "NOUN",
     "ru": "напиток"
   },
+  "napijć": {
+    "pos": "PROPN",
+    "ru": "Напиць"
+  },
   "napis": {
     "pos": "NOUN",
     "ru": "надпись"
   },
   "napisać": {
+    "pos": "VERB",
+    "ru": "написать"
+  },
+  "napisać by": {
     "pos": "VERB",
     "ru": "написать"
   },
@@ -24531,6 +25979,10 @@
     "pos": "PART",
     "ru": "действительно"
   },
+  "naprawi": {
+    "pos": "PROPN",
+    "ru": "Направи"
+  },
   "naprawiyć": {
     "pos": "ADJ",
     "ru": "исправный"
@@ -24562,6 +26014,14 @@
   "naprędce": {
     "pos": "ADV",
     "ru": "поспешно"
+  },
+  "napsociły": {
+    "pos": "VERB",
+    "ru": "надули, обманули"
+  },
+  "napychać": {
+    "pos": "VERB",
+    "ru": "набивать, переполнять"
   },
   "napój": {
     "pos": "NOUN",
@@ -24822,6 +26282,10 @@
   "następcę": {
     "pos": "NOUN",
     "ru": "преемник"
+  },
+  "następnej": {
+    "pos": "ADJ",
+    "ru": "следующей"
   },
   "następnie": {
     "pos": "ADV",
@@ -25207,6 +26671,10 @@
     "pos": "NOUN",
     "ru": "комар"
   },
+  "ne": {
+    "pos": "INTJ",
+    "ru": "нет"
+  },
   "negatywny": {
     "pos": "ADJ",
     "ru": "отрицательный"
@@ -25351,6 +26819,10 @@
     "pos": "ADJ",
     "ru": "синий"
   },
+  "niebieć": {
+    "pos": "VERB",
+    "ru": "синеть"
+  },
   "niebios": {
     "pos": "PROPN",
     "ru": "Небиос"
@@ -25366,6 +26838,10 @@
   "nieboskłona": {
     "pos": "NOUN",
     "ru": "небосвод"
+  },
+  "nieboskłony": {
+    "pos": "PROPN",
+    "ru": "Небоскёны"
   },
   "nieboszczką": {
     "pos": "ADJ",
@@ -25615,6 +27091,10 @@
     "pos": "PART",
     "ru": "немного, не очень много"
   },
+  "nieduży": {
+    "pos": "ADJ",
+    "ru": "небольшой"
+  },
   "niedwuznacznymi": {
     "pos": "ADJ",
     "ru": "двусмысленными"
@@ -25634,6 +27114,34 @@
   "niedługo": {
     "pos": "ADV",
     "ru": "вскоре, скоро, недолго"
+  },
+  "niedźwiadek": {
+    "pos": "NOUN",
+    "ru": "медвежонок"
+  },
+  "niedźwiadka": {
+    "pos": "NOUN",
+    "ru": "медведица"
+  },
+  "niedźwiedzi": {
+    "pos": "PROPN",
+    "ru": "Niedźwiedzi"
+  },
+  "niedźwiedzia": {
+    "pos": "NOUN",
+    "ru": "медведица"
+  },
+  "niedźwiedzicęa": {
+    "pos": "PROPN",
+    "ru": "Медведица"
+  },
+  "niedźwiedziem": {
+    "pos": "NOUN",
+    "ru": "медведем"
+  },
+  "niedźwiedź": {
+    "pos": "ADV",
+    "ru": "медведь"
   },
   "nieforemny": {
     "pos": "ADJ",
@@ -25943,6 +27451,10 @@
     "pos": "ADJ",
     "ru": "неописуемый"
   },
+  "nieopodal": {
+    "pos": "ADP",
+    "ru": "неподалеку от"
+  },
   "nieosiągalć": {
     "pos": "ADJ",
     "ru": "недостижимый"
@@ -26000,6 +27512,10 @@
     "ru": "ненастье"
   },
   "niepohamowany": {
+    "pos": "ADJ",
+    "ru": "необузданный"
+  },
+  "niepohamować": {
     "pos": "ADJ",
     "ru": "необузданный"
   },
@@ -26086,6 +27602,10 @@
   "niepowszednim": {
     "pos": "ADJ",
     "ru": "необычный"
+  },
+  "niepowtarzalny": {
+    "pos": "ADJ",
+    "ru": "неповторимый"
   },
   "niepożądany": {
     "pos": "ADJ",
@@ -26303,6 +27823,10 @@
     "pos": "NOUN",
     "ru": "бесконечность"
   },
+  "nieskuteczny": {
+    "pos": "ADJ",
+    "ru": "неэффективный"
+  },
   "niesmak": {
     "pos": "NOUN",
     "ru": "неприятный вкус, отвращение"
@@ -26314,6 +27838,10 @@
   "niesnask": {
     "pos": "NOUN",
     "ru": "несоответствие"
+  },
+  "niespanin": {
+    "pos": "ADV",
+    "ru": "неуклюже"
   },
   "niespełna": {
     "pos": "PART",
@@ -26374,6 +27902,10 @@
   "niesprawiedliwość": {
     "pos": "NOUN",
     "ru": "несправедливость"
+  },
+  "niesprawiedliwy": {
+    "pos": "ADJ",
+    "ru": "несправедливый"
   },
   "niestety": {
     "pos": "PART",
@@ -26438,6 +27970,14 @@
   "nietoperz": {
     "pos": "NOUN",
     "ru": "летучая мышь"
+  },
+  "nietoperze": {
+    "pos": "PROPN",
+    "ru": "Нетопырь"
+  },
+  "nietoperzu": {
+    "pos": "PROPN",
+    "ru": "Нетопёрж"
   },
   "nietrudno": {
     "pos": "ADV",
@@ -26510,6 +28050,10 @@
   "nieustannie": {
     "pos": "ADV",
     "ru": "постоянно"
+  },
+  "nieustraszony": {
+    "pos": "ADJ",
+    "ru": "неустрашимый"
   },
   "nieuwaga": {
     "pos": "NOUN",
@@ -26787,6 +28331,10 @@
     "pos": "ADV",
     "ru": "вопреки, несогласно, противоречиво"
   },
+  "niezgrabny": {
+    "pos": "ADJ",
+    "ru": "неловкий, неуклюжий"
+  },
   "niezgłębiony": {
     "pos": "ADJ",
     "ru": "неизведанный"
@@ -26894,6 +28442,10 @@
   "nieład": {
     "pos": "NOUN",
     "ru": "беспорядок"
+  },
+  "nieładnie": {
+    "pos": "ADV",
+    "ru": "некрасиво"
   },
   "niełatwo": {
     "pos": "ADV",
@@ -27091,6 +28643,10 @@
     "pos": "VERB",
     "ru": "разрушать"
   },
+  "niteczka": {
+    "pos": "NOUN",
+    "ru": "ниточка"
+  },
   "nitka": {
     "pos": "NOUN",
     "ru": "нитка"
@@ -27130,6 +28686,10 @@
   "nią.": {
     "pos": "NOUN",
     "ru": "ней, ею"
+  },
+  "nić": {
+    "pos": "NOUN",
+    "ru": "нить"
   },
   "niż": {
     "pos": "SCONJ",
@@ -27234,6 +28794,10 @@
   "nonsens!": {
     "pos": "NOUN",
     "ru": "бессмыслица"
+  },
+  "nora": {
+    "pos": "NOUN",
+    "ru": "нора"
   },
   "norma": {
     "pos": "NOUN",
@@ -27354,6 +28918,10 @@
   "nouzrani": {
     "pos": "X",
     "ru": "поучительный"
+  },
+  "nowacka": {
+    "pos": "PROPN",
+    "ru": "Новацка"
   },
   "nowela": {
     "pos": "NOUN",
@@ -27538,6 +29106,10 @@
   "o'clocki": {
     "pos": "ADJ",
     "ru": "ржавый"
+  },
+  "o.o": {
+    "pos": "X",
+    "ru": "взаимно, друг другу"
   },
   "oa": {
     "pos": "X",
@@ -27743,6 +29315,10 @@
     "pos": "VERB",
     "ru": "обмотать, обвить"
   },
+  "obeszliśmy": {
+    "pos": "VERB",
+    "ru": "обошли"
+  },
   "obetrzeć": {
     "pos": "VERB",
     "ru": "обтереть, вытереть"
@@ -27931,6 +29507,10 @@
     "pos": "VERB",
     "ru": "охватить бы, обнять бы"
   },
+  "oblanym": {
+    "pos": "ADJ",
+    "ru": "облитый"
+  },
   "oblazły": {
     "pos": "VERB",
     "ru": "облез, облезал"
@@ -28075,6 +29655,14 @@
     "pos": "ADV",
     "ru": "рядом"
   },
+  "obolały": {
+    "pos": "ADJ",
+    "ru": "болезненный, ноющий"
+  },
+  "obora": {
+    "pos": "NOUN",
+    "ru": "конюшня"
+  },
   "oborwaniec": {
     "pos": "NOUN",
     "ru": "оборванец"
@@ -28175,6 +29763,10 @@
     "pos": "NOUN",
     "ru": "защита"
   },
+  "obronisz": {
+    "pos": "VERB",
+    "ru": "защитишь"
+  },
   "obronić": {
     "pos": "VERB",
     "ru": "защитить"
@@ -28191,9 +29783,17 @@
     "pos": "NOUN",
     "ru": "защитник"
   },
+  "obrośnąć": {
+    "pos": "ADJ",
+    "ru": "заросший"
+  },
   "obroża": {
     "pos": "NOUN",
     "ru": "ошейник"
+  },
+  "obrus": {
+    "pos": "NOUN",
+    "ru": "скатерть"
   },
   "obrywać": {
     "pos": "VERB",
@@ -28248,6 +29848,10 @@
     "ru": "наблюдательный"
   },
   "obserwować": {
+    "pos": "VERB",
+    "ru": "наблюдать"
+  },
+  "obserwować być": {
     "pos": "VERB",
     "ru": "наблюдать"
   },
@@ -28435,6 +30039,10 @@
     "pos": "NUM",
     "ru": "оба"
   },
+  "obór": {
+    "pos": "NOUN",
+    "ru": "коровник"
+  },
   "obóz": {
     "pos": "NOUN",
     "ru": "лагерь"
@@ -28482,6 +30090,18 @@
   "obłędny": {
     "pos": "ADJ",
     "ru": "безумный"
+  },
+  "obśliniyć": {
+    "pos": "ADJ",
+    "ru": "заплеванный"
+  },
+  "ocalam": {
+    "pos": "VERB",
+    "ru": "ослеплять"
+  },
+  "ocalać": {
+    "pos": "VERB",
+    "ru": "спасать"
   },
   "ocalenie": {
     "pos": "NOUN",
@@ -28578,6 +30198,10 @@
   "ochładzać": {
     "pos": "VERB",
     "ru": "охлаждать"
+  },
+  "ochłody": {
+    "pos": "NOUN",
+    "ru": "прохлада"
   },
   "ochłonąć": {
     "pos": "VERB",
@@ -29263,6 +30887,10 @@
     "pos": "VERB",
     "ru": "буркнуть"
   },
+  "odmówiyć": {
+    "pos": "VERB",
+    "ru": "отказать"
+  },
   "odmówić": {
     "pos": "VERB",
     "ru": "отказать, отказываться, отречься"
@@ -29343,6 +30971,10 @@
     "pos": "VERB",
     "ru": "обновить"
   },
+  "odoptowiedzialny": {
+    "pos": "ADJ",
+    "ru": "безответственный"
+  },
   "odoru.": {
     "pos": "ADJ",
     "ru": "смелый"
@@ -29406,6 +31038,10 @@
   "odpis": {
     "pos": "NOUN",
     "ru": "копия"
+  },
+  "odplątać": {
+    "pos": "VERB",
+    "ru": "распутать"
   },
   "odpoczynek": {
     "pos": "NOUN",
@@ -29498,6 +31134,10 @@
   "odprowadzić": {
     "pos": "VERB",
     "ru": "отвести, провести, отправить"
+  },
+  "odprężć": {
+    "pos": "ADJ",
+    "ru": "расслабленный"
   },
   "odpust": {
     "pos": "NOUN",
@@ -29635,6 +31275,10 @@
     "pos": "ADJ",
     "ru": "отставленную"
   },
+  "odstawić": {
+    "pos": "VERB",
+    "ru": "отставить"
+  },
   "odstraszić": {
     "pos": "NOUN",
     "ru": "отпугивание"
@@ -29670,6 +31314,10 @@
   "odszedłem": {
     "pos": "VERB",
     "ru": "я ушел"
+  },
+  "odszepnąć": {
+    "pos": "VERB",
+    "ru": "отшепнуть"
   },
   "odszukać": {
     "pos": "NOUN",
@@ -29890,6 +31538,10 @@
   "odwzajemnię": {
     "pos": "ADJ",
     "ru": "взаимный"
+  },
+  "odwłoek": {
+    "pos": "NOUN",
+    "ru": "отходы, обрезки"
   },
   "odziedziczony": {
     "pos": "ADJ",
@@ -30147,6 +31799,10 @@
     "pos": "NOUN",
     "ru": "огонек"
   },
+  "ogonk": {
+    "pos": "NOUN",
+    "ru": "хвостик, крючок"
+  },
   "ograbić być": {
     "pos": "VERB",
     "ru": "ограбить, обокрасть"
@@ -30226,6 +31882,10 @@
   "ogólny": {
     "pos": "ADJ",
     "ru": "общий"
+  },
+  "ogóreczek": {
+    "pos": "NOUN",
+    "ru": "маленький огурец"
   },
   "ogół": {
     "pos": "NOUN",
@@ -30331,6 +31991,10 @@
     "pos": "NOUN",
     "ru": "отец"
   },
+  "ojojoj": {
+    "pos": "NOUN",
+    "ru": "восклицание боли, удивления"
+  },
   "okaleczyć": {
     "pos": "NOUN",
     "ru": "калечение"
@@ -30374,6 +32038,10 @@
   "oklaski": {
     "pos": "NOUN",
     "ru": "аплодисменты"
+  },
+  "oklejak": {
+    "pos": "PROPN",
+    "ru": "Окlejak"
   },
   "okne": {
     "pos": "NOUN",
@@ -30507,6 +32175,10 @@
     "pos": "ADJ",
     "ru": "ужасный"
   },
+  "okruch": {
+    "pos": "NOUN",
+    "ru": "крошка"
+  },
   "okrucha": {
     "pos": "NOUN",
     "ru": "окружность"
@@ -30518,6 +32190,14 @@
   "okrucieństwo": {
     "pos": "NOUN",
     "ru": "жестокость"
+  },
+  "okruszek": {
+    "pos": "NOUN",
+    "ru": "крошка"
+  },
+  "okruszk": {
+    "pos": "NOUN",
+    "ru": "крошка"
   },
   "okruszyna": {
     "pos": "NOUN",
@@ -30622,6 +32302,10 @@
   "okukać": {
     "pos": "VERB",
     "ru": "обманывать"
+  },
+  "okular": {
+    "pos": "NOUN",
+    "ru": "окуляр"
   },
   "okulary": {
     "pos": "NOUN",
@@ -30766,6 +32450,10 @@
   "omieszkać być": {
     "pos": "VERB",
     "ru": "заселиться, поселиться"
+  },
+  "omijanych": {
+    "pos": "ADJ",
+    "ru": "избегаемых"
   },
   "omijać": {
     "pos": "VERB",
@@ -31031,6 +32719,10 @@
     "pos": "ADJ",
     "ru": "обвивающий, обвязывающий"
   },
+  "opleść": {
+    "pos": "ADJ",
+    "ru": "оплетённый"
+  },
   "opoczyński": {
     "pos": "PROPN",
     "ru": "Опочинский"
@@ -31082,6 +32774,10 @@
   "opowiesz": {
     "pos": "VERB",
     "ru": "расскажешь"
+  },
+  "opowieścia": {
+    "pos": "NOUN",
+    "ru": "рассказ"
   },
   "opończy": {
     "pos": "VERB",
@@ -31139,6 +32835,10 @@
     "pos": "VERB",
     "ru": "опереться, прислонить"
   },
+  "oprzyj": {
+    "pos": "VERB",
+    "ru": "прислониться, опереться"
+  },
   "oprzytomni": {
     "pos": "ADJ",
     "ru": "опомнившийся"
@@ -31178,6 +32878,10 @@
   "opróżniony": {
     "pos": "ADJ",
     "ru": "опорожненный"
+  },
+  "opto": {
+    "pos": "NOUN",
+    "ru": "оптика"
   },
   "optymista": {
     "pos": "NOUN",
@@ -31391,6 +33095,10 @@
     "pos": "VERB",
     "ru": "ориентируешь"
   },
+  "orion": {
+    "pos": "PROPN",
+    "ru": "Орион"
+  },
   "orkiestra": {
     "pos": "NOUN",
     "ru": "оркестр"
@@ -31411,6 +33119,10 @@
     "pos": "ADJ",
     "ru": "оригинальный"
   },
+  "orzec": {
+    "pos": "VERB",
+    "ru": "решать"
+  },
   "orzech": {
     "pos": "NOUN",
     "ru": "орех"
@@ -31422,6 +33134,10 @@
   "orzecznikowi": {
     "pos": "NOUN",
     "ru": "сказуемому"
+  },
+  "orzeszek": {
+    "pos": "NOUN",
+    "ru": "орешек"
   },
   "orzeł": {
     "pos": "NOUN",
@@ -31570,6 +33286,10 @@
   "osobny": {
     "pos": "ADJ",
     "ru": "особый"
+  },
+  "osobowy": {
+    "pos": "ADJ",
+    "ru": "личный, персональный"
   },
   "osowiały": {
     "pos": "ADJ",
@@ -32123,6 +33843,10 @@
     "pos": "VERB",
     "ru": "открывать"
   },
+  "otwierać być": {
+    "pos": "VERB",
+    "ru": "открывать"
+  },
   "otwoer": {
     "pos": "NOUN",
     "ru": "открывающий"
@@ -32138,6 +33862,10 @@
   "otwori": {
     "pos": "NOUN",
     "ru": "отверстия"
+  },
+  "otworzony": {
+    "pos": "ADJ",
+    "ru": "открытый"
   },
   "otworzyliście": {
     "pos": "VERB",
@@ -32211,6 +33939,10 @@
     "pos": "NOUN",
     "ru": "овца"
   },
+  "owce": {
+    "pos": "NOUN",
+    "ru": "овцы"
+  },
   "owczy": {
     "pos": "ADJ",
     "ru": "овечий"
@@ -32239,13 +33971,25 @@
     "pos": "DET",
     "ru": "ему"
   },
+  "owiec": {
+    "pos": "NOUN",
+    "ru": "овца"
+  },
   "owies": {
     "pos": "NOUN",
     "ru": "овес"
   },
+  "owiewać": {
+    "pos": "VERB",
+    "ru": "обдувать"
+  },
   "owina": {
     "pos": "NOUN",
     "ru": "обёртка"
+  },
+  "owiniąć": {
+    "pos": "ADJ",
+    "ru": "завернутый"
   },
   "owinięta": {
     "pos": "ADJ",
@@ -32363,6 +34107,10 @@
     "pos": "VERB",
     "ru": "объявить"
   },
+  "oznajmić być": {
+    "pos": "VERB",
+    "ru": "объявить"
+  },
   "oznajmię": {
     "pos": "VERB",
     "ru": "объявлю"
@@ -32370,6 +34118,10 @@
   "oznaka": {
     "pos": "NOUN",
     "ru": "обозначение"
+  },
+  "ozonowy": {
+    "pos": "ADJ",
+    "ru": "озоновый"
   },
   "ozor": {
     "pos": "NOUN",
@@ -32398,6 +34150,10 @@
   "ozłociłaby": {
     "pos": "VERB",
     "ru": "позолотила бы"
+  },
+  "ołowiany": {
+    "pos": "ADJ",
+    "ru": "свинцовый"
   },
   "ołowiać": {
     "pos": "ADJ",
@@ -32539,6 +34295,10 @@
     "pos": "ADJ",
     "ru": "просвещённый"
   },
+  "oświetlać": {
+    "pos": "VERB",
+    "ru": "освещать"
+  },
   "oświetlić": {
     "pos": "VERB",
     "ru": "освещать"
@@ -32587,13 +34347,29 @@
     "pos": "VERB",
     "ru": "оживить"
   },
+  "pa": {
+    "pos": "X",
+    "ru": "пожалуйста"
+  },
   "pacha": {
     "pos": "NOUN",
     "ru": "паша"
   },
+  "pachniać": {
+    "pos": "VERB",
+    "ru": "пахнуть"
+  },
   "pachnieć": {
     "pos": "VERB",
     "ru": "пахнуть"
+  },
+  "pachnić": {
+    "pos": "ADJ",
+    "ru": "пахучий"
+  },
+  "pachnąć": {
+    "pos": "ADJ",
+    "ru": "пахнущий"
   },
   "pacierz": {
     "pos": "NOUN",
@@ -32622,6 +34398,10 @@
   "paczka": {
     "pos": "NOUN",
     "ru": "пакет"
+  },
+  "paczkować": {
+    "pos": "ADJ",
+    "ru": "упаковывать"
   },
   "padajyć": {
     "pos": "ADJ",
@@ -32690,6 +34470,14 @@
   "pająki": {
     "pos": "NOUN",
     "ru": "пауки"
+  },
+  "pajęczy": {
+    "pos": "ADJ",
+    "ru": "паучий"
+  },
+  "pakować być": {
+    "pos": "VERB",
+    "ru": "упаковывать"
   },
   "pakunek": {
     "pos": "NOUN",
@@ -32786,6 +34574,10 @@
   "paluszk": {
     "pos": "NOUN",
     "ru": "палец"
+  },
+  "paluszka": {
+    "pos": "NOUN",
+    "ru": "палочка"
   },
   "paluszko": {
     "pos": "NOUN",
@@ -33151,6 +34943,10 @@
     "pos": "NOUN",
     "ru": "прядь"
   },
+  "pasiasty": {
+    "pos": "ADJ",
+    "ru": "полосатый"
+  },
   "pasierba": {
     "pos": "NOUN",
     "ru": "падчерица"
@@ -33175,6 +34971,10 @@
     "pos": "X",
     "ru": "ремнём!"
   },
+  "paskudny": {
+    "pos": "ADJ",
+    "ru": "омерзительный"
+  },
   "pasmo": {
     "pos": "NOUN",
     "ru": "полоса"
@@ -33190,6 +34990,10 @@
   "passiflór": {
     "pos": "NOUN",
     "ru": "страстоцвет"
+  },
+  "pasta": {
+    "pos": "NOUN",
+    "ru": "паста"
   },
   "pastewny": {
     "pos": "ADJ",
@@ -33651,6 +35455,14 @@
     "pos": "VERB",
     "ru": "ползли"
   },
+  "pff": {
+    "pos": "INTJ",
+    "ru": "фф"
+  },
+  "pi": {
+    "pos": "INTJ",
+    "ru": "пи"
+  },
   "piach": {
     "pos": "NOUN",
     "ru": "песок"
@@ -33662,6 +35474,10 @@
   "pianie": {
     "pos": "NOUN",
     "ru": "пение"
+  },
+  "pianka": {
+    "pos": "NOUN",
+    "ru": "пена"
   },
   "piasek": {
     "pos": "NOUN",
@@ -33678,6 +35494,10 @@
   "piasko": {
     "pos": "NOUN",
     "ru": "песок"
+  },
+  "piaskownica": {
+    "pos": "NOUN",
+    "ru": "песочница"
   },
   "piaskowy": {
     "pos": "ADJ",
@@ -33747,6 +35567,10 @@
     "pos": "NOUN",
     "ru": "печение"
   },
+  "pieczeć": {
+    "pos": "NOUN",
+    "ru": "печать"
+  },
   "pieczeń": {
     "pos": "NOUN",
     "ru": "печень"
@@ -33762,6 +35586,10 @@
   "pieczołowić": {
     "pos": "ADV",
     "ru": "тщательно"
+  },
+  "piekarnia": {
+    "pos": "NOUN",
+    "ru": "пекарня"
   },
   "piekeć": {
     "pos": "VERB",
@@ -33806,6 +35634,10 @@
   "pieniężny": {
     "pos": "ADJ",
     "ru": "денежный"
+  },
+  "pieprz": {
+    "pos": "NOUN",
+    "ru": "перец"
   },
   "pieprzowy": {
     "pos": "ADJ",
@@ -33911,6 +35743,10 @@
     "pos": "NOUN",
     "ru": "перья"
   },
+  "pieróg": {
+    "pos": "NOUN",
+    "ru": "пирог"
+  },
   "pierś": {
     "pos": "NOUN",
     "ru": "грудь"
@@ -33963,6 +35799,14 @@
     "pos": "VERB",
     "ru": "пили"
   },
+  "pii": {
+    "pos": "INTJ",
+    "ru": "пи"
+  },
+  "piii": {
+    "pos": "PROPN",
+    "ru": "Пий"
+  },
   "pijacki": {
     "pos": "ADJ",
     "ru": "пьяный"
@@ -33986,6 +35830,10 @@
   "pikanteria": {
     "pos": "NOUN",
     "ru": "пикантность"
+  },
+  "pikować być": {
+    "pos": "VERB",
+    "ru": "пикировать"
   },
   "pilnie": {
     "pos": "ADV",
@@ -34083,6 +35931,10 @@
     "pos": "ADJ",
     "ru": "пирамидальный"
   },
+  "pirat": {
+    "pos": "NOUN",
+    "ru": "пират"
+  },
   "piroga": {
     "pos": "ADJ",
     "ru": "пироговый"
@@ -34102,6 +35954,18 @@
   "pisk": {
     "pos": "NOUN",
     "ru": "писк"
+  },
+  "pisklaczek": {
+    "pos": "NOUN",
+    "ru": "писклявый птенец"
+  },
+  "pisklaczkiem": {
+    "pos": "NOUN",
+    "ru": "писклявый голос, пискливый звук"
+  },
+  "pisklak": {
+    "pos": "PROPN",
+    "ru": "Писклак"
   },
   "pisklę": {
     "pos": "NOUN",
@@ -34295,6 +36159,18 @@
     "pos": "NOUN",
     "ru": "пила"
   },
+  "piłka": {
+    "pos": "NOUN",
+    "ru": "мяч"
+  },
+  "piłkarski": {
+    "pos": "ADJ",
+    "ru": "футбольный"
+  },
+  "piżama": {
+    "pos": "NOUN",
+    "ru": "пижама"
+  },
   "piżmowy": {
     "pos": "ADJ",
     "ru": "мускусный"
@@ -34342,6 +36218,10 @@
   "plan": {
     "pos": "NOUN",
     "ru": "план"
+  },
+  "planeta": {
+    "pos": "NOUN",
+    "ru": "планета"
   },
   "planszę": {
     "pos": "VERB",
@@ -34391,6 +36271,10 @@
     "pos": "NOUN",
     "ru": "рюкзак"
   },
+  "plecie": {
+    "pos": "VERB",
+    "ru": "плести"
+  },
   "plecy": {
     "pos": "NOUN",
     "ru": "спина"
@@ -34438,6 +36322,10 @@
   "pleśnią.": {
     "pos": "NOUN",
     "ru": "плесень"
+  },
+  "plomba": {
+    "pos": "NOUN",
+    "ru": "пломба"
   },
   "plotka": {
     "pos": "NOUN",
@@ -34511,9 +36399,21 @@
     "pos": "ADP",
     "ru": "по"
   },
+  "pobawmy": {
+    "pos": "PROPN",
+    "ru": "Побавмы"
+  },
   "pobiec": {
     "pos": "VERB",
     "ru": "бежать"
+  },
+  "pobiegła": {
+    "pos": "VERB",
+    "ru": "побежала"
+  },
+  "pobiegłem": {
+    "pos": "VERB",
+    "ru": "я бежал"
   },
   "pobiegłszy": {
     "pos": "VERB",
@@ -34627,6 +36527,10 @@
     "pos": "NOUN",
     "ru": "пребывание"
   },
+  "pobyć": {
+    "pos": "VERB",
+    "ru": "побыть"
+  },
   "pobłażliwie": {
     "pos": "ADV",
     "ru": "снисходительно, терпимо"
@@ -34686,6 +36590,14 @@
   "pochować": {
     "pos": "ADJ",
     "ru": "похоронить"
+  },
+  "pochrapiesz": {
+    "pos": "VERB",
+    "ru": "будешь храпеть"
+  },
+  "pochrapywać": {
+    "pos": "VERB",
+    "ru": "храпеть (время от времени)"
   },
   "pochwalić": {
     "pos": "VERB",
@@ -34751,6 +36663,10 @@
     "pos": "ADJ",
     "ru": "потёкшие"
   },
+  "pociemniać": {
+    "pos": "VERB",
+    "ru": "темнеть, затемняться"
+  },
   "pociemnieć": {
     "pos": "VERB",
     "ru": "потемнеть"
@@ -34762,6 +36678,10 @@
   "pocieszać": {
     "pos": "VERB",
     "ru": "утешать"
+  },
+  "pocieszenie": {
+    "pos": "NOUN",
+    "ru": "утешение"
   },
   "pocieszeć": {
     "pos": "VERB",
@@ -34794,6 +36714,14 @@
   "pociągnąć być": {
     "pos": "VERB",
     "ru": "тянуть, потянуть"
+  },
+  "pociągnęły": {
+    "pos": "X",
+    "ru": "потянули"
+  },
+  "pociągowy": {
+    "pos": "ADJ",
+    "ru": "поездной, относящийся к поезду"
   },
   "pocić": {
     "pos": "VERB",
@@ -34970,6 +36898,10 @@
   "podarunek": {
     "pos": "NOUN",
     "ru": "подарок"
+  },
+  "podarł": {
+    "pos": "ADJ",
+    "ru": "разорванный"
   },
   "podarłszy": {
     "pos": "VERB",
@@ -35195,6 +37127,10 @@
     "pos": "VERB",
     "ru": "мы подошли"
   },
+  "podfrunąć": {
+    "pos": "VERB",
+    "ru": "подпрыгнуть"
+  },
   "podgiąć": {
     "pos": "VERB",
     "ru": "согнуть"
@@ -35251,6 +37187,10 @@
     "pos": "ADJ",
     "ru": "подкрученный"
   },
+  "podkulić": {
+    "pos": "VERB",
+    "ru": "подобрать ноги, сжать ноги"
+  },
   "podkurczyć": {
     "pos": "ADJ",
     "ru": "сморщенный"
@@ -35274,6 +37214,10 @@
   "podleciawy": {
     "pos": "VERB",
     "ru": "летать под, подлетать"
+  },
+  "podleciać": {
+    "pos": "VERB",
+    "ru": "подлетать"
   },
   "podlegać": {
     "pos": "VERB",
@@ -35487,6 +37431,10 @@
     "pos": "NOUN",
     "ru": "подполковник"
   },
+  "podrapać": {
+    "pos": "VERB",
+    "ru": "поцарапать"
+  },
   "podrosły": {
     "pos": "ADJ",
     "ru": "взрослый"
@@ -35506,6 +37454,10 @@
   "podrywka": {
     "pos": "NOUN",
     "ru": "флирт, ухаживание"
+  },
+  "podrzeć": {
+    "pos": "VERB",
+    "ru": "разорвать"
   },
   "podrzucić": {
     "pos": "VERB",
@@ -35556,6 +37508,10 @@
     "ru": "подсадить"
   },
   "podskakiwać": {
+    "pos": "VERB",
+    "ru": "подпрыгивать"
+  },
+  "podskakiwać być": {
     "pos": "VERB",
     "ru": "подпрыгивать"
   },
@@ -35831,6 +37787,10 @@
     "pos": "ADJ",
     "ru": "волнистый"
   },
+  "pofrunąć": {
+    "pos": "VERB",
+    "ru": "вспорхнуть"
+  },
   "pogadać": {
     "pos": "VERB",
     "ru": "поговорить"
@@ -36063,6 +38023,10 @@
     "pos": "NOUN",
     "ru": "позор"
   },
+  "pohukiwać": {
+    "pos": "NOUN",
+    "ru": "похвала, одобрение"
+  },
   "pohuśta": {
     "pos": "NOUN",
     "ru": "шутка"
@@ -36094,6 +38058,10 @@
   "pojadić": {
     "pos": "VERB",
     "ru": "закусить"
+  },
+  "pojadć": {
+    "pos": "VERB",
+    "ru": "ехать"
   },
   "pojawiać": {
     "pos": "ADJ",
@@ -36291,6 +38259,10 @@
     "pos": "NOUN",
     "ru": "покорность"
   },
+  "pokołysał": {
+    "pos": "VERB",
+    "ru": "покачивал"
+  },
   "pokołyć": {
     "pos": "VERB",
     "ru": "качать, колебать"
@@ -36471,6 +38443,10 @@
     "pos": "NOUN",
     "ru": "приказ"
   },
+  "poleciać być": {
+    "pos": "VERB",
+    "ru": "рекомендовать"
+  },
   "polecieć": {
     "pos": "VERB",
     "ru": "улететь"
@@ -36486,6 +38462,10 @@
   "polecić być": {
     "pos": "VERB",
     "ru": "рекомендовать"
+  },
+  "polecąć": {
+    "pos": "VERB",
+    "ru": "летать"
   },
   "polecę": {
     "pos": "VERB",
@@ -36563,9 +38543,17 @@
     "pos": "PROPN",
     "ru": "Полька"
   },
+  "polluks": {
+    "pos": "PROPN",
+    "ru": "Поллукс"
+  },
   "polny": {
     "pos": "ADJ",
     "ru": "полный"
+  },
+  "polo": {
+    "pos": "NOUN",
+    "ru": "поло"
   },
   "polowani": {
     "pos": "NOUN",
@@ -36735,6 +38723,10 @@
     "pos": "VERB",
     "ru": "прыгнуть"
   },
+  "pomlaskiwać": {
+    "pos": "VERB",
+    "ru": "целовать, лизать, облизывать"
+  },
   "pomniejsze": {
     "pos": "ADJ",
     "ru": "меньший"
@@ -36758,6 +38750,10 @@
   "pomodlić": {
     "pos": "VERB",
     "ru": "помолиться"
+  },
+  "pomogć być": {
+    "pos": "VERB",
+    "ru": "помогать быть"
   },
   "pomogę": {
     "pos": "VERB",
@@ -37043,6 +39039,10 @@
     "pos": "ADJ",
     "ru": "памятный"
   },
+  "popamiętać": {
+    "pos": "VERB",
+    "ru": "помнить, вспомнить"
+  },
   "poparć być": {
     "pos": "VERB",
     "ru": "поддерживать"
@@ -37199,6 +39199,18 @@
     "pos": "VERB",
     "ru": "просить"
   },
+  "popruta": {
+    "pos": "ADJ",
+    "ru": "потрепанный, изношенный"
+  },
+  "popruty": {
+    "pos": "ADJ",
+    "ru": "полусгнивший, прогнивший"
+  },
+  "popruł": {
+    "pos": "NOUN",
+    "ru": "разрыв"
+  },
   "poprzecinać": {
     "pos": "VERB",
     "ru": "перерезать"
@@ -37212,6 +39224,10 @@
     "ru": "предыдущий"
   },
   "poprzednie": {
+    "pos": "ADJ",
+    "ru": "предыдущий"
+  },
+  "poprzedniej": {
     "pos": "ADJ",
     "ru": "предыдущий"
   },
@@ -37250,6 +39266,10 @@
   "poprzez": {
     "pos": "ADP",
     "ru": "через"
+  },
+  "poprzeć": {
+    "pos": "VERB",
+    "ru": "поддержать, помочь"
   },
   "poprzyjaźnić": {
     "pos": "VERB",
@@ -37387,6 +39407,10 @@
     "pos": "NOUN",
     "ru": "порция"
   },
+  "pordzewiałymi": {
+    "pos": "ADJ",
+    "ru": "ржавыми"
+  },
   "porobić": {
     "pos": "VERB",
     "ru": "сделать, совершить"
@@ -37423,6 +39447,10 @@
     "pos": "ADJ",
     "ru": "раскрученный"
   },
+  "porozlewać": {
+    "pos": "VERB",
+    "ru": "разлить"
+  },
   "porozmawiać": {
     "pos": "VERB",
     "ru": "поговорить"
@@ -37446,6 +39474,10 @@
   "porozsuwać": {
     "pos": "VERB",
     "ru": "раздвигать"
+  },
+  "porozsypywać": {
+    "pos": "VERB",
+    "ru": "рассыпать, разбросать"
   },
   "porozumieć": {
     "pos": "VERB",
@@ -37599,6 +39631,10 @@
     "pos": "NOUN",
     "ru": "приданое"
   },
+  "posapywać": {
+    "pos": "VERB",
+    "ru": "посыпать"
+  },
   "poseł": {
     "pos": "NOUN",
     "ru": "депутат"
@@ -37679,6 +39715,14 @@
     "pos": "NOUN",
     "ru": "приемы пищи"
   },
+  "poskakeć": {
+    "pos": "VERB",
+    "ru": "подскакивать"
+  },
+  "poskarżyć": {
+    "pos": "VERB",
+    "ru": "пожаловаться"
+  },
   "poskoczyć": {
     "pos": "VERB",
     "ru": "прыгнуть"
@@ -37715,6 +39759,14 @@
     "pos": "ADV",
     "ru": "спешно"
   },
+  "pospiesznie": {
+    "pos": "ADV",
+    "ru": "спешно"
+  },
+  "pospieszny": {
+    "pos": "NOUN",
+    "ru": "спешка"
+  },
   "pospolity": {
     "pos": "ADJ",
     "ru": "обыкновенный, простой, вульгарный"
@@ -37730,6 +39782,10 @@
   "pospuszczać": {
     "pos": "VERB",
     "ru": "спускать, отпускать, ослаблять"
+  },
+  "pospół": {
+    "pos": "NOUN",
+    "ru": "разом, вместе, сразу"
   },
   "posrebrzeć": {
     "pos": "VERB",
@@ -37983,6 +40039,10 @@
     "pos": "VERB",
     "ru": "расширять"
   },
+  "poszerzać": {
+    "pos": "VERB",
+    "ru": "расширять"
+  },
   "poszewka": {
     "pos": "NOUN",
     "ru": "наволочка"
@@ -38034,6 +40094,14 @@
   "poszukuć": {
     "pos": "VERB",
     "ru": "искать"
+  },
+  "poszybować": {
+    "pos": "VERB",
+    "ru": "взлететь, подняться в воздух"
+  },
+  "poszycie": {
+    "pos": "NOUN",
+    "ru": "обшивка"
   },
   "poszć być": {
     "pos": "VERB",
@@ -38275,6 +40343,14 @@
     "pos": "VERB",
     "ru": "нуждаться"
   },
+  "potrzebujący": {
+    "pos": "ADJ",
+    "ru": "нуждающийся"
+  },
+  "potrzebuć": {
+    "pos": "ADJ",
+    "ru": "нужный"
+  },
   "potrzeć": {
     "pos": "VERB",
     "ru": "потереть"
@@ -38334,6 +40410,18 @@
   "potwierdzić być": {
     "pos": "VERB",
     "ru": "подтвердить"
+  },
+  "potwoier": {
+    "pos": "NOUN",
+    "ru": "утвердитель"
+  },
+  "potwor": {
+    "pos": "NOUN",
+    "ru": "чудовище"
+  },
+  "potwornie": {
+    "pos": "ADV",
+    "ru": "ужасно, страшно, чудовищно"
   },
   "potworny": {
     "pos": "ADJ",
@@ -38406,6 +40494,10 @@
   "potłuc": {
     "pos": "VERB",
     "ru": "разбить"
+  },
+  "potłukć być": {
+    "pos": "VERB",
+    "ru": "быть битым, быть ушибленным"
   },
   "potłukłyby": {
     "pos": "VERB",
@@ -38554,6 +40646,14 @@
   "powiedziałbym": {
     "pos": "VERB",
     "ru": "сказал бы"
+  },
+  "powiedziałbyś": {
+    "pos": "VERB",
+    "ru": "сказал бы ты"
+  },
+  "powiedzielibyście": {
+    "pos": "VERB",
+    "ru": "вы бы сказали"
   },
   "powiedzieć": {
     "pos": "VERB",
@@ -38851,6 +40951,10 @@
     "pos": "ADJ",
     "ru": "переколотый"
   },
+  "powychodzić": {
+    "pos": "VERB",
+    "ru": "выходить (много раз, по одному)"
+  },
   "powyciągać": {
     "pos": "VERB",
     "ru": "вытягивать, растягивать"
@@ -39043,6 +41147,10 @@
     "pos": "VERB",
     "ru": "позолачивать"
   },
+  "pozmywać": {
+    "pos": "VERB",
+    "ru": "мыть посуду"
+  },
   "poznaję": {
     "pos": "VERB",
     "ru": "узнаю"
@@ -39131,6 +41239,10 @@
     "pos": "ADJ",
     "ru": "позволяющий"
   },
+  "pozwiedzać": {
+    "pos": "VERB",
+    "ru": "посетить, побывать"
+  },
   "pozwolenie": {
     "pos": "NOUN",
     "ru": "разрешение"
@@ -39210,6 +41322,10 @@
   "połapać": {
     "pos": "VERB",
     "ru": "расхватать, растянуть, разорвать"
+  },
+  "połaskotać": {
+    "pos": "VERB",
+    "ru": "пощекотать"
   },
   "połatać": {
     "pos": "ADJ",
@@ -39306,6 +41422,10 @@
   "połów": {
     "pos": "NOUN",
     "ru": "улов"
+  },
+  "połóż": {
+    "pos": "VERB",
+    "ru": "положи"
   },
   "połączenie": {
     "pos": "NOUN",
@@ -39406,6 +41526,10 @@
   "pożar": {
     "pos": "NOUN",
     "ru": "пожар"
+  },
+  "pożarnąć": {
+    "pos": "VERB",
+    "ru": "проглотить"
   },
   "pożarć": {
     "pos": "NOUN",
@@ -39526,6 +41650,10 @@
   "pożądać": {
     "pos": "VERB",
     "ru": "желать, хотеть, вожделеть"
+  },
+  "prababcia": {
+    "pos": "NOUN",
+    "ru": "прабабушка"
   },
   "praca": {
     "pos": "NOUN",
@@ -39923,6 +42051,10 @@
     "pos": "NOUN",
     "ru": "лучи"
   },
+  "promieniowanie": {
+    "pos": "NOUN",
+    "ru": "излучение"
+  },
   "promienny": {
     "pos": "ADJ",
     "ru": "лучистый"
@@ -40131,6 +42263,10 @@
     "pos": "NOUN",
     "ru": "просьба"
   },
+  "prr": {
+    "pos": "NOUN",
+    "ru": "пр-р (звукоподражание)"
+  },
   "pruły": {
     "pos": "ADV",
     "ru": "тщетно, напрасно"
@@ -40319,6 +42455,10 @@
     "pos": "ADJ",
     "ru": "переходящая"
   },
+  "przechowywać": {
+    "pos": "VERB",
+    "ru": "хранить"
+  },
   "przechwałka": {
     "pos": "NOUN",
     "ru": "хвастовство"
@@ -40350,6 +42490,10 @@
   "przeciekać": {
     "pos": "VERB",
     "ru": "протекать"
+  },
+  "przecierać": {
+    "pos": "VERB",
+    "ru": "протирать"
   },
   "przecierpiać": {
     "pos": "VERB",
@@ -40699,6 +42843,10 @@
     "pos": "ADJ",
     "ru": "предсмертный"
   },
+  "przegadać": {
+    "pos": "VERB",
+    "ru": "переговорить, наговориться"
+  },
   "przeginać": {
     "pos": "PROPN",
     "ru": "перегибать"
@@ -40786,6 +42934,10 @@
   "przejmuć": {
     "pos": "VERB",
     "ru": "захватывать, перенимать, овладевать"
+  },
+  "przejrzeć": {
+    "pos": "VERB",
+    "ru": "просмотреть"
   },
   "przejrzysty": {
     "pos": "ADJ",
@@ -40955,6 +43107,10 @@
     "pos": "NOUN",
     "ru": "взяточник"
   },
+  "przekupstwo": {
+    "pos": "NOUN",
+    "ru": "взяточничество"
+  },
   "przekąs": {
     "pos": "NOUN",
     "ru": "закуска"
@@ -41095,6 +43251,10 @@
     "pos": "ADJ",
     "ru": "пробирающаяся"
   },
+  "przemykać": {
+    "pos": "VERB",
+    "ru": "пробраться"
+  },
   "przemysł": {
     "pos": "NOUN",
     "ru": "промышленность"
@@ -41170,6 +43330,10 @@
   "przenosić": {
     "pos": "VERB",
     "ru": "переносить, переносить, перемещать"
+  },
+  "przenosić być": {
+    "pos": "VERB",
+    "ru": "переносить"
   },
   "przenośna": {
     "pos": "ADJ",
@@ -41266,6 +43430,10 @@
   "przepiękny": {
     "pos": "ADJ",
     "ru": "прекрасный"
+  },
+  "przeplatać": {
+    "pos": "VERB",
+    "ru": "переплетать"
   },
   "przepoconą": {
     "pos": "ADJ",
@@ -41603,6 +43771,10 @@
     "pos": "VERB",
     "ru": "испугать"
   },
+  "przestraszić": {
+    "pos": "ADJ",
+    "ru": "испуганный"
+  },
   "przestraszywszy": {
     "pos": "VERB",
     "ru": "испугав"
@@ -41878,6 +44050,10 @@
   "przetrząsnęć być": {
     "pos": "VERB",
     "ru": "потрясти, взбаламутить, перерыть"
+  },
+  "przeturleć": {
+    "pos": "VERB",
+    "ru": "перекувырнуться"
   },
   "przetwarzać": {
     "pos": "VERB",
@@ -42187,9 +44363,17 @@
     "pos": "ADJ",
     "ru": "прозрачный"
   },
+  "przeżarcie": {
+    "pos": "NOUN",
+    "ru": "перегрев"
+  },
   "przeżegnać": {
     "pos": "VERB",
     "ru": "перекреститься"
+  },
+  "przeżuwać": {
+    "pos": "ADJ",
+    "ru": "жевать, пережевывать"
   },
   "przeżycie": {
     "pos": "NOUN",
@@ -42198,6 +44382,10 @@
   "przeżytym": {
     "pos": "ADJ",
     "ru": "пережитый"
+  },
+  "przeżywać": {
+    "pos": "VERB",
+    "ru": "переживать"
   },
   "przeżyć": {
     "pos": "VERB",
@@ -42230,6 +44418,10 @@
   "przybiegć": {
     "pos": "VERB",
     "ru": "прибежать"
+  },
+  "przybiegła": {
+    "pos": "VERB",
+    "ru": "прибежала"
   },
   "przybierać": {
     "pos": "VERB",
@@ -42375,6 +44567,10 @@
     "pos": "VERB",
     "ru": "давить"
   },
+  "przycupnąć być": {
+    "pos": "VERB",
+    "ru": "присесть, при­при­сесть"
+  },
   "przyczaić": {
     "pos": "VERB",
     "ru": "затаиться"
@@ -42422,6 +44618,10 @@
   "przydadzić": {
     "pos": "VERB",
     "ru": "пригодиться"
+  },
+  "przydarzać": {
+    "pos": "VERB",
+    "ru": "случаться, происходить"
   },
   "przydać": {
     "pos": "VERB",
@@ -42579,6 +44779,14 @@
     "pos": "NOUN",
     "ru": "друг"
   },
+  "przyjaciele": {
+    "pos": "NOUN",
+    "ru": "друзья"
+  },
+  "przyjacielo": {
+    "pos": "NOUN",
+    "ru": "друже"
+  },
   "przyjacielski": {
     "pos": "ADJ",
     "ru": "дружеский"
@@ -42714,6 +44922,10 @@
   "przyjrzeć być": {
     "pos": "VERB",
     "ru": "присмотреться, рассмотреть"
+  },
+  "przyjrzyć": {
+    "pos": "VERB",
+    "ru": "рассмотреть"
   },
   "przyjąć": {
     "pos": "ADJ",
@@ -43583,13 +45795,33 @@
     "pos": "VERB",
     "ru": "придерживать, удерживать, держать"
   },
+  "przytul": {
+    "pos": "VERB",
+    "ru": "прижать, обнять"
+  },
+  "przytulać": {
+    "pos": "VERB",
+    "ru": "обнимать"
+  },
+  "przytulałem": {
+    "pos": "VERB",
+    "ru": "прижимал"
+  },
   "przytulić": {
     "pos": "VERB",
     "ru": "обнять, прижать"
   },
+  "przytulny": {
+    "pos": "ADJ",
+    "ru": "уютный"
+  },
   "przytulona": {
     "pos": "ADJ",
     "ru": "прижатая"
+  },
+  "przytuptać": {
+    "pos": "VERB",
+    "ru": "притопывать"
   },
   "przytupuć": {
     "pos": "VERB",
@@ -43795,9 +46027,21 @@
     "pos": "VERB",
     "ru": "присоединить"
   },
+  "przyłączyć być": {
+    "pos": "VERB",
+    "ru": "присоединить"
+  },
   "przyślemy": {
     "pos": "VERB",
     "ru": "пришлём"
+  },
+  "przyśni": {
+    "pos": "VERB",
+    "ru": "приснится"
+  },
+  "przyśnić": {
+    "pos": "VERB",
+    "ru": "присниться"
   },
   "przyśpieszać": {
     "pos": "VERB",
@@ -43903,6 +46147,10 @@
     "pos": "NOUN",
     "ru": "пёс"
   },
+  "psem": {
+    "pos": "NOUN",
+    "ru": "собака"
+  },
   "psi": {
     "pos": "NOUN",
     "ru": "пес"
@@ -43931,9 +46179,25 @@
     "pos": "ADJ",
     "ru": "собачий"
   },
+  "psot": {
+    "pos": "NOUN",
+    "ru": "черт, озорство"
+  },
+  "psote": {
+    "pos": "NOUN",
+    "ru": "шутка"
+  },
+  "psowy": {
+    "pos": "ADJ",
+    "ru": "собачий"
+  },
   "pstry": {
     "pos": "ADJ",
     "ru": "пёстрый"
+  },
+  "pstryk": {
+    "pos": "PROPN",
+    "ru": "Псстрык"
   },
   "psu": {
     "pos": "NOUN",
@@ -43942,6 +46206,10 @@
   "psuć": {
     "pos": "VERB",
     "ru": "портить"
+  },
+  "psy": {
+    "pos": "NOUN",
+    "ru": "собаки"
   },
   "psychika": {
     "pos": "NOUN",
@@ -43966,6 +46234,14 @@
   "ptak": {
     "pos": "PROPN",
     "ru": "Птак"
+  },
+  "ptaki": {
+    "pos": "NOUN",
+    "ru": "птицы"
+  },
+  "ptas": {
+    "pos": "NOUN",
+    "ru": "птица"
   },
   "ptastwem[2": {
     "pos": "X",
@@ -44010,6 +46286,18 @@
   "publikować": {
     "pos": "VERB",
     "ru": "публиковать"
+  },
+  "publishers": {
+    "pos": "PROPN",
+    "ru": "Издатели"
+  },
+  "puch": {
+    "pos": "NOUN",
+    "ru": "пух"
+  },
+  "puchar": {
+    "pos": "NOUN",
+    "ru": "кубок"
   },
   "pud": {
     "pos": "NOUN",
@@ -44062,6 +46350,10 @@
   "punktualnie": {
     "pos": "ADV",
     "ru": "пунктуально"
+  },
+  "pupa": {
+    "pos": "NOUN",
+    "ru": "куколка"
   },
   "purpura": {
     "pos": "NOUN",
@@ -44198,6 +46490,18 @@
   "pysk!": {
     "pos": "X",
     "ru": "морда! (грубо-просторечное обращение, оскорбление)"
+  },
+  "pyszczek": {
+    "pos": "NOUN",
+    "ru": "мордочка"
+  },
+  "pyszniutka": {
+    "pos": "NOUN",
+    "ru": "вкусняшка"
+  },
+  "pyszniutki": {
+    "pos": "ADJ",
+    "ru": "вкусненький"
   },
   "pyszny": {
     "pos": "ADJ",
@@ -44338,6 +46642,10 @@
   "półdziki": {
     "pos": "ADJ",
     "ru": "полудикий"
+  },
+  "półeka": {
+    "pos": "NOUN",
+    "ru": "полвека"
   },
   "półemerytka": {
     "pos": "PROPN",
@@ -44579,6 +46887,10 @@
     "pos": "VERB",
     "ru": "плакать"
   },
+  "płakać być": {
+    "pos": "VERB",
+    "ru": "плакать"
+  },
   "płaski": {
     "pos": "ADJ",
     "ru": "плоский"
@@ -44742,6 +47054,10 @@
   "płynić": {
     "pos": "ADJ",
     "ru": "текучий"
+  },
+  "płynąc": {
+    "pos": "VERB",
+    "ru": "течь, плыть"
   },
   "płynąć": {
     "pos": "VERB",
@@ -44915,6 +47231,18 @@
     "pos": "ADJ",
     "ru": "рай́ский"
   },
+  "rajstop": {
+    "pos": "X",
+    "ru": "колготки"
+  },
+  "rajstopka": {
+    "pos": "NOUN",
+    "ru": "колготка"
+  },
+  "rajstopy": {
+    "pos": "NOUN",
+    "ru": "колготки"
+  },
   "rajzach": {
     "pos": "NOUN",
     "ru": "чертежник"
@@ -44990,6 +47318,10 @@
   "rank": {
     "pos": "NOUN",
     "ru": "ранг"
+  },
+  "rankiem": {
+    "pos": "NOUN",
+    "ru": "утром"
   },
   "ranny": {
     "pos": "ADJ",
@@ -45155,6 +47487,10 @@
     "pos": "NOUN",
     "ru": "реформа"
   },
+  "regał": {
+    "pos": "NOUN",
+    "ru": "полка"
+  },
   "regiment": {
     "pos": "NOUN",
     "ru": "полк"
@@ -45190,6 +47526,10 @@
   "rejwach!": {
     "pos": "PUNCT",
     "ru": "ура!"
+  },
+  "rek": {
+    "pos": "PROPN",
+    "ru": "Рек"
   },
   "reklama": {
     "pos": "NOUN",
@@ -45256,6 +47596,10 @@
     "ru": "репродукция"
   },
   "reszta": {
+    "pos": "NOUN",
+    "ru": "остаток"
+  },
+  "resztek": {
     "pos": "NOUN",
     "ru": "остаток"
   },
@@ -45439,6 +47783,10 @@
     "pos": "NOUN",
     "ru": "родитель"
   },
+  "rodzice": {
+    "pos": "NOUN",
+    "ru": "родители"
+  },
   "rodzicielko": {
     "pos": "NOUN",
     "ru": "родительница"
@@ -45475,6 +47823,10 @@
     "pos": "ADJ",
     "ru": "рождённый"
   },
+  "rodzynka": {
+    "pos": "NOUN",
+    "ru": "изюм"
+  },
   "rodzących": {
     "pos": "ADJ",
     "ru": "рождающих"
@@ -45482,6 +47834,10 @@
   "roeg": {
     "pos": "NOUN",
     "ru": "икра"
+  },
+  "rogalik": {
+    "pos": "NOUN",
+    "ru": "рогалик"
   },
   "rogat": {
     "pos": "ADJ",
@@ -45595,6 +47951,10 @@
     "pos": "ADJ",
     "ru": "ветвистый"
   },
+  "rosoł": {
+    "pos": "NOUN",
+    "ru": "росол"
+  },
   "rosyjski": {
     "pos": "ADJ",
     "ru": "русский"
@@ -45606,6 +47966,10 @@
   "rosć": {
     "pos": "VERB",
     "ru": "расти"
+  },
+  "rosło": {
+    "pos": "VERB",
+    "ru": "рос"
   },
   "rot": {
     "pos": "NOUN",
@@ -45674,6 +48038,14 @@
   "rozbić być": {
     "pos": "VERB",
     "ru": "разбить"
+  },
+  "rozboleć": {
+    "pos": "VERB",
+    "ru": "разболеться"
+  },
+  "rozbrzmiać": {
+    "pos": "VERB",
+    "ru": "гудеть, раздаваться, звучать"
   },
   "rozbrzmiewać": {
     "pos": "VERB",
@@ -45922,6 +48294,14 @@
   "rozejrzać": {
     "pos": "VERB",
     "ru": "оглядеться"
+  },
+  "rozejrzał": {
+    "pos": "VERB",
+    "ru": "оглядел"
+  },
+  "rozejrzała": {
+    "pos": "VERB",
+    "ru": "посмотрела вокруг"
   },
   "rozejrzałam": {
     "pos": "VERB",
@@ -46187,6 +48567,10 @@
     "pos": "VERB",
     "ru": "расцвели"
   },
+  "rozkład": {
+    "pos": "NOUN",
+    "ru": "расписание, распределение, разложение"
+  },
   "rozkładam": {
     "pos": "VERB",
     "ru": "раскладываю"
@@ -46214,6 +48598,10 @@
   "rozlec": {
     "pos": "ADJ",
     "ru": "распростертый"
+  },
+  "rozleciać by": {
+    "pos": "VERB",
+    "ru": "разлетаться"
   },
   "rozlecieć": {
     "pos": "VERB",
@@ -46403,6 +48791,10 @@
     "pos": "VERB",
     "ru": "разносить"
   },
+  "rozniosnąć": {
+    "pos": "VERB",
+    "ru": "разносить, разноситься"
+  },
   "roznosić": {
     "pos": "VERB",
     "ru": "разносить"
@@ -46527,6 +48919,10 @@
     "pos": "ADJ",
     "ru": "распростёртых"
   },
+  "rozplątać": {
+    "pos": "VERB",
+    "ru": "распутать"
+  },
   "rozpoczynać": {
     "pos": "VERB",
     "ru": "начинать"
@@ -46559,6 +48955,10 @@
     "pos": "ADJ",
     "ru": "распростёртых"
   },
+  "rozpostarła": {
+    "pos": "PROPN",
+    "ru": "{\"ru\": \"Rozpostarła\"}\n\n(Это собственное имя. В контексте польского языка это может быть фамилия или название, которое обычно не переводится, а транслитерируется.)"
+  },
   "rozpowiadać": {
     "pos": "VERB",
     "ru": "рассказывать"
@@ -46574,6 +48974,10 @@
   "rozpoznać": {
     "pos": "VERB",
     "ru": "узнать"
+  },
+  "rozpościeram": {
+    "pos": "NOUN",
+    "ru": "распростирание"
   },
   "rozpościerać": {
     "pos": "VERB",
@@ -46683,6 +49087,10 @@
     "pos": "VERB",
     "ru": "разогнать, ускорить"
   },
+  "rozpędzyć": {
+    "pos": "ADJ",
+    "ru": "распущенный"
+  },
   "rozpętać": {
     "pos": "VERB",
     "ru": "развязать, развернуть, развязать боевые действия"
@@ -46698,6 +49106,10 @@
   "rozpływać": {
     "pos": "VERB",
     "ru": "таять, растворяться"
+  },
+  "rozrabiania": {
+    "pos": "PROPN",
+    "ru": "Разрабяния"
   },
   "rozradowany": {
     "pos": "ADJ",
@@ -46939,6 +49351,10 @@
     "pos": "VERB",
     "ru": "понимать"
   },
+  "rozumiać być": {
+    "pos": "VERB",
+    "ru": "понимать"
+  },
   "rozumiał": {
     "pos": "VERB",
     "ru": "понимал"
@@ -46995,6 +49411,10 @@
     "pos": "NOUN",
     "ru": "рассудительность"
   },
+  "rozwalać": {
+    "pos": "VERB",
+    "ru": "разваливать, разрушать"
+  },
   "rozwalić": {
     "pos": "VERB",
     "ru": "разломать, развалить, разрушить"
@@ -47002,6 +49422,14 @@
   "rozwaloć": {
     "pos": "ADJ",
     "ru": "развалившийся"
+  },
+  "rozwalę": {
+    "pos": "VERB",
+    "ru": "развалю"
+  },
+  "rozwać": {
+    "pos": "VERB",
+    "ru": "развевать"
   },
   "rozważania": {
     "pos": "NOUN",
@@ -47026,6 +49454,10 @@
   "rozwieszać": {
     "pos": "VERB",
     "ru": "вешать, развешивать"
+  },
+  "rozwieszeć": {
+    "pos": "NOUN",
+    "ru": "развешивание"
   },
   "rozwiewać": {
     "pos": "VERB",
@@ -47112,6 +49544,10 @@
     "ru": "развал"
   },
   "rozłożić": {
+    "pos": "ADJ",
+    "ru": "разложенный"
+  },
+  "rozłożone": {
     "pos": "ADJ",
     "ru": "разложенный"
   },
@@ -47407,6 +49843,10 @@
     "pos": "PROPN",
     "ru": "Рыба"
   },
+  "rycerez": {
+    "pos": "NOUN",
+    "ru": "рыцарь"
+  },
   "rycerski": {
     "pos": "ADJ",
     "ru": "рыцарский"
@@ -47475,6 +49915,10 @@
     "pos": "VERB",
     "ru": "рыкнуть"
   },
+  "ryknęła": {
+    "pos": "VERB",
+    "ru": "издала рык; зарычала"
+  },
   "rymwid": {
     "pos": "PROPN",
     "ru": "Римвид"
@@ -47498,6 +49942,10 @@
   "rysować": {
     "pos": "VERB",
     "ru": "рисовать"
+  },
+  "rysuje": {
+    "pos": "VERB",
+    "ru": "рисует"
   },
   "rysunek": {
     "pos": "NOUN",
@@ -47678,6 +50126,10 @@
   "rzeka": {
     "pos": "NOUN",
     "ru": "река"
+  },
+  "rzeki": {
+    "pos": "NOUN",
+    "ru": "реки"
   },
   "rzekomo": {
     "pos": "ADV",
@@ -48039,6 +50491,10 @@
     "pos": "NOUN",
     "ru": "ржание"
   },
+  "s": {
+    "pos": "NOUN",
+    "ru": "буква S"
+  },
   "sab": {
     "pos": "PRON",
     "ru": "себя"
@@ -48143,6 +50599,10 @@
     "pos": "PROPN",
     "ru": "Соломон"
   },
+  "salon": {
+    "pos": "NOUN",
+    "ru": "салон"
+  },
   "salwa": {
     "pos": "NOUN",
     "ru": "залп"
@@ -48202,6 +50662,10 @@
   "samiec": {
     "pos": "NOUN",
     "ru": "самец"
+  },
+  "samiutki": {
+    "pos": "ADJ",
+    "ru": "совсем, самый"
   },
   "samiśmy": {
     "pos": "VERB",
@@ -48291,9 +50755,21 @@
     "pos": "PROPN",
     "ru": "Сантор"
   },
+  "sapać": {
+    "pos": "VERB",
+    "ru": "сопеть, дышать с трудом"
+  },
   "saperski": {
     "pos": "ADJ",
     "ru": "сапёрский"
+  },
+  "sardynka": {
+    "pos": "NOUN",
+    "ru": "сардинка"
+  },
+  "sarna": {
+    "pos": "NOUN",
+    "ru": "косуля"
   },
   "satysfakcja": {
     "pos": "NOUN",
@@ -48350,6 +50826,10 @@
   "schodzić": {
     "pos": "VERB",
     "ru": "спускаться"
+  },
+  "schowam": {
+    "pos": "VERB",
+    "ru": "прячу"
   },
   "schować": {
     "pos": "VERB",
@@ -48515,6 +50995,10 @@
     "pos": "PROPN",
     "ru": "Сеннар"
   },
+  "sennie": {
+    "pos": "ADV",
+    "ru": "сонно"
+  },
   "sennik": {
     "pos": "NOUN",
     "ru": "сонник"
@@ -48575,6 +51059,10 @@
     "pos": "ADJ",
     "ru": "сердечный"
   },
+  "serdeczn": {
+    "pos": "PROPN",
+    "ru": "Сердечн"
+  },
   "serdecznie": {
     "pos": "ADV",
     "ru": "сердечно"
@@ -48602,6 +51090,22 @@
   "serduszko": {
     "pos": "NOUN",
     "ru": "сердечко"
+  },
+  "serek": {
+    "pos": "NOUN",
+    "ru": "творог"
+  },
+  "seria": {
+    "pos": "NOUN",
+    "ru": "серия"
+  },
+  "serio": {
+    "pos": "ADV",
+    "ru": "серьёзно"
+  },
+  "serowy": {
+    "pos": "ADJ",
+    "ru": "сырный"
   },
   "serwal": {
     "pos": "NOUN",
@@ -48659,6 +51163,10 @@
     "pos": "VERB",
     "ru": "садиться (несов.)"
   },
+  "siadła": {
+    "pos": "VERB",
+    "ru": "сидела"
+  },
   "siadłszy": {
     "pos": "VERB",
     "ru": "сев, сидя"
@@ -48670,6 +51178,10 @@
   "siak": {
     "pos": "PRON",
     "ru": "такой"
+  },
+  "sian": {
+    "pos": "NOUN",
+    "ru": "сено"
   },
   "siano": {
     "pos": "NOUN",
@@ -48710,6 +51222,10 @@
   "siebie.": {
     "pos": "ADJ",
     "ru": "себя"
+  },
+  "siec": {
+    "pos": "VERB",
+    "ru": "сеять"
   },
   "siecia": {
     "pos": "NOUN",
@@ -48987,6 +51503,10 @@
     "pos": "NOUN",
     "ru": "свист"
   },
+  "siusiu": {
+    "pos": "NOUN",
+    "ru": "писание, мочеиспускание"
+  },
   "siwobłękitny": {
     "pos": "ADJ",
     "ru": "сероголубой"
@@ -49222,6 +51742,10 @@
   "sklecć": {
     "pos": "ADJ",
     "ru": "кособокий, косой, перекошенный"
+  },
+  "skleić": {
+    "pos": "VERB",
+    "ru": "склеить"
   },
   "sklep": {
     "pos": "NOUN",
@@ -49511,6 +52035,10 @@
     "pos": "NOUN",
     "ru": "тайник"
   },
+  "skryty": {
+    "pos": "ADJ",
+    "ru": "скрытый"
+  },
   "skryć": {
     "pos": "ADJ",
     "ru": "скрытый"
@@ -49655,6 +52183,10 @@
     "pos": "VERB",
     "ru": "щипать, дергать, вырывать"
   },
+  "skulić": {
+    "pos": "VERB",
+    "ru": "ныть, жаловаться"
+  },
   "skuloć": {
     "pos": "ADJ",
     "ru": "скуластый"
@@ -49710,6 +52242,10 @@
   "skusić": {
     "pos": "VERB",
     "ru": "соблазнить, искушать"
+  },
+  "skutecznie": {
+    "pos": "ADV",
+    "ru": "эффективно"
   },
   "skuteczno": {
     "pos": "ADV",
@@ -49823,6 +52359,10 @@
     "pos": "NOUN",
     "ru": "скольжением"
   },
+  "smacznie": {
+    "pos": "ADV",
+    "ru": "вкусно"
+  },
   "smaczny": {
     "pos": "ADJ",
     "ru": "вкусный"
@@ -49859,6 +52399,10 @@
     "pos": "ADJ",
     "ru": "вкусный"
   },
+  "smarem": {
+    "pos": "NOUN",
+    "ru": "сало"
+  },
   "smarkacz": {
     "pos": "NOUN",
     "ru": "сопляк"
@@ -49866,6 +52410,14 @@
   "smarna": {
     "pos": "PROPN",
     "ru": "Смарна"
+  },
+  "smażeć": {
+    "pos": "VERB",
+    "ru": "жарить"
+  },
+  "smoek": {
+    "pos": "NOUN",
+    "ru": "смок"
   },
   "smok": {
     "pos": "NOUN",
@@ -49931,6 +52483,14 @@
     "pos": "ADJ",
     "ru": "грустный"
   },
+  "sn": {
+    "pos": "NOUN",
+    "ru": "сон"
+  },
+  "snami": {
+    "pos": "NOUN",
+    "ru": "сани"
+  },
   "snem": {
     "pos": "NOUN",
     "ru": "сон"
@@ -49946,6 +52506,10 @@
   "snopi": {
     "pos": "NOUN",
     "ru": "снопы"
+  },
+  "snować": {
+    "pos": "VERB",
+    "ru": "ткать, плести"
   },
   "snuciem": {
     "pos": "NOUN",
@@ -50031,6 +52595,10 @@
     "pos": "NOUN",
     "ru": "солонка"
   },
+  "solony": {
+    "pos": "ADJ",
+    "ru": "соленый"
+  },
   "somalisów": {
     "pos": "PROPN",
     "ru": "сомалийцев"
@@ -50046,6 +52614,10 @@
   "sos": {
     "pos": "NOUN",
     "ru": "соус"
+  },
+  "sosena": {
+    "pos": "NOUN",
+    "ru": "сосна"
   },
   "sosna": {
     "pos": "PROPN",
@@ -50067,6 +52639,14 @@
     "pos": "NOUN",
     "ru": "не найдено"
   },
+  "sowa": {
+    "pos": "ADJ",
+    "ru": "совиный"
+  },
+  "sowi": {
+    "pos": "ADJ",
+    "ru": "совиный"
+  },
   "sowicie": {
     "pos": "ADV",
     "ru": "совсем"
@@ -50074,6 +52654,14 @@
   "sowity": {
     "pos": "ADJ",
     "ru": "совиный"
+  },
+  "sowy": {
+    "pos": "ADJ",
+    "ru": "совиный"
+  },
+  "sp": {
+    "pos": "X",
+    "ru": "сп (предлог/союз)"
   },
   "spaczony": {
     "pos": "ADJ",
@@ -50131,6 +52719,10 @@
     "pos": "VERB",
     "ru": "сжечь"
   },
+  "spalić by": {
+    "pos": "VERB",
+    "ru": "сжечь"
+  },
   "spalony": {
     "pos": "ADJ",
     "ru": "сгоревший, обожженный, прожженный"
@@ -50150,6 +52742,18 @@
   "spalć": {
     "pos": "ADJ",
     "ru": "сгоревший, сожженный"
+  },
+  "spanie": {
+    "pos": "NOUN",
+    "ru": "сон"
+  },
+  "spanikować": {
+    "pos": "VERB",
+    "ru": "запаниковать"
+  },
+  "sparzyć": {
+    "pos": "VERB",
+    "ru": "обварить, ошпарить"
   },
   "spasiony": {
     "pos": "ADJ",
@@ -50182,6 +52786,10 @@
   "spać być": {
     "pos": "VERB",
     "ru": "спать"
+  },
+  "spał": {
+    "pos": "VERB",
+    "ru": "спал"
   },
   "spał!": {
     "pos": "X",
@@ -50326,6 +52934,10 @@
   "spitej": {
     "pos": "ADJ",
     "ru": "умный, хитрый"
+  },
+  "spiżarnia": {
+    "pos": "NOUN",
+    "ru": "кладовая"
   },
   "splamioć": {
     "pos": "ADJ",
@@ -50490,6 +53102,10 @@
   "spokój!!!nie": {
     "pos": "ADV",
     "ru": "спокойно"
+  },
+  "spomiędzy": {
+    "pos": "ADP",
+    "ru": "из-между"
   },
   "sponad": {
     "pos": "ADP",
@@ -50751,6 +53367,10 @@
     "pos": "VERB",
     "ru": "сделать, чтобы; устроить"
   },
+  "sprawka": {
+    "pos": "NOUN",
+    "ru": "справка"
+  },
   "sprawność": {
     "pos": "NOUN",
     "ru": "ловкость, проворство, умение"
@@ -50810,6 +53430,10 @@
   "sprowokować być": {
     "pos": "VERB",
     "ru": "провоцировать"
+  },
+  "sprytka": {
+    "pos": "NOUN",
+    "ru": "хитрость, ловкость, уловка"
   },
   "sprzeciwiać": {
     "pos": "VERB",
@@ -50875,13 +53499,29 @@
     "pos": "VERB",
     "ru": "поклясться"
   },
+  "sprzątanie": {
+    "pos": "NOUN",
+    "ru": "уборка"
+  },
   "sprzątać": {
     "pos": "NOUN",
     "ru": "уборка"
   },
+  "sprzątniesz": {
+    "pos": "VERB",
+    "ru": "уберешь"
+  },
   "sprzątnięty": {
     "pos": "ADJ",
     "ru": "убранный, прибранный"
+  },
+  "sprzątnąć": {
+    "pos": "VERB",
+    "ru": "убрать"
+  },
+  "sprzątnęli": {
+    "pos": "PROPN",
+    "ru": "Спржентнели"
   },
   "spróbować": {
     "pos": "VERB",
@@ -50944,6 +53584,10 @@
     "ru": "спускать, опускать"
   },
   "spuszczonego": {
+    "pos": "ADJ",
+    "ru": "опущенный"
+  },
+  "spuszczć": {
     "pos": "ADJ",
     "ru": "опущенный"
   },
@@ -51107,6 +53751,14 @@
     "pos": "ADJ",
     "ru": "текущий"
   },
+  "sreberko": {
+    "pos": "NOUN",
+    "ru": "серебрецо"
+  },
+  "srebr": {
+    "pos": "VERB",
+    "ru": "серебрить"
+  },
   "srebrny": {
     "pos": "ADJ",
     "ru": "серебряный"
@@ -51142,6 +53794,10 @@
   "srożyć": {
     "pos": "VERB",
     "ru": "строжить, ужесточать, делать суровым"
+  },
+  "ssać": {
+    "pos": "NOUN",
+    "ru": "сосание"
   },
   "ssieeć": {
     "pos": "VERB",
@@ -51235,6 +53891,10 @@
     "pos": "NOUN",
     "ru": "квартира"
   },
+  "stanecka": {
+    "pos": "PROPN",
+    "ru": "Станецка"
+  },
   "stanie!": {
     "pos": "ADJ",
     "ru": "стоячий"
@@ -51246,6 +53906,10 @@
   "stanisław": {
     "pos": "PROPN",
     "ru": "Станислав"
+  },
+  "stanić": {
+    "pos": "VERB",
+    "ru": "остановиться"
   },
   "stanley": {
     "pos": "PROPN",
@@ -51543,6 +54207,10 @@
     "pos": "ADJ",
     "ru": "торчащий"
   },
+  "sterczyć": {
+    "pos": "VERB",
+    "ru": "торчать"
+  },
   "sterczące": {
     "pos": "ADJ",
     "ru": "торчащий"
@@ -51582,6 +54250,10 @@
   "stodółce": {
     "pos": "ADJ",
     "ru": "амбарный"
+  },
+  "stodółka": {
+    "pos": "NOUN",
+    "ru": "сарай"
   },
   "stoi": {
     "pos": "VERB",
@@ -51666,6 +54338,10 @@
   "stole.": {
     "pos": "ADJ",
     "ru": "стол"
+  },
+  "stolica": {
+    "pos": "NOUN",
+    "ru": "столица"
   },
   "stolik": {
     "pos": "NOUN",
@@ -51823,6 +54499,10 @@
     "pos": "ADV",
     "ru": "страшно, ужасно, очень"
   },
+  "straszliwo": {
+    "pos": "ADV",
+    "ru": "страшно"
+  },
   "straszliwsze": {
     "pos": "ADJ",
     "ru": "более страшный"
@@ -51854,6 +54534,10 @@
   "straszny": {
     "pos": "ADJ",
     "ru": "страшный"
+  },
+  "straszydło": {
+    "pos": "NOUN",
+    "ru": "чучело"
   },
   "straszyć": {
     "pos": "VERB",
@@ -51974,6 +54658,10 @@
   "struga": {
     "pos": "NOUN",
     "ru": "стружка"
+  },
+  "strumieni": {
+    "pos": "NOUN",
+    "ru": "потоков"
   },
   "strumień": {
     "pos": "NOUN",
@@ -52227,9 +54915,17 @@
     "pos": "ADJ",
     "ru": "стукнуть"
   },
+  "stukot": {
+    "pos": "NOUN",
+    "ru": "стук"
+  },
   "stuku": {
     "pos": "NOUN",
     "ru": "стук"
+  },
+  "stulić": {
+    "pos": "VERB",
+    "ru": "сгибать, складывать"
   },
   "stulony": {
     "pos": "ADJ",
@@ -52286,6 +54982,10 @@
   "styczniowy": {
     "pos": "ADJ",
     "ru": "январский"
+  },
+  "stygnące": {
+    "pos": "ADJ",
+    "ru": "остывающий"
   },
   "stykać": {
     "pos": "VERB",
@@ -52362,6 +55062,10 @@
   "stłoczoć": {
     "pos": "ADJ",
     "ru": "тесный"
+  },
+  "stłuczony": {
+    "pos": "ADJ",
+    "ru": "разбитый"
   },
   "stłumiić": {
     "pos": "ADJ",
@@ -52543,6 +55247,26 @@
     "pos": "X",
     "ru": "есть, являются"
   },
+  "sunąć": {
+    "pos": "VERB",
+    "ru": "тянуть, тащить"
+  },
+  "superbałagan": {
+    "pos": "PROPN",
+    "ru": "Superbałagan"
+  },
+  "superbohater": {
+    "pos": "NOUN",
+    "ru": "супергерой"
+  },
+  "superbohaterski": {
+    "pos": "ADJ",
+    "ru": "супергеройский"
+  },
+  "supełek": {
+    "pos": "NOUN",
+    "ru": "узелок"
+  },
   "surowiej": {
     "pos": "ADV",
     "ru": "суровее"
@@ -52558,6 +55282,10 @@
   "surowy": {
     "pos": "ADJ",
     "ru": "сырой"
+  },
+  "surykatka": {
+    "pos": "NOUN",
+    "ru": "сурикат"
   },
   "susach": {
     "pos": "NOUN",
@@ -52594,6 +55322,10 @@
   "suszonych": {
     "pos": "ADJ",
     "ru": "сушёных"
+  },
+  "suszoć": {
+    "pos": "ADJ",
+    "ru": "сушащий, высушивающий"
   },
   "suszy": {
     "pos": "NOUN",
@@ -52634,6 +55366,10 @@
   "swahić": {
     "pos": "VERB",
     "ru": "раскачиваться"
+  },
+  "sweter": {
+    "pos": "NOUN",
+    "ru": "свитер"
   },
   "swoboda": {
     "pos": "NOUN",
@@ -52799,6 +55535,10 @@
     "pos": "ADJ",
     "ru": "рыпучий, сыпучий"
   },
+  "sypnąć": {
+    "pos": "VERB",
+    "ru": "сыпать, насыпать"
+  },
   "sypąć": {
     "pos": "VERB",
     "ru": "сыпать"
@@ -52835,6 +55575,14 @@
     "pos": "ADJ",
     "ru": "сытый"
   },
+  "sz": {
+    "pos": "INTJ",
+    "ru": "тс, пс (междометие для привлечения внимания)"
+  },
+  "sza": {
+    "pos": "ADJ",
+    "ru": "серый"
+  },
   "szafa": {
     "pos": "NOUN",
     "ru": "шкаф"
@@ -52842,6 +55590,10 @@
   "szafka": {
     "pos": "NOUN",
     "ru": "шкафчик"
+  },
+  "szafki": {
+    "pos": "NOUN",
+    "ru": "шкафчики"
   },
   "szafować": {
     "pos": "VERB",
@@ -52954,6 +55706,10 @@
   "szantażysta": {
     "pos": "NOUN",
     "ru": "шантажист"
+  },
+  "szara": {
+    "pos": "ADJ",
+    "ru": "серая"
   },
   "szarawark": {
     "pos": "NOUN",
@@ -53155,6 +55911,10 @@
     "pos": "NOUN",
     "ru": "щель"
   },
+  "szczelnie": {
+    "pos": "ADV",
+    "ru": "герметично"
+  },
   "szczelny": {
     "pos": "ADJ",
     "ru": "герметичный"
@@ -53202,6 +55962,10 @@
   "szczerzy": {
     "pos": "ADJ",
     "ru": "искренний"
+  },
+  "szczerzyć": {
+    "pos": "VERB",
+    "ru": "обнажать (зубы), скалить"
   },
   "szczotka": {
     "pos": "NOUN",
@@ -53575,6 +56339,10 @@
     "pos": "NOUN",
     "ru": "стекло"
   },
+  "szlaban": {
+    "pos": "NOUN",
+    "ru": "шлагбаум"
+  },
   "szlachecki": {
     "pos": "ADJ",
     "ru": "дворянский"
@@ -53722,6 +56490,14 @@
   "szpilka": {
     "pos": "NOUN",
     "ru": "шпилька"
+  },
+  "szpinak": {
+    "pos": "NOUN",
+    "ru": "шпинат"
+  },
+  "szpinakie": {
+    "pos": "NOUN",
+    "ru": "шпинат"
   },
   "szpital": {
     "pos": "NOUN",
@@ -53875,6 +56651,10 @@
     "pos": "VERB",
     "ru": "искать"
   },
+  "szukać być": {
+    "pos": "VERB",
+    "ru": "искать, быть"
+  },
   "szum": {
     "pos": "NOUN",
     "ru": "шум"
@@ -53951,6 +56731,10 @@
     "pos": "NOUN",
     "ru": "издевательство"
   },
+  "szydełkowy": {
+    "pos": "ADJ",
+    "ru": "крючковый"
+  },
   "szyeb": {
     "pos": "NOUN",
     "ru": "шея"
@@ -53987,6 +56771,10 @@
     "pos": "NOUN",
     "ru": "шимпанзе"
   },
+  "szynszyly": {
+    "pos": "PROPN",
+    "ru": "Шиншили"
+  },
   "szyć": {
     "pos": "VERB",
     "ru": "шить"
@@ -54022,6 +56810,10 @@
   "sól": {
     "pos": "NOUN",
     "ru": "соль"
+  },
+  "sów": {
+    "pos": "PROPN",
+    "ru": "Сув"
   },
   "sączyć": {
     "pos": "VERB",
@@ -54175,6 +56967,10 @@
     "pos": "ADJ",
     "ru": "сладкий"
   },
+  "słodkich": {
+    "pos": "ADJ",
+    "ru": "сладких"
+  },
   "słodkiy": {
     "pos": "ADJ",
     "ru": "сладкий"
@@ -54191,9 +56987,17 @@
     "pos": "NOUN",
     "ru": "сладости"
   },
+  "słodyczowy": {
+    "pos": "ADJ",
+    "ru": "кондитерский"
+  },
   "słodzi": {
     "pos": "ADJ",
     "ru": "сладкий"
+  },
+  "słodziutka": {
+    "pos": "ADJ",
+    "ru": "сладенькая"
   },
   "słoiczek": {
     "pos": "NOUN",
@@ -54250,6 +57054,10 @@
   "słoniu": {
     "pos": "PROPN",
     "ru": "Слоню"
+  },
+  "słonko": {
+    "pos": "NOUN",
+    "ru": "солнышко"
   },
   "słono": {
     "pos": "PROPN",
@@ -54482,6 +57290,10 @@
   "tabakę": {
     "pos": "PROPN",
     "ru": "Табака"
+  },
+  "tablet": {
+    "pos": "NOUN",
+    "ru": "таблетка"
   },
   "tablica": {
     "pos": "NOUN",
@@ -54811,9 +57623,21 @@
     "pos": "NOUN",
     "ru": "скрежет"
   },
+  "tarzać": {
+    "pos": "VERB",
+    "ru": "валять, катать, тереть"
+  },
   "tarzał": {
     "pos": "VERB",
     "ru": "валял"
+  },
+  "tata": {
+    "pos": "NOUN",
+    "ru": "папа"
+  },
+  "tato": {
+    "pos": "NOUN",
+    "ru": "папа"
   },
   "tatuować": {
     "pos": "ADJ",
@@ -54863,9 +57687,17 @@
     "pos": "NOUN",
     "ru": "танец"
   },
+  "tańce": {
+    "pos": "NOUN",
+    "ru": "танцы"
+  },
   "tańcować": {
     "pos": "VERB",
     "ru": "танцевать"
+  },
+  "tańcz": {
+    "pos": "VERB",
+    "ru": "танцуй"
   },
   "tańczyliśmy": {
     "pos": "VERB",
@@ -54874,6 +57706,18 @@
   "tańczyć": {
     "pos": "VERB",
     "ru": "танцевать"
+  },
+  "tańczyła": {
+    "pos": "VERB",
+    "ru": "танцевала"
+  },
+  "tańczący": {
+    "pos": "ADJ",
+    "ru": "танцующий"
+  },
+  "tańczących": {
+    "pos": "ADJ",
+    "ru": "танцующих"
   },
   "taśma": {
     "pos": "NOUN",
@@ -55155,6 +57999,10 @@
     "pos": "NOUN",
     "ru": "то"
   },
+  "toaleta": {
+    "pos": "NOUN",
+    "ru": "туалет"
+  },
   "toaletowy": {
     "pos": "ADJ",
     "ru": "туалетный"
@@ -55299,13 +58147,29 @@
     "pos": "NOUN",
     "ru": "тополь"
   },
+  "tor": {
+    "pos": "NOUN",
+    "ru": "путь"
+  },
   "torba": {
     "pos": "NOUN",
     "ru": "сумка"
   },
+  "torcie": {
+    "pos": "NOUN",
+    "ru": "мучение"
+  },
+  "tore": {
+    "pos": "ADV",
+    "ru": "также"
+  },
   "torebka": {
     "pos": "NOUN",
     "ru": "сумка"
+  },
+  "torelorować": {
+    "pos": "VERB",
+    "ru": "торелеровать"
   },
   "torturować być": {
     "pos": "NOUN",
@@ -55471,6 +58335,14 @@
     "pos": "VERB",
     "ru": "обращаться, трактовать, относиться"
   },
+  "tralala": {
+    "pos": "PROPN",
+    "ru": "Тралала"
+  },
+  "trampolina": {
+    "pos": "NOUN",
+    "ru": "батут"
+  },
   "tramwaj": {
     "pos": "NOUN",
     "ru": "трамвай"
@@ -55490,6 +58362,10 @@
   "trapić": {
     "pos": "VERB",
     "ru": "мучить, терзать, изводить"
+  },
+  "trasa": {
+    "pos": "NOUN",
+    "ru": "маршрут"
   },
   "tratować": {
     "pos": "VERB",
@@ -55514,6 +58390,10 @@
   "trawka": {
     "pos": "NOUN",
     "ru": "травка"
+  },
+  "trawnik": {
+    "pos": "NOUN",
+    "ru": "газон"
   },
   "trać": {
     "pos": "VERB",
@@ -55626,6 +58506,10 @@
   "troszczyć": {
     "pos": "VERB",
     "ru": "заботиться"
+  },
+  "troszeczkę": {
+    "pos": "ADV",
+    "ru": "немного, чуть-чуть"
   },
   "troszkę": {
     "pos": "ADV",
@@ -55771,6 +58655,10 @@
     "pos": "VERB",
     "ru": "треск делать, потрескивать"
   },
+  "trzaskeć": {
+    "pos": "VERB",
+    "ru": "трещать"
+  },
   "trzasnąć": {
     "pos": "VERB",
     "ru": "хлопнуть"
@@ -55794,6 +58682,10 @@
   "trzeba": {
     "pos": "VERB",
     "ru": "нужно, надо, требуется"
+  },
+  "trzebska": {
+    "pos": "PROPN",
+    "ru": "Тшебска"
   },
   "trzeci": {
     "pos": "ADJ",
@@ -56103,6 +58995,10 @@
     "pos": "ADV",
     "ru": "здесь"
   },
+  "tuk": {
+    "pos": "X",
+    "ru": "жир"
+  },
   "tukan": {
     "pos": "NOUN",
     "ru": "тукан"
@@ -56142,6 +59038,10 @@
   "tunelowy": {
     "pos": "ADJ",
     "ru": "туннельный"
+  },
+  "tup": {
+    "pos": "INTJ",
+    "ru": "тупо"
   },
   "tupać": {
     "pos": "VERB",
@@ -56183,6 +59083,10 @@
     "pos": "PROPN",
     "ru": "Турко"
   },
+  "turkocze": {
+    "pos": "ADJ",
+    "ru": "бирюзовый"
+  },
   "turkot": {
     "pos": "NOUN",
     "ru": "грохот, гул, шум"
@@ -56194,6 +59098,10 @@
   "turlał": {
     "pos": "VERB",
     "ru": "кувыркаться"
+  },
+  "turniej": {
+    "pos": "NOUN",
+    "ru": "турнир"
   },
   "turystyczny": {
     "pos": "ADJ",
@@ -56210,6 +59118,18 @@
   "tutejszy": {
     "pos": "ADJ",
     "ru": "местный"
+  },
+  "tuuk": {
+    "pos": "NOUN",
+    "ru": "хохолок"
+  },
+  "tuut": {
+    "pos": "NOUN",
+    "ru": "гудок"
+  },
+  "tuuu": {
+    "pos": "NOUN",
+    "ru": "ту (звукоподражание)"
   },
   "tuzin": {
     "pos": "PROPN",
@@ -56338,6 +59258,10 @@
   "twista": {
     "pos": "NOUN",
     "ru": "твист"
+  },
+  "two": {
+    "pos": "VERB",
+    "ru": "создавать"
   },
   "twoim": {
     "pos": "DET",
@@ -56590,6 +59514,10 @@
   "tyś": {
     "pos": "DET",
     "ru": "ты (архаичная форма)"
+  },
+  "tór": {
+    "pos": "NOUN",
+    "ru": "трек"
   },
   "tą": {
     "pos": "DET",
@@ -56963,6 +59891,14 @@
     "pos": "VERB",
     "ru": "убежал"
   },
+  "uciekłam": {
+    "pos": "VERB",
+    "ru": "убежала"
+  },
+  "uciekłaś": {
+    "pos": "VERB",
+    "ru": "убежала"
+  },
   "uciekłszy": {
     "pos": "VERB",
     "ru": "убежав"
@@ -57227,6 +60163,10 @@
     "pos": "ADJ",
     "ru": "бить, ударять"
   },
+  "uderzały": {
+    "pos": "VERB",
+    "ru": "ударяли"
+  },
   "uderzenie": {
     "pos": "NOUN",
     "ru": "удар"
@@ -57427,6 +60367,18 @@
     "pos": "ADJ",
     "ru": "сваренный, приготовленный"
   },
+  "ugryziić": {
+    "pos": "ADJ",
+    "ru": "укусанный"
+  },
+  "ugryziyć": {
+    "pos": "NOUN",
+    "ru": "укус"
+  },
+  "ugryznąć": {
+    "pos": "VERB",
+    "ru": "укусить"
+  },
   "ugryzło": {
     "pos": "VERB",
     "ru": "укусило"
@@ -57586,6 +60538,14 @@
   "ukołysać": {
     "pos": "ADJ",
     "ru": "усыпить"
+  },
+  "ukołysze": {
+    "pos": "PROPN",
+    "ru": "Укольше"
+  },
+  "ukołyszę": {
+    "pos": "VERB",
+    "ru": "усыпляю"
   },
   "ukończenie": {
     "pos": "NOUN",
@@ -58179,6 +61139,10 @@
     "pos": "NOUN",
     "ru": "универсум"
   },
+  "uniósł": {
+    "pos": "VERB",
+    "ru": "поднял"
+  },
   "uniść": {
     "pos": "VERB",
     "ru": "поднять"
@@ -58647,6 +61611,10 @@
     "pos": "ADJ",
     "ru": "плодородный"
   },
+  "urodziny": {
+    "pos": "NOUN",
+    "ru": "день рождения"
+  },
   "urodzić": {
     "pos": "VERB",
     "ru": "родить"
@@ -58775,6 +61743,10 @@
     "pos": "VERB",
     "ru": "сел"
   },
+  "usiadła": {
+    "pos": "VERB",
+    "ru": "присела"
+  },
   "usiadłam": {
     "pos": "VERB",
     "ru": "я села"
@@ -58838,6 +61810,10 @@
   "usiłowałam": {
     "pos": "VERB",
     "ru": "пытался, старался (прошедшее время, женский род)"
+  },
+  "usmażyć": {
+    "pos": "VERB",
+    "ru": "прожарить"
   },
   "usnąć": {
     "pos": "VERB",
@@ -59015,6 +61991,10 @@
     "pos": "NOUN",
     "ru": "удаление"
   },
+  "usypianie": {
+    "pos": "NOUN",
+    "ru": "усыпление"
+  },
   "usypiać": {
     "pos": "VERB",
     "ru": "усыплять"
@@ -59082,6 +62062,14 @@
   "uszedłszy": {
     "pos": "VERB",
     "ru": "уходя"
+  },
+  "uszek": {
+    "pos": "NOUN",
+    "ru": "ушко"
+  },
+  "uszka": {
+    "pos": "NOUN",
+    "ru": "ушко"
   },
   "uszu": {
     "pos": "NOUN",
@@ -59415,6 +62403,10 @@
     "pos": "VERB",
     "ru": "застрял"
   },
+  "uwić": {
+    "pos": "VERB",
+    "ru": "вить"
+  },
   "uwięziić": {
     "pos": "ADJ",
     "ru": "заключенный"
@@ -59438,6 +62430,10 @@
   "uwolnić": {
     "pos": "NOUN",
     "ru": "освобождение"
+  },
+  "uwolnić być": {
+    "pos": "VERB",
+    "ru": "освободить"
   },
   "uwzględniać": {
     "pos": "VERB",
@@ -59667,6 +62663,10 @@
     "pos": "NOUN",
     "ru": "улыбка"
   },
+  "uśpione": {
+    "pos": "ADJ",
+    "ru": "усыпленный"
+  },
   "uśpiony": {
     "pos": "ADJ",
     "ru": "усыпленный"
@@ -59691,6 +62691,10 @@
     "pos": "VERB",
     "ru": "осознать"
   },
+  "użalać": {
+    "pos": "VERB",
+    "ru": "жаловаться"
+  },
   "użerać": {
     "pos": "NOUN",
     "ru": "ухаживание, флирт"
@@ -59707,6 +62711,10 @@
     "pos": "VERB",
     "ru": "пользоваться"
   },
+  "użyteczny": {
+    "pos": "ADJ",
+    "ru": "полезный"
+  },
   "używam.": {
     "pos": "NOUN",
     "ru": "использование"
@@ -59718,6 +62726,14 @@
   "użyć": {
     "pos": "VERB",
     "ru": "использовать"
+  },
+  "v": {
+    "pos": "X",
+    "ru": "в"
+  },
+  "vi": {
+    "pos": "X",
+    "ru": "ты (вежливая форма множественного числа)"
   },
   "vomito": {
     "pos": "VERB",
@@ -59762,6 +62778,10 @@
   "wadi": {
     "pos": "PROPN",
     "ru": "Вади"
+  },
+  "wafelek": {
+    "pos": "NOUN",
+    "ru": "вафелька"
   },
   "waga": {
     "pos": "NOUN",
@@ -59875,6 +62895,10 @@
     "pos": "NOUN",
     "ru": "ваниль"
   },
+  "waniliowy": {
+    "pos": "ADJ",
+    "ru": "ванильный"
+  },
   "wanna": {
     "pos": "PROPN",
     "ru": "Ванна"
@@ -59894,6 +62918,10 @@
   "wara": {
     "pos": "INTJ",
     "ru": "стоп"
+  },
+  "waran": {
+    "pos": "NOUN",
+    "ru": "варан"
   },
   "warci!": {
     "pos": "PUNCT",
@@ -60063,6 +63091,10 @@
     "pos": "NOUN",
     "ru": "водяной козел"
   },
+  "wawelski": {
+    "pos": "ADJ",
+    "ru": "вавельский"
+  },
   "wazki": {
     "pos": "ADV",
     "ru": "узко"
@@ -60126,6 +63158,10 @@
   "ważyć": {
     "pos": "VERB",
     "ru": "взвешивать"
+  },
+  "wbiec": {
+    "pos": "VERB",
+    "ru": "вбежать"
   },
   "wbijać": {
     "pos": "VERB",
@@ -60191,6 +63227,10 @@
     "pos": "VERB",
     "ru": "вдавить, втиснуть, нажать"
   },
+  "wcisnęłaby": {
+    "pos": "VERB",
+    "ru": "вжала бы"
+  },
   "wciągać": {
     "pos": "VERB",
     "ru": "втягивать"
@@ -60243,6 +63283,10 @@
     "pos": "ADJ",
     "ru": "вчерашний"
   },
+  "wdarł": {
+    "pos": "VERB",
+    "ru": "врезался"
+  },
   "wdawać": {
     "pos": "VERB",
     "ru": "выдавать"
@@ -60264,6 +63308,10 @@
     "ru": "вдовец"
   },
   "wdrapać": {
+    "pos": "VERB",
+    "ru": "взобраться"
+  },
+  "wdrapać być": {
     "pos": "VERB",
     "ru": "взобраться"
   },
@@ -60419,6 +63467,10 @@
     "pos": "VERB",
     "ru": "веселить"
   },
+  "wesolutek": {
+    "pos": "NOUN",
+    "ru": "весельчак"
+  },
   "wesoło": {
     "pos": "ADV",
     "ru": "весело"
@@ -60503,6 +63555,10 @@
     "pos": "NOUN",
     "ru": "вызов"
   },
+  "wezwaniu": {
+    "pos": "NOUN",
+    "ru": "вызов"
+  },
   "wezwano": {
     "pos": "VERB",
     "ru": "вызвали"
@@ -60538,6 +63594,10 @@
   "weźmąć": {
     "pos": "VERB",
     "ru": "взять"
+  },
+  "wgramolić": {
+    "pos": "VERB",
+    "ru": "грамолить, валять в грязи"
   },
   "wgłębiać": {
     "pos": "VERB",
@@ -60634,6 +63694,10 @@
   "widać": {
     "pos": "VERB",
     "ru": "видно, видать, можно видеть"
+  },
+  "widelec": {
+    "pos": "NOUN",
+    "ru": "вилка"
   },
   "widet": {
     "pos": "NOUN",
@@ -61079,6 +64143,10 @@
     "pos": "NOUN",
     "ru": "величина"
   },
+  "wielobarwny": {
+    "pos": "ADJ",
+    "ru": "разноцветный"
+  },
   "wielodniowy": {
     "pos": "ADJ",
     "ru": "многодневный"
@@ -61123,6 +64191,10 @@
     "pos": "VERB",
     "ru": "сверлить"
   },
+  "wiercić być": {
+    "pos": "VERB",
+    "ru": "сверлить, бурить"
+  },
   "wierni": {
     "pos": "NOUN",
     "ru": "верные, верующие"
@@ -61138,6 +64210,10 @@
   "wiersz": {
     "pos": "NOUN",
     "ru": "стихотворение, строка, ряд"
+  },
+  "wiertło": {
+    "pos": "NOUN",
+    "ru": "сверло"
   },
   "wierzba": {
     "pos": "NOUN",
@@ -61206,6 +64282,10 @@
   "wierzyć być": {
     "pos": "VERB",
     "ru": "верить"
+  },
+  "wierzą": {
+    "pos": "VERB",
+    "ru": "верят"
   },
   "wierzą.": {
     "pos": "NOUN",
@@ -61539,6 +64619,10 @@
     "pos": "NOUN",
     "ru": "вихрь"
   },
+  "wirować": {
+    "pos": "VERB",
+    "ru": "вращать"
+  },
   "wisiać": {
     "pos": "VERB",
     "ru": "висеть"
@@ -61635,6 +64719,14 @@
     "pos": "PROPN",
     "ru": "Витольд"
   },
+  "wiwatujić": {
+    "pos": "ADJ",
+    "ru": "ликующий"
+  },
+  "wiwatuć": {
+    "pos": "ADJ",
+    "ru": "живой, оживленный"
+  },
   "wizja": {
     "pos": "NOUN",
     "ru": "видение"
@@ -61646,6 +64738,10 @@
   "wizyta": {
     "pos": "NOUN",
     "ru": "визит"
+  },
+  "wióra": {
+    "pos": "NOUN",
+    "ru": "стружка"
   },
   "wiązać": {
     "pos": "NOUN",
@@ -61779,6 +64875,10 @@
     "pos": "VERB",
     "ru": "вкручивать"
   },
+  "wkręcić": {
+    "pos": "VERB",
+    "ru": "вкрутить"
+  },
   "wkładajić": {
     "pos": "ADJ",
     "ru": "вкладывающий"
@@ -61786,6 +64886,10 @@
   "wkładać": {
     "pos": "VERB",
     "ru": "вкладывать"
+  },
+  "wkładała": {
+    "pos": "VERB",
+    "ru": "вкладывала"
   },
   "wlaznąć": {
     "pos": "VERB",
@@ -61922,6 +65026,10 @@
   "wobec": {
     "pos": "ADP",
     "ru": "перед, перемен, в отношении"
+  },
+  "woblink": {
+    "pos": "PROPN",
+    "ru": "Вобленк"
   },
   "wobo": {
     "pos": "DET",
@@ -62094,6 +65202,10 @@
   "wolałbym": {
     "pos": "VERB",
     "ru": "я бы предпочел"
+  },
+  "wolałbyś": {
+    "pos": "VERB",
+    "ru": "ты бы предпочел"
   },
   "woleć": {
     "pos": "VERB",
@@ -62275,6 +65387,10 @@
     "pos": "VERB",
     "ru": "ты попала (женский род, прошедшее время)"
   },
+  "wpadłem": {
+    "pos": "VERB",
+    "ru": "я упал"
+  },
   "wpadłszy": {
     "pos": "VERB",
     "ru": "упав"
@@ -62371,6 +65487,10 @@
     "pos": "VERB",
     "ru": "вводить"
   },
+  "wpuszczać": {
+    "pos": "VERB",
+    "ru": "впускать"
+  },
   "wpuszczć": {
     "pos": "ADJ",
     "ru": "пущенный"
@@ -62394,6 +65514,10 @@
   "wpółprzytomn": {
     "pos": "PROPN",
     "ru": "{\"ru\": \"Впольпжитомн\"}\n\nNote: This appears to be a proper noun (PROPN) that doesn't have a standard dictionary translation. It may be a place name, person's name, or technical term in Polish that would require more context for"
+  },
+  "wpłynąć": {
+    "pos": "VERB",
+    "ru": "повлиять"
   },
   "wpływ": {
     "pos": "NOUN",
@@ -62651,6 +65775,18 @@
     "pos": "NOUN",
     "ru": "гадание"
   },
+  "wróżka": {
+    "pos": "NOUN",
+    "ru": "гадалка"
+  },
+  "wróżki": {
+    "pos": "NOUN",
+    "ru": "феи"
+  },
+  "wróżko": {
+    "pos": "PROPN",
+    "ru": "Врожко"
+  },
   "wróżyć": {
     "pos": "VERB",
     "ru": "гадать"
@@ -62731,6 +65867,10 @@
     "pos": "VERB",
     "ru": "впитала"
   },
+  "wsiąść": {
+    "pos": "VERB",
+    "ru": "сесть, взойти, вскочить"
+  },
   "wskakiwać": {
     "pos": "VERB",
     "ru": "вскакивать"
@@ -62755,6 +65895,14 @@
     "pos": "VERB",
     "ru": "указать"
   },
+  "wskazujące": {
+    "pos": "NOUN",
+    "ru": "указание"
+  },
+  "wskazujący": {
+    "pos": "PROPN",
+    "ru": "указывающий"
+  },
   "wskazuć": {
     "pos": "VERB",
     "ru": "указывать"
@@ -62770,6 +65918,10 @@
   "wskazówka": {
     "pos": "NOUN",
     "ru": "стрелка"
+  },
+  "wskoczyć": {
+    "pos": "VERB",
+    "ru": "прыгнуть в"
   },
   "wskroś": {
     "pos": "NOUN",
@@ -62814,6 +65966,10 @@
   "wspinać": {
     "pos": "VERB",
     "ru": "лезть"
+  },
+  "wspinać być": {
+    "pos": "VERB",
+    "ru": "взбираться"
   },
   "wspiąć": {
     "pos": "VERB",
@@ -62875,6 +66031,10 @@
     "pos": "VERB",
     "ru": "сотрудничать"
   },
+  "współmieszkańca": {
+    "pos": "NOUN",
+    "ru": "соседа по жилью"
+  },
   "współplemieńcy": {
     "pos": "NOUN",
     "ru": "соплеменники"
@@ -62914,6 +66074,10 @@
   "wsród": {
     "pos": "ADP",
     "ru": "среди"
+  },
+  "wstanie": {
+    "pos": "ADJ",
+    "ru": "восстающий"
   },
   "wstanć": {
     "pos": "VERB",
@@ -62958,6 +66122,10 @@
   "wstać być": {
     "pos": "VERB",
     "ru": "встать"
+  },
+  "wstałem": {
+    "pos": "VERB",
+    "ru": "встал"
   },
   "wstań": {
     "pos": "VERB",
@@ -63082,6 +66250,14 @@
   "wsunąć": {
     "pos": "VERB",
     "ru": "сунуть"
+  },
+  "wsunąć być": {
+    "pos": "VERB",
+    "ru": "засунуть, вставить"
+  },
+  "wsuwa": {
+    "pos": "NOUN",
+    "ru": "вставка"
   },
   "wsuwaniu": {
     "pos": "NOUN",
@@ -63275,6 +66451,10 @@
     "pos": "VERB",
     "ru": "прости"
   },
+  "wybaczać": {
+    "pos": "VERB",
+    "ru": "прощать"
+  },
   "wybaczyć": {
     "pos": "VERB",
     "ru": "простить"
@@ -63326,6 +66506,10 @@
   "wybiegć być": {
     "pos": "VERB",
     "ru": "выбежать"
+  },
+  "wybiegł": {
+    "pos": "VERB",
+    "ru": "выбежал"
   },
   "wybiegły": {
     "pos": "VERB",
@@ -63703,6 +66887,10 @@
     "pos": "VERB",
     "ru": "истощать"
   },
+  "wyczesać": {
+    "pos": "VERB",
+    "ru": "расчесать"
+  },
   "wyczuc": {
     "pos": "NOUN",
     "ru": "чутье"
@@ -63883,6 +67071,10 @@
     "pos": "VERB",
     "ru": "выделять"
   },
+  "wydzieranka": {
+    "pos": "NOUN",
+    "ru": "разбойница"
+  },
   "wydzierać": {
     "pos": "VERB",
     "ru": "вырывать, раздирать"
@@ -63919,6 +67111,10 @@
     "pos": "VERB",
     "ru": "выковырять"
   },
+  "wydłubować": {
+    "pos": "VERB",
+    "ru": "выковырять, выковыривать"
+  },
   "wydłubywać": {
     "pos": "VERB",
     "ru": "выковыривать, долбить, расковыривать"
@@ -63942,6 +67138,14 @@
   "wyeliminować": {
     "pos": "VERB",
     "ru": "исключить"
+  },
+  "wyfrunia": {
+    "pos": "ADV",
+    "ru": "вычурно"
+  },
+  "wyfruwać": {
+    "pos": "VERB",
+    "ru": "вылетать"
   },
   "wygadać": {
     "pos": "VERB",
@@ -64311,6 +67515,10 @@
     "pos": "VERB",
     "ru": "вынуть, извлечь"
   },
+  "wyjęła": {
+    "pos": "VERB",
+    "ru": "вынула"
+  },
   "wyjście": {
     "pos": "NOUN",
     "ru": "выход"
@@ -64378,6 +67586,10 @@
   "wykluczć": {
     "pos": "ADJ",
     "ru": "исключённый"
+  },
+  "wyklułyieć": {
+    "pos": "VERB",
+    "ru": "вылупиться"
   },
   "wykombinować": {
     "pos": "VERB",
@@ -64527,6 +67739,10 @@
     "pos": "VERB",
     "ru": "исказить"
   },
+  "wykręcaj": {
+    "pos": "VERB",
+    "ru": "выкручивай"
+  },
   "wykręcać": {
     "pos": "VERB",
     "ru": "выкручивать, скручивать, вывертывать"
@@ -64643,6 +67859,10 @@
     "pos": "VERB",
     "ru": "валяться, лежать"
   },
+  "wyleniać": {
+    "pos": "VERB",
+    "ru": "линять, сбрасывать кожу"
+  },
   "wylew": {
     "pos": "NOUN",
     "ru": "инсульт"
@@ -64650,6 +67870,10 @@
   "wylewać": {
     "pos": "NOUN",
     "ru": "разлив"
+  },
+  "wyleć": {
+    "pos": "VERB",
+    "ru": "вылететь"
   },
   "wyliczać": {
     "pos": "VERB",
@@ -64666,6 +67890,10 @@
   "wyliczyć być": {
     "pos": "VERB",
     "ru": "перечислить"
+  },
+  "wylizać": {
+    "pos": "VERB",
+    "ru": "облизать"
   },
   "wyludniać": {
     "pos": "VERB",
@@ -64735,6 +67963,10 @@
     "pos": "VERB",
     "ru": "помечтать"
   },
+  "wymasować": {
+    "pos": "VERB",
+    "ru": "помассировать"
+  },
   "wymawiać": {
     "pos": "VERB",
     "ru": "произносить"
@@ -64802,6 +68034,10 @@
   "wymiótł": {
     "pos": "NOUN",
     "ru": "веник"
+  },
+  "wymknąłem": {
+    "pos": "VERB",
+    "ru": "ускользнул"
   },
   "wymordować": {
     "pos": "VERB",
@@ -65143,6 +68379,14 @@
     "pos": "VERB",
     "ru": "вытеснили"
   },
+  "wypatrywać być": {
+    "pos": "VERB",
+    "ru": "высматривать, подстерегать, искать взглядом"
+  },
+  "wypatrzyć": {
+    "pos": "VERB",
+    "ru": "высмотреть"
+  },
   "wypaść": {
     "pos": "VERB",
     "ru": "выпасть"
@@ -65227,6 +68471,10 @@
     "pos": "ADJ",
     "ru": "выпяченный, выпячиваемый"
   },
+  "wyplątać": {
+    "pos": "VERB",
+    "ru": "распутать"
+  },
   "wypoczniesz": {
     "pos": "VERB",
     "ru": "отдохнёшь"
@@ -65278,6 +68526,10 @@
   "wypowiem": {
     "pos": "VERB",
     "ru": "скажу, высказу"
+  },
+  "wypranie": {
+    "pos": "NOUN",
+    "ru": "стирка"
   },
   "wyprawa": {
     "pos": "NOUN",
@@ -65363,6 +68615,10 @@
     "pos": "VERB",
     "ru": "напрячь, вытянуть, распрямить"
   },
+  "wyprężył": {
+    "pos": "NOUN",
+    "ru": "напряжение"
+  },
   "wypsnąć": {
     "pos": "VERB",
     "ru": "пихнуть"
@@ -65398,6 +68654,10 @@
   "wypuścić": {
     "pos": "ADJ",
     "ru": "выпустить"
+  },
+  "wypuściłeś": {
+    "pos": "VERB",
+    "ru": "выпустил"
   },
   "wypytuć": {
     "pos": "VERB",
@@ -65827,6 +69087,10 @@
     "pos": "VERB",
     "ru": "торчать, выступать, высовываться"
   },
+  "wystawiać": {
+    "pos": "VERB",
+    "ru": "выставлять"
+  },
   "wystawioć": {
     "pos": "ADJ",
     "ru": "выставленный"
@@ -65994,6 +69258,10 @@
   "wyszczerzonymi": {
     "pos": "ADJ",
     "ru": "оскаленный"
+  },
+  "wyszedć być": {
+    "pos": "VERB",
+    "ru": "выходить, выйти"
   },
   "wyszedł": {
     "pos": "VERB",
@@ -66251,6 +69519,10 @@
     "pos": "VERB",
     "ru": "выманить"
   },
+  "wywalić": {
+    "pos": "VERB",
+    "ru": "выбросить, свалить, сбросить"
+  },
   "wywarłam": {
     "pos": "VERB",
     "ru": "вывариваю/вывариала"
@@ -66391,6 +69663,10 @@
     "pos": "NOUN",
     "ru": "разутый, босой"
   },
+  "wyzwanie": {
+    "pos": "NOUN",
+    "ru": "вызов"
+  },
   "wyzyskać": {
     "pos": "VERB",
     "ru": "использовать, эксплуатировать"
@@ -66511,9 +69787,25 @@
     "pos": "NOUN",
     "ru": "гонки"
   },
+  "wyśle": {
+    "pos": "VERB",
+    "ru": "отправлю"
+  },
+  "wyślizgiwać": {
+    "pos": "VERB",
+    "ru": "выскальзывать, ускользать"
+  },
   "wyśmienity": {
     "pos": "ADJ",
     "ru": "превосходный"
+  },
+  "wyśniony": {
+    "pos": "ADJ",
+    "ru": "высмеянный, осмеянный"
+  },
+  "wyśnić": {
+    "pos": "VERB",
+    "ru": "вымечтать"
   },
   "wyśpiewywać": {
     "pos": "VERB",
@@ -66915,6 +70207,10 @@
     "pos": "VERB",
     "ru": "взволновать, тронуть, растрогать"
   },
+  "wzywano": {
+    "pos": "VERB",
+    "ru": "вызывали"
+  },
   "wzywać": {
     "pos": "VERB",
     "ru": "вызывать"
@@ -67087,6 +70383,10 @@
     "pos": "NOUN",
     "ru": "удочка"
   },
+  "wędrowała": {
+    "pos": "VERB",
+    "ru": "странствовала"
+  },
   "wędrowiec": {
     "pos": "NOUN",
     "ru": "странник"
@@ -67158,6 +70458,14 @@
   "węgły": {
     "pos": "VERB",
     "ru": "углеводы"
+  },
+  "węszyć": {
+    "pos": "VERB",
+    "ru": "нюхать, обнюхивать"
+  },
+  "węszyć być": {
+    "pos": "VERB",
+    "ru": "нюхать, совать нос"
   },
   "węż": {
     "pos": "NOUN",
@@ -67271,6 +70579,10 @@
     "pos": "ADV",
     "ru": "собственно"
   },
+  "właściwość": {
+    "pos": "NOUN",
+    "ru": "свойство"
+  },
   "właściwy": {
     "pos": "ADJ",
     "ru": "правильный, надлежащий, собственный"
@@ -67286,6 +70598,10 @@
   "włażących": {
     "pos": "ADJ",
     "ru": "влезающий, лезущий, проникающий"
+  },
+  "włochata": {
+    "pos": "NOUN",
+    "ru": "волосатая (женщина)"
   },
   "włochate": {
     "pos": "ADJ",
@@ -67331,6 +70647,10 @@
     "pos": "ADJ",
     "ru": "итальянский"
   },
+  "włożony": {
+    "pos": "ADJ",
+    "ru": "вложенный"
+  },
   "włoży": {
     "pos": "VERB",
     "ru": "положит"
@@ -67358,6 +70678,14 @@
   "włóczyć": {
     "pos": "VERB",
     "ru": "бродить, скитаться, волочить"
+  },
+  "włóczęga": {
+    "pos": "PROPN",
+    "ru": "Влочега"
+  },
+  "włóczęgo": {
+    "pos": "VERB",
+    "ru": "бродить"
   },
   "włóczęgę": {
     "pos": "NOUN",
@@ -67475,9 +70803,17 @@
     "pos": "VERB",
     "ru": "развлечь, забавить"
   },
+  "zabawka": {
+    "pos": "NOUN",
+    "ru": "игрушка"
+  },
   "zabawny": {
     "pos": "ADJ",
     "ru": "забавный"
+  },
+  "zabałaganiony": {
+    "pos": "ADJ",
+    "ru": "беспорядочный, запущенный, захламленный"
   },
   "zabezpieczając": {
     "pos": "VERB",
@@ -67783,6 +71119,10 @@
     "pos": "VERB",
     "ru": "сохранить, соблюдать"
   },
+  "zachowujesz": {
+    "pos": "VERB",
+    "ru": "ты ведешь себя, ты сохраняешь"
+  },
   "zachowywać": {
     "pos": "VERB",
     "ru": "сохранять"
@@ -67790,6 +71130,10 @@
   "zachrypło": {
     "pos": "NOUN",
     "ru": "охриплость"
+  },
+  "zachrzęścić": {
+    "pos": "VERB",
+    "ru": "хрустеть, скрипеть, издавать звук"
   },
   "zachwiać": {
     "pos": "VERB",
@@ -67966,6 +71310,14 @@
   "zaczai": {
     "pos": "NOUN",
     "ru": "затаивание"
+  },
+  "zaczaić": {
+    "pos": "VERB",
+    "ru": "затаиться"
+  },
+  "zaczarowany": {
+    "pos": "ADJ",
+    "ru": "очарованный, заколдованный"
   },
   "zaczarować": {
     "pos": "ADJ",
@@ -68339,6 +71691,10 @@
     "pos": "NOUN",
     "ru": "благоустройство"
   },
+  "zagotować": {
+    "pos": "VERB",
+    "ru": "заготовить"
+  },
   "zagotuć": {
     "pos": "VERB",
     "ru": "консервировать"
@@ -68419,6 +71775,10 @@
     "pos": "VERB",
     "ru": "грохнуть"
   },
+  "zagubiony": {
+    "pos": "ADJ",
+    "ru": "потерянный"
+  },
   "zagłada": {
     "pos": "NOUN",
     "ru": "гибель"
@@ -68439,6 +71799,10 @@
     "pos": "NOUN",
     "ru": "углубление"
   },
+  "zahaczyć": {
+    "pos": "VERB",
+    "ru": "зацепить"
+  },
   "zahartować": {
     "pos": "ADJ",
     "ru": "закалённый"
@@ -68454,6 +71818,10 @@
   "zahuczyć": {
     "pos": "VERB",
     "ru": "зазвучать гулом, заревнуть"
+  },
+  "zahukać": {
+    "pos": "VERB",
+    "ru": "вкрикнуть, вскрикнуть"
   },
   "zaimponować": {
     "pos": "VERB",
@@ -68547,6 +71915,10 @@
     "pos": "VERB",
     "ru": "занимать"
   },
+  "zajmyć": {
+    "pos": "VERB",
+    "ru": "занять"
+  },
   "zajrzać": {
     "pos": "VERB",
     "ru": "заглянуть"
@@ -68570,6 +71942,10 @@
   "zajrzyć": {
     "pos": "VERB",
     "ru": "заглянуть"
+  },
+  "zając": {
+    "pos": "NOUN",
+    "ru": "заяц"
   },
   "zający": {
     "pos": "ADJ",
@@ -68763,6 +72139,10 @@
     "pos": "NOUN",
     "ru": "диапазон"
   },
+  "zakreślający": {
+    "pos": "ADJ",
+    "ru": "очерчивающий"
+  },
   "zakreślić": {
     "pos": "VERB",
     "ru": "обвести, отметить, начертить"
@@ -68802,6 +72182,10 @@
   "zakręcić": {
     "pos": "VERB",
     "ru": "закрутить, завернуть, повернуть"
+  },
+  "zakręcyć": {
+    "pos": "ADJ",
+    "ru": "закрученный"
   },
   "zakręet": {
     "pos": "NOUN",
@@ -68914,6 +72298,10 @@
   "zaległy": {
     "pos": "ADJ",
     "ru": "задолженный"
+  },
+  "zalepiać": {
+    "pos": "VERB",
+    "ru": "залеплять"
   },
   "zalepić": {
     "pos": "VERB",
@@ -69239,6 +72627,10 @@
     "pos": "ADJ",
     "ru": "замковый"
   },
+  "zamoczyć": {
+    "pos": "VERB",
+    "ru": "замочить"
+  },
   "zamoknąć": {
     "pos": "VERB",
     "ru": "замокнуть"
@@ -69483,6 +72875,10 @@
     "pos": "SCONJ",
     "ru": "прежде чем"
   },
+  "zaniosła": {
+    "pos": "VERB",
+    "ru": "принесла"
+  },
   "zaniżone": {
     "pos": "ADJ",
     "ru": "заниженные, низкие, недооценённые"
@@ -69651,6 +73047,10 @@
     "pos": "VERB",
     "ru": "запомни"
   },
+  "zapamiętale": {
+    "pos": "ADV",
+    "ru": "запомнили"
+  },
   "zapamiętać": {
     "pos": "VERB",
     "ru": "запомнить"
@@ -69774,6 +73174,10 @@
   "zapisywał!": {
     "pos": "X",
     "ru": "записывал"
+  },
+  "zapiszczać": {
+    "pos": "VERB",
+    "ru": "пищать"
   },
   "zaplanować": {
     "pos": "VERB",
@@ -70007,6 +73411,10 @@
     "pos": "VERB",
     "ru": "приносить присягу, присягать, клясться"
   },
+  "zaprzągł": {
+    "pos": "PROPN",
+    "ru": "Запряг"
+  },
   "zaprzątnięte": {
     "pos": "ADJ",
     "ru": "занятый, загруженный"
@@ -70223,6 +73631,10 @@
     "pos": "VERB",
     "ru": "набросать, начертить, очертить"
   },
+  "zaryzykować": {
+    "pos": "VERB",
+    "ru": "рискнуть"
+  },
   "zaryzykować być": {
     "pos": "VERB",
     "ru": "рискнуть"
@@ -70403,9 +73815,17 @@
     "pos": "VERB",
     "ru": "заснуть"
   },
+  "zasnąć być": {
+    "pos": "VERB",
+    "ru": "заснуть"
+  },
   "zasnęli": {
     "pos": "VERB",
     "ru": "заснули"
+  },
+  "zasnęła": {
+    "pos": "VERB",
+    "ru": "заснула"
   },
   "zasob": {
     "pos": "NOUN",
@@ -70414,6 +73834,10 @@
   "zaspa": {
     "pos": "NOUN",
     "ru": "сугроб"
+  },
+  "zaspani": {
+    "pos": "ADJ",
+    "ru": "сонный"
   },
   "zaspanym": {
     "pos": "ADJ",
@@ -70547,6 +73971,14 @@
     "pos": "NOUN",
     "ru": "оговорка"
   },
+  "zastrzeżić": {
+    "pos": "ADJ",
+    "ru": "зарезервировать"
+  },
+  "zastrzeżoć": {
+    "pos": "ADJ",
+    "ru": "оговоренный"
+  },
   "zastyc": {
     "pos": "VERB",
     "ru": "застать, заст_ять"
@@ -70603,7 +74035,15 @@
     "pos": "VERB",
     "ru": "засыпать"
   },
+  "zasypianko": {
+    "pos": "NOUN",
+    "ru": "засыпание"
+  },
   "zasypiać": {
+    "pos": "VERB",
+    "ru": "засыпать"
+  },
+  "zasypiać być": {
     "pos": "VERB",
     "ru": "засыпать"
   },
@@ -70671,6 +74111,10 @@
     "pos": "VERB",
     "ru": "зашить"
   },
+  "zaszć być": {
+    "pos": "VERB",
+    "ru": "пачкаться, грязниться"
+  },
   "zaszłe": {
     "pos": "VERB",
     "ru": "зашли"
@@ -70731,6 +74175,10 @@
     "pos": "ADJ",
     "ru": "закрытый, завешенный, заслоненный"
   },
+  "zasłonka": {
+    "pos": "NOUN",
+    "ru": "занавеска"
+  },
   "zasłonąć": {
     "pos": "ADJ",
     "ru": "закрытый"
@@ -70742,6 +74190,10 @@
   "zasłuchany": {
     "pos": "ADJ",
     "ru": "поглощённый слушанием, увлечённый музыкой"
+  },
+  "zasługa": {
+    "pos": "NOUN",
+    "ru": "заслуга"
   },
   "zasłużyć": {
     "pos": "VERB",
@@ -70911,6 +74363,10 @@
     "pos": "VERB",
     "ru": "задерживать, останавливать"
   },
+  "zatrzymywać by": {
+    "pos": "VERB",
+    "ru": "останавливать"
+  },
   "zatrząsł": {
     "pos": "VERB",
     "ru": "потряс"
@@ -70942,6 +74398,10 @@
   "zaufanie": {
     "pos": "NOUN",
     "ru": "доверие"
+  },
+  "zauroczyć": {
+    "pos": "VERB",
+    "ru": "очаровать"
   },
   "zauważyli.": {
     "pos": "DET",
@@ -71183,6 +74643,10 @@
     "pos": "NOUN",
     "ru": "профессия"
   },
+  "zawodnik": {
+    "pos": "NOUN",
+    "ru": "спортсмен"
+  },
   "zawodowy": {
     "pos": "ADJ",
     "ru": "профессиональный"
@@ -71246,6 +74710,10 @@
   "zawrót": {
     "pos": "NOUN",
     "ru": "головокружение"
+  },
+  "zawstydzić": {
+    "pos": "ADJ",
+    "ru": "застыдить"
   },
   "zawsze": {
     "pos": "ADV",
@@ -71467,9 +74935,17 @@
     "pos": "VERB",
     "ru": "вонять"
   },
+  "zaśniemy": {
+    "pos": "VERB",
+    "ru": "уснём"
+  },
   "zaśniesz": {
     "pos": "VERB",
     "ru": "заснешь"
+  },
+  "zaśnij": {
+    "pos": "VERB",
+    "ru": "засни"
   },
   "zaśnięcie": {
     "pos": "NOUN",
@@ -72307,6 +75783,10 @@
     "pos": "VERB",
     "ru": "издеваться, глумиться"
   },
+  "zdzisiek": {
+    "pos": "PROPN",
+    "ru": "Зджисiek (польское имя)"
+  },
   "zdziwienia.": {
     "pos": "ADJ",
     "ru": "удивленный"
@@ -72354,6 +75834,10 @@
   "zdziwiłoby": {
     "pos": "VERB",
     "ru": "удивило бы"
+  },
+  "zdziśka": {
+    "pos": "PROPN",
+    "ru": "Зджиська"
   },
   "zdążać": {
     "pos": "VERB",
@@ -72547,6 +76031,10 @@
     "pos": "NOUN",
     "ru": "зубец"
   },
+  "zerkać": {
+    "pos": "VERB",
+    "ru": "подглядывать, посматривать, заглядывать"
+  },
   "zerknąć": {
     "pos": "VERB",
     "ru": "взглянуть"
@@ -72594,6 +76082,10 @@
   "zeskoczyć": {
     "pos": "VERB",
     "ru": "спрыгнуть"
+  },
+  "zeskoczył": {
+    "pos": "VERB",
+    "ru": "спрыгнул"
   },
   "zespół": {
     "pos": "NOUN",
@@ -72843,6 +76335,10 @@
     "pos": "VERB",
     "ru": "сжать, смять"
   },
+  "zgniótł": {
+    "pos": "VERB",
+    "ru": "помял"
+  },
   "zgniła": {
     "pos": "NOUN",
     "ru": "гниль"
@@ -73042,6 +76538,10 @@
   "zgładzeć": {
     "pos": "NOUN",
     "ru": "сглаживание"
+  },
+  "zgładzić być": {
+    "pos": "VERB",
+    "ru": "уничтожить"
   },
   "zgłaszać": {
     "pos": "VERB",
@@ -73247,9 +76747,17 @@
     "pos": "VERB",
     "ru": "съедать"
   },
+  "zjadć by": {
+    "pos": "PROPN",
+    "ru": "Зядч Бай"
+  },
   "zjadł": {
     "pos": "VERB",
     "ru": "съел"
+  },
+  "zjadła": {
+    "pos": "VERB",
+    "ru": "съела"
   },
   "zjadły": {
     "pos": "VERB",
@@ -73258,6 +76766,10 @@
   "zjadłyśmy": {
     "pos": "VERB",
     "ru": "мы съели"
+  },
+  "zjawiać": {
+    "pos": "VERB",
+    "ru": "появляться"
   },
   "zjawisko": {
     "pos": "NOUN",
@@ -73315,9 +76827,17 @@
     "pos": "NOUN",
     "ru": "съедение"
   },
+  "zjedzyć": {
+    "pos": "ADJ",
+    "ru": "съеденный"
+  },
   "zjedzże": {
     "pos": "VERB",
     "ru": "ешь"
+  },
+  "zjedć": {
+    "pos": "VERB",
+    "ru": "съесть"
   },
   "zjesz": {
     "pos": "VERB",
@@ -73334,6 +76854,10 @@
   "zjeść": {
     "pos": "VERB",
     "ru": "съесть"
+  },
+  "zjeżdżalnia": {
+    "pos": "NOUN",
+    "ru": "горка для катания"
   },
   "zjeżdżać": {
     "pos": "VERB",
@@ -73442,6 +76966,10 @@
   "zm": {
     "pos": "NOUN",
     "ru": "земля"
+  },
+  "zmaganie": {
+    "pos": "NOUN",
+    "ru": "борьба"
   },
   "zmagać": {
     "pos": "VERB",
@@ -73623,6 +77151,10 @@
     "pos": "PROPN",
     "ru": "Змизеровать"
   },
+  "zmięknąć": {
+    "pos": "VERB",
+    "ru": "размягчиться, смягчиться"
+  },
   "zmiłowanie": {
     "pos": "NOUN",
     "ru": "милосердие"
@@ -73755,6 +77287,10 @@
     "pos": "NOUN",
     "ru": "усталость"
   },
+  "zmęczić": {
+    "pos": "ADJ",
+    "ru": "утомить"
+  },
   "zmęczony": {
     "pos": "ADJ",
     "ru": "усталый"
@@ -73827,6 +77363,10 @@
     "pos": "NOUN",
     "ru": "нахождение"
   },
+  "znajdować być": {
+    "pos": "VERB",
+    "ru": "находиться, быть"
+  },
   "znajdowałam": {
     "pos": "VERB",
     "ru": "находила"
@@ -73894,6 +77434,10 @@
   "znalazć być": {
     "pos": "VERB",
     "ru": "{\"ru\": \"найти быть\"}\n\nПримечание: \"znaleźć\" означает \"найти\", а \"być\" означает \"быть\". Вместе это необычное сочетание. Если имелось в виду только"
+  },
+  "znalazł": {
+    "pos": "VERB",
+    "ru": "нашел"
   },
   "znalazłam": {
     "pos": "VERB",
@@ -74123,6 +77667,10 @@
     "pos": "PROPN",
     "ru": "Znośniejsza"
   },
+  "znudzić": {
+    "pos": "VERB",
+    "ru": "надоесть, скучать, нудить"
+  },
   "znużenie": {
     "pos": "NOUN",
     "ru": "утомление"
@@ -74202,6 +77750,14 @@
   "zodiakalny": {
     "pos": "ADJ",
     "ru": "зодиакальный"
+  },
+  "zofia": {
+    "pos": "PROPN",
+    "ru": "София"
+  },
+  "zoo": {
+    "pos": "NOUN",
+    "ru": "зоопарк"
   },
   "zoologia": {
     "pos": "NOUN",
@@ -74595,6 +78151,10 @@
     "pos": "VERB",
     "ru": "сделайте"
   },
+  "zróbmy": {
+    "pos": "VERB",
+    "ru": "давайте сделаем"
+  },
   "zróżnicować": {
     "pos": "NOUN",
     "ru": "дифференциация"
@@ -74935,6 +78495,10 @@
     "pos": "VERB",
     "ru": "выветрить"
   },
+  "zwieć": {
+    "pos": "VERB",
+    "ru": "свивать"
+  },
   "zwijać": {
     "pos": "VERB",
     "ru": "свёртывать, скручивать"
@@ -74947,6 +78511,10 @@
     "pos": "ADJ",
     "ru": "свёрнутых"
   },
+  "zwinięć": {
+    "pos": "ADJ",
+    "ru": "свернутый, сворачиваемый"
+  },
   "zwinny": {
     "pos": "ADJ",
     "ru": "ловкий"
@@ -74954,6 +78522,14 @@
   "zwinąć": {
     "pos": "VERB",
     "ru": "свернуть"
+  },
+  "zwinęły": {
+    "pos": "VERB",
+    "ru": "свернули"
+  },
+  "zwisać": {
+    "pos": "ADJ",
+    "ru": "висящий"
   },
   "związać": {
     "pos": "NOUN",
@@ -74982,6 +78558,10 @@
   "zwięźle": {
     "pos": "ADV",
     "ru": "кратко"
+  },
+  "zwiń": {
+    "pos": "VERB",
+    "ru": "сверни"
   },
   "zwlekać": {
     "pos": "VERB",
@@ -75251,6 +78831,10 @@
     "pos": "ADJ",
     "ru": "зубами"
   },
+  "zębiasty": {
+    "pos": "ADJ",
+    "ru": "зубчатый"
+  },
   "złagodzić": {
     "pos": "VERB",
     "ru": "смягчить"
@@ -75443,6 +79027,10 @@
     "pos": "VERB",
     "ru": "износить, истощить"
   },
+  "©": {
+    "pos": "NOUN",
+    "ru": "авторское право"
+  },
   "ósma": {
     "pos": "ADJ",
     "ru": "восьмой"
@@ -75498,6 +79086,10 @@
   "ćwiczyć": {
     "pos": "VERB",
     "ru": "упражняться, тренироваться"
+  },
+  "ćwiczyły": {
+    "pos": "VERB",
+    "ru": "упражнялись"
   },
   "ćwirkotać": {
     "pos": "VERB",
@@ -75679,6 +79271,10 @@
     "pos": "ADJ",
     "ru": "милосердный, благосклонный, любезный"
   },
+  "łaskotać": {
+    "pos": "VERB",
+    "ru": "щекотать"
+  },
   "łata": {
     "pos": "NOUN",
     "ru": "заплата"
@@ -75731,6 +79327,10 @@
     "pos": "NOUN",
     "ru": "скамья"
   },
+  "ławka": {
+    "pos": "NOUN",
+    "ru": "скамейка"
+  },
   "ławnica": {
     "pos": "NOUN",
     "ru": "скамья"
@@ -75738,6 +79338,10 @@
   "łazienka": {
     "pos": "NOUN",
     "ru": "ванная комната"
+  },
+  "łazić": {
+    "pos": "VERB",
+    "ru": "лазить"
   },
   "łazuka": {
     "pos": "PROPN",
@@ -75951,6 +79555,14 @@
     "pos": "VERB",
     "ru": "хлопнуть"
   },
+  "łuska": {
+    "pos": "NOUN",
+    "ru": "чешуя"
+  },
+  "łuskowaty": {
+    "pos": "ADJ",
+    "ru": "чешуйчатый"
+  },
   "łydk": {
     "pos": "NOUN",
     "ru": "икра (ноги)"
@@ -75974,6 +79586,10 @@
   "łykie": {
     "pos": "NOUN",
     "ru": "глоток"
+  },
+  "łyknąć": {
+    "pos": "VERB",
+    "ru": "глотнуть"
   },
   "łyse": {
     "pos": "NOUN",
@@ -75999,6 +79615,10 @@
     "pos": "NOUN",
     "ru": "ложка"
   },
+  "łyżkę": {
+    "pos": "NOUN",
+    "ru": "ложку"
+  },
   "łza": {
     "pos": "NOUN",
     "ru": "слеза"
@@ -76019,9 +79639,21 @@
     "pos": "NOUN",
     "ru": "лодка"
   },
+  "łóżeczek": {
+    "pos": "NOUN",
+    "ru": "кроватка"
+  },
+  "łóżeczko": {
+    "pos": "NOUN",
+    "ru": "кроватка"
+  },
   "łóżko": {
     "pos": "NOUN",
     "ru": "кровать"
+  },
+  "łącznie": {
+    "pos": "ADV",
+    "ru": "в сумме, всего, вместе"
   },
   "łączyli": {
     "pos": "VERB",
@@ -76038,6 +79670,10 @@
   "łąka": {
     "pos": "NOUN",
     "ru": "луг"
+  },
+  "ści": {
+    "pos": "NUM",
+    "ru": "двести"
   },
   "ściana": {
     "pos": "NOUN",
@@ -76074,6 +79710,10 @@
   "ścieżaj": {
     "pos": "NOUN",
     "ru": "тропинка"
+  },
+  "ścieżek": {
+    "pos": "NOUN",
+    "ru": "дорожек"
   },
   "ścieżk": {
     "pos": "NOUN",
@@ -76191,6 +79831,10 @@
     "pos": "NOUN",
     "ru": "селедка"
   },
+  "śledzie": {
+    "pos": "VERB",
+    "ru": "следить"
+  },
   "śledzić": {
     "pos": "VERB",
     "ru": "следить"
@@ -76263,6 +79907,10 @@
     "pos": "NOUN",
     "ru": "слива"
   },
+  "ślizgać": {
+    "pos": "VERB",
+    "ru": "скользить"
+  },
   "ślub": {
     "pos": "NOUN",
     "ru": "свадьба"
@@ -76306,6 +79954,10 @@
   "śmie": {
     "pos": "VERB",
     "ru": "смеет, осмеливается"
+  },
+  "śmiecei": {
+    "pos": "NOUN",
+    "ru": "мусор"
   },
   "śmiech": {
     "pos": "NOUN",
@@ -76379,6 +80031,14 @@
     "pos": "ADJ",
     "ru": "смешной"
   },
+  "śmietana": {
+    "pos": "NOUN",
+    "ru": "сметана"
+  },
+  "śmietankowy": {
+    "pos": "ADJ",
+    "ru": "сметанный"
+  },
   "śmietnik": {
     "pos": "NOUN",
     "ru": "мусорник"
@@ -76391,6 +80051,10 @@
     "pos": "ADJ",
     "ru": "мигающий"
   },
+  "śmigał": {
+    "pos": "VERB",
+    "ru": "вертел, крутил"
+  },
   "śniadanie": {
     "pos": "NOUN",
     "ru": "завтрак"
@@ -76398,6 +80062,14 @@
   "śnieg": {
     "pos": "NOUN",
     "ru": "снег"
+  },
+  "śnieć": {
+    "pos": "NOUN",
+    "ru": "вонь"
+  },
+  "śnieżka": {
+    "pos": "VERB",
+    "ru": "снежить"
   },
   "śnieżnobiały": {
     "pos": "ADJ",
@@ -76410,6 +80082,14 @@
   "śnić": {
     "pos": "VERB",
     "ru": "сниться"
+  },
+  "śnił": {
+    "pos": "VERB",
+    "ru": "снил"
+  },
+  "śniłem": {
+    "pos": "VERB",
+    "ru": "снился"
   },
   "śniły": {
     "pos": "VERB",
@@ -76475,9 +80155,21 @@
     "pos": "ADJ",
     "ru": "сонный"
   },
+  "śpij": {
+    "pos": "NOUN",
+    "ru": "сон"
+  },
+  "śpijcie": {
+    "pos": "PROPN",
+    "ru": "спите"
+  },
   "śpisz": {
     "pos": "VERB",
     "ru": "спишь"
+  },
+  "śpiwór": {
+    "pos": "NOUN",
+    "ru": "спальный мешок"
   },
   "śpiyć": {
     "pos": "ADJ",
@@ -76514,6 +80206,10 @@
   "śpiączka": {
     "pos": "NOUN",
     "ru": "спячка"
+  },
+  "śpić": {
+    "pos": "VERB",
+    "ru": "спать"
   },
   "śpię": {
     "pos": "VERB",
@@ -76554,6 +80250,10 @@
   "środowisko": {
     "pos": "NOUN",
     "ru": "окружающая среда"
+  },
+  "śrubka": {
+    "pos": "NOUN",
+    "ru": "винтик"
   },
   "śrubke": {
     "pos": "NOUN",
@@ -76695,6 +80395,10 @@
     "pos": "ADJ",
     "ru": "светлый"
   },
+  "świetlik": {
+    "pos": "NOUN",
+    "ru": "светлячок"
+  },
   "świetlisti": {
     "pos": "ADJ",
     "ru": "светлый, яркий"
@@ -76726,6 +80430,10 @@
   "świeżo": {
     "pos": "ADV",
     "ru": "свежо"
+  },
+  "świeżutki": {
+    "pos": "ADJ",
+    "ru": "совсем свежий, очень свежий"
   },
   "świeży": {
     "pos": "ADJ",
@@ -76838,6 +80546,10 @@
   "źdźbło": {
     "pos": "NOUN",
     "ru": "стебель"
+  },
+  "źl": {
+    "pos": "ADJ",
+    "ru": "плохой"
   },
   "źle": {
     "pos": "ADV",
@@ -77055,6 +80767,14 @@
     "pos": "NOUN",
     "ru": "мореходы"
   },
+  "żeglować": {
+    "pos": "VERB",
+    "ru": "плыть под парусом, плавать"
+  },
+  "żegnani": {
+    "pos": "ADJ",
+    "ru": "прощающиеся"
+  },
   "żegnany": {
     "pos": "PROPN",
     "ru": "Жегнаны"
@@ -77086,6 +80806,30 @@
   "żelazo": {
     "pos": "NOUN",
     "ru": "железо"
+  },
+  "żelek": {
+    "pos": "NOUN",
+    "ru": "желе"
+  },
+  "żelk": {
+    "pos": "NOUN",
+    "ru": "желток"
+  },
+  "żelka": {
+    "pos": "NOUN",
+    "ru": "желе"
+  },
+  "żelki": {
+    "pos": "NOUN",
+    "ru": "желатиновые конфеты"
+  },
+  "żelkowy": {
+    "pos": "ADJ",
+    "ru": "желеобразный"
+  },
+  "żelków": {
+    "pos": "PROPN",
+    "ru": "Желков"
   },
   "żem": {
     "pos": "SCONJ",
@@ -77190,6 +80934,14 @@
   "żuchw": {
     "pos": "NOUN",
     "ru": "челюсть"
+  },
+  "żucia": {
+    "pos": "PROPN",
+    "ru": "Жуция"
+  },
+  "żuczk": {
+    "pos": "NOUN",
+    "ru": "жучок"
   },
   "żuek": {
     "pos": "NOUN",
@@ -77454,6 +81206,10 @@
   "żółty": {
     "pos": "ADJ",
     "ru": "жёлтый"
+  },
+  "żółwi": {
+    "pos": "PROPN",
+    "ru": "Желтнева"
   },
   "żółwie": {
     "pos": "NOUN",
