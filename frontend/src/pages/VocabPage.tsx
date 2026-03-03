@@ -121,6 +121,12 @@ function Flashcard({ entry, index, total, onCorrect, onWrong }: FlashcardProps) 
   )
 }
 
+// Normalize Polish text for accent-insensitive search:
+// ł doesn't decompose via NFD so handle it explicitly first
+function normalize(s: string): string {
+  return s.toLowerCase().replace(/ł/g, 'l').normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+}
+
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr]
   for (let i = a.length - 1; i > 0; i--) {
@@ -139,6 +145,7 @@ export default function VocabPage() {
   const { currentUser } = useUser()
   const vocab = useVocab(currentUser ?? '')
   const [tab, setTab] = useState<Tab>('review')
+  const [searchQuery, setSearchQuery] = useState('')
   const [confirmDeleteLemma, setConfirmDeleteLemma] = useState<string | null>(null)
   const [confirmDeleteEntry, setConfirmDeleteEntry] = useState(false)
 
@@ -302,21 +309,50 @@ export default function VocabPage() {
         {/* ── LIST TAB ── */}
         {tab === 'list' && (
           <div className="flex flex-col gap-6">
+            {/* Search input */}
+            {vocab.entries.length > 0 && (
+              <div className="relative">
+                <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-500 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
+                </svg>
+                <input
+                  type="text"
+                  value={searchQuery}
+                  onChange={e => setSearchQuery(e.target.value)}
+                  placeholder="Поиск…"
+                  className="w-full bg-slate-800 border border-slate-700 rounded-xl pl-9 pr-9 py-2.5 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-blue-500"
+                />
+                {searchQuery && (
+                  <button
+                    onClick={() => setSearchQuery('')}
+                    className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-500 hover:text-slate-300"
+                  >
+                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                  </button>
+                )}
+              </div>
+            )}
             {vocab.entries.length === 0 && (
               <p className="text-center text-slate-500 py-16 text-sm">
                 Словарь пуст.
               </p>
             )}
-            {([1, 2, 3] as const).map(box =>
-              byBox[box].length === 0 ? null : (
+            {([1, 2, 3] as const).map(box => {
+              const q = normalize(searchQuery)
+              const entries = q
+                ? byBox[box].filter(e => normalize(e.lemma).includes(q) || normalize(e.translation ?? '').includes(q))
+                : byBox[box]
+              return entries.length === 0 ? null : (
                 <div key={box}>
                   <h3 className={`text-xs font-semibold uppercase tracking-wider mb-2 ${
                     box === 1 ? 'text-orange-500' : box === 2 ? 'text-blue-500' : 'text-green-500'
                   }`}>
-                    {BOX_LABELS[box]} · {byBox[box].length}
+                    {BOX_LABELS[box]} · {entries.length}
                   </h3>
                   <div className="flex flex-col divide-y divide-slate-800 bg-slate-800/40 rounded-xl overflow-hidden">
-                    {byBox[box].map(entry => (
+                    {entries.map(entry => (
                       <div
                         key={entry.lemma}
                         className="flex items-center gap-3 px-4 py-3 cursor-pointer active:bg-slate-700/50"
@@ -381,8 +417,8 @@ export default function VocabPage() {
                     ))}
                   </div>
                 </div>
-              ),
-            )}
+              )
+            })}
           </div>
         )}
       </main>
