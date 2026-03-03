@@ -6,11 +6,22 @@ import LibraryGrid from '../components/library/LibraryGrid'
 
 const BASE = import.meta.env.BASE_URL
 
+type SortKey = 'lastRead' | 'title' | 'author' | 'wordsAsc' | 'wordsDesc'
+
+const SORT_LABELS: Record<SortKey, string> = {
+  lastRead:  'Последние',
+  title:     'Название',
+  author:    'Автор',
+  wordsAsc:  'Слов ↑',
+  wordsDesc: 'Слов ↓',
+}
+
 export default function LibraryPage() {
   const { currentUser } = useUser()
   const navigate = useNavigate()
   const { books, loading, error, retry } = useBooks(currentUser)
   const [coverFailed, setCoverFailed] = useState(false)
+  const [sortKey, setSortKey] = useState<SortKey>('lastRead')
 
   useEffect(() => {
     if (!currentUser) navigate('/', { replace: true })
@@ -26,6 +37,25 @@ export default function LibraryPage() {
       const tb = b.progress?.lastOpenedAt ?? ''
       return tb > ta ? 1 : -1
     })[0] ?? null
+
+  const sortedBooks = [...books].sort((a, b) => {
+    switch (sortKey) {
+      case 'lastRead': {
+        const ta = a.progress?.lastOpenedAt ?? ''
+        const tb = b.progress?.lastOpenedAt ?? ''
+        if (ta === tb) return 0
+        return tb > ta ? 1 : -1
+      }
+      case 'title':
+        return a.title.localeCompare(b.title, 'pl')
+      case 'author':
+        return a.author.localeCompare(b.author, 'pl')
+      case 'wordsAsc':
+        return a.wordCount - b.wordCount
+      case 'wordsDesc':
+        return b.wordCount - a.wordCount
+    }
+  })
 
   return (
     <div className="min-h-screen bg-slate-900 text-white">
@@ -102,7 +132,18 @@ export default function LibraryPage() {
           </section>
         )}
 
-        <h2 className="text-2xl font-bold mb-5">Библиотека</h2>
+        <div className="flex items-center justify-between mb-5">
+          <h2 className="text-2xl font-bold">Библиотека</h2>
+          <select
+            value={sortKey}
+            onChange={e => setSortKey(e.target.value as SortKey)}
+            className="bg-slate-800 text-slate-300 text-xs rounded-lg px-2 py-1.5 border border-slate-700 focus:outline-none focus:border-slate-500"
+          >
+            {(Object.keys(SORT_LABELS) as SortKey[]).map(k => (
+              <option key={k} value={k}>{SORT_LABELS[k]}</option>
+            ))}
+          </select>
+        </div>
 
         {loading && (
           <div className="flex justify-center py-16">
@@ -130,7 +171,7 @@ export default function LibraryPage() {
           </p>
         )}
 
-        {!loading && books.length > 0 && <LibraryGrid books={books} />}
+        {!loading && books.length > 0 && <LibraryGrid books={sortedBooks} />}
       </main>
     </div>
   )
