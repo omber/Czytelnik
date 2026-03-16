@@ -3,22 +3,38 @@ import { VocabEntry } from '../types/user'
 import { storageGet, storageSet } from '../lib/storage'
 
 const KEY = 'vocab'
+const FOREVER_REVIEW_DATE = '9999-12-31'
 
-function nextReviewDate(box: 1 | 2 | 3): string {
-  const days = box === 1 ? 1 : box === 2 ? 3 : 7
+function nextReviewDate(box: 1 | 2 | 3 | 4 | 5): string {
+  if (box === 5) return FOREVER_REVIEW_DATE
+  const days = box === 1 ? 1 : box === 2 ? 3 : box === 3 ? 7 : 14
   const d = new Date()
   d.setDate(d.getDate() + days)
   return d.toISOString().split('T')[0] // YYYY-MM-DD
 }
 
+function normalizeEntry(entry: VocabEntry): VocabEntry {
+  const normalizedBox = Math.min(Math.max(entry.box, 1), 5) as 1 | 2 | 3 | 4 | 5
+  const normalizedNextReview =
+    normalizedBox === 5
+      ? FOREVER_REVIEW_DATE
+      : entry.nextReview || nextReviewDate(normalizedBox)
+
+  return {
+    ...entry,
+    box: normalizedBox,
+    nextReview: normalizedNextReview,
+  }
+}
+
 export function useVocab(username: string) {
   const [entries, setEntries] = useState<VocabEntry[]>(() =>
-    storageGet<VocabEntry[]>(username, KEY) ?? [],
+    (storageGet<VocabEntry[]>(username, KEY) ?? []).map(normalizeEntry),
   )
 
   // Re-sync when user switches profile
   useEffect(() => {
-    setEntries(storageGet<VocabEntry[]>(username, KEY) ?? [])
+    setEntries((storageGet<VocabEntry[]>(username, KEY) ?? []).map(normalizeEntry))
   }, [username])
 
   function add(
@@ -82,7 +98,7 @@ export function useVocab(username: string) {
     setEntries(prev => {
       const updated = prev.map(e => {
         if (e.lemma.toLowerCase() !== lemma.toLowerCase()) return e
-        const newBox = (correct ? Math.min(e.box + 1, 3) : 1) as 1 | 2 | 3
+        const newBox = (correct ? Math.min(e.box + 1, 5) : 1) as 1 | 2 | 3 | 4 | 5
         return { ...e, box: newBox, nextReview: nextReviewDate(newBox) }
       })
       storageSet(username, KEY, updated)

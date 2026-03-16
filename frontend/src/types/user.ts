@@ -11,7 +11,7 @@ export interface VocabEntry {
   surface: string
   pos: string
   translation: string
-  box: 1 | 2 | 3
+  box: 1 | 2 | 3 | 4 | 5
   addedAt: string
   nextReview: string
   contexts: Array<{

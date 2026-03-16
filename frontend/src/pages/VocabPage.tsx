@@ -6,16 +6,31 @@ import { VocabEntry } from '../types/user'
 import BottomSheet from '../components/ui/BottomSheet'
 import { POS_LABELS } from '../lib/constants'
 
-const BOX_LABELS: Record<1 | 2 | 3, string> = {
+const BOX_ORDER = [1, 2, 3, 4, 5] as const
+type LeitnerBox = (typeof BOX_ORDER)[number]
+
+const BOX_LABELS: Record<LeitnerBox, string> = {
   1: 'Ящик 1 · каждый день',
   2: 'Ящик 2 · раз в 3 дня',
   3: 'Ящик 3 · раз в 7 дней',
+  4: 'Ящик 4 · раз в 14 дней',
+  5: 'Ящик 5 · навсегда',
 }
 
-const BOX_COLORS: Record<1 | 2 | 3, string> = {
+const BOX_COLORS: Record<LeitnerBox, string> = {
   1: 'text-orange-400 border-orange-800 bg-orange-900/20',
   2: 'text-blue-400 border-blue-800 bg-blue-900/20',
   3: 'text-green-400 border-green-800 bg-green-900/20',
+  4: 'text-cyan-400 border-cyan-800 bg-cyan-900/20',
+  5: 'text-fuchsia-400 border-fuchsia-800 bg-fuchsia-900/20',
+}
+
+const BOX_HEADING_COLORS: Record<LeitnerBox, string> = {
+  1: 'text-orange-500',
+  2: 'text-blue-500',
+  3: 'text-green-500',
+  4: 'text-cyan-500',
+  5: 'text-fuchsia-500',
 }
 
 // ── Flashcard component ──────────────────────────────────────────────────────
@@ -30,6 +45,7 @@ interface FlashcardProps {
 
 function Flashcard({ entry, index, total, onCorrect, onWrong }: FlashcardProps) {
   const [flipped, setFlipped] = useState(false)
+  const progress = total === 0 ? 0 : ((index + 1) / total) * 100
 
   return (
     <div className="flex flex-col gap-5">
@@ -38,13 +54,13 @@ function Flashcard({ entry, index, total, onCorrect, onWrong }: FlashcardProps) 
         <span>
           {index + 1} / {total}
         </span>
-        <div className="flex gap-1">
-          {Array.from({ length: total }).map((_, i) => (
+        <div className="ml-4 flex-1 max-w-48">
+          <div className="h-2 rounded-full bg-slate-800 overflow-hidden">
             <div
-              key={i}
-              className={`h-1 w-4 rounded-full ${i <= index ? 'bg-blue-500' : 'bg-slate-700'}`}
+              className="h-full rounded-full bg-blue-500 transition-[width] duration-300"
+              style={{ width: `${progress}%` }}
             />
-          ))}
+          </div>
         </div>
       </div>
 
@@ -199,11 +215,11 @@ export default function VocabPage() {
 
   // Group entries by box for list view, sorted alphabetically (memoized)
   const byBox = useMemo(() => {
-    const result: Record<1 | 2 | 3, VocabEntry[]> = { 1: [], 2: [], 3: [] }
+    const result: Record<LeitnerBox, VocabEntry[]> = { 1: [], 2: [], 3: [], 4: [], 5: [] }
     for (const e of vocab.entries) {
       result[e.box].push(e)
     }
-    for (const box of [1, 2, 3] as const) {
+    for (const box of BOX_ORDER) {
       result[box].sort((a, b) => a.lemma.localeCompare(b.lemma, 'pl'))
     }
     return result
@@ -273,7 +289,7 @@ export default function VocabPage() {
                 </p>
                 {/* Box summary */}
                 <div className="w-full flex flex-col gap-2 mt-4">
-                  {([1, 2, 3] as const).map(box => (
+                  {BOX_ORDER.map(box => (
                     <div
                       key={box}
                       className={`flex items-center justify-between px-4 py-3 rounded-xl border ${BOX_COLORS[box]}`}
@@ -339,16 +355,14 @@ export default function VocabPage() {
                 Словарь пуст.
               </p>
             )}
-            {([1, 2, 3] as const).map(box => {
+            {BOX_ORDER.map(box => {
               const q = normalize(searchQuery)
               const entries = q
                 ? byBox[box].filter(e => normalize(e.lemma).includes(q) || normalize(e.translation ?? '').includes(q))
                 : byBox[box]
               return entries.length === 0 ? null : (
                 <div key={box}>
-                  <h3 className={`text-xs font-semibold uppercase tracking-wider mb-2 ${
-                    box === 1 ? 'text-orange-500' : box === 2 ? 'text-blue-500' : 'text-green-500'
-                  }`}>
+                  <h3 className={`text-xs font-semibold uppercase tracking-wider mb-2 ${BOX_HEADING_COLORS[box]}`}>
                     {BOX_LABELS[box]} · {entries.length}
                   </h3>
                   <div className="flex flex-col divide-y divide-slate-800 bg-slate-800/40 rounded-xl overflow-hidden">

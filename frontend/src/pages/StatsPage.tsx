@@ -84,6 +84,8 @@ export default function StatsPage() {
   const box1 = entries.filter(e => e.box === 1).length
   const box2 = entries.filter(e => e.box === 2).length
   const box3 = entries.filter(e => e.box === 3).length
+  const box4 = entries.filter(e => e.box === 4).length
+  const box5 = entries.filter(e => e.box === 5).length
 
   return (
     <div className="min-h-screen bg-slate-900 text-white">
@@ -166,7 +168,7 @@ export default function StatsPage() {
               </div>
               <span className="text-2xl font-bold text-white">{entries.length}</span>
             </div>
-            <div className="px-4 py-3 grid grid-cols-3 gap-3">
+            <div className="px-4 py-3 grid grid-cols-2 gap-3 sm:grid-cols-5">
               <div className="text-center">
                 <div className="text-xl font-bold text-amber-400">{box1}</div>
                 <div className="text-xs text-slate-400 mt-0.5">Ящик 1</div>
@@ -181,6 +183,16 @@ export default function StatsPage() {
                 <div className="text-xl font-bold text-green-400">{box3}</div>
                 <div className="text-xs text-slate-400 mt-0.5">Ящик 3</div>
                 <div className="text-xs text-slate-500">раз в 7 дней</div>
+              </div>
+              <div className="text-center">
+                <div className="text-xl font-bold text-cyan-400">{box4}</div>
+                <div className="text-xs text-slate-400 mt-0.5">Ящик 4</div>
+                <div className="text-xs text-slate-500">раз в 14 дней</div>
+              </div>
+              <div className="text-center">
+                <div className="text-xl font-bold text-fuchsia-400">{box5}</div>
+                <div className="text-xs text-slate-400 mt-0.5">Ящик 5</div>
+                <div className="text-xs text-slate-500">навсегда</div>
               </div>
             </div>
           </div>

@@ -10,11 +10,21 @@ pipeline/**/__pycache__/
 # Node
 frontend/node_modules/
 frontend/dist/
+frontend/.vite/
+.chrome-debug-profile
 
 # IDE
 .vscode/
 .idea/
+.claude/settings.local.json
 
 # OS
 .DS_Store
 Thumbs.db
+
+# eBooks
+*.epub
+*.mobi
+
+# Logs
+*.log
